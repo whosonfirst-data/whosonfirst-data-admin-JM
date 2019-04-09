@@ -1,0 +1,103 @@
+{
+  "id": 421201315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.79109,18.07537,-76.79109,18.07537",
+    "geom:latitude":18.07537,
+    "geom:longitude":-76.79109,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u65af\u6258\u5c3c\u5e0c\u723e"
+    ],
+    "name:deu_x_preferred":[
+        "Stony Hill"
+    ],
+    "name:dut_x_preferred":[
+        "Stony Hill"
+    ],
+    "name:eng_x_preferred":[
+        "Stony Hill"
+    ],
+    "name:fre_x_preferred":[
+        "Stony Hill"
+    ],
+    "name:ger_x_preferred":[
+        "Stony Hill"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u6258\u5c3c\u5e0c\u723e"
+    ],
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3488380,
+    "qs:gn_pop":8551,
+    "qs:name":"Stony Hill",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint Andrew",
+    "qs:photos":31,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":31,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":211096,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":110077,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":18.077778,
+    "wd:longitude":-76.795278,
+    "wd:wordcount":106,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488380,
+        "gp:id":110077,
+        "qs:id":211096,
+        "wd:id":"Q1651059",
+        "wk:page":"Stony Hill, Jamaica"
+    },
+    "wof:country":"JM",
+    "wof:created":1459010068,
+    "wof:geomhash":"1cbefd4194a5ed784a6a5b42102c5845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421201315,
+            "region_id":85672609
+        }
+    ],
+    "wof:id":421201315,
+    "wof:lastmodified":1527716435,
+    "wof:name":"Stony Hill",
+    "wof:parent_id":85672609,
+    "wof:placetype":"locality",
+    "wof:population":8551,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.79109,
+    18.07537,
+    -76.79109,
+    18.07537
+],
+  "geometry": {"coordinates":[-76.79109,18.07537],"type":"Point"}
+}

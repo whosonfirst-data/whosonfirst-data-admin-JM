@@ -1,0 +1,66 @@
+{
+  "id": 1225858817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.3838,18.0894,-77.3838,18.0894",
+    "geom:latitude":18.0894,
+    "geom:longitude":-77.3838,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1334.0",
+    "gn:asciiname":"Endeavour",
+    "gn:country_code":"JM",
+    "gn:dem":859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490568,
+    "gn:latitude":18.0894,
+    "gn:longitude":-77.3838,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Endeavour",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490568
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"b24451d06c2a9ee2a02f71b5cff8daf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1225858817,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":1225858817,
+    "wof:lastmodified":1536993895,
+    "wof:name":"Endeavour",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.3838,
+    18.0894,
+    -77.3838,
+    18.0894
+],
+  "geometry": {"coordinates":[-77.38379999999999,18.0894],"type":"Point"}
+}

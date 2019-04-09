@@ -1,0 +1,66 @@
+{
+  "id": 1242856597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.15,18.28333,-78.15,18.28333",
+    "geom:latitude":18.28333,
+    "geom:longitude":-78.15,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1035",
+    "gn:asciiname":"Roebuck Hill",
+    "gn:country_code":"JM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488766,
+    "gn:latitude":18.28333,
+    "gn:longitude":-78.15,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Roebuck Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488766
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"c2936049cdae7bf08bae6aa0d459b8c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1242856597,
+            "region_id":85672583
+        }
+    ],
+    "wof:id":1242856597,
+    "wof:lastmodified":1536661831,
+    "wof:name":"Roebuck Hill",
+    "wof:parent_id":85672583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.15,
+    18.28333,
+    -78.15,
+    18.28333
+],
+  "geometry": {"coordinates":[-78.15000000000001,18.28333],"type":"Point"}
+}

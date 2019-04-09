@@ -1,0 +1,70 @@
+{
+  "id": 1327435703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.20558,18.08069,-77.20558,18.08069",
+    "geom:latitude":18.08069,
+    "geom:longitude":-77.20558,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1329.0",
+    "gn:asciiname":"Diamond",
+    "gn:country_code":"JM",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490721,
+    "gn:latitude":18.08069,
+    "gn:longitude":-77.20558,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Diamond",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hendley",
+        "Diamond"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490721
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"984aa6d9cb3b74738423954c2f5eff91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1327435703,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":1327435703,
+    "wof:lastmodified":1537649751,
+    "wof:name":"Diamond",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.20558,
+    18.08069,
+    -77.20558,
+    18.08069
+],
+  "geometry": {"coordinates":[-77.20558,18.08069],"type":"Point"}
+}

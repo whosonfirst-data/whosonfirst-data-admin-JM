@@ -1,0 +1,66 @@
+{
+  "id": 1293670167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.74844,17.98091,-77.74844,17.98091",
+    "geom:latitude":17.98091,
+    "geom:longitude":-77.74844,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1141",
+    "gn:asciiname":"Mountain Side",
+    "gn:country_code":"JM",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489415,
+    "gn:latitude":17.98091,
+    "gn:longitude":-77.74844,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Mountain Side",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489415
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"1bcb487dd61c0c5fbd46b300ffd59d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1293670167,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":1293670167,
+    "wof:lastmodified":1537020077,
+    "wof:name":"Mountain Side",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.74844,
+    17.98091,
+    -77.74844,
+    17.98091
+],
+  "geometry": {"coordinates":[-77.74844,17.98091],"type":"Point"}
+}

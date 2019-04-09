@@ -1,0 +1,67 @@
+{
+  "id": 1327416733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.54381,18.41949,-77.54381,18.41949",
+    "geom:latitude":18.41949,
+    "geom:longitude":-77.54381,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"719.0",
+    "gn:asciiname":"Clarks Town",
+    "gn:country_code":"JM",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490944,
+    "gn:latitude":18.41949,
+    "gn:longitude":-77.54381,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Clarks Town",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490944,
+        "wk:page":"Clark%27s_Town,_Jamaica"
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"fb7e870a1f5eefe88f7dc487ff412321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1327416733,
+            "region_id":85672579
+        }
+    ],
+    "wof:id":1327416733,
+    "wof:lastmodified":1537566851,
+    "wof:name":"Clarks Town",
+    "wof:parent_id":85672579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.54381,
+    18.41949,
+    -77.54381,
+    18.41949
+],
+  "geometry": {"coordinates":[-77.54380999999999,18.41949],"type":"Point"}
+}

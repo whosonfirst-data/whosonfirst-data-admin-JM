@@ -1,0 +1,70 @@
+{
+  "id": 1276207581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.80435,17.99921,-77.80435,17.99921",
+    "geom:latitude":17.99921,
+    "geom:longitude":-77.80435,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1124.0",
+    "gn:asciiname":"Fullerswood",
+    "gn:country_code":"JM",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490385,
+    "gn:latitude":17.99921,
+    "gn:longitude":-77.80435,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Fullerswood",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fullerswood Beach",
+        "Fullerswood"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490385
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"cbaf114c8bc8fb65ca9dd747f1451224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1276207581,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":1276207581,
+    "wof:lastmodified":1537649748,
+    "wof:name":"Fullerswood",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.80435,
+    17.99921,
+    -77.80435,
+    17.99921
+],
+  "geometry": {"coordinates":[-77.80435,17.99921],"type":"Point"}
+}

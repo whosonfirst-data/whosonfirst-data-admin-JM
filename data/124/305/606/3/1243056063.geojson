@@ -1,0 +1,66 @@
+{
+  "id": 1243056063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.68333,18.2,-77.68333,18.2",
+    "geom:latitude":18.2,
+    "geom:longitude":-77.68333,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1111.0",
+    "gn:asciiname":"Ben Lomond",
+    "gn:country_code":"JM",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491401,
+    "gn:latitude":18.2,
+    "gn:longitude":-77.68333,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Ben Lomond",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491401
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"e35a06ba1b73fc2b0b912c8880e4bfac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1243056063,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":1243056063,
+    "wof:lastmodified":1536870219,
+    "wof:name":"Ben Lomond",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.68333,
+    18.2,
+    -77.68333,
+    18.2
+],
+  "geometry": {"coordinates":[-77.68333,18.2],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209498715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.61603,17.9783,-76.61603,17.9783",
+    "geom:latitude":17.9783,
+    "geom:longitude":-76.61603,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"337",
+    "gn:asciiname":"Ramble",
+    "gn:country_code":"JM",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488911,
+    "gn:latitude":17.9783,
+    "gn:longitude":-76.61603,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Ramble",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488911
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"22331feaf41c64dbcbdb8579962414b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632215,
+            "locality_id":1209498715
+        }
+    ],
+    "wof:id":1209498715,
+    "wof:lastmodified":1536285252,
+    "wof:name":"Ramble",
+    "wof:parent_id":85632215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.61603000000002,
+    17.9783,
+    -76.61603000000002,
+    17.9783
+],
+  "geometry": {"coordinates":[-76.61603000000002,17.9783],"type":"Point"}
+}

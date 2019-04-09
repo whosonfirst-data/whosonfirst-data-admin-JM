@@ -1,0 +1,66 @@
+{
+  "id": 1309886057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.98175,18.44773,-77.98175,18.44773",
+    "geom:latitude":18.44773,
+    "geom:longitude":-77.98175,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"852",
+    "gn:asciiname":"Unity Hall",
+    "gn:country_code":"JM",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488169,
+    "gn:latitude":18.44773,
+    "gn:longitude":-77.98175,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Unity Hall",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488169
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"a4d1fc7055c4a617fc16620c834aa31f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1309886057,
+            "region_id":85672573
+        }
+    ],
+    "wof:id":1309886057,
+    "wof:lastmodified":1536814766,
+    "wof:name":"Unity Hall",
+    "wof:parent_id":85672573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.98175,
+    18.44773,
+    -77.98175,
+    18.44773
+],
+  "geometry": {"coordinates":[-77.98175000000001,18.44773],"type":"Point"}
+}

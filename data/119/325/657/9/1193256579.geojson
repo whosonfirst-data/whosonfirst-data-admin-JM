@@ -1,0 +1,66 @@
+{
+  "id": 1193256579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.87219,18.17249,-77.87219,18.17249",
+    "geom:latitude":18.17249,
+    "geom:longitude":-77.87219,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1102",
+    "gn:asciiname":"Springfield",
+    "gn:country_code":"JM",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488447,
+    "gn:latitude":18.17249,
+    "gn:longitude":-77.87219,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Springfield",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488447
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"0c21857a709569eeafa1b42671cb6929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1193256579,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":1193256579,
+    "wof:lastmodified":1536363885,
+    "wof:name":"Springfield",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.87219,
+    18.17249,
+    -77.87219,
+    18.17249
+],
+  "geometry": {"coordinates":[-77.87219,18.17249],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1292900267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.67134,18.21205,-76.67134,18.21205",
+    "geom:latitude":18.21205,
+    "geom:longitude":-76.67134,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"403.0",
+    "gn:asciiname":"Charles Town",
+    "gn:country_code":"JM",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491002,
+    "gn:latitude":18.21205,
+    "gn:longitude":-76.67134,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Charles Town",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491002
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"a2744744660f076819cdd3ddfea5228f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1292900267,
+            "region_id":85672591
+        }
+    ],
+    "wof:id":1292900267,
+    "wof:lastmodified":1536638502,
+    "wof:name":"Charles Town",
+    "wof:parent_id":85672591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.67134,
+    18.21205,
+    -76.67134,
+    18.21205
+],
+  "geometry": {"coordinates":[-76.67134,18.21205],"type":"Point"}
+}

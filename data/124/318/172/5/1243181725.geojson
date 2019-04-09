@@ -1,0 +1,66 @@
+{
+  "id": 1243181725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.22404,18.02838,-77.22404,18.02838",
+    "geom:latitude":18.02838,
+    "geom:longitude":-77.22404,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1346",
+    "gn:asciiname":"Soursop Turn",
+    "gn:country_code":"JM",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488486,
+    "gn:latitude":18.02838,
+    "gn:longitude":-77.22404,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Soursop Turn",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488486
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"928b28b51e22f2e5cd319492267deb7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1243181725,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":1243181725,
+    "wof:lastmodified":1536690216,
+    "wof:name":"Soursop Turn",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.22404,
+    18.02838,
+    -77.22404,
+    18.02838
+],
+  "geometry": {"coordinates":[-77.22404,18.02838],"type":"Point"}
+}

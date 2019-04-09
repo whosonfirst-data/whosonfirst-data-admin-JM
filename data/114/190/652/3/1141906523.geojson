@@ -1,0 +1,229 @@
+{
+  "id": 1141906523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.2332808855,17.966615213,-77.2332808855,17.966615213",
+    "geom:latitude":17.966615,
+    "geom:longitude":-77.233281,
+    "gn:gn_country":"JM",
+    "gn:gn_fcode":"PPLA",
+    "gn:gn_pop":44755,
+    "gn:population":44755,
+    "iso:country":"JM",
+    "lbl:latitude":17.966615,
+    "lbl:longitude":-77.233281,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "May Pen"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u064a \u0628\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "May Pen"
+    ],
+    "name:chi_x_preferred":[
+        "\u6885\u5f6d"
+    ],
+    "name:dan_x_preferred":[
+        "May Pen"
+    ],
+    "name:dut_x_preferred":[
+        "May Pen"
+    ],
+    "name:eng_x_preferred":[
+        "May Pen"
+    ],
+    "name:fre_x_preferred":[
+        "May Pen"
+    ],
+    "name:ger_x_preferred":[
+        "May Pen"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03ad\u03b9 \u03a0\u03b5\u03bd"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05d9 \u05e4\u05df"
+    ],
+    "name:jam_x_preferred":[
+        "Mie Pen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30a4\u30fb\u30da\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\uba54\uc774\ud39c"
+    ],
+    "name:pol_x_preferred":[
+        "May Pen"
+    ],
+    "name:por_x_preferred":[
+        "May Pen"
+    ],
+    "name:spa_x_preferred":[
+        "May Pen"
+    ],
+    "name:swe_x_preferred":[
+        "May Pen"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0626\u06d2 \u067e\u06cc\u0646"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Jamaica",
+    "ne:ADM0_A3":"JAM",
+    "ne:ADM1NAME":"Clarendon",
+    "ne:ADMIN1_COD":1,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3489523,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"May Pen",
+    "ne:GN_POP":44755,
+    "ne:GTOPO30":69.0,
+    "ne:ISO_A2":"JM",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":17.966615,
+    "ne:LONGITUDE":-77.233281,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"May Pen",
+    "ne:MAX_AREAKM":87.0,
+    "ne:MAX_AREAMI":34.0,
+    "ne:MAX_BBXMAX":-77.158333,
+    "ne:MAX_BBXMIN":-77.366667,
+    "ne:MAX_BBYMAX":18.0,
+    "ne:MAX_BBYMIN":17.916667,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":101.0,
+    "ne:MAX_PERMI":63.0,
+    "ne:MAX_POP10":135142,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-77.259852,
+    "ne:MEAN_BBYC":17.960864,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":87.0,
+    "ne:MIN_AREAMI":34.0,
+    "ne:MIN_BBXMAX":-77.158333,
+    "ne:MIN_BBXMIN":-77.366667,
+    "ne:MIN_BBYMAX":18.0,
+    "ne:MIN_BBYMIN":17.916667,
+    "ne:MIN_PERKM":101.0,
+    "ne:MIN_PERMI":63.0,
+    "ne:NAME":"May Pen",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"May Pen",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":135142,
+    "ne:POP_MIN":44755,
+    "ne:POP_OTHER":137362,
+    "ne:RANK_MAX":9,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Jamaica",
+    "ne:SOV_A3":"JAM",
+    "ne:TIMEZONE":"America/Jamaica",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":7.0,
+    "qs_pg:aaroncc":"JM",
+    "qs_pg:gn_country":"JM",
+    "qs_pg:gn_fcode":"PPLA",
+    "qs_pg:gn_id":3489523,
+    "qs_pg:gn_pop":44755,
+    "qs_pg:name":"May Pen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":1045249,
+    "qs_pg:qs_pg_placetype":"locality",
+    "reversegeo:latitude":17.966615,
+    "reversegeo:longitude":-77.233281,
+    "src:geom":"naturalearth",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489523,
+        "qs_pg:id":1045249,
+        "wd:id":"Q1677434"
+    },
+    "wof:country":"JM",
+    "wof:created":1499130605,
+    "wof:geomhash":"758bcda12466cd4fabd8263d27226f86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1141906523,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":1141906523,
+    "wof:lastmodified":1534379371,
+    "wof:name":"May Pen",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:population":44755,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125938141
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.23328088551261,
+    17.96661521297898,
+    -77.23328088551261,
+    17.96661521297898
+],
+  "geometry": {"coordinates":[-77.23328088551261,17.96661521297898],"type":"Point"}
+}

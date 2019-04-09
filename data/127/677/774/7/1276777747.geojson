@@ -1,0 +1,66 @@
+{
+  "id": 1276777747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.23333,17.86667,-77.23333,17.86667",
+    "geom:latitude":17.86667,
+    "geom:longitude":-77.23333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1372",
+    "gn:asciiname":"Robinsons New Park",
+    "gn:country_code":"JM",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488791,
+    "gn:latitude":17.86667,
+    "gn:longitude":-77.23333,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Robinsons New Park",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488791
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"5594c4f4db606f23811c98c62ebffa93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1276777747,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":1276777747,
+    "wof:lastmodified":1536680310,
+    "wof:name":"Robinsons New Park",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.23333000000002,
+    17.86667000000001,
+    -77.23333000000002,
+    17.86667000000001
+],
+  "geometry": {"coordinates":[-77.23333000000002,17.86667000000001],"type":"Point"}
+}

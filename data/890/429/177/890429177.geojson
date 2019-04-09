@@ -1,0 +1,79 @@
+{
+  "id": 890429177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.01045,18.31024,-77.01045,18.31024",
+    "geom:latitude":18.31024,
+    "geom:longitude":-77.01045,
+    "gn:country":"JM",
+    "gn:fcode":"PPL",
+    "gn:pop":774,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Lucky Hill"
+    ],
+    "name:eng_x_preferred":[
+        "Lucky Hill"
+    ],
+    "name:swe_x_preferred":[
+        "Lucky Hill"
+    ],
+    "name:unk_x_variant":[
+        "Lucky Hill Pen"
+    ],
+    "qs:name":"Lucky Hill",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":31,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489651,
+        "gp:id":108937,
+        "qs:id":95696,
+        "wd:id":"Q6697912",
+        "wk:page":"Lucky Hill"
+    },
+    "wof:country":"JM",
+    "wof:created":1469051799,
+    "wof:geomhash":"7e170506320b19ed439bec1585f9ab1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":890429177,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":890429177,
+    "wof:lastmodified":1553816394,
+    "wof:name":"Lucky Hill",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:population":774,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.01045,
+    18.31024,
+    -77.01045,
+    18.31024
+],
+  "geometry": {"coordinates":[-77.01045000000001,18.31024],"type":"Point"}
+}

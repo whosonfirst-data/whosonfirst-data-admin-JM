@@ -1,0 +1,78 @@
+{
+  "id": 421187263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.31667,18.36667,-78.31667,18.36667",
+    "geom:latitude":18.36667,
+    "geom:longitude":-78.31667,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:spa_x_preferred":[
+        "Bah\u00eda de Orange"
+    ],
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3489193,
+    "qs:gn_pop":0,
+    "qs:name":"Orange Bay",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Hanover",
+    "qs:photos":3054,
+    "qs:photos_1k":619,
+    "qs:photos_9k":14,
+    "qs:photos_9r":11,
+    "qs:photos_all":3054,
+    "qs:photos_sr":20,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1082618,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":109609,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":147,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489193,
+        "gp:id":109609,
+        "qs:id":1082618,
+        "wd:id":"Q7099517"
+    },
+    "wof:country":"JM",
+    "wof:created":1459009507,
+    "wof:geomhash":"0804b82ab5d68057b3923c4ff104484e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421187263,
+            "region_id":85672563
+        }
+    ],
+    "wof:id":421187263,
+    "wof:lastmodified":1527716251,
+    "wof:name":"Orange Bay",
+    "wof:parent_id":85672563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.31667,
+    18.36667,
+    -78.31667,
+    18.36667
+],
+  "geometry": {"coordinates":[-78.31667,18.36667],"type":"Point"}
+}

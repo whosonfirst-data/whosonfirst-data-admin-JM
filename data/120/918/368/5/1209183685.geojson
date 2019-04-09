@@ -1,0 +1,67 @@
+{
+  "id": 1209183685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.15044,18.30761,-78.15044,18.30761",
+    "geom:latitude":18.30761,
+    "geom:longitude":-78.15044,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1003",
+    "gn:asciiname":"Truro Pen",
+    "gn:country_code":"JM",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488206,
+    "gn:latitude":18.30761,
+    "gn:longitude":-78.15044,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Truro Pen",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Truro",
+        "Truro Gate",
+        "Truro Pen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488206
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"bd1c5d0304e2af9111f190d1ec956a88",
+    "wof:hierarchy":[
+        {
+            "country_id":85632215,
+            "locality_id":1209183685
+        }
+    ],
+    "wof:id":1209183685,
+    "wof:lastmodified":1537649727,
+    "wof:name":"Truro Pen",
+    "wof:parent_id":85632215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.15044,
+    18.30761,
+    -78.15044,
+    18.30761
+],
+  "geometry": {"coordinates":[-78.15044,18.30761],"type":"Point"}
+}

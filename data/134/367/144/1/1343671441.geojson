@@ -1,0 +1,66 @@
+{
+  "id": 1343671441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.24951,18.16224,-77.24951,18.16224",
+    "geom:latitude":18.16224,
+    "geom:longitude":-77.24951,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1310",
+    "gn:asciiname":"Turtle Pond",
+    "gn:country_code":"JM",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488192,
+    "gn:latitude":18.16224,
+    "gn:longitude":-77.24951,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Turtle Pond",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488192
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"f426e2ddeb1b93a1da55e6d0f333a383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1343671441,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":1343671441,
+    "wof:lastmodified":1536939827,
+    "wof:name":"Turtle Pond",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.24951,
+    18.16224,
+    -77.24951,
+    18.16224
+],
+  "geometry": {"coordinates":[-77.24951,18.16224],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 890453191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.4573,17.93578,-76.4573,17.93578",
+    "geom:latitude":17.93578,
+    "geom:longitude":-76.4573,
+    "gn:country":"JM",
+    "gn:fcode":"PPL",
+    "gn:pop":4550,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Seaforth"
+    ],
+    "name:eng_x_preferred":[
+        "Seaforth"
+    ],
+    "name:swe_x_preferred":[
+        "Seaforth"
+    ],
+    "name:unk_x_variant":[
+        "Seaforth Village"
+    ],
+    "qs:name":"Seaforth",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":181,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488597,
+        "gp:id":109982,
+        "qs:id":95686,
+        "wd:id":"Q7440402",
+        "wk:page":"Seaforth"
+    },
+    "wof:country":"JM",
+    "wof:created":1469052845,
+    "wof:geomhash":"f8ee71a21b71fd21fb92985c800c46bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":890453191,
+            "region_id":85672615
+        }
+    ],
+    "wof:id":890453191,
+    "wof:lastmodified":1553816403,
+    "wof:name":"Seaforth",
+    "wof:parent_id":85672615,
+    "wof:placetype":"locality",
+    "wof:population":4550,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.4573,
+    17.93578,
+    -76.4573,
+    17.93578
+],
+  "geometry": {"coordinates":[-76.4573,17.93578],"type":"Point"}
+}

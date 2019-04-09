@@ -1,0 +1,62 @@
+{
+  "id": 1209404423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.2,18.28333,-77.2,18.28333",
+    "geom:latitude":18.28333,
+    "geom:longitude":-77.2,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"636.0",
+    "gn:asciiname":"Browns Valley",
+    "gn:country_code":"JM",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491197,
+    "gn:latitude":18.28333,
+    "gn:longitude":-77.2,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Browns Valley",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491197
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"5864018b586e0b997fd56ac0ecb7400e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632215,
+            "locality_id":1209404423
+        }
+    ],
+    "wof:id":1209404423,
+    "wof:lastmodified":1536288042,
+    "wof:name":"Browns Valley",
+    "wof:parent_id":85632215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.2,
+    18.28333,
+    -77.2,
+    18.28333
+],
+  "geometry": {"coordinates":[-77.2,18.28333],"type":"Point"}
+}

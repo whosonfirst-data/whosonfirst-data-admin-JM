@@ -1,0 +1,66 @@
+{
+  "id": 1343651437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.15,18.4,-77.15,18.4",
+    "geom:latitude":18.4,
+    "geom:longitude":-77.15,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"608",
+    "gn:asciiname":"Roaring River",
+    "gn:country_code":"JM",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488804,
+    "gn:latitude":18.4,
+    "gn:longitude":-77.15,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Roaring River",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488804
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"f9b1481c71d16c2a1cc93e79fd8cc863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1343651437,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":1343651437,
+    "wof:lastmodified":1536967784,
+    "wof:name":"Roaring River",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.15,
+    18.4,
+    -77.15,
+    18.4
+],
+  "geometry": {"coordinates":[-77.15000000000001,18.4],"type":"Point"}
+}

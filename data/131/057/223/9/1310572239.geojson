@@ -1,0 +1,61 @@
+{
+  "id": 1310572239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.38333,17.86667,-76.38333,17.86667",
+    "geom:latitude":17.86667,
+    "geom:longitude":-76.38333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Water Valley",
+    "gn:country_code":"JM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488107,
+    "gn:latitude":17.86667,
+    "gn:longitude":-76.38333,
+    "gn:modification_date":"1997-06-26",
+    "gn:name":"Water Valley",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488107
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"8010fc0bc6825f6b63d3649d8c884992",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310572239,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310572239,
+    "wof:lastmodified":1536819884,
+    "wof:name":"Water Valley",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.38333,
+    17.86667000000001,
+    -76.38333,
+    17.86667000000001
+],
+  "geometry": {"coordinates":[-76.38333,17.86667000000001],"type":"Point"}
+}

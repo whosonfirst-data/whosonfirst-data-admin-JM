@@ -1,0 +1,70 @@
+{
+  "id": 1209796593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.81341,18.11365,-77.81341,18.11365",
+    "geom:latitude":18.11365,
+    "geom:longitude":-77.81341,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1126",
+    "gn:asciiname":"Shaws",
+    "gn:country_code":"JM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488575,
+    "gn:latitude":18.11365,
+    "gn:longitude":-77.81341,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Shaws",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shaws Village",
+        "Shaws"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488575
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"81504a22356d8d38aa4d28a97c16642e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1209796593,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":1209796593,
+    "wof:lastmodified":1537649731,
+    "wof:name":"Shaws",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.81341,
+    18.11365,
+    -77.81341,
+    18.11365
+],
+  "geometry": {"coordinates":[-77.81341,18.11365],"type":"Point"}
+}

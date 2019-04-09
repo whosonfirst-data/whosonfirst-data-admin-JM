@@ -1,0 +1,66 @@
+{
+  "id": 1259869315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.18333,18.35,-77.18333,18.35",
+    "geom:latitude":18.35,
+    "geom:longitude":-77.18333,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"630.0",
+    "gn:asciiname":"Carton",
+    "gn:country_code":"JM",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491059,
+    "gn:latitude":18.35,
+    "gn:longitude":-77.18333,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Carton",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491059
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"76fc120a35bdb5aab6daae8d3c3d993d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1259869315,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":1259869315,
+    "wof:lastmodified":1536799686,
+    "wof:name":"Carton",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.18333,
+    18.35,
+    -77.18333,
+    18.35
+],
+  "geometry": {"coordinates":[-77.18333,18.35],"type":"Point"}
+}

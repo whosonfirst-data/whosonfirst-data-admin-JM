@@ -1,0 +1,105 @@
+{
+  "id": 85793903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":20119423.300294,
+    "geom:bbox":"-76.74456,18.020224,-76.74456,18.020224",
+    "geom:latitude":18.020224,
+    "geom:longitude":-76.74456,
+    "gn:latitude":18.02379,
+    "gn:longitude":-76.75714,
+    "iso:country":"JM",
+    "lbl:latitude":18.020224,
+    "lbl:longitude":-76.74456,
+    "mps:latitude":18.022364,
+    "mps:longitude":-76.749953,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Hope Pastures"
+    ],
+    "name:unk_x_variant":[
+        "Hope Pastures"
+    ],
+    "qs:gn_adm0_cc":"JM",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3489854,
+    "qs:gn_namadm1":"08",
+    "qs:gn_name":"Hope Pastures",
+    "qs:local_max":911,
+    "qs:local_sum":2314,
+    "qs:localhoods":10,
+    "qs:name":"Hope Pastures",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint Andrew",
+    "qs:name_local":"Kingston",
+    "qs:photo_max":20,
+    "qs:photo_sum":94,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424858,
+    "qs:woe_adm1":2345916,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":109251,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490028,
+        "gp:id":109142,
+        "qs:id":296890,
+        "qs_pg:id":296890
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"03c69d58dd3e5994e29e531527cbf490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":-1,
+            "neighbourhood_id":85793903,
+            "region_id":85672609
+        }
+    ],
+    "wof:id":85793903,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531861441,
+    "wof:name":"Hope Pastures",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.74456,
+    18.020224,
+    -76.74456,
+    18.020224
+],
+  "geometry": {"coordinates":[-76.74456000000001,18.020224],"type":"Point"}
+}

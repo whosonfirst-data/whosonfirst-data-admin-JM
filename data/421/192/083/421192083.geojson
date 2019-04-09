@@ -1,0 +1,75 @@
+{
+  "id": 421192083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.79698,17.99916,-76.79698,17.99916",
+    "geom:latitude":17.99916,
+    "geom:longitude":-76.79698,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3489882,
+    "qs:gn_pop":0,
+    "qs:name":"Kencot",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint Andrew",
+    "qs:photos":201,
+    "qs:photos_1k":41,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":201,
+    "qs:photos_sr":4,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165130,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":109230,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489882,
+        "gp:id":109230,
+        "qs:id":1165130
+    },
+    "wof:country":"JM",
+    "wof:created":1459009724,
+    "wof:geomhash":"382f82d0e49175dcbfdf15d44f3f0cd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":-1,
+            "neighbourhood_id":421192083,
+            "region_id":85672609
+        }
+    ],
+    "wof:id":421192083,
+    "wof:lastmodified":1531858672,
+    "wof:name":"Kencot",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.79698,
+    17.99916,
+    -76.79698,
+    17.99916
+],
+  "geometry": {"coordinates":[-76.79698,17.99916],"type":"Point"}
+}

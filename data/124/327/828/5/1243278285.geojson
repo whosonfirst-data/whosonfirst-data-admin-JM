@@ -1,0 +1,71 @@
+{
+  "id": 1243278285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.28,17.82,-77.28,17.82",
+    "geom:latitude":17.82,
+    "geom:longitude":-77.28,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1378.0",
+    "gn:asciiname":"Heartherfield",
+    "gn:cc2":"JM",
+    "gn:country_code":"JM",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490099,
+    "gn:latitude":17.82,
+    "gn:longitude":-77.28,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Heartherfield",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Netherfield",
+        "Heartherfield"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490099
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"f18ba1df96c090fe736ab1a41e1a79d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1243278285,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":1243278285,
+    "wof:lastmodified":1537649744,
+    "wof:name":"Heartherfield",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.28,
+    17.82,
+    -77.28,
+    17.82
+],
+  "geometry": {"coordinates":[-77.28,17.82],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225848237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.05437,18.44772,-78.05437,18.44772",
+    "geom:latitude":18.44772,
+    "geom:longitude":-78.05437,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"907.0",
+    "gn:asciiname":"Flint River",
+    "gn:country_code":"JM",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490484,
+    "gn:latitude":18.44772,
+    "gn:longitude":-78.05437,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Flint River",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Flint River House",
+        "Flint River"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490484
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"46faedab76a45b3842c6eb1907fe6742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1225848237,
+            "region_id":85672563
+        }
+    ],
+    "wof:id":1225848237,
+    "wof:lastmodified":1537649748,
+    "wof:name":"Flint River",
+    "wof:parent_id":85672563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.05436999999998,
+    18.44772,
+    -78.05436999999998,
+    18.44772
+],
+  "geometry": {"coordinates":[-78.05436999999998,18.44772],"type":"Point"}
+}

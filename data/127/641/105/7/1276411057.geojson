@@ -1,0 +1,71 @@
+{
+  "id": 1276411057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.45,17.93333,-76.45,17.93333",
+    "geom:latitude":17.93333,
+    "geom:longitude":-76.45,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"330",
+    "gn:asciiname":"Onslows",
+    "gn:cc2":"JM",
+    "gn:country_code":"JM",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489201,
+    "gn:latitude":17.93333,
+    "gn:longitude":-76.45,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Onslows",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Onslow",
+        "Onslows"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489201
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"6479082747824047a1bca0aaf7b409da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1276411057,
+            "region_id":85672615
+        }
+    ],
+    "wof:id":1276411057,
+    "wof:lastmodified":1537649736,
+    "wof:name":"Onslows",
+    "wof:parent_id":85672615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.45,
+    17.93332999999999,
+    -76.45,
+    17.93332999999999
+],
+  "geometry": {"coordinates":[-76.45,17.93332999999999],"type":"Point"}
+}

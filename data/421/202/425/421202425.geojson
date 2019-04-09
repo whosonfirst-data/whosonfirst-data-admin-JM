@@ -1,0 +1,86 @@
+{
+  "id": 421202425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.96711,18.09342,-77.96711,18.09342",
+    "geom:latitude":18.09342,
+    "geom:longitude":-77.96711,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Whitehouse"
+    ],
+    "name:eng_x_preferred":[
+        "Whitehouse"
+    ],
+    "name:ger_x_preferred":[
+        "Belmont - Whitehouse"
+    ],
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3488056,
+    "qs:gn_pop":0,
+    "qs:name":"Whitehouse",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Westmoreland",
+    "qs:photos":445,
+    "qs:photos_1k":90,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":445,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":222185,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":110256,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":130,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488056,
+        "gp:id":110256,
+        "qs:id":222185,
+        "wd:id":"Q7996088",
+        "wk:page":"White House, Jamaica"
+    },
+    "wof:country":"JM",
+    "wof:created":1459010117,
+    "wof:geomhash":"fa40445faaf3ca9e5a545eb6b6801cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421202425,
+            "region_id":85672583
+        }
+    ],
+    "wof:id":421202425,
+    "wof:lastmodified":1527716205,
+    "wof:name":"Whitehouse",
+    "wof:parent_id":85672583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.96711,
+    18.09342,
+    -77.96711,
+    18.09342
+],
+  "geometry": {"coordinates":[-77.96711000000001,18.09342],"type":"Point"}
+}

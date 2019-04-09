@@ -1,0 +1,70 @@
+{
+  "id": 1276524265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.97977,18.32886,-76.97977,18.32886",
+    "geom:latitude":18.32886,
+    "geom:longitude":-76.97977,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"516",
+    "gn:asciiname":"Marley",
+    "gn:country_code":"JM",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489561,
+    "gn:latitude":18.32886,
+    "gn:longitude":-76.97977,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Marley",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marlie",
+        "Marley"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489561
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"d33e59f04e8d03bc72fea91422b85e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1276524265,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":1276524265,
+    "wof:lastmodified":1537649740,
+    "wof:name":"Marley",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.97977,
+    18.32886,
+    -76.97977,
+    18.32886
+],
+  "geometry": {"coordinates":[-76.97977,18.32886],"type":"Point"}
+}

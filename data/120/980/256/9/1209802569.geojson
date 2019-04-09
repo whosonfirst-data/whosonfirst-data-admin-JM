@@ -1,0 +1,66 @@
+{
+  "id": 1209802569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.82265,18.37481,-77.82265,18.37481",
+    "geom:latitude":18.37481,
+    "geom:longitude":-77.82265,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"860",
+    "gn:asciiname":"Spring Garden",
+    "gn:country_code":"JM",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488436,
+    "gn:latitude":18.37481,
+    "gn:longitude":-77.82265,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Spring Garden",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488436
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"0d85fa3d5ab2e0b9c0b86fba442db859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1209802569,
+            "region_id":85672573
+        }
+    ],
+    "wof:id":1209802569,
+    "wof:lastmodified":1536390050,
+    "wof:name":"Spring Garden",
+    "wof:parent_id":85672573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.82265,
+    18.37481,
+    -77.82265,
+    18.37481
+],
+  "geometry": {"coordinates":[-77.82265,18.37481],"type":"Point"}
+}

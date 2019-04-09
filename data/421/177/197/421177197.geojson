@@ -1,0 +1,88 @@
+{
+  "id": 421177197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.07321,18.44854,-78.07321,18.44854",
+    "geom:latitude":18.44854,
+    "geom:longitude":-78.07321,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Sandy Bay"
+    ],
+    "name:eng_x_preferred":[
+        "Sandy Bay"
+    ],
+    "name:unk_x_variant":[
+        "Sandy Bay Village"
+    ],
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3488635,
+    "qs:gn_pop":4520,
+    "qs:name":"Sandy Bay",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Hanover",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":89,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1116282,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":109903,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488635,
+        "gp:id":109903,
+        "qs:id":1116282,
+        "wd:id":"Q7417150"
+    },
+    "wof:country":"JM",
+    "wof:created":1459009136,
+    "wof:geomhash":"1bf1b07e732975f9655265a1e9806c86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421177197,
+            "region_id":85672563
+        }
+    ],
+    "wof:id":421177197,
+    "wof:lastmodified":1527716482,
+    "wof:name":"Sandy Bay",
+    "wof:parent_id":85672563,
+    "wof:placetype":"locality",
+    "wof:population":4520,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.07321,
+    18.44854,
+    -78.07321,
+    18.44854
+],
+  "geometry": {"coordinates":[-78.07321,18.44854],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209621331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.46667,17.96667,-77.46667,17.96667",
+    "geom:latitude":17.96667,
+    "geom:longitude":-77.46667,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"1249.0",
+    "gn:asciiname":"Cottage",
+    "gn:country_code":"JM",
+    "gn:dem":590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490844,
+    "gn:latitude":17.96667,
+    "gn:longitude":-77.46667,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Cottage",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490844
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"f9b5b8a41f990871aa49d3d70e5f0230",
+    "wof:hierarchy":[
+        {
+            "country_id":85632215,
+            "locality_id":1209621331
+        }
+    ],
+    "wof:id":1209621331,
+    "wof:lastmodified":1536281508,
+    "wof:name":"Cottage",
+    "wof:parent_id":85632215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.46667,
+    17.96667,
+    -77.46667,
+    17.96667
+],
+  "geometry": {"coordinates":[-77.46666999999999,17.96667],"type":"Point"}
+}

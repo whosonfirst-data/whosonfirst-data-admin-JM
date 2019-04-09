@@ -1,0 +1,66 @@
+{
+  "id": 1326614019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.11145,18.03855,-77.11145,18.03855",
+    "geom:latitude":18.03855,
+    "geom:longitude":-77.11145,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1425",
+    "gn:asciiname":"Macca Tree",
+    "gn:country_code":"JM",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489637,
+    "gn:latitude":18.03855,
+    "gn:longitude":-77.11145,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Macca Tree",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489637
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"bfb868ffaf77f73dd163b456185a878d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1326614019,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":1326614019,
+    "wof:lastmodified":1536864814,
+    "wof:name":"Macca Tree",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.11145,
+    18.03855,
+    -77.11145,
+    18.03855
+],
+  "geometry": {"coordinates":[-77.11145,18.03855],"type":"Point"}
+}

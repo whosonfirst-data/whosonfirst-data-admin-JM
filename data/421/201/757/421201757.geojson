@@ -1,0 +1,95 @@
+{
+  "id": 421201757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.11177,18.27556,-77.11177,18.27556",
+    "geom:latitude":18.27556,
+    "geom:longitude":-77.11177,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u043d\u0435\u0430\u0433\u0443\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Moneague"
+    ],
+    "name:eng_x_preferred":[
+        "Moneague"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30cd\u30ae\u30e5\u30fc"
+    ],
+    "name:swe_x_preferred":[
+        "Moneague"
+    ],
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3489464,
+    "qs:gn_pop":3319,
+    "qs:name":"Moneague",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint Ann",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":188,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":214253,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":109453,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":104,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489464,
+        "gp:id":109453,
+        "qs:id":214253,
+        "wd:id":"Q6898851",
+        "wk:page":"Moneague"
+    },
+    "wof:country":"JM",
+    "wof:created":1459010083,
+    "wof:geomhash":"e445c89d808efbc12956a3e32b6009ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421201757,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":421201757,
+    "wof:lastmodified":1527716437,
+    "wof:name":"Moneague",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:population":3319,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.11177,
+    18.27556,
+    -77.11177,
+    18.27556
+],
+  "geometry": {"coordinates":[-77.11177000000001,18.27556],"type":"Point"}
+}

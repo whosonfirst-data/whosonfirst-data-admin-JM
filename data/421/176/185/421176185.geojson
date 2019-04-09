@@ -1,0 +1,85 @@
+{
+  "id": 421176185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.27254,17.93362,-76.27254,17.93362",
+    "geom:latitude":17.93362,
+    "geom:longitude":-76.27254,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Golden Grove"
+    ],
+    "name:eng_x_preferred":[
+        "Golden Grove"
+    ],
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3490318,
+    "qs:gn_pop":3058,
+    "qs:name":"Golden Grove",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint Thomas",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1045260,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":108973,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":83,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490318,
+        "gp:id":108973,
+        "qs:id":1045260,
+        "wd:id":"Q5579519"
+    },
+    "wof:country":"JM",
+    "wof:created":1459009101,
+    "wof:geomhash":"534c1bc41d983b497c17ea4d411ea3d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421176185,
+            "region_id":85672615
+        }
+    ],
+    "wof:id":421176185,
+    "wof:lastmodified":1527726480,
+    "wof:name":"Golden Grove",
+    "wof:parent_id":85672615,
+    "wof:placetype":"locality",
+    "wof:population":3058,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.27254,
+    17.93362,
+    -76.27254,
+    17.93362
+],
+  "geometry": {"coordinates":[-76.27254000000001,17.93362],"type":"Point"}
+}

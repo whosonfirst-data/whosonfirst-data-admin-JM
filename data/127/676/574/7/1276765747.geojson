@@ -1,0 +1,70 @@
+{
+  "id": 1276765747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.01682,18.3333,-78.01682,18.3333",
+    "geom:latitude":18.3333,
+    "geom:longitude":-78.01682,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"916",
+    "gn:asciiname":"Ramble Pen",
+    "gn:country_code":"JM",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488909,
+    "gn:latitude":18.3333,
+    "gn:longitude":-78.01682,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Ramble Pen",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ramble House",
+        "Ramble Pen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488909
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"afc091e6924c3baaafec34e5378a4d0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1276765747,
+            "region_id":85672563
+        }
+    ],
+    "wof:id":1276765747,
+    "wof:lastmodified":1537649734,
+    "wof:name":"Ramble Pen",
+    "wof:parent_id":85672563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.01682,
+    18.3333,
+    -78.01682,
+    18.3333
+],
+  "geometry": {"coordinates":[-78.01682,18.3333],"type":"Point"}
+}

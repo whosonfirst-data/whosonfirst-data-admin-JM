@@ -1,0 +1,99 @@
+{
+  "id": 421176787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.36684,18.39247,-77.36684,18.39247",
+    "geom:latitude":18.39247,
+    "geom:longitude":-77.36684,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5e03\u6717\u93ae"
+    ],
+    "name:deu_x_preferred":[
+        "Brown\u2019s Town"
+    ],
+    "name:dut_x_preferred":[
+        "Brown's Town"
+    ],
+    "name:eng_x_preferred":[
+        "Brown's Town"
+    ],
+    "name:fre_x_preferred":[
+        "Brown's Town"
+    ],
+    "name:ger_x_preferred":[
+        "Brown\u2019s Town"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u6717\u93ae"
+    ],
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3491199,
+    "qs:gn_pop":0,
+    "qs:name":"Browns Town",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint Ann",
+    "qs:photos":485,
+    "qs:photos_1k":98,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":485,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1082616,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":108465,
+    "src:geom":"quattroshapes",
+    "wd:latitude":18.391872,
+    "wd:longitude":-77.366367,
+    "wd:wordcount":400,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491199,
+        "gp:id":108465,
+        "qs:id":1082616,
+        "wd:id":"Q991298"
+    },
+    "wof:country":"JM",
+    "wof:created":1459009119,
+    "wof:geomhash":"ab5870be42df1cfab02a342af94b09d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421176787,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":421176787,
+    "wof:lastmodified":1527726479,
+    "wof:name":"Browns Town",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.36684,
+    18.39247,
+    -77.36684,
+    18.39247
+],
+  "geometry": {"coordinates":[-77.36684,18.39247],"type":"Point"}
+}

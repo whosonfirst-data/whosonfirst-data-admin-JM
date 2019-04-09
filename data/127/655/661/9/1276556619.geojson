@@ -1,0 +1,66 @@
+{
+  "id": 1276556619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.04713,18.37747,-78.04713,18.37747",
+    "geom:latitude":18.37747,
+    "geom:longitude":-78.04713,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"917",
+    "gn:asciiname":"Success",
+    "gn:country_code":"JM",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488357,
+    "gn:latitude":18.37747,
+    "gn:longitude":-78.04713,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Success",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488357
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"a1a57e795a435af89162524b36f6d235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1276556619,
+            "region_id":85672563
+        }
+    ],
+    "wof:id":1276556619,
+    "wof:lastmodified":1536976253,
+    "wof:name":"Success",
+    "wof:parent_id":85672563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.04713000000002,
+    18.37747,
+    -78.04713000000002,
+    18.37747
+],
+  "geometry": {"coordinates":[-78.04713000000002,18.37747],"type":"Point"}
+}

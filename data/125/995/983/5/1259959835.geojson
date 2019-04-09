@@ -1,0 +1,66 @@
+{
+  "id": 1259959835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.75885,18.44584,-77.75885,18.44584",
+    "geom:latitude":18.44584,
+    "geom:longitude":-77.75885,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"824",
+    "gn:asciiname":"Watson Town",
+    "gn:country_code":"JM",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488101,
+    "gn:latitude":18.44584,
+    "gn:longitude":-77.75885,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Watson Town",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488101
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"70f14c32565fc5714cd53400986f37c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1259959835,
+            "region_id":85672573
+        }
+    ],
+    "wof:id":1259959835,
+    "wof:lastmodified":1536669234,
+    "wof:name":"Watson Town",
+    "wof:parent_id":85672573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.75885,
+    18.44584,
+    -77.75885,
+    18.44584
+],
+  "geometry": {"coordinates":[-77.75885,18.44584],"type":"Point"}
+}

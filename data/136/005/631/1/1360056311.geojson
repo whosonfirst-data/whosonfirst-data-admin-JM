@@ -1,0 +1,66 @@
+{
+  "id": 1360056311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.31667,17.96667,-76.31667,17.96667",
+    "geom:latitude":17.96667,
+    "geom:longitude":-76.31667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"315",
+    "gn:asciiname":"Sunny Bank",
+    "gn:country_code":"JM",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488344,
+    "gn:latitude":17.96667,
+    "gn:longitude":-76.31667,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Sunny Bank",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488344
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"8ff4051f5222043680cc5095bd615bdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1360056311,
+            "region_id":85672615
+        }
+    ],
+    "wof:id":1360056311,
+    "wof:lastmodified":1536986518,
+    "wof:name":"Sunny Bank",
+    "wof:parent_id":85672615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.31667,
+    17.96667,
+    -76.31667,
+    17.96667
+],
+  "geometry": {"coordinates":[-76.31667,17.96667],"type":"Point"}
+}

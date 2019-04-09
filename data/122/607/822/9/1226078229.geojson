@@ -1,0 +1,66 @@
+{
+  "id": 1226078229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.46749,18.10643,-77.46749,18.10643",
+    "geom:latitude":18.10643,
+    "geom:longitude":-77.46749,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"1226.0",
+    "gn:asciiname":"Chantilly",
+    "gn:country_code":"JM",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491008,
+    "gn:latitude":18.10643,
+    "gn:longitude":-77.46749,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Chantilly",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491008
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"caf034c6cc9b7f080ed2e9d140134d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1226078229,
+            "region_id":85672567
+        }
+    ],
+    "wof:id":1226078229,
+    "wof:lastmodified":1536678436,
+    "wof:name":"Chantilly",
+    "wof:parent_id":85672567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.46749,
+    18.10643,
+    -77.46749,
+    18.10643
+],
+  "geometry": {"coordinates":[-77.46749,18.10643],"type":"Point"}
+}

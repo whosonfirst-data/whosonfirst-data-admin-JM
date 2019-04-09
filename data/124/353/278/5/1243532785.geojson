@@ -1,0 +1,66 @@
+{
+  "id": 1243532785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.61182,18.03545,-77.61182,18.03545",
+    "geom:latitude":18.03545,
+    "geom:longitude":-77.61182,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1132.0",
+    "gn:asciiname":"Gutters",
+    "gn:country_code":"JM",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490180,
+    "gn:latitude":18.03545,
+    "gn:longitude":-77.61182,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Gutters",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490180
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"e52a757f607ee5506c5a9b59d12e67b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1243532785,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":1243532785,
+    "wof:lastmodified":1536681116,
+    "wof:name":"Gutters",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.61182,
+    18.03545,
+    -77.61182,
+    18.03545
+],
+  "geometry": {"coordinates":[-77.61181999999999,18.03545],"type":"Point"}
+}

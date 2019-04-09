@@ -1,0 +1,75 @@
+{
+  "id": 421194247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.35,18.45,-77.35,18.45",
+    "geom:latitude":18.45,
+    "geom:longitude":-77.35,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3488586,
+    "qs:gn_pop":0,
+    "qs:name":"Seven Oaks",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint Ann",
+    "qs:photos":68,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":68,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":982634,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":109933,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":155,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488586,
+        "gp:id":109933,
+        "qs:id":982634
+    },
+    "wof:country":"JM",
+    "wof:created":1459009799,
+    "wof:geomhash":"832a6079d457d9f2e9fbc171aba642fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421194247,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":421194247,
+    "wof:lastmodified":1527716135,
+    "wof:name":"Seven Oaks",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.35,
+    18.45,
+    -77.35,
+    18.45
+],
+  "geometry": {"coordinates":[-77.34999999999999,18.45],"type":"Point"}
+}

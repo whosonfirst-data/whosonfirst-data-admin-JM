@@ -1,0 +1,66 @@
+{
+  "id": 1327342449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.99126,18.33526,-77.99126,18.33526",
+    "geom:latitude":18.33526,
+    "geom:longitude":-77.99126,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"914.0",
+    "gn:asciiname":"Chichester",
+    "gn:country_code":"JM",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9239029,
+    "gn:latitude":18.33526,
+    "gn:longitude":-77.99126,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Chichester",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9239029
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"061c87805558d65701c207426ff32d2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1327342449,
+            "region_id":85672563
+        }
+    ],
+    "wof:id":1327342449,
+    "wof:lastmodified":1536810157,
+    "wof:name":"Chichester",
+    "wof:parent_id":85672563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.99126,
+    18.33526,
+    -77.99126,
+    18.33526
+],
+  "geometry": {"coordinates":[-77.99126,18.33526],"type":"Point"}
+}

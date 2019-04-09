@@ -1,0 +1,90 @@
+{
+  "id": 421201761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.89078,18.2439,-76.89078,18.2439",
+    "geom:latitude":18.2439,
+    "geom:longitude":-76.89078,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Richmond"
+    ],
+    "name:eng_x_preferred":[
+        "Richmond"
+    ],
+    "name:unk_x_variant":[
+        "Richmond Village"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0686\u0645\u0646\u0688\u060c \u062c\u0645\u06cc\u06a9\u0627"
+    ],
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3488834,
+    "qs:gn_pop":2046,
+    "qs:name":"Richmond",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint Mary",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":214263,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":109814,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488834,
+        "gp:id":109814,
+        "qs:id":214263,
+        "wd:id":"Q7330728"
+    },
+    "wof:country":"JM",
+    "wof:created":1459010083,
+    "wof:geomhash":"d1aca26e1396c785380e5c636bf04675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421201761,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":421201761,
+    "wof:lastmodified":1514466939,
+    "wof:name":"Richmond",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:population":2046,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.89078,
+    18.2439,
+    -76.89078,
+    18.2439
+],
+  "geometry": {"coordinates":[-76.89078000000001,18.2439],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1193003743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.74993,17.99922,-76.74993,17.99922",
+    "geom:latitude":17.99922,
+    "geom:longitude":-76.74993,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"15003.0",
+    "gn:asciiname":"College Commons",
+    "gn:country_code":"JM",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9260790,
+    "gn:latitude":17.99922,
+    "gn:longitude":-76.74993,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"College Commons",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9260790
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"81b343c328ac1b0a73c5f4a9a54a04b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1193003743,
+            "region_id":85672609
+        }
+    ],
+    "wof:id":1193003743,
+    "wof:lastmodified":1536367529,
+    "wof:name":"College Commons",
+    "wof:parent_id":85672609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.74993,
+    17.99922,
+    -76.74993,
+    17.99922
+],
+  "geometry": {"coordinates":[-76.74993000000001,17.99922],"type":"Point"}
+}

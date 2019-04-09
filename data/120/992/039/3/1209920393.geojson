@@ -1,0 +1,66 @@
+{
+  "id": 1209920393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.43166,17.91788,-77.43166,17.91788",
+    "geom:latitude":17.91788,
+    "geom:longitude":-77.43166,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"1273.0",
+    "gn:asciiname":"Asia",
+    "gn:country_code":"JM",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491527,
+    "gn:latitude":17.91788,
+    "gn:longitude":-77.43166,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Asia",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491527
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"dda1ee864605394d6f0460f860cee414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1209920393,
+            "region_id":85672567
+        }
+    ],
+    "wof:id":1209920393,
+    "wof:lastmodified":1536369031,
+    "wof:name":"Asia",
+    "wof:parent_id":85672567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.43166,
+    17.91788,
+    -77.43166,
+    17.91788
+],
+  "geometry": {"coordinates":[-77.43165999999999,17.91788],"type":"Point"}
+}

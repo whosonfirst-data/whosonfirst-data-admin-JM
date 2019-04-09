@@ -1,0 +1,84 @@
+{
+  "id": 421198495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.96417,18.16586,-76.96417,18.16586",
+    "geom:latitude":18.16586,
+    "geom:longitude":-76.96417,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Riversdale"
+    ],
+    "name:eng_x_preferred":[
+        "Riversdale"
+    ],
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3488809,
+    "qs:gn_pop":4085,
+    "qs:name":"Riversdale",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint Catherine",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1201520,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":109832,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488809,
+        "gp:id":109832,
+        "qs:id":1201520,
+        "wd:id":"Q7338352"
+    },
+    "wof:country":"JM",
+    "wof:created":1459009950,
+    "wof:geomhash":"20e9bf1e72225dd4720d1a5c40e356fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421198495,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":421198495,
+    "wof:lastmodified":1514466939,
+    "wof:name":"Riversdale",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:population":4085,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.96417,
+    18.16586,
+    -76.96417,
+    18.16586
+],
+  "geometry": {"coordinates":[-76.96417,18.16586],"type":"Point"}
+}

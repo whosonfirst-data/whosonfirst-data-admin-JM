@@ -1,0 +1,66 @@
+{
+  "id": 1360067487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.21689,18.27468,-78.21689,18.27468",
+    "geom:latitude":18.27468,
+    "geom:longitude":-78.21689,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1038",
+    "gn:asciiname":"Masemure",
+    "gn:country_code":"JM",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489541,
+    "gn:latitude":18.27468,
+    "gn:longitude":-78.21689,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Masemure",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489541
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"b387138e5f4946edd19d5701789d60d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1360067487,
+            "region_id":85672583
+        }
+    ],
+    "wof:id":1360067487,
+    "wof:lastmodified":1536970736,
+    "wof:name":"Masemure",
+    "wof:parent_id":85672583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.21689,
+    18.27468,
+    -78.21689,
+    18.27468
+],
+  "geometry": {"coordinates":[-78.21689000000001,18.27468],"type":"Point"}
+}

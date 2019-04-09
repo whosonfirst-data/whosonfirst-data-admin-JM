@@ -1,0 +1,70 @@
+{
+  "id": 1293772881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.07304,17.95973,-77.07304,17.95973",
+    "geom:latitude":17.95973,
+    "geom:longitude":-77.07304,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1429",
+    "gn:asciiname":"Spring Village",
+    "gn:country_code":"JM",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488420,
+    "gn:latitude":17.95973,
+    "gn:longitude":-77.07304,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Spring Village",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spring",
+        "Spring Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488420
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"4f4dd15a789d3024b500254f3bde8b96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1293772881,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":1293772881,
+    "wof:lastmodified":1537649729,
+    "wof:name":"Spring Village",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.07304,
+    17.95973,
+    -77.07304,
+    17.95973
+],
+  "geometry": {"coordinates":[-77.07304000000001,17.95973],"type":"Point"}
+}

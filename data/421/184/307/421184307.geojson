@@ -1,0 +1,75 @@
+{
+  "id": 421184307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-76.91498,18.34499,-76.91498,18.34499",
+    "geom:latitude":18.34499,
+    "geom:longitude":-76.91498,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Brummer Hall"
+    ],
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3491223,
+    "qs:gn_pop":0,
+    "qs:name":"Brimmer Hall",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint Mary",
+    "qs:photos":51,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":51,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":994141,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":108446,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491223,
+        "gp:id":108446,
+        "qs:id":994141
+    },
+    "wof:country":"JM",
+    "wof:created":1459009407,
+    "wof:geomhash":"e6b7f8d83fc41fb8570d88f9369c506f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421184307,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":421184307,
+    "wof:lastmodified":1501267345,
+    "wof:name":"Brimmer Hall",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.91498,
+    18.34499,
+    -76.91498,
+    18.34499
+],
+  "geometry": {"coordinates":[-76.91498,18.34499],"type":"Point"}
+}

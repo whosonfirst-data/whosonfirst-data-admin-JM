@@ -1,0 +1,70 @@
+{
+  "id": 1242786725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.07954,18.39511,-78.07954,18.39511",
+    "geom:latitude":18.39511,
+    "geom:longitude":-78.07954,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"920",
+    "gn:asciiname":"Pondside",
+    "gn:country_code":"JM",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489007,
+    "gn:latitude":18.39511,
+    "gn:longitude":-78.07954,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Pondside",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ponside",
+        "Pondside"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489007
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"485a2ff3c3f50ba63e80111bbd5de88c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1242786725,
+            "region_id":85672563
+        }
+    ],
+    "wof:id":1242786725,
+    "wof:lastmodified":1537649735,
+    "wof:name":"Pondside",
+    "wof:parent_id":85672563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.07954000000002,
+    18.39511,
+    -78.07954000000002,
+    18.39511
+],
+  "geometry": {"coordinates":[-78.07954000000002,18.39511],"type":"Point"}
+}

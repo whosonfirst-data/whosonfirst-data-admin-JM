@@ -1,0 +1,107 @@
+{
+  "id": 85793887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":1833317.255833,
+    "geom:bbox":"-76.758728,17.997019,-76.758728,17.997019",
+    "geom:latitude":17.997019,
+    "geom:longitude":-76.758728,
+    "gn:latitude":18.00771,
+    "gn:longitude":-76.76643,
+    "iso:country":"JM",
+    "lbl:latitude":17.997019,
+    "lbl:longitude":-76.758728,
+    "mps:latitude":17.994878,
+    "mps:longitude":-76.758868,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Beverly Hills"
+    ],
+    "name:unk_x_variant":[
+        "Beverly Hills"
+    ],
+    "qs:gn_adm0_cc":"JM",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3489854,
+    "qs:gn_namadm1":"08",
+    "qs:gn_name":"Beverly Hills",
+    "qs:local_max":911,
+    "qs:local_sum":2314,
+    "qs:localhoods":10,
+    "qs:name":"Beverly Hills",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint Andrew",
+    "qs:name_local":"Kingston",
+    "qs:photo_max":1,
+    "qs:photo_sum":1,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424858,
+    "qs:woe_adm1":2345916,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":109251,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491374,
+        "gp:id":108370,
+        "qs:id":1165119
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"5a645fb110e4c53fb3e115c0db224287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":-1,
+            "neighbourhood_id":85793887,
+            "region_id":85672609
+        }
+    ],
+    "wof:id":85793887,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379371,
+    "wof:name":"Beverly Hills",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[
+        1126064293
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.758728,
+    17.997019,
+    -76.758728,
+    17.997019
+],
+  "geometry": {"coordinates":[-76.758728,17.997019],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1225858981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.37159,17.99354,-77.37159,17.99354",
+    "geom:latitude":17.99354,
+    "geom:longitude":-77.37159,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1357.0",
+    "gn:asciiname":"Clarendon Park",
+    "gn:country_code":"JM",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490950,
+    "gn:latitude":17.99354,
+    "gn:longitude":-77.37159,
+    "gn:modification_date":"2018-04-02",
+    "gn:name":"Clarendon Park",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Claredon Park",
+        "Clarendon Park"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490950,
+        "wk:page":"Clarendon_Park,_Jamaica"
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"5243be397fc7be42b0823661d5e6766f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1225858981,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":1225858981,
+    "wof:lastmodified":1537649753,
+    "wof:name":"Clarendon Park",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.37159,
+    17.99354,
+    -77.37159,
+    17.99354
+],
+  "geometry": {"coordinates":[-77.37159,17.99354],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 890429173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.94641,18.40319,-76.94641,18.40319",
+    "geom:latitude":18.40319,
+    "geom:longitude":-76.94641,
+    "gn:country":"JM",
+    "gn:fcode":"PPL",
+    "gn:pop":4100,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5967\u62c9\u5361\u8c9d\u85a9"
+    ],
+    "name:dut_x_preferred":[
+        "Oracabessa"
+    ],
+    "name:eng_x_preferred":[
+        "Oracabessa"
+    ],
+    "name:fre_x_preferred":[
+        "Oracabessa"
+    ],
+    "qs:name":"Oracabessa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:latitude":"18.40333",
+    "wd:longitude":"-76.94667",
+    "wd:wordcount":1697,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489200,
+        "gp:id":109292,
+        "qs:id":95695,
+        "wd:id":"Q7099213",
+        "wk:page":"Oracabessa"
+    },
+    "wof:country":"JM",
+    "wof:created":1469051798,
+    "wof:geomhash":"4cd8b46edc07f91ee1fbe9571c19bf5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":890429173,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":890429173,
+    "wof:lastmodified":1527792790,
+    "wof:name":"Oracabessa",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:population":4100,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.94641,
+    18.40319,
+    -76.94641,
+    18.40319
+],
+  "geometry": {"coordinates":[-76.94641,18.40319],"type":"Point"}
+}

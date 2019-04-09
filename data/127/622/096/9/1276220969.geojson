@@ -1,0 +1,71 @@
+{
+  "id": 1276220969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.01667,18.03333,-77.01667,18.03333",
+    "geom:latitude":18.03333,
+    "geom:longitude":-77.01667,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1422.0",
+    "gn:asciiname":"Hope",
+    "gn:cc2":"JM",
+    "gn:country_code":"JM",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490035,
+    "gn:latitude":18.03333,
+    "gn:longitude":-77.01667,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Hope",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hope Maxhams",
+        "Hope"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490035
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"f74aecda9fc619b6871bd943015c381c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1276220969,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":1276220969,
+    "wof:lastmodified":1537649744,
+    "wof:name":"Hope",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.01666999999998,
+    18.03333,
+    -77.01666999999998,
+    18.03333
+],
+  "geometry": {"coordinates":[-77.01666999999998,18.03333],"type":"Point"}
+}

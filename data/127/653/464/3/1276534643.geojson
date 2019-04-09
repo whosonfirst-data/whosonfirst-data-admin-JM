@@ -1,0 +1,66 @@
+{
+  "id": 1276534643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.96667,18.28333,-76.96667,18.28333",
+    "geom:latitude":18.28333,
+    "geom:longitude":-76.96667,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"524",
+    "gn:asciiname":"Williams Town",
+    "gn:country_code":"JM",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488011,
+    "gn:latitude":18.28333,
+    "gn:longitude":-76.96667,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Williams Town",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488011
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"3c04be8dbd480f041845a0b41a016b40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1276534643,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":1276534643,
+    "wof:lastmodified":1537005502,
+    "wof:name":"Williams Town",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.96667,
+    18.28333,
+    -76.96667,
+    18.28333
+],
+  "geometry": {"coordinates":[-76.96666999999999,18.28333],"type":"Point"}
+}

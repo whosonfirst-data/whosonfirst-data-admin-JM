@@ -1,0 +1,71 @@
+{
+  "id": 1343265909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.21667,17.76667,-77.21667,17.76667",
+    "geom:latitude":17.76667,
+    "geom:longitude":-77.21667,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1382.0",
+    "gn:asciiname":"Harmony Hall",
+    "gn:cc2":"JM",
+    "gn:country_code":"JM",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490128,
+    "gn:latitude":17.76667,
+    "gn:longitude":-77.21667,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Harmony Hall",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Harmony Hall Pen",
+        "Harmony Hall"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490128
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"3dda0f2f5fd011e3b5ff043fd9ad7069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1343265909,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":1343265909,
+    "wof:lastmodified":1537649745,
+    "wof:name":"Harmony Hall",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.21667,
+    17.76667,
+    -77.21667,
+    17.76667
+],
+  "geometry": {"coordinates":[-77.21666999999999,17.76667],"type":"Point"}
+}

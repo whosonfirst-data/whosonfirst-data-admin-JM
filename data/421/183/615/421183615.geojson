@@ -1,0 +1,81 @@
+{
+  "id": 421183615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.71456,18.07078,-76.71456,18.07078",
+    "geom:latitude":18.07078,
+    "geom:longitude":-76.71456,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Newcastle"
+    ],
+    "name:eng_x_preferred":[
+        "Newcastle"
+    ],
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3489312,
+    "qs:gn_pop":0,
+    "qs:name":"Newcastle",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint Andrew",
+    "qs:photos":42,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":42,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":982623,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":109559,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489312,
+        "gp:id":109559,
+        "qs:id":982623,
+        "wd:id":"Q7017307"
+    },
+    "wof:country":"JM",
+    "wof:created":1459009376,
+    "wof:geomhash":"4dad4f6d1ac31bfa35447325cf897340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421183615,
+            "region_id":85672609
+        }
+    ],
+    "wof:id":421183615,
+    "wof:lastmodified":1514466933,
+    "wof:name":"Newcastle",
+    "wof:parent_id":85672609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.71456,
+    18.07078,
+    -76.71456,
+    18.07078
+],
+  "geometry": {"coordinates":[-76.71456000000001,18.07078],"type":"Point"}
+}

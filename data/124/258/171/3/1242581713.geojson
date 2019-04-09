@@ -1,0 +1,66 @@
+{
+  "id": 1242581713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.29733,18.11351,-77.29733,18.11351",
+    "geom:latitude":18.11351,
+    "geom:longitude":-77.29733,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1313",
+    "gn:asciiname":"Kupuis",
+    "gn:country_code":"JM",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489831,
+    "gn:latitude":18.11351,
+    "gn:longitude":-77.29733,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Kupuis",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489831
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"c9374556a312128238125d8cf2b054af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1242581713,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":1242581713,
+    "wof:lastmodified":1537055288,
+    "wof:name":"Kupuis",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.29733,
+    18.11351,
+    -77.29733,
+    18.11351
+],
+  "geometry": {"coordinates":[-77.29733,18.11351],"type":"Point"}
+}

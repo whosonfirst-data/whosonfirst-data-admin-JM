@@ -1,0 +1,66 @@
+{
+  "id": 1226017429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.33906,18.25467,-78.33906,18.25467",
+    "geom:latitude":18.25467,
+    "geom:longitude":-78.33906,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1040",
+    "gn:asciiname":"Mount Airy",
+    "gn:country_code":"JM",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489410,
+    "gn:latitude":18.25467,
+    "gn:longitude":-78.33906,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Mount Airy",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489410
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"e283fa26f98cfecf72b670461e9ec133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1226017429,
+            "region_id":85672583
+        }
+    ],
+    "wof:id":1226017429,
+    "wof:lastmodified":1536766513,
+    "wof:name":"Mount Airy",
+    "wof:parent_id":85672583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.33906,
+    18.25467,
+    -78.33906,
+    18.25467
+],
+  "geometry": {"coordinates":[-78.33906,18.25467],"type":"Point"}
+}

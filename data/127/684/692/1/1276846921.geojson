@@ -1,0 +1,71 @@
+{
+  "id": 1276846921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.76667,18.23333,-76.76667,18.23333",
+    "geom:latitude":18.23333,
+    "geom:longitude":-76.76667,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"535",
+    "gn:asciiname":"Osbornes",
+    "gn:cc2":"JM",
+    "gn:country_code":"JM",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489166,
+    "gn:latitude":18.23333,
+    "gn:longitude":-76.76667,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Osbornes",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Osborns",
+        "Osbornes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489166
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"758aa2d2ca5f6da3763d4b209a8fa74f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1276846921,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":1276846921,
+    "wof:lastmodified":1537649736,
+    "wof:name":"Osbornes",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.76666999999998,
+    18.23333,
+    -76.76666999999998,
+    18.23333
+],
+  "geometry": {"coordinates":[-76.76666999999998,18.23333],"type":"Point"}
+}

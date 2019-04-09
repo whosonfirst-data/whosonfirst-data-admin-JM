@@ -1,0 +1,63 @@
+{
+  "id": 1310684693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.56667,17.86667,-76.56667,17.86667",
+    "geom:latitude":17.86667,
+    "geom:longitude":-76.56667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mount Olive",
+    "gn:country_code":"JM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489385,
+    "gn:latitude":17.86667,
+    "gn:longitude":-76.56667,
+    "gn:modification_date":"1997-06-26",
+    "gn:name":"Mount Olive",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489385
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"9156da0072d930955e801b3d91a447db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1310684693,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310684693,
+    "wof:lastmodified":1536658514,
+    "wof:name":"Mount Olive",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.56667,
+    17.86667000000001,
+    -76.56667,
+    17.86667000000001
+],
+  "geometry": {"coordinates":[-76.56667,17.86667000000001],"type":"Point"}
+}

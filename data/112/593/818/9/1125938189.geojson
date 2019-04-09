@@ -1,0 +1,119 @@
+{
+  "id": 1125938189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.40927,17.88145,-76.40927,17.88145",
+    "geom:latitude":17.88145,
+    "geom:longitude":-76.40927,
+    "gn:gn_country":"JM",
+    "gn:gn_fcode":"PPLA",
+    "gn:gn_pop":9368,
+    "gn:population":9368,
+    "iso:country":"JM",
+    "lbl:latitude":17.88145,
+    "lbl:longitude":-76.40927,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u83ab\u862d\u7279\u8c9d"
+    ],
+    "name:dut_x_preferred":[
+        "Morant Bay"
+    ],
+    "name:eng_x_preferred":[
+        "Morant Bay"
+    ],
+    "name:fre_x_preferred":[
+        "Morant Bay"
+    ],
+    "name:ger_x_preferred":[
+        "Morant Bay"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03cc\u03c1\u03b1\u03bd\u03c4 \u039c\u03c0\u03ad\u03c5"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e8\u05e0\u05d8 \u05d1\u05d9\u05d9"
+    ],
+    "name:jam_x_preferred":[
+        "Morant Bie"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30e9\u30f3\u30c8\u6e7e"
+    ],
+    "name:pol_x_preferred":[
+        "Morant Bay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u043d\u0442-\u0411\u0435\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Morant Bay"
+    ],
+    "name:unk_x_variant":[
+        "Morant"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0631\u06cc\u0646\u0679 \u0628\u06d2"
+    ],
+    "qs_pg:aaroncc":"JM",
+    "qs_pg:gn_country":"JM",
+    "qs_pg:gn_fcode":"PPLA",
+    "qs_pg:gn_id":3489440,
+    "qs_pg:gn_pop":9368,
+    "qs_pg:name":"Morant Bay",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1045253,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489440,
+        "qs_pg:id":1045253,
+        "wd:id":"Q429741"
+    },
+    "wof:country":"JM",
+    "wof:created":1497297033,
+    "wof:geomhash":"80fd2b870f2af07d7747759cce444898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1125938189,
+            "region_id":85672615
+        }
+    ],
+    "wof:id":1125938189,
+    "wof:lastmodified":1514466933,
+    "wof:name":"Morant Bay",
+    "wof:parent_id":85672615,
+    "wof:placetype":"locality",
+    "wof:population":9368,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.40927,
+    17.88145,
+    -76.40927,
+    17.88145
+],
+  "geometry": {"coordinates":[-76.40927000000001,17.88145],"type":"Point"}
+}

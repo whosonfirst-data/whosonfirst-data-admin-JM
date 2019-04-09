@@ -1,0 +1,71 @@
+{
+  "id": 1310288747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.10642,17.93326,-77.10642,17.93326",
+    "geom:latitude":17.93326,
+    "geom:longitude":-77.10642,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1429",
+    "gn:asciiname":"Newmarket Pen",
+    "gn:country_code":"JM",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489294,
+    "gn:latitude":17.93326,
+    "gn:longitude":-77.10642,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Newmarket Pen",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Newmarks Pen",
+        "Newmarket",
+        "Newmarket Pen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489294
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"bf723b6af8cba05d029b0c8be79f643b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1310288747,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":1310288747,
+    "wof:lastmodified":1537649737,
+    "wof:name":"Newmarket Pen",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.10642,
+    17.93326,
+    -77.10642,
+    17.93326
+],
+  "geometry": {"coordinates":[-77.10642,17.93326],"type":"Point"}
+}

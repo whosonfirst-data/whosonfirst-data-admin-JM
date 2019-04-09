@@ -1,0 +1,98 @@
+{
+  "id": 421201749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.79372,18.05078,-76.79372,18.05078",
+    "geom:latitude":18.05078,
+    "geom:longitude":-76.79372,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Constant Spring"
+    ],
+    "name:dut_x_preferred":[
+        "Constant Spring"
+    ],
+    "name:eng_x_preferred":[
+        "Constant Spring"
+    ],
+    "name:ger_x_preferred":[
+        "Constant Spring"
+    ],
+    "name:pol_x_preferred":[
+        "Constant Spring"
+    ],
+    "name:swe_x_preferred":[
+        "Constant Spring"
+    ],
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3490880,
+    "qs:gn_pop":12830,
+    "qs:name":"Constant Spring",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint Andrew",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":214227,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":108658,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490880,
+        "gp:id":108658,
+        "qs:id":214227,
+        "wd:id":"Q1127696",
+        "wk:page":"Constant Spring, Jamaica"
+    },
+    "wof:country":"JM",
+    "wof:created":1459010083,
+    "wof:geomhash":"7a3c54dc39b9d0c0b98e492561828954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421201749,
+            "region_id":85672609
+        }
+    ],
+    "wof:id":421201749,
+    "wof:lastmodified":1527716435,
+    "wof:name":"Constant Spring",
+    "wof:parent_id":85672609,
+    "wof:placetype":"locality",
+    "wof:population":12830,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.79372,
+    18.05078,
+    -76.79372,
+    18.05078
+],
+  "geometry": {"coordinates":[-76.79371999999999,18.05078],"type":"Point"}
+}

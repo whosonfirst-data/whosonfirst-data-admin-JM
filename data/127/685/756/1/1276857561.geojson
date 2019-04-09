@@ -1,0 +1,66 @@
+{
+  "id": 1276857561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.91658,18.32359,-76.91658,18.32359",
+    "geom:latitude":18.32359,
+    "geom:longitude":-76.91658,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"512",
+    "gn:asciiname":"Langley",
+    "gn:country_code":"JM",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489813,
+    "gn:latitude":18.32359,
+    "gn:longitude":-76.91658,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Langley",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489813
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"fc8f84a2877b557e2af4fedc2440e7aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1276857561,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":1276857561,
+    "wof:lastmodified":1537068053,
+    "wof:name":"Langley",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.91658000000002,
+    18.32359,
+    -76.91658000000002,
+    18.32359
+],
+  "geometry": {"coordinates":[-76.91658000000002,18.32359],"type":"Point"}
+}

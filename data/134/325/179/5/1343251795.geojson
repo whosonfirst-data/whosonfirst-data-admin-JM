@@ -1,0 +1,66 @@
+{
+  "id": 1343251795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.18444,18.24339,-77.18444,18.24339",
+    "geom:latitude":18.24339,
+    "geom:longitude":-77.18444,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"652.0",
+    "gn:asciiname":"Bally Mony",
+    "gn:country_code":"JM",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491489,
+    "gn:latitude":18.24339,
+    "gn:longitude":-77.18444,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Bally Mony",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491489
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"7a16d6345181ccc8768b6d2d8ed9ae3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1343251795,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":1343251795,
+    "wof:lastmodified":1537045565,
+    "wof:name":"Bally Mony",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.18444000000002,
+    18.24339,
+    -77.18444000000002,
+    18.24339
+],
+  "geometry": {"coordinates":[-77.18444000000002,18.24339],"type":"Point"}
+}

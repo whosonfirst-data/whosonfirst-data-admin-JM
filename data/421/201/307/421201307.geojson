@@ -1,0 +1,75 @@
+{
+  "id": 421201307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.1,18.4,-77.1,18.4",
+    "geom:latitude":18.4,
+    "geom:longitude":-77.1,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3489488,
+    "qs:gn_pop":0,
+    "qs:name":"Milford",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint Ann",
+    "qs:photos":1300,
+    "qs:photos_1k":263,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1300,
+    "qs:photos_sr":12,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":211086,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":109440,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":345,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489488,
+        "gp:id":109440,
+        "qs:id":211086
+    },
+    "wof:country":"JM",
+    "wof:created":1459010068,
+    "wof:geomhash":"8c72f803af3e4c862837a19cf9d23964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421201307,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":421201307,
+    "wof:lastmodified":1527716431,
+    "wof:name":"Milford",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.1,
+    18.4,
+    -77.1,
+    18.4
+],
+  "geometry": {"coordinates":[-77.09999999999999,18.4],"type":"Point"}
+}

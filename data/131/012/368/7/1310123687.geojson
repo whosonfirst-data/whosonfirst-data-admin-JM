@@ -1,0 +1,61 @@
+{
+  "id": 1310123687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.3,17.78333,-77.3,17.78333",
+    "geom:latitude":17.78333,
+    "geom:longitude":-77.3,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Knights",
+    "gn:country_code":"JM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489840,
+    "gn:latitude":17.78333,
+    "gn:longitude":-77.3,
+    "gn:modification_date":"1997-06-26",
+    "gn:name":"Knights",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489840
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"9ed955b86d4bbdc06497d3cb0bc68929",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310123687,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310123687,
+    "wof:lastmodified":1536969933,
+    "wof:name":"Knights",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.3,
+    17.78333,
+    -77.3,
+    17.78333
+],
+  "geometry": {"coordinates":[-77.3,17.78333],"type":"Point"}
+}

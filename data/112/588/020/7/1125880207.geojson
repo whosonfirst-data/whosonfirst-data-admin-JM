@@ -1,0 +1,101 @@
+{
+  "id": 1125880207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.3357,18.45962,-77.3357,18.45962",
+    "geom:latitude":18.45962,
+    "geom:longitude":-77.3357,
+    "gn:gn_country":"JM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6517,
+    "gn:population":6517,
+    "iso:country":"JM",
+    "lbl:latitude":18.45962,
+    "lbl:longitude":-77.3357,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u62c9\u7d0d\u97cb\u8c9d"
+    ],
+    "name:dut_x_preferred":[
+        "Runaway Bay"
+    ],
+    "name:eng_x_preferred":[
+        "Runaway Bay"
+    ],
+    "name:ger_x_preferred":[
+        "Runaway Bay"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d0\u05e0\u05d5\u05d5\u05d9 \u05d1\u05d9\u05d9"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u043d\u0430\u0432\u0435\u0458 \u0411\u0435\u0458"
+    ],
+    "name:swe_x_preferred":[
+        "Runaway Bay"
+    ],
+    "name:unk_x_variant":[
+        "Runaway Village"
+    ],
+    "qs_pg:aaroncc":"JM",
+    "qs_pg:gn_country":"JM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3488726,
+    "qs_pg:gn_pop":6517,
+    "qs_pg:name":"Runaway Bay",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":583356,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488726,
+        "qs_pg:id":583356,
+        "wd:id":"Q2175977"
+    },
+    "wof:country":"JM",
+    "wof:created":1497294765,
+    "wof:geomhash":"acedf5a068fc8fc0502e184c95faef3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1125880207,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":1125880207,
+    "wof:lastmodified":1553816596,
+    "wof:name":"Runaway Bay",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:population":6517,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.3357,
+    18.45962,
+    -77.3357,
+    18.45962
+],
+  "geometry": {"coordinates":[-77.3357,18.45962],"type":"Point"}
+}

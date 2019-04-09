@@ -1,0 +1,66 @@
+{
+  "id": 1310419873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.33081,18.14305,-77.33081,18.14305",
+    "geom:latitude":18.14305,
+    "geom:longitude":-77.33081,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1315",
+    "gn:asciiname":"Trout Hall",
+    "gn:country_code":"JM",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488212,
+    "gn:latitude":18.14305,
+    "gn:longitude":-77.33081,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Trout Hall",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488212
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"505b3ed030a0e1ad8fac795062742ed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1310419873,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":1310419873,
+    "wof:lastmodified":1537038792,
+    "wof:name":"Trout Hall",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.33081,
+    18.14305,
+    -77.33081,
+    18.14305
+],
+  "geometry": {"coordinates":[-77.33081,18.14305],"type":"Point"}
+}

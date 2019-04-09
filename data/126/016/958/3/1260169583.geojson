@@ -1,0 +1,66 @@
+{
+  "id": 1260169583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.86667,18.06667,-77.86667,18.06667",
+    "geom:latitude":18.06667,
+    "geom:longitude":-77.86667,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1124.0",
+    "gn:asciiname":"Kempshot",
+    "gn:country_code":"JM",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489884,
+    "gn:latitude":18.06667,
+    "gn:longitude":-77.86667,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Kempshot",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489884
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"cf1d9d4b46cea429071d03a38e017649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1260169583,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":1260169583,
+    "wof:lastmodified":1536865752,
+    "wof:name":"Kempshot",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.86667,
+    18.06667,
+    -77.86667,
+    18.06667
+],
+  "geometry": {"coordinates":[-77.86667,18.06667],"type":"Point"}
+}

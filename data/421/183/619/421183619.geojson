@@ -1,0 +1,72 @@
+{
+  "id": 421183619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.2,18.45,-78.2,18.45",
+    "geom:latitude":18.45,
+    "geom:longitude":-78.2,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3489189,
+    "qs:gn_pop":0,
+    "qs:name":"Orange Cove",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Hanover",
+    "qs:photos":27,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":27,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":982625,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":109610,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489189,
+        "gp:id":109610,
+        "qs:id":982625
+    },
+    "wof:country":"JM",
+    "wof:created":1459009376,
+    "wof:geomhash":"4f3bba41812c256e21d96a92765f37be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421183619,
+            "region_id":85672563
+        }
+    ],
+    "wof:id":421183619,
+    "wof:lastmodified":1466635857,
+    "wof:name":"Orange Cove",
+    "wof:parent_id":85672563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.2,
+    18.45,
+    -78.2,
+    18.45
+],
+  "geometry": {"coordinates":[-78.2,18.45],"type":"Point"}
+}

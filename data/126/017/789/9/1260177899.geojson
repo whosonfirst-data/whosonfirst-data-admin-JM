@@ -1,0 +1,70 @@
+{
+  "id": 1260177899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.36667,18.46667,-77.36667,18.46667",
+    "geom:latitude":18.46667,
+    "geom:longitude":-77.36667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Dry Harbour Cave",
+    "gn:cc2":"JM",
+    "gn:country_code":"JM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490656,
+    "gn:latitude":18.46667,
+    "gn:longitude":-77.36667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dry Harbour Cave",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dry Harbor Cave",
+        "Dry Harbour Cave"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490656
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"52bc72ef169cdfb9ef233bd63d9fc95c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1260177899,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":1260177899,
+    "wof:lastmodified":1537649750,
+    "wof:name":"Dry Harbour Cave",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.36667,
+    18.46667,
+    -77.36667,
+    18.46667
+],
+  "geometry": {"coordinates":[-77.36667,18.46667],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1226223443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.9137,18.08032,-77.9137,18.08032",
+    "geom:latitude":18.08032,
+    "geom:longitude":-77.9137,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1121",
+    "gn:asciiname":"Shrewsbury",
+    "gn:country_code":"JM",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488549,
+    "gn:latitude":18.08032,
+    "gn:longitude":-77.9137,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Shrewsbury",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488549
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"9193d805c9c02a2065f5e9bf190985ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1226223443,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":1226223443,
+    "wof:lastmodified":1536965610,
+    "wof:name":"Shrewsbury",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.9137,
+    18.08032,
+    -77.9137,
+    18.08032
+],
+  "geometry": {"coordinates":[-77.91370000000001,18.08032],"type":"Point"}
+}

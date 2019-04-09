@@ -1,0 +1,66 @@
+{
+  "id": 1310490651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.01667,18.21667,-77.01667,18.21667",
+    "geom:latitude":18.21667,
+    "geom:longitude":-77.01667,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1404.0",
+    "gn:asciiname":"Braema",
+    "gn:country_code":"JM",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491252,
+    "gn:latitude":18.21667,
+    "gn:longitude":-77.01667,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Braema",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491252
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"3634cdf49a44e3bd39099094ca1c7005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1310490651,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":1310490651,
+    "wof:lastmodified":1536939087,
+    "wof:name":"Braema",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.01666999999998,
+    18.21667,
+    -77.01666999999998,
+    18.21667
+],
+  "geometry": {"coordinates":[-77.01666999999998,18.21667],"type":"Point"}
+}

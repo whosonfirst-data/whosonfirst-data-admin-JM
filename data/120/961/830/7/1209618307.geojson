@@ -1,0 +1,66 @@
+{
+  "id": 1209618307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.98333,18.31667,-77.98333,18.31667",
+    "geom:latitude":18.31667,
+    "geom:longitude":-77.98333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Argyle",
+    "gn:cc2":"JM",
+    "gn:country_code":"JM",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491540,
+    "gn:latitude":18.31667,
+    "gn:longitude":-77.98333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Argyle",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Argyle Pen",
+        "Argyle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491540
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"283e145e0278e14dd2a502e006cd7add",
+    "wof:hierarchy":[
+        {
+            "country_id":85632215,
+            "locality_id":1209618307
+        }
+    ],
+    "wof:id":1209618307,
+    "wof:lastmodified":1537649760,
+    "wof:name":"Argyle",
+    "wof:parent_id":85632215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.98333000000002,
+    18.31667,
+    -77.98333000000002,
+    18.31667
+],
+  "geometry": {"coordinates":[-77.98333000000002,18.31667],"type":"Point"}
+}

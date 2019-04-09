@@ -1,0 +1,66 @@
+{
+  "id": 1310006487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.51667,17.88333,-77.51667,17.88333",
+    "geom:latitude":17.88333,
+    "geom:longitude":-77.51667,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"1270.0",
+    "gn:asciiname":"Great Valley",
+    "gn:country_code":"JM",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490245,
+    "gn:latitude":17.88333,
+    "gn:longitude":-77.51667,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Great Valley",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490245
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"73d98f8c4a6949b318ed40a8b406a8c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1310006487,
+            "region_id":85672567
+        }
+    ],
+    "wof:id":1310006487,
+    "wof:lastmodified":1536641020,
+    "wof:name":"Great Valley",
+    "wof:parent_id":85672567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.51666999999998,
+    17.88332999999999,
+    -77.51666999999998,
+    17.88332999999999
+],
+  "geometry": {"coordinates":[-77.51666999999998,17.88332999999999],"type":"Point"}
+}

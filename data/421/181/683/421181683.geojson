@@ -1,0 +1,75 @@
+{
+  "id": 421181683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.3,18.03333,-76.3,18.03333",
+    "geom:latitude":18.03333,
+    "geom:longitude":-76.3,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3488902,
+    "qs:gn_pop":0,
+    "qs:name":"Reach",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Portland",
+    "qs:photos":16,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":16,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":500560,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":109762,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":363,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488902,
+        "gp:id":109762,
+        "qs:id":500560
+    },
+    "wof:country":"JM",
+    "wof:created":1459009303,
+    "wof:geomhash":"22e35b36eaff6498eb525111e409c24d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421181683,
+            "region_id":85672591
+        }
+    ],
+    "wof:id":421181683,
+    "wof:lastmodified":1527716328,
+    "wof:name":"Reach",
+    "wof:parent_id":85672591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.3,
+    18.03333,
+    -76.3,
+    18.03333
+],
+  "geometry": {"coordinates":[-76.3,18.03333],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1193016209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.56667,17.96667,-77.56667,17.96667",
+    "geom:latitude":17.96667,
+    "geom:longitude":-77.56667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1261",
+    "gn:asciiname":"Lucky Valley",
+    "gn:country_code":"JM",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489650,
+    "gn:latitude":17.96667,
+    "gn:longitude":-77.56667,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Lucky Valley",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489650
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"96f719c10720f5dd569a50a51889e956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1193016209,
+            "region_id":85672567
+        }
+    ],
+    "wof:id":1193016209,
+    "wof:lastmodified":1536378194,
+    "wof:name":"Lucky Valley",
+    "wof:parent_id":85672567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.56667,
+    17.96667,
+    -77.56667,
+    17.96667
+],
+  "geometry": {"coordinates":[-77.56667,17.96667],"type":"Point"}
+}

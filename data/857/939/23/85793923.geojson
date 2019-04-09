@@ -1,0 +1,143 @@
+{
+  "id": 85793923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10223547.250605,
+    "geom:bbox":"-76.80374,17.973764,-76.80374,17.973764",
+    "geom:latitude":17.973764,
+    "geom:longitude":-76.80374,
+    "gn:latitude":17.98886,
+    "gn:longitude":-76.79873,
+    "iso:country":"JM",
+    "lbl:latitude":17.973764,
+    "lbl:longitude":-76.80374,
+    "mps:latitude":17.969117,
+    "mps:longitude":-76.811627,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:deu_x_preferred":[
+        "Trenchtown"
+    ],
+    "name:eng_x_preferred":[
+        "Trench Town"
+    ],
+    "name:fin_x_preferred":[
+        "Trenchtown"
+    ],
+    "name:fra_x_preferred":[
+        "Trenchtown"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05e0\u05e6'\u05d8\u05d0\u05d5\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Trenchtown"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30ec\u30f3\u30c1\u30bf\u30a6\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Trenchtown"
+    ],
+    "name:pol_x_preferred":[
+        "Trenchtown"
+    ],
+    "name:por_x_preferred":[
+        "Trenchtown"
+    ],
+    "name:spa_x_preferred":[
+        "Trenchtown"
+    ],
+    "name:swe_x_preferred":[
+        "Trenchtown"
+    ],
+    "name:unk_x_variant":[
+        "Trench Town"
+    ],
+    "qs:gn_adm0_cc":"JM",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3489854,
+    "qs:gn_namadm1":"08",
+    "qs:gn_name":"Trench Town",
+    "qs:local_max":911,
+    "qs:local_sum":2314,
+    "qs:localhoods":10,
+    "qs:name":"Trench Town",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint Andrew",
+    "qs:name_local":"Kingston",
+    "qs:photo_max":25,
+    "qs:photo_sum":142,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424858,
+    "qs:woe_adm1":2345916,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":109251,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:latitude":17.984889,
+    "wd:longitude":-76.79675,
+    "wd:wordcount":1090,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488221,
+        "gp:id":110159,
+        "qs:id":1165141,
+        "qs_pg:id":1165141,
+        "wd:id":"Q1753236"
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"fc34834b4274148306653ef72f2356d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":-1,
+            "neighbourhood_id":85793923,
+            "region_id":85672587
+        }
+    ],
+    "wof:id":85793923,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531861444,
+    "wof:name":"Trench Town",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.80374,
+    17.973764,
+    -76.80374,
+    17.973764
+],
+  "geometry": {"coordinates":[-76.80374,17.973764],"type":"Point"}
+}

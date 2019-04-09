@@ -1,0 +1,66 @@
+{
+  "id": 1242766711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.01667,18.23333,-77.01667,18.23333",
+    "geom:latitude":18.23333,
+    "geom:longitude":-77.01667,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1404.0",
+    "gn:asciiname":"Cotswold Hill",
+    "gn:country_code":"JM",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490846,
+    "gn:latitude":18.23333,
+    "gn:longitude":-77.01667,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Cotswold Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490846
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"e8f855c961fb39da2924934131a975a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1242766711,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":1242766711,
+    "wof:lastmodified":1536791644,
+    "wof:name":"Cotswold Hill",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.01666999999998,
+    18.23333,
+    -77.01666999999998,
+    18.23333
+],
+  "geometry": {"coordinates":[-77.01666999999998,18.23333],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 421175545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.09524,18.35653,-78.09524,18.35653",
+    "geom:latitude":18.35653,
+    "geom:longitude":-78.09524,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Penny Cooks"
+    ],
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3489074,
+    "qs:gn_pop":0,
+    "qs:name":"Pennycooke",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Hanover",
+    "qs:photos":108,
+    "qs:photos_1k":22,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":108,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":982631,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":109669,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489074,
+        "gp:id":109669,
+        "qs:id":982631
+    },
+    "wof:country":"JM",
+    "wof:created":1459009071,
+    "wof:geomhash":"0ee324b8efec5fcb84527e69b3af2535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421175545,
+            "region_id":85672583
+        }
+    ],
+    "wof:id":421175545,
+    "wof:lastmodified":1501267338,
+    "wof:name":"Pennycooke",
+    "wof:parent_id":85672583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.09524,
+    18.35653,
+    -78.09524,
+    18.35653
+],
+  "geometry": {"coordinates":[-78.09524,18.35653],"type":"Point"}
+}

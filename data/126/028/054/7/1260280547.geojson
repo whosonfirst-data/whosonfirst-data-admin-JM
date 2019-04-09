@@ -1,0 +1,70 @@
+{
+  "id": 1260280547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.5333,18.1833,-76.5333,18.1833",
+    "geom:latitude":18.1833,
+    "geom:longitude":-76.5333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"409",
+    "gn:asciiname":"Little Spring Garden",
+    "gn:country_code":"JM",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3489726,
+    "gn:latitude":18.1833,
+    "gn:longitude":-76.5333,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Little Spring Garden",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spring Garden",
+        "Little Spring Garden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489726
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"25b3edc2495d630d02b051c4ba9192bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1260280547,
+            "region_id":85672591
+        }
+    ],
+    "wof:id":1260280547,
+    "wof:lastmodified":1537649741,
+    "wof:name":"Little Spring Garden",
+    "wof:parent_id":85672591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.5333,
+    18.1833,
+    -76.5333,
+    18.1833
+],
+  "geometry": {"coordinates":[-76.5333,18.1833],"type":"Point"}
+}

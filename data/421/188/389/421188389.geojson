@@ -1,0 +1,80 @@
+{
+  "id": 421188389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.7796,17.99415,-76.7796,17.99415",
+    "geom:latitude":17.99415,
+    "geom:longitude":-76.7796,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Up Park Camp"
+    ],
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3488164,
+    "qs:gn_pop":0,
+    "qs:name":"Up Park Camp",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint Andrew",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1095790,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":110192,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":160,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488164,
+        "gp:id":110192,
+        "qs:id":1095790,
+        "wd:id":"Q7897903"
+    },
+    "wof:country":"JM",
+    "wof:created":1459009554,
+    "wof:geomhash":"d24246d9b7bc32526769373b68bb31ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":-1,
+            "neighbourhood_id":421188389,
+            "region_id":85672609
+        }
+    ],
+    "wof:id":421188389,
+    "wof:lastmodified":1531858616,
+    "wof:name":"Up Park Camp",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.7796,
+    17.99415,
+    -76.7796,
+    17.99415
+],
+  "geometry": {"coordinates":[-76.7796,17.99415],"type":"Point"}
+}

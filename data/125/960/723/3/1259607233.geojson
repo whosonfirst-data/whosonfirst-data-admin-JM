@@ -1,0 +1,66 @@
+{
+  "id": 1259607233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.55605,17.89255,-77.55605,17.89255",
+    "geom:latitude":17.89255,
+    "geom:longitude":-77.55605,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1269",
+    "gn:asciiname":"Rowes Corner",
+    "gn:country_code":"JM",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488736,
+    "gn:latitude":17.89255,
+    "gn:longitude":-77.55605,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Rowes Corner",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488736
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"6c23dbee1cfb57ee9703389b9bc3722b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1259607233,
+            "region_id":85672567
+        }
+    ],
+    "wof:id":1259607233,
+    "wof:lastmodified":1536680561,
+    "wof:name":"Rowes Corner",
+    "wof:parent_id":85672567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.55605,
+    17.89255,
+    -77.55605,
+    17.89255
+],
+  "geometry": {"coordinates":[-77.55605,17.89255],"type":"Point"}
+}

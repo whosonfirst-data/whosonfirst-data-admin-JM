@@ -1,0 +1,66 @@
+{
+  "id": 1277154289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.9289,18.4801,-77.9289,18.4801",
+    "geom:latitude":18.4801,
+    "geom:longitude":-77.9289,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"816.0",
+    "gn:asciiname":"Montego Bay Hip Strip",
+    "gn:country_code":"JM",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7521395,
+    "gn:latitude":18.4801,
+    "gn:longitude":-77.9289,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Montego Bay Hip Strip",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7521395
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"61cf3608328282925a99ce94dd34aad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1277154289,
+            "region_id":85672573
+        }
+    ],
+    "wof:id":1277154289,
+    "wof:lastmodified":1536664612,
+    "wof:name":"Montego Bay Hip Strip",
+    "wof:parent_id":85672573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.9289,
+    18.4801,
+    -77.9289,
+    18.4801
+],
+  "geometry": {"coordinates":[-77.9289,18.4801],"type":"Point"}
+}

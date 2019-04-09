@@ -1,0 +1,66 @@
+{
+  "id": 1344152435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.02013,17.9976,-77.02013,17.9976",
+    "geom:latitude":17.9976,
+    "geom:longitude":-77.02013,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1432.0",
+    "gn:asciiname":"Bellevue Heights",
+    "gn:country_code":"JM",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491422,
+    "gn:latitude":17.9976,
+    "gn:longitude":-77.02013,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Bellevue Heights",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491422
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"32a3a468162def14aa94b7c7128af413",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1344152435,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":1344152435,
+    "wof:lastmodified":1536742656,
+    "wof:name":"Bellevue Heights",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.02013000000002,
+    17.9976,
+    -77.02013000000002,
+    17.9976
+],
+  "geometry": {"coordinates":[-77.02013000000002,17.9976],"type":"Point"}
+}

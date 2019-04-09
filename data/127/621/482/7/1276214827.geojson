@@ -1,0 +1,66 @@
+{
+  "id": 1276214827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.65,18.06667,-77.65,18.06667",
+    "geom:latitude":18.06667,
+    "geom:longitude":-77.65,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1131",
+    "gn:asciiname":"Westphalia",
+    "gn:country_code":"JM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488080,
+    "gn:latitude":18.06667,
+    "gn:longitude":-77.65,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Westphalia",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488080
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"c75ac4690e2937d7ef958b21fcd86749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1276214827,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":1276214827,
+    "wof:lastmodified":1536938624,
+    "wof:name":"Westphalia",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.65,
+    18.06667,
+    -77.65,
+    18.06667
+],
+  "geometry": {"coordinates":[-77.65000000000001,18.06667],"type":"Point"}
+}

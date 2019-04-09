@@ -1,0 +1,89 @@
+{
+  "id": 421168223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.09718,17.90918,-77.09718,17.90918",
+    "geom:latitude":17.90918,
+    "geom:longitude":-77.09718,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Old Harbour Bay"
+    ],
+    "name:unk_x_variant":[
+        "Old Harbor"
+    ],
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3489225,
+    "qs:gn_pop":7912,
+    "qs:name":"Old Harbour Bay",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint Catherine",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1045243,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":109594,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"quattroshapes",
+    "wd:wordcount":123,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489227,
+        "gp:id":109594,
+        "qs:id":1045243,
+        "qs_pg:id":1045244,
+        "wd:id":"Q2018373"
+    },
+    "wof:country":"JM",
+    "wof:created":1459008758,
+    "wof:geomhash":"8981193b4caa266d0cd1ad8e306d8130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421168223,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":421168223,
+    "wof:lastmodified":1527716097,
+    "wof:name":"Old Harbour Bay",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:population":7912,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.09718,
+    17.90918,
+    -77.09718,
+    17.90918
+],
+  "geometry": {"coordinates":[-77.09717999999999,17.90918],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 421173541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.81675,17.98224,-76.81675,17.98224",
+    "geom:latitude":17.98224,
+    "geom:longitude":-76.81675,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3490207,
+    "qs:gn_pop":0,
+    "qs:name":"Greenwich Town",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint Andrew",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1321646,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":109036,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":23,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490207,
+        "gp:id":109036,
+        "qs:id":1321646
+    },
+    "wof:country":"JM",
+    "wof:created":1459008989,
+    "wof:geomhash":"3c4fd371d09547ac859ef46146faf8b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":-1,
+            "neighbourhood_id":421173541,
+            "region_id":85672609
+        }
+    ],
+    "wof:id":421173541,
+    "wof:lastmodified":1531858393,
+    "wof:name":"Greenwich Town",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.81675,
+    17.98224,
+    -76.81675,
+    17.98224
+],
+  "geometry": {"coordinates":[-76.81675,17.98224],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1343979321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.33621,18.1111,-76.33621,18.1111",
+    "geom:latitude":18.1111,
+    "geom:longitude":-76.33621,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"422",
+    "gn:asciiname":"Windsor Forest",
+    "gn:country_code":"JM",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3487993,
+    "gn:latitude":18.1111,
+    "gn:longitude":-76.33621,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Windsor Forest",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3487993
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"4e8fc5a6180bc7f7e3f54456142f2eca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1343979321,
+            "region_id":85672591
+        }
+    ],
+    "wof:id":1343979321,
+    "wof:lastmodified":1536992035,
+    "wof:name":"Windsor Forest",
+    "wof:parent_id":85672591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.33621,
+    18.1111,
+    -76.33621,
+    18.1111
+],
+  "geometry": {"coordinates":[-76.33620999999999,18.1111],"type":"Point"}
+}

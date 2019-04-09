@@ -1,0 +1,71 @@
+{
+  "id": 1226623387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.85,18.38333,-77.85,18.38333",
+    "geom:latitude":18.38333,
+    "geom:longitude":-77.85,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"859",
+    "gn:asciiname":"Spring Mount",
+    "gn:cc2":"JM",
+    "gn:country_code":"JM",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488430,
+    "gn:latitude":18.38333,
+    "gn:longitude":-77.85,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Spring Mount",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spring Mount Estate",
+        "Spring Mount"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488430
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"18849d52875511029b00bd2951dc1fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1226623387,
+            "region_id":85672573
+        }
+    ],
+    "wof:id":1226623387,
+    "wof:lastmodified":1537649730,
+    "wof:name":"Spring Mount",
+    "wof:parent_id":85672573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.85,
+    18.38333,
+    -77.85,
+    18.38333
+],
+  "geometry": {"coordinates":[-77.84999999999999,18.38333],"type":"Point"}
+}

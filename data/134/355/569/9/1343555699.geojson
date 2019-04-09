@@ -1,0 +1,66 @@
+{
+  "id": 1343555699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.63442,18.19219,-76.63442,18.19219",
+    "geom:latitude":18.19219,
+    "geom:longitude":-76.63442,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"437",
+    "gn:asciiname":"Skibo",
+    "gn:country_code":"JM",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488523,
+    "gn:latitude":18.19219,
+    "gn:longitude":-76.63442,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Skibo",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488523
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"4449d245f2ea8eaab45790fa49bce6a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1343555699,
+            "region_id":85672591
+        }
+    ],
+    "wof:id":1343555699,
+    "wof:lastmodified":1536605870,
+    "wof:name":"Skibo",
+    "wof:parent_id":85672591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.63441999999998,
+    18.19219,
+    -76.63441999999998,
+    18.19219
+],
+  "geometry": {"coordinates":[-76.63441999999998,18.19219],"type":"Point"}
+}

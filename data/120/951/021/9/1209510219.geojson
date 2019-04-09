@@ -1,0 +1,63 @@
+{
+  "id": 1209510219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.13676,18.04156,-77.13676,18.04156",
+    "geom:latitude":18.04156,
+    "geom:longitude":-77.13676,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1428",
+    "gn:asciiname":"Woodhall",
+    "gn:country_code":"JM",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3487982,
+    "gn:latitude":18.04156,
+    "gn:longitude":-77.13676,
+    "gn:modification_date":"2018-04-13",
+    "gn:name":"Woodhall",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3487982,
+        "wk:page":"Wood_Hall"
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"d6ca70b78bf534aaf19f4fa12dfd3ca4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632215,
+            "locality_id":1209510219
+        }
+    ],
+    "wof:id":1209510219,
+    "wof:lastmodified":1537566848,
+    "wof:name":"Woodhall",
+    "wof:parent_id":85632215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.13676,
+    18.04156,
+    -77.13676,
+    18.04156
+],
+  "geometry": {"coordinates":[-77.13676,18.04156],"type":"Point"}
+}

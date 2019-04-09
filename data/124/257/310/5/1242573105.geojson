@@ -1,0 +1,66 @@
+{
+  "id": 1242573105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.98333,18.01667,-76.98333,18.01667",
+    "geom:latitude":18.01667,
+    "geom:longitude":-76.98333,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1432.0",
+    "gn:asciiname":"Hog Hole",
+    "gn:country_code":"JM",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490058,
+    "gn:latitude":18.01667,
+    "gn:longitude":-76.98333,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Hog Hole",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490058
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"37709f6b458b5b1d6ec8da4527c7176f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1242573105,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":1242573105,
+    "wof:lastmodified":1537067218,
+    "wof:name":"Hog Hole",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.98333000000002,
+    18.01667,
+    -76.98333000000002,
+    18.01667
+],
+  "geometry": {"coordinates":[-76.98333000000002,18.01667],"type":"Point"}
+}

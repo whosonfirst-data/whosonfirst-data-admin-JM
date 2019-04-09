@@ -1,0 +1,66 @@
+{
+  "id": 1209995931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.9379,18.41095,-76.9379,18.41095",
+    "geom:latitude":18.41095,
+    "geom:longitude":-76.9379,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"506",
+    "gn:asciiname":"Liberty Castle",
+    "gn:country_code":"JM",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489786,
+    "gn:latitude":18.41095,
+    "gn:longitude":-76.9379,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Liberty Castle",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489786
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"0f2fac87c5a49de391a8ed2f2c2d6938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1209995931,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":1209995931,
+    "wof:lastmodified":1536383868,
+    "wof:name":"Liberty Castle",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.9379,
+    18.41095,
+    -76.9379,
+    18.41095
+],
+  "geometry": {"coordinates":[-76.9379,18.41095],"type":"Point"}
+}

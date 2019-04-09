@@ -1,0 +1,91 @@
+{
+  "id": 421180161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.39245,18.45986,-77.39245,18.45986",
+    "geom:latitude":18.45986,
+    "geom:longitude":-77.39245,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Discovery Bay"
+    ],
+    "name:eng_x_preferred":[
+        "Discovery Bay"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a3\u30b9\u30ab\u30d0\u30ea\u30fc\u30fb\u30d9\u30a4"
+    ],
+    "name:unk_x_variant":[
+        "Puerto Bueno"
+    ],
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3490716,
+    "qs:gn_pop":2535,
+    "qs:name":"Discovery Bay",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint Ann",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1116243,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":108747,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":4494,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490716,
+        "gp:id":108747,
+        "qs:id":1116243,
+        "wd:id":"Q5281864"
+    },
+    "wof:country":"JM",
+    "wof:created":1459009246,
+    "wof:geomhash":"f5f4f479290e7b5cf23b2daf90998d9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421180161,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":421180161,
+    "wof:lastmodified":1553816369,
+    "wof:name":"Discovery Bay",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:population":2535,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.39245,
+    18.45986,
+    -77.39245,
+    18.45986
+],
+  "geometry": {"coordinates":[-77.39245,18.45986],"type":"Point"}
+}

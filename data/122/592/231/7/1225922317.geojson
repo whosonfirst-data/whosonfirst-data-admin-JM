@@ -1,0 +1,66 @@
+{
+  "id": 1225922317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.73333,17.93333,-77.73333,17.93333",
+    "geom:latitude":17.93333,
+    "geom:longitude":-77.73333,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1153.0",
+    "gn:asciiname":"Geneva",
+    "gn:country_code":"JM",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490366,
+    "gn:latitude":17.93333,
+    "gn:longitude":-77.73333,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Geneva",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490366
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"04154bbea436cdf2d3cdb0be1b64945f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1225922317,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":1225922317,
+    "wof:lastmodified":1536903490,
+    "wof:name":"Geneva",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.73333000000002,
+    17.93332999999999,
+    -77.73333000000002,
+    17.93332999999999
+],
+  "geometry": {"coordinates":[-77.73333000000002,17.93332999999999],"type":"Point"}
+}

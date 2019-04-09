@@ -1,0 +1,62 @@
+{
+  "id": 1209494607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.94938,18.26907,-76.94938,18.26907",
+    "geom:latitude":18.26907,
+    "geom:longitude":-76.94938,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"524.0",
+    "gn:asciiname":"Change Hill",
+    "gn:country_code":"JM",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491009,
+    "gn:latitude":18.26907,
+    "gn:longitude":-76.94938,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Change Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491009
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"e6f794843d5343e7f17b0e5d676b2e86",
+    "wof:hierarchy":[
+        {
+            "country_id":85632215,
+            "locality_id":1209494607
+        }
+    ],
+    "wof:id":1209494607,
+    "wof:lastmodified":1536285376,
+    "wof:name":"Change Hill",
+    "wof:parent_id":85632215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.94938,
+    18.269070000000006,
+    -76.94938,
+    18.269070000000006
+],
+  "geometry": {"coordinates":[-76.94938,18.26907000000001],"type":"Point"}
+}

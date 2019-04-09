@@ -1,0 +1,66 @@
+{
+  "id": 1344234113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.89889,18.44556,-77.89889,18.44556",
+    "geom:latitude":18.44556,
+    "geom:longitude":-77.89889,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"845.0",
+    "gn:asciiname":"Granville",
+    "gn:country_code":"JM",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10400168,
+    "gn:latitude":18.44556,
+    "gn:longitude":-77.89889,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Granville",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10400168
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"3f1180ac8211af3ad8c76d9de4ad0b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1344234113,
+            "region_id":85672573
+        }
+    ],
+    "wof:id":1344234113,
+    "wof:lastmodified":1536623097,
+    "wof:name":"Granville",
+    "wof:parent_id":85672573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.89889000000002,
+    18.44556,
+    -77.89889000000002,
+    18.44556
+],
+  "geometry": {"coordinates":[-77.89889000000002,18.44556],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259861699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.95745,18.26506,-77.95745,18.26506",
+    "geom:latitude":18.26506,
+    "geom:longitude":-77.95745,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1018",
+    "gn:asciiname":"Struie",
+    "gn:country_code":"JM",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488364,
+    "gn:latitude":18.26506,
+    "gn:longitude":-77.95745,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Struie",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Strui",
+        "Struie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488364
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"9017b2fbbc65ea11f384629ec0ca4570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1259861699,
+            "region_id":85672583
+        }
+    ],
+    "wof:id":1259861699,
+    "wof:lastmodified":1537649729,
+    "wof:name":"Struie",
+    "wof:parent_id":85672583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.95745,
+    18.26506,
+    -77.95745,
+    18.26506
+],
+  "geometry": {"coordinates":[-77.95744999999999,18.26506],"type":"Point"}
+}

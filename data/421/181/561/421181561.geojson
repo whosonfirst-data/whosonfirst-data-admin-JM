@@ -1,0 +1,72 @@
+{
+  "id": 421181561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.92111,18.46104,-77.92111,18.46104",
+    "geom:latitude":18.46104,
+    "geom:longitude":-77.92111,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3490530,
+    "qs:gn_pop":0,
+    "qs:name":"Fairfield",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint James",
+    "qs:photos":20,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":20,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":494673,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":108847,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490530,
+        "gp:id":108847,
+        "qs:id":494673
+    },
+    "wof:country":"JM",
+    "wof:created":1459009300,
+    "wof:geomhash":"fa6055906e73f4f2aa8f34e62c15f407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421181561,
+            "region_id":85672573
+        }
+    ],
+    "wof:id":421181561,
+    "wof:lastmodified":1466635853,
+    "wof:name":"Fairfield",
+    "wof:parent_id":85672573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.92111,
+    18.46104,
+    -77.92111,
+    18.46104
+],
+  "geometry": {"coordinates":[-77.92111,18.46104],"type":"Point"}
+}

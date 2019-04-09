@@ -1,0 +1,70 @@
+{
+  "id": 1225829683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.25631,18.45596,-77.25631,18.45596",
+    "geom:latitude":18.45596,
+    "geom:longitude":-77.25631,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"605",
+    "gn:asciiname":"Laughlands",
+    "gn:country_code":"JM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489812,
+    "gn:latitude":18.45596,
+    "gn:longitude":-77.25631,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Laughlands",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laughland",
+        "Laughlands"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489812
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"ea3f2827bd2e1b1580d40249d243e081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1225829683,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":1225829683,
+    "wof:lastmodified":1537649742,
+    "wof:name":"Laughlands",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.25631,
+    18.45596,
+    -77.25631,
+    18.45596
+],
+  "geometry": {"coordinates":[-77.25631,18.45596],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226635077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.89045,17.96207,-76.89045,17.96207",
+    "geom:latitude":17.96207,
+    "geom:longitude":-76.89045,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1448",
+    "gn:asciiname":"Naggo Head",
+    "gn:country_code":"JM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489346,
+    "gn:latitude":17.96207,
+    "gn:longitude":-76.89045,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Naggo Head",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nago Head",
+        "Naggo Head"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489346
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"a12c2356ea0ea7b342ace85ff370aa13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1226635077,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":1226635077,
+    "wof:lastmodified":1537649738,
+    "wof:name":"Naggo Head",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.89045,
+    17.96207,
+    -76.89045,
+    17.96207
+],
+  "geometry": {"coordinates":[-76.89045,17.96207],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209993733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.79624,18.33748,-77.79624,18.33748",
+    "geom:latitude":18.33748,
+    "geom:longitude":-77.79624,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"863",
+    "gn:asciiname":"Vaughansfield",
+    "gn:country_code":"JM",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488156,
+    "gn:latitude":18.33748,
+    "gn:longitude":-77.79624,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Vaughansfield",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488156
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"e4808cadb619e46eb9d7af285be9a99e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1209993733,
+            "region_id":85672573
+        }
+    ],
+    "wof:id":1209993733,
+    "wof:lastmodified":1536385239,
+    "wof:name":"Vaughansfield",
+    "wof:parent_id":85672573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.79624,
+    18.33748,
+    -77.79624,
+    18.33748
+],
+  "geometry": {"coordinates":[-77.79624,18.33748],"type":"Point"}
+}

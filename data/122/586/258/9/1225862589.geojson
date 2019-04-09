@@ -1,0 +1,72 @@
+{
+  "id": 1225862589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.16542,17.95979,-77.16542,17.95979",
+    "geom:latitude":17.95979,
+    "geom:longitude":-77.16542,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1366",
+    "gn:asciiname":"Rosewell",
+    "gn:country_code":"JM",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488744,
+    "gn:latitude":17.95979,
+    "gn:longitude":-77.16542,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Rosewell",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Roswell\u2019s",
+        "Rosewells",
+        "Roswalls",
+        "Rosewell"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488744
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"7213b6f826c264946de0833a756de558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1225862589,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":1225862589,
+    "wof:lastmodified":1537649732,
+    "wof:name":"Rosewell",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.16542,
+    17.95978999999999,
+    -77.16542,
+    17.95978999999999
+],
+  "geometry": {"coordinates":[-77.16542,17.95978999999999],"type":"Point"}
+}

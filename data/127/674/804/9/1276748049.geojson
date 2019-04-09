@@ -1,0 +1,66 @@
+{
+  "id": 1276748049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.4,18.21667,-77.4,18.21667",
+    "geom:latitude":18.21667,
+    "geom:longitude":-77.4,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"646",
+    "gn:asciiname":"Old Barracks",
+    "gn:country_code":"JM",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489236,
+    "gn:latitude":18.21667,
+    "gn:longitude":-77.4,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Old Barracks",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489236
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"9e7685fd67b7accb4505ebc689f823eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1276748049,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":1276748049,
+    "wof:lastmodified":1536720577,
+    "wof:name":"Old Barracks",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.4,
+    18.21667,
+    -77.4,
+    18.21667
+],
+  "geometry": {"coordinates":[-77.40000000000001,18.21667],"type":"Point"}
+}

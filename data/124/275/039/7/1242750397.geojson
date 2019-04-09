@@ -1,0 +1,66 @@
+{
+  "id": 1242750397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.99933,18.1803,-77.99933,18.1803",
+    "geom:latitude":18.1803,
+    "geom:longitude":-77.99933,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1077.0",
+    "gn:asciiname":"Content",
+    "gn:country_code":"JM",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490872,
+    "gn:latitude":18.1803,
+    "gn:longitude":-77.99933,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Content",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490872
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"9a85fe4b197bb6c83b9d10546da5560e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1242750397,
+            "region_id":85672583
+        }
+    ],
+    "wof:id":1242750397,
+    "wof:lastmodified":1536814194,
+    "wof:name":"Content",
+    "wof:parent_id":85672583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.99933,
+    18.1803,
+    -77.99933,
+    18.1803
+],
+  "geometry": {"coordinates":[-77.99933,18.1803],"type":"Point"}
+}

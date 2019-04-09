@@ -1,0 +1,66 @@
+{
+  "id": 1309701289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.07647,18.18793,-77.07647,18.18793",
+    "geom:latitude":18.18793,
+    "geom:longitude":-77.07647,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1402.0",
+    "gn:asciiname":"Hayfield",
+    "gn:country_code":"JM",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490104,
+    "gn:latitude":18.18793,
+    "gn:longitude":-77.07647,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Hayfield",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490104
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"ca2fed6b5218e93897b2db3c2902809b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1309701289,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":1309701289,
+    "wof:lastmodified":1537078688,
+    "wof:name":"Hayfield",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.07647,
+    18.18793,
+    -77.07647,
+    18.18793
+],
+  "geometry": {"coordinates":[-77.07647,18.18793],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360074925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.37079,18.35457,-77.37079,18.35457",
+    "geom:latitude":18.35457,
+    "geom:longitude":-77.37079,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"625.0",
+    "gn:asciiname":"Nine Mile",
+    "gn:country_code":"JM",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8504887,
+    "gn:latitude":18.35457,
+    "gn:longitude":-77.37079,
+    "gn:modification_date":"2018-04-02",
+    "gn:name":"Nine Mile",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8504887,
+        "wk:page":"Nine_Mile,_Jamaica"
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"878ccb6e7e324a0685ead2e0ebab2b24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1360074925,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":1360074925,
+    "wof:lastmodified":1537566853,
+    "wof:name":"Nine Mile",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.37079,
+    18.35457,
+    -77.37079,
+    18.35457
+],
+  "geometry": {"coordinates":[-77.37079,18.35457],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 890429179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.15469,18.29407,-78.15469,18.29407",
+    "geom:latitude":18.29407,
+    "geom:longitude":-78.15469,
+    "gn:country":"JM",
+    "gn:fcode":"PPL",
+    "gn:pop":993,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Frome"
+    ],
+    "name:eng_x_preferred":[
+        "Frome"
+    ],
+    "name:ltz_x_preferred":[
+        "Frome"
+    ],
+    "qs:name":"Frome",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:latitude":"51.2279",
+    "wd:longitude":"-2.3215",
+    "wd:wordcount":7845,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490390,
+        "gp:id":108924,
+        "qs:id":95698,
+        "wd:id":"Q5505729",
+        "wk:page":"Frome"
+    },
+    "wof:country":"JM",
+    "wof:created":1469051799,
+    "wof:geomhash":"928a86523d6db9248f9718ca7cc5a4a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":890429179,
+            "region_id":85672583
+        }
+    ],
+    "wof:id":890429179,
+    "wof:lastmodified":1553816394,
+    "wof:name":"Frome",
+    "wof:parent_id":85672583,
+    "wof:placetype":"locality",
+    "wof:population":993,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.15469,
+    18.29407,
+    -78.15469,
+    18.29407
+],
+  "geometry": {"coordinates":[-78.15469,18.29407],"type":"Point"}
+}

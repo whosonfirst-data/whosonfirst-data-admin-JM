@@ -1,0 +1,70 @@
+{
+  "id": 1242847613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.61667,18.41761,-77.61667,18.41761",
+    "geom:latitude":18.41761,
+    "geom:longitude":-77.61667,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"716.0",
+    "gn:asciiname":"Chester",
+    "gn:country_code":"JM",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490979,
+    "gn:latitude":18.41761,
+    "gn:longitude":-77.61667,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Chester",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chesler",
+        "Chester"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490979
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"44ab41ef761d6efac80f953d57f5bc23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1242847613,
+            "region_id":85672579
+        }
+    ],
+    "wof:id":1242847613,
+    "wof:lastmodified":1537649754,
+    "wof:name":"Chester",
+    "wof:parent_id":85672579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.61667,
+    18.41761,
+    -77.61667,
+    18.41761
+],
+  "geometry": {"coordinates":[-77.61667,18.41761],"type":"Point"}
+}

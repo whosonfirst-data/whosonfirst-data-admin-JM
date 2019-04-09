@@ -1,0 +1,71 @@
+{
+  "id": 1293792555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.16521,18.43732,-78.16521,18.43732",
+    "geom:latitude":18.43732,
+    "geom:longitude":-78.16521,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"905.0",
+    "gn:asciiname":"Johnson Town",
+    "gn:country_code":"JM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489911,
+    "gn:latitude":18.43732,
+    "gn:longitude":-78.16521,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Johnson Town",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Johnston Town",
+        "Johnsons Town",
+        "Johnson Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489911
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"348895a38a263b30fe6c154e7b521910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1293792555,
+            "region_id":85672563
+        }
+    ],
+    "wof:id":1293792555,
+    "wof:lastmodified":1537649743,
+    "wof:name":"Johnson Town",
+    "wof:parent_id":85672563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.16521,
+    18.43732,
+    -78.16521,
+    18.43732
+],
+  "geometry": {"coordinates":[-78.16521,18.43732],"type":"Point"}
+}

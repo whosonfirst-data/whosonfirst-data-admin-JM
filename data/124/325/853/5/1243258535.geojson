@@ -1,0 +1,66 @@
+{
+  "id": 1243258535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.32603,18.45287,-77.32603,18.45287",
+    "geom:latitude":18.45287,
+    "geom:longitude":-77.32603,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"602",
+    "gn:asciiname":"Tripoli",
+    "gn:country_code":"JM",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488216,
+    "gn:latitude":18.45287,
+    "gn:longitude":-77.32603,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Tripoli",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488216
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"7f82c8cbd86acc201f6abc931ae1e1b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1243258535,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":1243258535,
+    "wof:lastmodified":1537073333,
+    "wof:name":"Tripoli",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.32603,
+    18.45287,
+    -77.32603,
+    18.45287
+],
+  "geometry": {"coordinates":[-77.32603,18.45287],"type":"Point"}
+}

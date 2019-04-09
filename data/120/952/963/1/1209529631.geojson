@@ -1,0 +1,67 @@
+{
+  "id": 1209529631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.21417,17.95162,-77.21417,17.95162",
+    "geom:latitude":17.95162,
+    "geom:longitude":-77.21417,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1365",
+    "gn:asciiname":"Palmers Cross",
+    "gn:country_code":"JM",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489148,
+    "gn:latitude":17.95162,
+    "gn:longitude":-77.21417,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Palmers Cross",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palmers",
+        "Palmers Cross"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489148,
+        "wk:page":"Palmers_Cross"
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"1f80076f42f13c080e0f7e46165e2979",
+    "wof:hierarchy":[
+        {
+            "country_id":85632215,
+            "locality_id":1209529631
+        }
+    ],
+    "wof:id":1209529631,
+    "wof:lastmodified":1537649736,
+    "wof:name":"Palmers Cross",
+    "wof:parent_id":85632215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.21417,
+    17.95162000000001,
+    -77.21417,
+    17.95162000000001
+],
+  "geometry": {"coordinates":[-77.21417,17.95162000000001],"type":"Point"}
+}

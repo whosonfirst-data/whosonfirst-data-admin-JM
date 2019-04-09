@@ -1,0 +1,66 @@
+{
+  "id": 1209303479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.15516,18.06171,-77.15516,18.06171",
+    "geom:latitude":18.06171,
+    "geom:longitude":-77.15516,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1427.0",
+    "gn:asciiname":"Bellfield",
+    "gn:country_code":"JM",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491420,
+    "gn:latitude":18.06171,
+    "gn:longitude":-77.15516,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Bellfield",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belfield",
+        "Bellfield"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491420
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"8a8d6ac4257aeebd467282fb52d07bba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632215,
+            "locality_id":1209303479
+        }
+    ],
+    "wof:id":1209303479,
+    "wof:lastmodified":1537649758,
+    "wof:name":"Bellfield",
+    "wof:parent_id":85632215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.15516,
+    18.06171,
+    -77.15516,
+    18.06171
+],
+  "geometry": {"coordinates":[-77.15516,18.06171],"type":"Point"}
+}

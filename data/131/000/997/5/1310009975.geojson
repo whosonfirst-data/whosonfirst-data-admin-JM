@@ -1,0 +1,66 @@
+{
+  "id": 1310009975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.33,18.04,-77.33,18.04",
+    "geom:latitude":18.04,
+    "geom:longitude":-77.33,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1341",
+    "gn:asciiname":"Mocho",
+    "gn:country_code":"JM",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3489475,
+    "gn:latitude":18.04,
+    "gn:longitude":-77.33,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Mocho",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489475
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"38ff2634b2cb99b2c5423bd7f39c4435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1310009975,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":1310009975,
+    "wof:lastmodified":1536635568,
+    "wof:name":"Mocho",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.33,
+    18.04,
+    -77.33,
+    18.04
+],
+  "geometry": {"coordinates":[-77.33,18.04],"type":"Point"}
+}

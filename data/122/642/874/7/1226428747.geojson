@@ -1,0 +1,66 @@
+{
+  "id": 1226428747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.73333,18.23333,-76.73333,18.23333",
+    "geom:latitude":18.23333,
+    "geom:longitude":-76.73333,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"544.0",
+    "gn:asciiname":"Brown Hill Village",
+    "gn:country_code":"JM",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491203,
+    "gn:latitude":18.23333,
+    "gn:longitude":-76.73333,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Brown Hill Village",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491203
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"a25fdffcd004a8d607e11f13e2840b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1226428747,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":1226428747,
+    "wof:lastmodified":1536669958,
+    "wof:name":"Brown Hill Village",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.73333000000002,
+    18.23333,
+    -76.73333000000002,
+    18.23333
+],
+  "geometry": {"coordinates":[-76.73333000000002,18.23333],"type":"Point"}
+}

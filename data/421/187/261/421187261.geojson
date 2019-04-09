@@ -1,0 +1,75 @@
+{
+  "id": 421187261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.03333,18.4,-77.03333,18.4",
+    "geom:latitude":18.4,
+    "geom:longitude":-77.03333,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3490134,
+    "qs:gn_pop":0,
+    "qs:name":"Hard Bargain",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint Mary",
+    "qs:photos":244,
+    "qs:photos_1k":49,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":244,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1082617,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":109083,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490134,
+        "gp:id":109083,
+        "qs:id":1082617
+    },
+    "wof:country":"JM",
+    "wof:created":1459009507,
+    "wof:geomhash":"888a618723739f851a680fad074a639a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421187261,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":421187261,
+    "wof:lastmodified":1527716247,
+    "wof:name":"Hard Bargain",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.03333,
+    18.4,
+    -77.03333,
+    18.4
+],
+  "geometry": {"coordinates":[-77.03333000000001,18.4],"type":"Point"}
+}

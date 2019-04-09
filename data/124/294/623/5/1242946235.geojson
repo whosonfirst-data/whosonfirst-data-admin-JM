@@ -1,0 +1,70 @@
+{
+  "id": 1242946235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.61695,18.24553,-77.61695,18.24553",
+    "geom:latitude":18.24553,
+    "geom:longitude":-77.61695,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"728",
+    "gn:asciiname":"Troy",
+    "gn:country_code":"JM",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488210,
+    "gn:latitude":18.24553,
+    "gn:longitude":-77.61695,
+    "gn:modification_date":"2017-03-15",
+    "gn:name":"Troy",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Troy Village",
+        "Troy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488210
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"8e47fe116aef3003278064754df10fab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1242946235,
+            "region_id":85672567
+        }
+    ],
+    "wof:id":1242946235,
+    "wof:lastmodified":1537649727,
+    "wof:name":"Troy",
+    "wof:parent_id":85672567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.61695,
+    18.24553,
+    -77.61695,
+    18.24553
+],
+  "geometry": {"coordinates":[-77.61695,18.24553],"type":"Point"}
+}

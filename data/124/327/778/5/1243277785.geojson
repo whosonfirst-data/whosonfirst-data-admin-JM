@@ -1,0 +1,66 @@
+{
+  "id": 1243277785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.22043,18.1938,-77.22043,18.1938",
+    "geom:latitude":18.1938,
+    "geom:longitude":-77.22043,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1309",
+    "gn:asciiname":"Pedro River",
+    "gn:country_code":"JM",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489085,
+    "gn:latitude":18.1938,
+    "gn:longitude":-77.22043,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Pedro River",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489085
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"abc19bf2b6500ab9117aa90bedb5a157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1243277785,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":1243277785,
+    "wof:lastmodified":1537046661,
+    "wof:name":"Pedro River",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.22043000000002,
+    18.1938,
+    -77.22043000000002,
+    18.1938
+],
+  "geometry": {"coordinates":[-77.22043000000002,18.1938],"type":"Point"}
+}

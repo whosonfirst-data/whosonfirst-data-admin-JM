@@ -1,0 +1,66 @@
+{
+  "id": 1259858873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.88868,18.26358,-76.88868,18.26358",
+    "geom:latitude":18.26358,
+    "geom:longitude":-76.88868,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"525",
+    "gn:asciiname":"The Cottage",
+    "gn:country_code":"JM",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488293,
+    "gn:latitude":18.26358,
+    "gn:longitude":-76.88868,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"The Cottage",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488293
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"dd6f0d1cab8ccb4ed0442f825a26871b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1259858873,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":1259858873,
+    "wof:lastmodified":1536813983,
+    "wof:name":"The Cottage",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.88868000000002,
+    18.26358,
+    -76.88868000000002,
+    18.26358
+],
+  "geometry": {"coordinates":[-76.88868000000002,18.26358],"type":"Point"}
+}

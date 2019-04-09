@@ -1,0 +1,70 @@
+{
+  "id": 1309824177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.05818,18.0312,-77.05818,18.0312",
+    "geom:latitude":18.0312,
+    "geom:longitude":-77.05818,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1422.0",
+    "gn:asciiname":"Bamboo Market",
+    "gn:country_code":"JM",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491483,
+    "gn:latitude":18.0312,
+    "gn:longitude":-77.05818,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Bamboo Market",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bamboo",
+        "Bamboo Market"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491483
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"c637c247a488221020671a1050c2702e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1309824177,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":1309824177,
+    "wof:lastmodified":1537649759,
+    "wof:name":"Bamboo Market",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.05818000000002,
+    18.0312,
+    -77.05818000000002,
+    18.0312
+],
+  "geometry": {"coordinates":[-77.05818000000002,18.0312],"type":"Point"}
+}

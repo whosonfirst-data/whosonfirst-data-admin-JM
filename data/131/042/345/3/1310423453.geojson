@@ -1,0 +1,70 @@
+{
+  "id": 1310423453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.28232,17.7792,-77.28232,17.7792",
+    "geom:latitude":17.7792,
+    "geom:longitude":-77.28232,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1379.0",
+    "gn:asciiname":"Carlisle",
+    "gn:country_code":"JM",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491070,
+    "gn:latitude":17.7792,
+    "gn:longitude":-77.28232,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Carlisle",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carlyle",
+        "Carlisle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491070
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"124cff4a2781f917710f4c6212783b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1310423453,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":1310423453,
+    "wof:lastmodified":1537649754,
+    "wof:name":"Carlisle",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.28232,
+    17.7792,
+    -77.28232,
+    17.7792
+],
+  "geometry": {"coordinates":[-77.28232,17.7792],"type":"Point"}
+}

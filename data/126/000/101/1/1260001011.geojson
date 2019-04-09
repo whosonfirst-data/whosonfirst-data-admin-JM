@@ -1,0 +1,70 @@
+{
+  "id": 1260001011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.71743,18.09898,-76.71743,18.09898",
+    "geom:latitude":18.09898,
+    "geom:longitude":-76.71743,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"444.0",
+    "gn:asciiname":"Green Hills",
+    "gn:country_code":"JM",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490232,
+    "gn:latitude":18.09898,
+    "gn:longitude":-76.71743,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Green Hills",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Green Hill",
+        "Green Hills"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490232
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"8fb1d199dbbb9b3158cfcdb4afbc395a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1260001011,
+            "region_id":85672591
+        }
+    ],
+    "wof:id":1260001011,
+    "wof:lastmodified":1537649746,
+    "wof:name":"Green Hills",
+    "wof:parent_id":85672591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.71743000000002,
+    18.09898,
+    -76.71743000000002,
+    18.09898
+],
+  "geometry": {"coordinates":[-76.71743000000002,18.09898],"type":"Point"}
+}

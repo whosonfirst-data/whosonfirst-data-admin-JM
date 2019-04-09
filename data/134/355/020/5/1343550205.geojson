@@ -1,0 +1,65 @@
+{
+  "id": 1343550205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.8779,18.07525,-76.8779,18.07525",
+    "geom:latitude":18.07525,
+    "geom:longitude":-76.8779,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Santa Maria",
+    "gn:country_code":"JM",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488618,
+    "gn:latitude":18.07525,
+    "gn:longitude":-76.8779,
+    "gn:modification_date":"2008-02-22",
+    "gn:name":"Santa Maria",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488618
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"f09f8f8cddcea1c0ecca8d295db7958d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1343550205,
+            "region_id":85672609
+        }
+    ],
+    "wof:id":1343550205,
+    "wof:lastmodified":1536614379,
+    "wof:name":"Santa Maria",
+    "wof:parent_id":85672609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.8779,
+    18.07525,
+    -76.8779,
+    18.07525
+],
+  "geometry": {"coordinates":[-76.8779,18.07525],"type":"Point"}
+}

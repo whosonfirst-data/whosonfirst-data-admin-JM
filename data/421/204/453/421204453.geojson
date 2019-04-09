@@ -1,0 +1,82 @@
+{
+  "id": 421204453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.05582,18.40322,-77.05582,18.40322",
+    "geom:latitude":18.40322,
+    "geom:longitude":-77.05582,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3488957,
+    "qs:gn_pop":0,
+    "qs:name":"Prospect",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint Mary",
+    "qs:photos":430,
+    "qs:photos_1k":87,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":430,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":240941,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":109735,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":365,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599,
+        85672605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488957,
+        "gp:id":109735,
+        "qs:id":240941
+    },
+    "wof:country":"JM",
+    "wof:created":1459010186,
+    "wof:geomhash":"21b7ae1ec878b20474fa6c599d00eef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421204453,
+            "region_id":85672599
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421204453,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":421204453,
+    "wof:lastmodified":1527716181,
+    "wof:name":"Prospect",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.05582,
+    18.40322,
+    -77.05582,
+    18.40322
+],
+  "geometry": {"coordinates":[-77.05582,18.40322],"type":"Point"}
+}

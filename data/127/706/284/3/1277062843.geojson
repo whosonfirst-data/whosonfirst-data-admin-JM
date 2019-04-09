@@ -1,0 +1,66 @@
+{
+  "id": 1277062843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.87833,18.29195,-76.87833,18.29195",
+    "geom:latitude":18.29195,
+    "geom:longitude":-76.87833,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"531.0",
+    "gn:asciiname":"Cum See",
+    "gn:country_code":"JM",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490780,
+    "gn:latitude":18.29195,
+    "gn:longitude":-76.87833,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Cum See",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490780
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"f7267700a4e4e68646e07cc224f67410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1277062843,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":1277062843,
+    "wof:lastmodified":1536795964,
+    "wof:name":"Cum See",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.87833,
+    18.29195,
+    -76.87833,
+    18.29195
+],
+  "geometry": {"coordinates":[-76.87833000000001,18.29195],"type":"Point"}
+}

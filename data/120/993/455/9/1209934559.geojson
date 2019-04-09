@@ -1,0 +1,66 @@
+{
+  "id": 1209934559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.05,18.15,-77.05,18.15",
+    "geom:latitude":18.15,
+    "geom:longitude":-77.05,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1403.0",
+    "gn:asciiname":"Allenton",
+    "gn:country_code":"JM",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491589,
+    "gn:latitude":18.15,
+    "gn:longitude":-77.05,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Allenton",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491589
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"dfba397a0f620174d3a7c5e8e02d5c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1209934559,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":1209934559,
+    "wof:lastmodified":1536391240,
+    "wof:name":"Allenton",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.05,
+    18.15,
+    -77.05,
+    18.15
+],
+  "geometry": {"coordinates":[-77.05,18.15],"type":"Point"}
+}

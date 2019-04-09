@@ -1,0 +1,70 @@
+{
+  "id": 1343942353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.41438,18.38257,-77.41438,18.38257",
+    "geom:latitude":18.38257,
+    "geom:longitude":-77.41438,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"623",
+    "gn:asciiname":"Retreat",
+    "gn:country_code":"JM",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488851,
+    "gn:latitude":18.38257,
+    "gn:longitude":-77.41438,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Retreat",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "The Retreat",
+        "Retreat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488851
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"391b52fb02d693a6629bc050e98c22cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1343942353,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":1343942353,
+    "wof:lastmodified":1537649733,
+    "wof:name":"Retreat",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.41438000000002,
+    18.38257,
+    -77.41438000000002,
+    18.38257
+],
+  "geometry": {"coordinates":[-77.41438000000002,18.38257],"type":"Point"}
+}

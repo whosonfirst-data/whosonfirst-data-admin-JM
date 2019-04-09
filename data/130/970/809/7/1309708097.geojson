@@ -1,0 +1,61 @@
+{
+  "id": 1309708097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.68333,17.93333,-76.68333,17.93333",
+    "geom:latitude":17.93333,
+    "geom:longitude":-76.68333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Claremont",
+    "gn:country_code":"JM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490957,
+    "gn:latitude":17.93333,
+    "gn:longitude":-76.68333,
+    "gn:modification_date":"1997-06-26",
+    "gn:name":"Claremont",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490957
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"7177f69f010ab835d7a4c3f08ea2a9af",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309708097,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309708097,
+    "wof:lastmodified":1537069008,
+    "wof:name":"Claremont",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.68333,
+    17.93332999999999,
+    -76.68333,
+    17.93332999999999
+],
+  "geometry": {"coordinates":[-76.68333,17.93332999999999],"type":"Point"}
+}

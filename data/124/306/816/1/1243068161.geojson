@@ -1,0 +1,66 @@
+{
+  "id": 1243068161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.45,17.88333,-77.45,17.88333",
+    "geom:latitude":17.88333,
+    "geom:longitude":-77.45,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1272",
+    "gn:asciiname":"Prospect",
+    "gn:country_code":"JM",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488963,
+    "gn:latitude":17.88333,
+    "gn:longitude":-77.45,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Prospect",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488963
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"a5ef5b4e621c901d4917f3a1a236f045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1243068161,
+            "region_id":85672567
+        }
+    ],
+    "wof:id":1243068161,
+    "wof:lastmodified":1536852755,
+    "wof:name":"Prospect",
+    "wof:parent_id":85672567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.45,
+    17.88332999999999,
+    -77.45,
+    17.88332999999999
+],
+  "geometry": {"coordinates":[-77.45,17.88332999999999],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293567447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.88333,18.05,-77.88333,18.05",
+    "geom:latitude":18.05,
+    "geom:longitude":-77.88333,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1122.0",
+    "gn:asciiname":"Hodges",
+    "gn:country_code":"JM",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490062,
+    "gn:latitude":18.05,
+    "gn:longitude":-77.88333,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Hodges",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490062,
+        "wk:page":"Hodges%2C_Jamaica"
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"8d7415fdd4ced90603ddd77aa56df044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1293567447,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":1293567447,
+    "wof:lastmodified":1537566850,
+    "wof:name":"Hodges",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.88333,
+    18.05,
+    -77.88333,
+    18.05
+],
+  "geometry": {"coordinates":[-77.88333,18.05],"type":"Point"}
+}

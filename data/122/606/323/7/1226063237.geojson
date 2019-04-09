@@ -1,0 +1,66 @@
+{
+  "id": 1226063237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.10038,18.15852,-77.10038,18.15852",
+    "geom:latitude":18.15852,
+    "geom:longitude":-77.10038,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1402",
+    "gn:asciiname":"Riverhead",
+    "gn:country_code":"JM",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488812,
+    "gn:latitude":18.15852,
+    "gn:longitude":-77.10038,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Riverhead",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488812
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"bdd2f5141d6797034ba9e77648f53837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1226063237,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":1226063237,
+    "wof:lastmodified":1536700276,
+    "wof:name":"Riverhead",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.10038,
+    18.15852000000001,
+    -77.10038,
+    18.15852000000001
+],
+  "geometry": {"coordinates":[-77.10038,18.15852000000001],"type":"Point"}
+}

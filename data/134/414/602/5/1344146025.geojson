@@ -1,0 +1,70 @@
+{
+  "id": 1344146025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.9502,18.08693,-76.9502,18.08693",
+    "geom:latitude":18.08693,
+    "geom:longitude":-76.9502,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1414.0",
+    "gn:asciiname":"Highgate",
+    "gn:country_code":"JM",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490077,
+    "gn:latitude":18.08693,
+    "gn:longitude":-76.9502,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Highgate",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Highgate Park",
+        "Highgate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490077
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"82085a2b2f5538c1bc11b7e792a87fab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1344146025,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":1344146025,
+    "wof:lastmodified":1537649744,
+    "wof:name":"Highgate",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.9502,
+    18.08693,
+    -76.9502,
+    18.08693
+],
+  "geometry": {"coordinates":[-76.9502,18.08693],"type":"Point"}
+}

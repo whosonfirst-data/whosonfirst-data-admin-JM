@@ -1,0 +1,66 @@
+{
+  "id": 1243091737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.53082,18.02709,-77.53082,18.02709",
+    "geom:latitude":18.02709,
+    "geom:longitude":-77.53082,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"1256.0",
+    "gn:asciiname":"Hatfield",
+    "gn:country_code":"JM",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490114,
+    "gn:latitude":18.02709,
+    "gn:longitude":-77.53082,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Hatfield",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490114
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"6c3f6c51d1111e65e39d83f528257e29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1243091737,
+            "region_id":85672567
+        }
+    ],
+    "wof:id":1243091737,
+    "wof:lastmodified":1536818943,
+    "wof:name":"Hatfield",
+    "wof:parent_id":85672567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.53081999999998,
+    18.02709,
+    -77.53081999999998,
+    18.02709
+],
+  "geometry": {"coordinates":[-77.53081999999998,18.02709],"type":"Point"}
+}

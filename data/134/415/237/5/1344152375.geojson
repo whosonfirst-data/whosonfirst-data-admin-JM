@@ -1,0 +1,66 @@
+{
+  "id": 1344152375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.0833,17.95,-77.0833,17.95",
+    "geom:latitude":17.95,
+    "geom:longitude":-77.0833,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1429",
+    "gn:asciiname":"Thetford",
+    "gn:country_code":"JM",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488287,
+    "gn:latitude":17.95,
+    "gn:longitude":-77.0833,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Thetford",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488287
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"23869efdfa0916c5e3f98c11a5aaad5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1344152375,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":1344152375,
+    "wof:lastmodified":1536742742,
+    "wof:name":"Thetford",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.0833,
+    17.95,
+    -77.0833,
+    17.95
+],
+  "geometry": {"coordinates":[-77.08329999999999,17.95],"type":"Point"}
+}

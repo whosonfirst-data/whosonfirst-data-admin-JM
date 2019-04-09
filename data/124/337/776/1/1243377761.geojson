@@ -1,0 +1,66 @@
+{
+  "id": 1243377761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.2277,18.13709,-77.2277,18.13709",
+    "geom:latitude":18.13709,
+    "geom:longitude":-77.2277,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1310.0",
+    "gn:asciiname":"Arthurs Seat",
+    "gn:country_code":"JM",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491535,
+    "gn:latitude":18.13709,
+    "gn:longitude":-77.2277,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Arthurs Seat",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491535
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"8b3ac9c76f63ef5067f66c0885042cc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1243377761,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":1243377761,
+    "wof:lastmodified":1536904740,
+    "wof:name":"Arthurs Seat",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.2277,
+    18.13709,
+    -77.2277,
+    18.13709
+],
+  "geometry": {"coordinates":[-77.2277,18.13709],"type":"Point"}
+}

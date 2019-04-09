@@ -1,0 +1,66 @@
+{
+  "id": 1226412077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.1,18.3,-78.1,18.3",
+    "geom:latitude":18.3,
+    "geom:longitude":-78.1,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1009.0",
+    "gn:asciiname":"Friendship",
+    "gn:country_code":"JM",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490401,
+    "gn:latitude":18.3,
+    "gn:longitude":-78.1,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Friendship",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490401
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"7a554d7b8a58b3fed8fcf0028bf75c96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1226412077,
+            "region_id":85672583
+        }
+    ],
+    "wof:id":1226412077,
+    "wof:lastmodified":1536694331,
+    "wof:name":"Friendship",
+    "wof:parent_id":85672583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.1,
+    18.3,
+    -78.1,
+    18.3
+],
+  "geometry": {"coordinates":[-78.09999999999999,18.3],"type":"Point"}
+}

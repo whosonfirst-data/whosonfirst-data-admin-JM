@@ -1,0 +1,66 @@
+{
+  "id": 1292971721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.48333,17.93333,-76.48333,17.93333",
+    "geom:latitude":17.93333,
+    "geom:longitude":-76.48333,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"331.0",
+    "gn:asciiname":"Huntley",
+    "gn:country_code":"JM",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490003,
+    "gn:latitude":17.93333,
+    "gn:longitude":-76.48333,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Huntley",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490003
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"dc512a3c4cefd624819096f05e2d279b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1292971721,
+            "region_id":85672615
+        }
+    ],
+    "wof:id":1292971721,
+    "wof:lastmodified":1537032243,
+    "wof:name":"Huntley",
+    "wof:parent_id":85672615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.48333000000002,
+    17.93332999999999,
+    -76.48333000000002,
+    17.93332999999999
+],
+  "geometry": {"coordinates":[-76.48333000000002,17.93332999999999],"type":"Point"}
+}

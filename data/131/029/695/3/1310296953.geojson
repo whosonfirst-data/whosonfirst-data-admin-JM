@@ -1,0 +1,66 @@
+{
+  "id": 1310296953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.6,18.11667,-76.6,18.11667",
+    "geom:latitude":18.11667,
+    "geom:longitude":-76.6,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"434.0",
+    "gn:asciiname":"Ashcott",
+    "gn:country_code":"JM",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491533,
+    "gn:latitude":18.11667,
+    "gn:longitude":-76.6,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Ashcott",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491533
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"31712b7dc1ac39432f145e1734db5c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1310296953,
+            "region_id":85672591
+        }
+    ],
+    "wof:id":1310296953,
+    "wof:lastmodified":1536720657,
+    "wof:name":"Ashcott",
+    "wof:parent_id":85672591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.6,
+    18.11667000000001,
+    -76.6,
+    18.11667000000001
+],
+  "geometry": {"coordinates":[-76.59999999999999,18.11667000000001],"type":"Point"}
+}

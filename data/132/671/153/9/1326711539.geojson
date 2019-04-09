@@ -1,0 +1,66 @@
+{
+  "id": 1326711539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.88035,18.20449,-77.88035,18.20449",
+    "geom:latitude":18.20449,
+    "geom:longitude":-77.88035,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1101",
+    "gn:asciiname":"Pisgah",
+    "gn:country_code":"JM",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489039,
+    "gn:latitude":18.20449,
+    "gn:longitude":-77.88035,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Pisgah",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489039
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"4728c7715cf33f9ef962de103f516b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1326711539,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":1326711539,
+    "wof:lastmodified":1536725988,
+    "wof:name":"Pisgah",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.88035,
+    18.20449,
+    -77.88035,
+    18.20449
+],
+  "geometry": {"coordinates":[-77.88035000000001,18.20449],"type":"Point"}
+}

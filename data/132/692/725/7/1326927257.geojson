@@ -1,0 +1,66 @@
+{
+  "id": 1326927257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.3,18.03333,-76.3,18.03333",
+    "geom:latitude":18.03333,
+    "geom:longitude":-76.3,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"426",
+    "gn:asciiname":"Spring Valley",
+    "gn:country_code":"JM",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3488423,
+    "gn:latitude":18.03333,
+    "gn:longitude":-76.3,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Spring Valley",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488423
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"22e35b36eaff6498eb525111e409c24d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1326927257,
+            "region_id":85672591
+        }
+    ],
+    "wof:id":1326927257,
+    "wof:lastmodified":1536912378,
+    "wof:name":"Spring Valley",
+    "wof:parent_id":85672591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.3,
+    18.03333,
+    -76.3,
+    18.03333
+],
+  "geometry": {"coordinates":[-76.3,18.03333],"type":"Point"}
+}

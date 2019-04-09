@@ -1,0 +1,66 @@
+{
+  "id": 1260162049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.68783,18.01822,-77.68783,18.01822",
+    "geom:latitude":18.01822,
+    "geom:longitude":-77.68783,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1133",
+    "gn:asciiname":"Leeds",
+    "gn:country_code":"JM",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489804,
+    "gn:latitude":18.01822,
+    "gn:longitude":-77.68783,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Leeds",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489804
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"ab47edf8e8ce242695d0c76157696d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1260162049,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":1260162049,
+    "wof:lastmodified":1536876558,
+    "wof:name":"Leeds",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.68783,
+    18.01822,
+    -77.68783,
+    18.01822
+],
+  "geometry": {"coordinates":[-77.68783000000001,18.01822],"type":"Point"}
+}

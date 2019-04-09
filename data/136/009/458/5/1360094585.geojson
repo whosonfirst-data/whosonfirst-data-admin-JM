@@ -1,0 +1,66 @@
+{
+  "id": 1360094585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.26667,17.85,-77.26667,17.85",
+    "geom:latitude":17.85,
+    "geom:longitude":-77.26667,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1376.0",
+    "gn:asciiname":"Caswell Hill",
+    "gn:country_code":"JM",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491043,
+    "gn:latitude":17.85,
+    "gn:longitude":-77.26667,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Caswell Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491043
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"d791b8bb053f7e570a477931738de184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1360094585,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":1360094585,
+    "wof:lastmodified":1536932615,
+    "wof:name":"Caswell Hill",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.26666999999998,
+    17.85,
+    -77.26666999999998,
+    17.85
+],
+  "geometry": {"coordinates":[-77.26666999999998,17.85],"type":"Point"}
+}

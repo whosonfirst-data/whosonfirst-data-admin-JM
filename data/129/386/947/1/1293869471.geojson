@@ -1,0 +1,70 @@
+{
+  "id": 1293869471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.68573,18.01681,-76.68573,18.01681",
+    "geom:latitude":18.01681,
+    "geom:longitude":-76.68573,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"15124.0",
+    "gn:asciiname":"Flamstead",
+    "gn:country_code":"JM",
+    "gn:dem":1092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490491,
+    "gn:latitude":18.01681,
+    "gn:longitude":-76.68573,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Flamstead",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Flamstead Cottage",
+        "Flamstead"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490491
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"10a0c22263d601c232ecad853bd463f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1293869471,
+            "region_id":85672609
+        }
+    ],
+    "wof:id":1293869471,
+    "wof:lastmodified":1537649749,
+    "wof:name":"Flamstead",
+    "wof:parent_id":85672609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.68573,
+    18.01681,
+    -76.68573,
+    18.01681
+],
+  "geometry": {"coordinates":[-76.68573000000001,18.01681],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1259960957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.61292,17.93705,-77.61292,17.93705",
+    "geom:latitude":17.93705,
+    "geom:longitude":-77.61292,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1150.0",
+    "gn:asciiname":"Brinkley",
+    "gn:country_code":"JM",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491222,
+    "gn:latitude":17.93705,
+    "gn:longitude":-77.61292,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Brinkley",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491222
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"3e344b9d91e6e3eab9502037eb35d602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1259960957,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":1259960957,
+    "wof:lastmodified":1536667651,
+    "wof:name":"Brinkley",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.61291999999997,
+    17.93705,
+    -77.61291999999997,
+    17.93705
+],
+  "geometry": {"coordinates":[-77.61291999999997,17.93705],"type":"Point"}
+}

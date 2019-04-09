@@ -1,0 +1,66 @@
+{
+  "id": 1259377087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.0021,17.98199,-77.0021,17.98199",
+    "geom:latitude":17.98199,
+    "geom:longitude":-77.0021,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1431.0",
+    "gn:asciiname":"Chedwin Park",
+    "gn:country_code":"JM",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490988,
+    "gn:latitude":17.98199,
+    "gn:longitude":-77.0021,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Chedwin Park",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490988
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"3934e68445ea5a4e591089c7594d2eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1259377087,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":1259377087,
+    "wof:lastmodified":1537010788,
+    "wof:name":"Chedwin Park",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.0021,
+    17.98199,
+    -77.0021,
+    17.98199
+],
+  "geometry": {"coordinates":[-77.0021,17.98199],"type":"Point"}
+}

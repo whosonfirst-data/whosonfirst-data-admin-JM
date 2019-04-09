@@ -1,0 +1,67 @@
+{
+  "id": 1209208837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.96667,18.06667,-76.96667,18.06667",
+    "geom:latitude":18.06667,
+    "geom:longitude":-76.96667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1413",
+    "gn:asciiname":"Little Angels",
+    "gn:cc2":"JM",
+    "gn:country_code":"JM",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489754,
+    "gn:latitude":18.06667,
+    "gn:longitude":-76.96667,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Little Angels",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Little Angles",
+        "Little Angels"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489754
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"8b19ffa4a47fe504aaddd05a5d140fd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632215,
+            "locality_id":1209208837
+        }
+    ],
+    "wof:id":1209208837,
+    "wof:lastmodified":1537649741,
+    "wof:name":"Little Angels",
+    "wof:parent_id":85632215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.96667,
+    18.06667,
+    -76.96667,
+    18.06667
+],
+  "geometry": {"coordinates":[-76.96666999999999,18.06667],"type":"Point"}
+}

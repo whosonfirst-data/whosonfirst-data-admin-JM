@@ -1,0 +1,71 @@
+{
+  "id": 1309795715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.23333,18.4,-77.23333,18.4",
+    "geom:latitude":18.4,
+    "geom:longitude":-77.23333,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"619.0",
+    "gn:asciiname":"Arthurs Mount",
+    "gn:cc2":"JM",
+    "gn:country_code":"JM",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491536,
+    "gn:latitude":18.4,
+    "gn:longitude":-77.23333,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Arthurs Mount",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arthurs Mountain",
+        "Arthurs Mount"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491536
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"d3795a09a96426496546aaa79aad649c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1309795715,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":1309795715,
+    "wof:lastmodified":1537649760,
+    "wof:name":"Arthurs Mount",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.23333000000002,
+    18.4,
+    -77.23333000000002,
+    18.4
+],
+  "geometry": {"coordinates":[-77.23333000000002,18.4],"type":"Point"}
+}

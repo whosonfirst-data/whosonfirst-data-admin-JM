@@ -1,0 +1,66 @@
+{
+  "id": 890414561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.47121,18.15287,-77.47121,18.15287",
+    "geom:latitude":18.15287,
+    "geom:longitude":-77.47121,
+    "gn:country":"JM",
+    "gn:fcode":"PPL",
+    "gn:pop":2321,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Limit",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":203,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8062858,
+        "gp:id":108608,
+        "qs:id":752731,
+        "wk:page":"Limit"
+    },
+    "wof:country":"JM",
+    "wof:created":1469051053,
+    "wof:geomhash":"93801c2dbd0b915aec32dd3f9bf40cbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":890414561,
+            "region_id":85672567
+        }
+    ],
+    "wof:id":890414561,
+    "wof:lastmodified":1527727174,
+    "wof:name":"Limit",
+    "wof:parent_id":85672567,
+    "wof:placetype":"locality",
+    "wof:population":2321,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.47121,
+    18.15287,
+    -77.47121,
+    18.15287
+],
+  "geometry": {"coordinates":[-77.47121,18.15287],"type":"Point"}
+}

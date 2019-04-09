@@ -1,0 +1,62 @@
+{
+  "id": 1209320533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.48333,18.06667,-77.48333,18.06667",
+    "geom:latitude":18.06667,
+    "geom:longitude":-77.48333,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"1242.0",
+    "gn:asciiname":"Hanbury",
+    "gn:country_code":"JM",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490147,
+    "gn:latitude":18.06667,
+    "gn:longitude":-77.48333,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Hanbury",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490147
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"bb59caa45d979ebb6cbe835eb015fa97",
+    "wof:hierarchy":[
+        {
+            "country_id":85632215,
+            "locality_id":1209320533
+        }
+    ],
+    "wof:id":1209320533,
+    "wof:lastmodified":1536290710,
+    "wof:name":"Hanbury",
+    "wof:parent_id":85632215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.48333000000002,
+    18.06667,
+    -77.48333000000002,
+    18.06667
+],
+  "geometry": {"coordinates":[-77.48333000000002,18.06667],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1327417279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.24512,17.95496,-76.24512,17.95496",
+    "geom:latitude":17.95496,
+    "geom:longitude":-76.24512,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"318",
+    "gn:asciiname":"Quaw Hill",
+    "gn:country_code":"JM",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488922,
+    "gn:latitude":17.95496,
+    "gn:longitude":-76.24512,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Quaw Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488922
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"c7482f0ab9eb494612f6c9828c3f2621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1327417279,
+            "region_id":85672615
+        }
+    ],
+    "wof:id":1327417279,
+    "wof:lastmodified":1536702899,
+    "wof:name":"Quaw Hill",
+    "wof:parent_id":85672615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.24512,
+    17.95496,
+    -76.24512,
+    17.95496
+],
+  "geometry": {"coordinates":[-76.24512,17.95496],"type":"Point"}
+}

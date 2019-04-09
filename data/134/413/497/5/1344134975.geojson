@@ -1,0 +1,66 @@
+{
+  "id": 1344134975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.60305,17.9262,-77.60305,17.9262",
+    "geom:latitude":17.9262,
+    "geom:longitude":-77.60305,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1149.0",
+    "gn:asciiname":"Cheapside",
+    "gn:country_code":"JM",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490989,
+    "gn:latitude":17.9262,
+    "gn:longitude":-77.60305,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Cheapside",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490989
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"3b74c3b394896cb4eed1a5bb84b674d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1344134975,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":1344134975,
+    "wof:lastmodified":1536768570,
+    "wof:name":"Cheapside",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.60305,
+    17.9262,
+    -77.60305,
+    17.9262
+],
+  "geometry": {"coordinates":[-77.60305,17.9262],"type":"Point"}
+}

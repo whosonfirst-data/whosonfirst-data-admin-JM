@@ -1,0 +1,66 @@
+{
+  "id": 1293089179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.89619,18.05889,-77.89619,18.05889",
+    "geom:latitude":18.05889,
+    "geom:longitude":-77.89619,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1123",
+    "gn:asciiname":"Lewis Town",
+    "gn:country_code":"JM",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489788,
+    "gn:latitude":18.05889,
+    "gn:longitude":-77.89619,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Lewis Town",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489788
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"e0dd9c46cc3c2228c2e828296fbfd1ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1293089179,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":1293089179,
+    "wof:lastmodified":1536862935,
+    "wof:name":"Lewis Town",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.89619,
+    18.05889,
+    -77.89619,
+    18.05889
+],
+  "geometry": {"coordinates":[-77.89619,18.05889],"type":"Point"}
+}

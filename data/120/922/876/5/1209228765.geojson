@@ -1,0 +1,66 @@
+{
+  "id": 1209228765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.24462,17.82029,-77.24462,17.82029",
+    "geom:latitude":17.82029,
+    "geom:longitude":-77.24462,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1380",
+    "gn:asciiname":"Perrins",
+    "gn:country_code":"JM",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489068,
+    "gn:latitude":17.82029,
+    "gn:longitude":-77.24462,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Perrins",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Perrine",
+        "Perrins"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489068
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"9070b33ce40fa31783da30e85f9b53d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632215,
+            "locality_id":1209228765
+        }
+    ],
+    "wof:id":1209228765,
+    "wof:lastmodified":1537649736,
+    "wof:name":"Perrins",
+    "wof:parent_id":85632215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.24462,
+    17.82029,
+    -77.24462,
+    17.82029
+],
+  "geometry": {"coordinates":[-77.24462,17.82029],"type":"Point"}
+}

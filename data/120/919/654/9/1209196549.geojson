@@ -1,0 +1,62 @@
+{
+  "id": 1209196549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.23333,18.25,-78.23333,18.25",
+    "geom:latitude":18.25,
+    "geom:longitude":-78.23333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1046",
+    "gn:asciiname":"Retrieve",
+    "gn:country_code":"JM",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488848,
+    "gn:latitude":18.25,
+    "gn:longitude":-78.23333,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Retrieve",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488848
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"bb1381d182bc0fb3266e8958127ac926",
+    "wof:hierarchy":[
+        {
+            "country_id":85632215,
+            "locality_id":1209196549
+        }
+    ],
+    "wof:id":1209196549,
+    "wof:lastmodified":1536294751,
+    "wof:name":"Retrieve",
+    "wof:parent_id":85632215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.23333000000002,
+    18.25,
+    -78.23333000000002,
+    18.25
+],
+  "geometry": {"coordinates":[-78.23333000000002,18.25],"type":"Point"}
+}

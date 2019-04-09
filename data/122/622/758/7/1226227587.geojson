@@ -1,0 +1,66 @@
+{
+  "id": 1226227587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.67672,18.02702,-76.67672,18.02702",
+    "geom:latitude":18.02702,
+    "geom:longitude":-76.67672,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"15124.0",
+    "gn:asciiname":"Guava Ridge",
+    "gn:country_code":"JM",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490193,
+    "gn:latitude":18.02702,
+    "gn:longitude":-76.67672,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Guava Ridge",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490193
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"57a3552f852f1d62dcafde5704acd67f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1226227587,
+            "region_id":85672609
+        }
+    ],
+    "wof:id":1226227587,
+    "wof:lastmodified":1536959819,
+    "wof:name":"Guava Ridge",
+    "wof:parent_id":85672609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.67671999999997,
+    18.02702,
+    -76.67671999999997,
+    18.02702
+],
+  "geometry": {"coordinates":[-76.67671999999997,18.02702],"type":"Point"}
+}

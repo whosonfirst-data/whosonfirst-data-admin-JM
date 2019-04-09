@@ -1,0 +1,66 @@
+{
+  "id": 1243059305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.43333,17.86667,-76.43333,17.86667",
+    "geom:latitude":17.86667,
+    "geom:longitude":-76.43333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Friendship",
+    "gn:cc2":"JM",
+    "gn:country_code":"JM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490410,
+    "gn:latitude":17.86667,
+    "gn:longitude":-76.43333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Friendship",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belvedere",
+        "Friendship"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490410
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"e75a297761b96a755cc91275e1b624ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243059305,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243059305,
+    "wof:lastmodified":1537649748,
+    "wof:name":"Friendship",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.43333,
+    17.86667000000001,
+    -76.43333,
+    17.86667000000001
+],
+  "geometry": {"coordinates":[-76.43333,17.86667000000001],"type":"Point"}
+}

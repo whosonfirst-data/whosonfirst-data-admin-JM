@@ -1,0 +1,70 @@
+{
+  "id": 1242750355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.22503,18.22682,-78.22503,18.22682",
+    "geom:latitude":18.22682,
+    "geom:longitude":-78.22503,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1045",
+    "gn:asciiname":"Little Broughton",
+    "gn:country_code":"JM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489748,
+    "gn:latitude":18.22682,
+    "gn:longitude":-78.22503,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Little Broughton",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Broughton",
+        "Little Broughton"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489748
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"26f90660ac5a591569c37df274fdeba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1242750355,
+            "region_id":85672583
+        }
+    ],
+    "wof:id":1242750355,
+    "wof:lastmodified":1537649741,
+    "wof:name":"Little Broughton",
+    "wof:parent_id":85672583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.22503,
+    18.22682,
+    -78.22503,
+    18.22682
+],
+  "geometry": {"coordinates":[-78.22503,18.22682],"type":"Point"}
+}

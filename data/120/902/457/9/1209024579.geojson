@@ -1,0 +1,62 @@
+{
+  "id": 1209024579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.08263,18.07388,-77.08263,18.07388",
+    "geom:latitude":18.07388,
+    "geom:longitude":-77.08263,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1424",
+    "gn:asciiname":"Mendez Hill",
+    "gn:country_code":"JM",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489513,
+    "gn:latitude":18.07388,
+    "gn:longitude":-77.08263,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Mendez Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489513
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"1ddea7826093e7055f0f672d228316a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632215,
+            "locality_id":1209024579
+        }
+    ],
+    "wof:id":1209024579,
+    "wof:lastmodified":1536300042,
+    "wof:name":"Mendez Hill",
+    "wof:parent_id":85632215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.08263000000002,
+    18.07388,
+    -77.08263000000002,
+    18.07388
+],
+  "geometry": {"coordinates":[-77.08263000000002,18.07388],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293775721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.53827,18.14905,-76.53827,18.14905",
+    "geom:latitude":18.14905,
+    "geom:longitude":-76.53827,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"434.0",
+    "gn:asciiname":"Chatsworth",
+    "gn:country_code":"JM",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490993,
+    "gn:latitude":18.14905,
+    "gn:longitude":-76.53827,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Chatsworth",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Charlsworth",
+        "Chatsworth"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490993
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"21747c69a41a29641d9e2b91698534c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1293775721,
+            "region_id":85672591
+        }
+    ],
+    "wof:id":1293775721,
+    "wof:lastmodified":1537649754,
+    "wof:name":"Chatsworth",
+    "wof:parent_id":85672591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.53827,
+    18.14905,
+    -76.53827,
+    18.14905
+],
+  "geometry": {"coordinates":[-76.53827,18.14905],"type":"Point"}
+}

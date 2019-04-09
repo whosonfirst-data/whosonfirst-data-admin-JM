@@ -1,0 +1,74 @@
+{
+  "id": 421192077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.35645,18.15826,-76.35645,18.15826",
+    "geom:latitude":18.15826,
+    "geom:longitude":-76.35645,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3491273,
+    "qs:gn_pop":0,
+    "qs:name":"Boston",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Portland",
+    "qs:photos":146,
+    "qs:photos_1k":30,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":146,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165117,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":108415,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491273,
+        "gp:id":108415,
+        "qs:id":1165117
+    },
+    "wof:country":"JM",
+    "wof:created":1459009724,
+    "wof:geomhash":"3a5af8d23fa4a4b828ef2e24a20efa25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421192077,
+            "region_id":85672591
+        }
+    ],
+    "wof:id":421192077,
+    "wof:lastmodified":1513814028,
+    "wof:name":"Boston",
+    "wof:parent_id":85672591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.35645,
+    18.15826,
+    -76.35645,
+    18.15826
+],
+  "geometry": {"coordinates":[-76.35645,18.15826],"type":"Point"}
+}

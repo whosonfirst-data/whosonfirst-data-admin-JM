@@ -1,0 +1,62 @@
+{
+  "id": 1209224163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.21667,17.83333,-77.21667,17.83333",
+    "geom:latitude":17.83333,
+    "geom:longitude":-77.21667,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1372.0",
+    "gn:asciiname":"Hillside",
+    "gn:country_code":"JM",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490066,
+    "gn:latitude":17.83333,
+    "gn:longitude":-77.21667,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Hillside",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490066
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"a7fba5bc79acbd6e3ff5d81286e55d83",
+    "wof:hierarchy":[
+        {
+            "country_id":85632215,
+            "locality_id":1209224163
+        }
+    ],
+    "wof:id":1209224163,
+    "wof:lastmodified":1536293855,
+    "wof:name":"Hillside",
+    "wof:parent_id":85632215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.21667,
+    17.83333,
+    -77.21667,
+    17.83333
+],
+  "geometry": {"coordinates":[-77.21666999999999,17.83333],"type":"Point"}
+}

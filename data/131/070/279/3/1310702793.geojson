@@ -1,0 +1,66 @@
+{
+  "id": 1310702793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.56667,18.16667,-77.56667,18.16667",
+    "geom:latitude":18.16667,
+    "geom:longitude":-77.56667,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"1208.0",
+    "gn:asciiname":"Ballynure",
+    "gn:country_code":"JM",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491488,
+    "gn:latitude":18.16667,
+    "gn:longitude":-77.56667,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Ballynure",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491488
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"2c7ebce6371d7541903564268cb130d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1310702793,
+            "region_id":85672567
+        }
+    ],
+    "wof:id":1310702793,
+    "wof:lastmodified":1536630663,
+    "wof:name":"Ballynure",
+    "wof:parent_id":85672567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.56667,
+    18.16667,
+    -77.56667,
+    18.16667
+],
+  "geometry": {"coordinates":[-77.56667,18.16667],"type":"Point"}
+}

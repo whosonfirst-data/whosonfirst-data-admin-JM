@@ -1,0 +1,66 @@
+{
+  "id": 1327455353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.40937,18.14978,-76.40937,18.14978",
+    "geom:latitude":18.14978,
+    "geom:longitude":-76.40937,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"418.0",
+    "gn:asciiname":"Cambridge",
+    "gn:country_code":"JM",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491103,
+    "gn:latitude":18.14978,
+    "gn:longitude":-76.40937,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Cambridge",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491103
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"f67786df07fb05759d5bc7fcc3012609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1327455353,
+            "region_id":85672591
+        }
+    ],
+    "wof:id":1327455353,
+    "wof:lastmodified":1536647317,
+    "wof:name":"Cambridge",
+    "wof:parent_id":85672591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.40937,
+    18.14978,
+    -76.40937,
+    18.14978
+],
+  "geometry": {"coordinates":[-76.40937,18.14978],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276679879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.66715,18.18026,-76.66715,18.18026",
+    "geom:latitude":18.18026,
+    "geom:longitude":-76.66715,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"439",
+    "gn:asciiname":"Rectory",
+    "gn:country_code":"JM",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488893,
+    "gn:latitude":18.18026,
+    "gn:longitude":-76.66715,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Rectory",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "The Rectory",
+        "Rectory"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488893
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"07deda10db4a3c15536cb07b6f4b90a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1276679879,
+            "region_id":85672591
+        }
+    ],
+    "wof:id":1276679879,
+    "wof:lastmodified":1537649734,
+    "wof:name":"Rectory",
+    "wof:parent_id":85672591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.66715,
+    18.18026,
+    -76.66715,
+    18.18026
+],
+  "geometry": {"coordinates":[-76.66715000000001,18.18026],"type":"Point"}
+}

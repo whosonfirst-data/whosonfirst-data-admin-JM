@@ -1,0 +1,66 @@
+{
+  "id": 1226024255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.86719,18.2851,-76.86719,18.2851",
+    "geom:latitude":18.2851,
+    "geom:longitude":-76.86719,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"531",
+    "gn:asciiname":"Lower Esher",
+    "gn:country_code":"JM",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489669,
+    "gn:latitude":18.2851,
+    "gn:longitude":-76.86719,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Lower Esher",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489669
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"d166dd147a8a9d10301683657bb19d42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1226024255,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":1226024255,
+    "wof:lastmodified":1536756288,
+    "wof:name":"Lower Esher",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.86719000000002,
+    18.2851,
+    -76.86719000000002,
+    18.2851
+],
+  "geometry": {"coordinates":[-76.86719000000002,18.2851],"type":"Point"}
+}

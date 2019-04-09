@@ -1,0 +1,75 @@
+{
+  "id": 421192081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.8,17.91667,-77.8,17.91667",
+    "geom:latitude":17.91667,
+    "geom:longitude":-77.8,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3490460,
+    "qs:gn_pop":0,
+    "qs:name":"Fort Charles",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint Elizabeth",
+    "qs:photos":52,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":52,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165129,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":108884,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":137,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490460,
+        "gp:id":108884,
+        "qs:id":1165129
+    },
+    "wof:country":"JM",
+    "wof:created":1459009724,
+    "wof:geomhash":"f37bb24c23107318eaac69654a19b61a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421192081,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":421192081,
+    "wof:lastmodified":1527716114,
+    "wof:name":"Fort Charles",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.8,
+    17.91667,
+    -77.8,
+    17.91667
+],
+  "geometry": {"coordinates":[-77.8,17.91667],"type":"Point"}
+}

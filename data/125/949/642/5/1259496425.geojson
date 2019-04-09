@@ -1,0 +1,66 @@
+{
+  "id": 1259496425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.04519,18.41857,-78.04519,18.41857",
+    "geom:latitude":18.41857,
+    "geom:longitude":-78.04519,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"918",
+    "gn:asciiname":"Rome",
+    "gn:country_code":"JM",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488761,
+    "gn:latitude":18.41857,
+    "gn:longitude":-78.04519,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Rome",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488761
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"a8a3e76a0936864f62768dada76da975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1259496425,
+            "region_id":85672563
+        }
+    ],
+    "wof:id":1259496425,
+    "wof:lastmodified":1536839140,
+    "wof:name":"Rome",
+    "wof:parent_id":85672563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.04519,
+    18.41857000000001,
+    -78.04519,
+    18.41857000000001
+],
+  "geometry": {"coordinates":[-78.04519000000001,18.41857000000001],"type":"Point"}
+}

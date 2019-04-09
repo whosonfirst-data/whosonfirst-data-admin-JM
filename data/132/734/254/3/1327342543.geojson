@@ -1,0 +1,74 @@
+{
+  "id": 1327342543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.03736,18.3637,-78.03736,18.3637",
+    "geom:latitude":18.3637,
+    "geom:longitude":-78.03736,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"916.0",
+    "gn:asciiname":"Mt Peto",
+    "gn:country_code":"JM",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3491518,
+    "gn:latitude":18.3637,
+    "gn:longitude":-78.03736,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Mt Peto",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Axe Adze"
+    ],
+    "name:eng_x_variant":[
+        "Axe and Adze",
+        "Mt Peto",
+        "Mount Peto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491518
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"108801a17bf82bee19a329129ad19b4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1327342543,
+            "region_id":85672563
+        }
+    ],
+    "wof:id":1327342543,
+    "wof:lastmodified":1537649760,
+    "wof:name":"Mt Peto",
+    "wof:parent_id":85672563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.03735999999998,
+    18.3637,
+    -78.03735999999998,
+    18.3637
+],
+  "geometry": {"coordinates":[-78.03735999999998,18.3637],"type":"Point"}
+}

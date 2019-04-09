@@ -1,0 +1,71 @@
+{
+  "id": 1226237509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.93333,17.95,-76.93333,17.95",
+    "geom:latitude":17.95,
+    "geom:longitude":-76.93333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1451",
+    "gn:asciiname":"Salt Pond Pen",
+    "gn:cc2":"JM",
+    "gn:country_code":"JM",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488659,
+    "gn:latitude":17.95,
+    "gn:longitude":-76.93333,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Salt Pond Pen",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Great Salt Pond Pen",
+        "Salt Pond Pen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488659
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"9fe3f1f380ef019ffa2a1bfa0620f572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1226237509,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":1226237509,
+    "wof:lastmodified":1537649731,
+    "wof:name":"Salt Pond Pen",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.93333,
+    17.95,
+    -76.93333,
+    17.95
+],
+  "geometry": {"coordinates":[-76.93333,17.95],"type":"Point"}
+}

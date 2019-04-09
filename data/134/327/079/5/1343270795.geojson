@@ -1,0 +1,66 @@
+{
+  "id": 1343270795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.06667,18.43333,-78.06667,18.43333",
+    "geom:latitude":18.43333,
+    "geom:longitude":-78.06667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"907",
+    "gn:asciiname":"Recovery Pen",
+    "gn:country_code":"JM",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488896,
+    "gn:latitude":18.43333,
+    "gn:longitude":-78.06667,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Recovery Pen",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488896
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"e72c3c615ad7c3d7ee80b18a644a1230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1343270795,
+            "region_id":85672563
+        }
+    ],
+    "wof:id":1343270795,
+    "wof:lastmodified":1537019074,
+    "wof:name":"Recovery Pen",
+    "wof:parent_id":85672563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.06667,
+    18.43333,
+    -78.06667,
+    18.43333
+],
+  "geometry": {"coordinates":[-78.06667,18.43333],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1259474955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.68333,18.16667,-76.68333,18.16667",
+    "geom:latitude":18.16667,
+    "geom:longitude":-76.68333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"441",
+    "gn:asciiname":"Pleasing Prospect",
+    "gn:country_code":"JM",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489020,
+    "gn:latitude":18.16667,
+    "gn:longitude":-76.68333,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Pleasing Prospect",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489020
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"f1f9cd2a173c63fe09ab154d44e94f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1259474955,
+            "region_id":85672591
+        }
+    ],
+    "wof:id":1259474955,
+    "wof:lastmodified":1536870024,
+    "wof:name":"Pleasing Prospect",
+    "wof:parent_id":85672591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.68333,
+    18.16667,
+    -76.68333,
+    18.16667
+],
+  "geometry": {"coordinates":[-76.68333,18.16667],"type":"Point"}
+}

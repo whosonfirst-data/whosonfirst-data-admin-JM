@@ -1,0 +1,71 @@
+{
+  "id": 1243336021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.18431,18.31062,-78.18431,18.31062",
+    "geom:latitude":18.31062,
+    "geom:longitude":-78.18431,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1002.0",
+    "gn:asciiname":"Grange Hill",
+    "gn:country_code":"JM",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490273,
+    "gn:latitude":18.31062,
+    "gn:longitude":-78.18431,
+    "gn:modification_date":"2018-04-02",
+    "gn:name":"Grange Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gran Hill",
+        "Grange Hill"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490273,
+        "wk:page":"Grange_Hill,_Jamaica"
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"80d9023bf9587c6074797e3acef24c0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1243336021,
+            "region_id":85672583
+        }
+    ],
+    "wof:id":1243336021,
+    "wof:lastmodified":1537649747,
+    "wof:name":"Grange Hill",
+    "wof:parent_id":85672583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.18431,
+    18.31062,
+    -78.18431,
+    18.31062
+],
+  "geometry": {"coordinates":[-78.18431,18.31062],"type":"Point"}
+}

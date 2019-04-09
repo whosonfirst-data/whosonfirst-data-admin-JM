@@ -1,0 +1,72 @@
+{
+  "id": 421204457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.89316,18.50914,-77.89316,18.50914",
+    "geom:latitude":18.50914,
+    "geom:longitude":-77.89316,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3488944,
+    "qs:gn_pop":0,
+    "qs:name":"Providence",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint James",
+    "qs:photos":1207,
+    "qs:photos_1k":245,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1207,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":240942,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":109743,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488944,
+        "gp:id":109743,
+        "qs:id":240942
+    },
+    "wof:country":"JM",
+    "wof:created":1459010186,
+    "wof:geomhash":"697305742bf54c527168ee0860d35f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421204457,
+            "region_id":85672573
+        }
+    ],
+    "wof:id":421204457,
+    "wof:lastmodified":1466635899,
+    "wof:name":"Providence",
+    "wof:parent_id":85672573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.89316,
+    18.50914,
+    -77.89316,
+    18.50914
+],
+  "geometry": {"coordinates":[-77.89315999999999,18.50914],"type":"Point"}
+}

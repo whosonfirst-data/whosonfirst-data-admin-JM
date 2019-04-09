@@ -1,0 +1,66 @@
+{
+  "id": 1193107965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.31667,17.91667,-76.31667,17.91667",
+    "geom:latitude":17.91667,
+    "geom:longitude":-76.31667,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"324.0",
+    "gn:asciiname":"Green Castle",
+    "gn:country_code":"JM",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490241,
+    "gn:latitude":17.91667,
+    "gn:longitude":-76.31667,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Green Castle",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490241
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"24b1b6b2f47ab0ac9c41b377c96b855b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1193107965,
+            "region_id":85672615
+        }
+    ],
+    "wof:id":1193107965,
+    "wof:lastmodified":1536376419,
+    "wof:name":"Green Castle",
+    "wof:parent_id":85672615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.31667,
+    17.91667,
+    -76.31667,
+    17.91667
+],
+  "geometry": {"coordinates":[-76.31667,17.91667],"type":"Point"}
+}

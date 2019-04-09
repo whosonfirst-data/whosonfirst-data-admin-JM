@@ -1,0 +1,87 @@
+{
+  "id": 421167751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.10338,18.39747,-78.10338,18.39747",
+    "geom:latitude":18.39747,
+    "geom:longitude":-78.10338,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Cascade"
+    ],
+    "name:eng_x_preferred":[
+        "Cascade"
+    ],
+    "name:swe_x_preferred":[
+        "Cascade"
+    ],
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3491055,
+    "qs:gn_pop":1232,
+    "qs:name":"Cascade",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Hanover",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":148518,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":108540,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491055,
+        "gp:id":108540,
+        "qs:id":148518,
+        "wd:id":"Q5048080"
+    },
+    "wof:country":"JM",
+    "wof:created":1459008742,
+    "wof:geomhash":"02d2ddac735c48b00bd706d750290f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421167751,
+            "region_id":85672563
+        }
+    ],
+    "wof:id":421167751,
+    "wof:lastmodified":1553816355,
+    "wof:name":"Cascade",
+    "wof:parent_id":85672563,
+    "wof:placetype":"locality",
+    "wof:population":1232,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.10338,
+    18.39747,
+    -78.10338,
+    18.39747
+],
+  "geometry": {"coordinates":[-78.10338,18.39747],"type":"Point"}
+}

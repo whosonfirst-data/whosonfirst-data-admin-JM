@@ -1,0 +1,89 @@
+{
+  "id": 1125938257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.35335,18.30768,-77.35335,18.30768",
+    "geom:latitude":18.30768,
+    "geom:longitude":-77.35335,
+    "gn:gn_country":"JM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1927,
+    "gn:population":1927,
+    "iso:country":"JM",
+    "lbl:latitude":18.30768,
+    "lbl:longitude":-77.35335,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Alexandria"
+    ],
+    "name:eng_x_preferred":[
+        "Alexandria"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u06a9\u0633\u0627\u0646\u062f\u0631\u06cc\u0627\u060c \u062c\u0627\u0645\u0627\u06cc\u06a9\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Alexandria"
+    ],
+    "qs_pg:aaroncc":"JM",
+    "qs_pg:gn_country":"JM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3491593,
+    "qs_pg:gn_pop":1927,
+    "qs_pg:name":"Alexandria",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1045271,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491593,
+        "qs_pg:id":1045271,
+        "wd:id":"Q14946812"
+    },
+    "wof:country":"JM",
+    "wof:created":1497297035,
+    "wof:geomhash":"f4c1f207fa575d03acf2149c7f02b3ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1125938257,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":1125938257,
+    "wof:lastmodified":1514466905,
+    "wof:name":"Alexandria",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:population":1927,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.35335,
+    18.30768,
+    -77.35335,
+    18.30768
+],
+  "geometry": {"coordinates":[-77.35335000000001,18.30768],"type":"Point"}
+}

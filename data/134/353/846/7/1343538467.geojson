@@ -1,0 +1,71 @@
+{
+  "id": 1343538467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.81492,18.42726,-77.81492,18.42726",
+    "geom:latitude":18.42726,
+    "geom:longitude":-77.81492,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"827.0",
+    "gn:asciiname":"Guilsbro",
+    "gn:country_code":"JM",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490188,
+    "gn:latitude":18.42726,
+    "gn:longitude":-77.81492,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Guilsbro",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gilsbro",
+        "Guilsboro",
+        "Guilsbro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490188
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"5e04ab8de019471716185fd6337d14af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1343538467,
+            "region_id":85672573
+        }
+    ],
+    "wof:id":1343538467,
+    "wof:lastmodified":1537649746,
+    "wof:name":"Guilsbro",
+    "wof:parent_id":85672573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.81492,
+    18.42726,
+    -77.81492,
+    18.42726
+],
+  "geometry": {"coordinates":[-77.81492,18.42726],"type":"Point"}
+}

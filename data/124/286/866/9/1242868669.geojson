@@ -1,0 +1,66 @@
+{
+  "id": 1242868669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.1,18.25,-77.1,18.25",
+    "geom:latitude":18.25,
+    "geom:longitude":-77.1,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"635.0",
+    "gn:asciiname":"Ardoch",
+    "gn:country_code":"JM",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491541,
+    "gn:latitude":18.25,
+    "gn:longitude":-77.1,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Ardoch",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491541
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"606d494a7344d3647201f6f456a2ebe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1242868669,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":1242868669,
+    "wof:lastmodified":1536643794,
+    "wof:name":"Ardoch",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.1,
+    18.25,
+    -77.1,
+    18.25
+],
+  "geometry": {"coordinates":[-77.09999999999999,18.25],"type":"Point"}
+}

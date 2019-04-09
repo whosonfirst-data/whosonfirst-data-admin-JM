@@ -1,0 +1,71 @@
+{
+  "id": 1193036189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.13465,17.9624,-77.13465,17.9624",
+    "geom:latitude":17.9624,
+    "geom:longitude":-77.13465,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1429.0",
+    "gn:asciiname":"Colbeck",
+    "gn:country_code":"JM",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490906,
+    "gn:latitude":17.9624,
+    "gn:longitude":-77.13465,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Colbeck",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colbecks",
+        "Colebeck",
+        "Colbeck"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490906
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"5b45e6170702467e8a4adab2af753eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1193036189,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":1193036189,
+    "wof:lastmodified":1537649752,
+    "wof:name":"Colbeck",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.13465,
+    17.9624,
+    -77.13465,
+    17.9624
+],
+  "geometry": {"coordinates":[-77.13464999999999,17.9624],"type":"Point"}
+}

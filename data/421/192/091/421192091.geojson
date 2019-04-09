@@ -1,0 +1,88 @@
+{
+  "id": 421192091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.28265,18.03969,-76.28265,18.03969",
+    "geom:latitude":18.03969,
+    "geom:longitude":-76.28265,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Manchioneal"
+    ],
+    "name:eng_x_preferred":[
+        "Manchioneal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30f3\u30c1\u30aa\u30cd\u30a2\u30eb"
+    ],
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3489582,
+    "qs:gn_pop":2321,
+    "qs:name":"Manchioneal",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Portland",
+    "qs:photos":122,
+    "qs:photos_1k":25,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":122,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1165137,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":109382,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":157,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489582,
+        "gp:id":109382,
+        "qs:id":1165137,
+        "wd:id":"Q6747609"
+    },
+    "wof:country":"JM",
+    "wof:created":1459009725,
+    "wof:geomhash":"2df54f59ae57e27d43b569701fd55be7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421192091,
+            "region_id":85672591
+        }
+    ],
+    "wof:id":421192091,
+    "wof:lastmodified":1553816380,
+    "wof:name":"Manchioneal",
+    "wof:parent_id":85672591,
+    "wof:placetype":"locality",
+    "wof:population":2321,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.28265,
+    18.03969,
+    -76.28265,
+    18.03969
+],
+  "geometry": {"coordinates":[-76.28265,18.03969],"type":"Point"}
+}

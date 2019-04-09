@@ -1,0 +1,71 @@
+{
+  "id": 1242888337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.23832,17.93524,-77.23832,17.93524",
+    "geom:latitude":17.93524,
+    "geom:longitude":-77.23832,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1372.0",
+    "gn:asciiname":"Halse Hall",
+    "gn:country_code":"JM",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490159,
+    "gn:latitude":17.93524,
+    "gn:longitude":-77.23832,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Halse Hall",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Halsey Hall",
+        "Halse Hall"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490159,
+        "wk:page":"Halse_Hall"
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"654f6af3394ac1c73d8cd3dfa162903c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1242888337,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":1242888337,
+    "wof:lastmodified":1537649745,
+    "wof:name":"Halse Hall",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.23832,
+    17.93524,
+    -77.23832,
+    17.93524
+],
+  "geometry": {"coordinates":[-77.23832,17.93524],"type":"Point"}
+}

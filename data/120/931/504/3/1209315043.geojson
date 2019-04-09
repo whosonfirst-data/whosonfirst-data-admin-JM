@@ -1,0 +1,62 @@
+{
+  "id": 1209315043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.43333,17.9,-77.43333,17.9",
+    "geom:latitude":17.9,
+    "geom:longitude":-77.43333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1272",
+    "gn:asciiname":"Mount Pleasant",
+    "gn:country_code":"JM",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489381,
+    "gn:latitude":17.9,
+    "gn:longitude":-77.43333,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Mount Pleasant",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489381
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"c3b2a160801e431a5474d2bab17af0c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632215,
+            "locality_id":1209315043
+        }
+    ],
+    "wof:id":1209315043,
+    "wof:lastmodified":1536290895,
+    "wof:name":"Mount Pleasant",
+    "wof:parent_id":85632215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.43333,
+    17.9,
+    -77.43333,
+    17.9
+],
+  "geometry": {"coordinates":[-77.43333,17.9],"type":"Point"}
+}

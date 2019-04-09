@@ -1,0 +1,70 @@
+{
+  "id": 1310607119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.48669,18.13052,-77.48669,18.13052",
+    "geom:latitude":18.13052,
+    "geom:longitude":-77.48669,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1225",
+    "gn:asciiname":"Walderston",
+    "gn:country_code":"JM",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488132,
+    "gn:latitude":18.13052,
+    "gn:longitude":-77.48669,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Walderston",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Walderston Village",
+        "Walderston"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488132
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"47e09272ef1cf427c5007ac22faca0a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1310607119,
+            "region_id":85672567
+        }
+    ],
+    "wof:id":1310607119,
+    "wof:lastmodified":1537649727,
+    "wof:name":"Walderston",
+    "wof:parent_id":85672567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.48669,
+    18.13052,
+    -77.48669,
+    18.13052
+],
+  "geometry": {"coordinates":[-77.48669,18.13052],"type":"Point"}
+}

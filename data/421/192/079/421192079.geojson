@@ -1,0 +1,72 @@
+{
+  "id": 421192079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.16116,18.39082,-77.16116,18.39082",
+    "geom:latitude":18.39082,
+    "geom:longitude":-77.16116,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3490753,
+    "qs:gn_pop":0,
+    "qs:name":"Davis Town",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint Ann",
+    "qs:photos":218,
+    "qs:photos_1k":44,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":218,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165120,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":108728,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490753,
+        "gp:id":108728,
+        "qs:id":1165120
+    },
+    "wof:country":"JM",
+    "wof:created":1459009724,
+    "wof:geomhash":"df01092b0f1f62dd1b33e3cb66bbff3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421192079,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":421192079,
+    "wof:lastmodified":1466635874,
+    "wof:name":"Davis Town",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.16116,
+    18.39082,
+    -77.16116,
+    18.39082
+],
+  "geometry": {"coordinates":[-77.16116,18.39082],"type":"Point"}
+}

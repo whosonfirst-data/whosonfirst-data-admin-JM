@@ -1,0 +1,66 @@
+{
+  "id": 1343445331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.13763,18.27148,-77.13763,18.27148",
+    "geom:latitude":18.27148,
+    "geom:longitude":-77.13763,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"652.0",
+    "gn:asciiname":"Grierfield",
+    "gn:country_code":"JM",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490203,
+    "gn:latitude":18.27148,
+    "gn:longitude":-77.13763,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Grierfield",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490203
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"ff67db12c8141c244af51fc08a128efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1343445331,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":1343445331,
+    "wof:lastmodified":1536768565,
+    "wof:name":"Grierfield",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.13763,
+    18.27148,
+    -77.13763,
+    18.27148
+],
+  "geometry": {"coordinates":[-77.13763,18.27148],"type":"Point"}
+}

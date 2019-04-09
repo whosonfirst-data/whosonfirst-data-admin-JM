@@ -1,0 +1,152 @@
+{
+  "id": 1125894891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.1048,18.4025,-77.1048,18.4025",
+    "geom:latitude":18.4025,
+    "geom:longitude":-77.1048,
+    "gn:gn_country":"JM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":9450,
+    "gn:population":9450,
+    "iso:country":"JM",
+    "lbl:latitude":18.4025,
+    "lbl:longitude":-77.1048,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u062a\u0634\u0648 \u0631\u064a\u0648\u0633"
+    ],
+    "name:chi_x_preferred":[
+        "\u5967\u55ac\u91cc\u5967\u65af"
+    ],
+    "name:cze_x_preferred":[
+        "Ocho Rios"
+    ],
+    "name:deu_x_preferred":[
+        "Ocho Rios"
+    ],
+    "name:dut_x_preferred":[
+        "Ocho Rios"
+    ],
+    "name:ell_x_preferred":[
+        "\u038c\u03c4\u03c3\u03bf \u03a1\u03af\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Ocho Rios"
+    ],
+    "name:fra_x_preferred":[
+        "Ocho Rios"
+    ],
+    "name:fre_x_preferred":[
+        "Ocho Rios"
+    ],
+    "name:ger_x_preferred":[
+        "Ocho Rios"
+    ],
+    "name:gre_x_preferred":[
+        "\u038c\u03c4\u03c3\u03bf \u03a1\u03af\u03bf\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Ocho Rios"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30fc\u30c1\u30e7\u30fb\u30ea\u30aa\u30b9"
+    ],
+    "name:nld_x_preferred":[
+        "Ocho Rios"
+    ],
+    "name:nob_x_preferred":[
+        "Ocho R\u00edos"
+    ],
+    "name:nor_x_preferred":[
+        "Ocho R\u00edos"
+    ],
+    "name:pol_x_preferred":[
+        "Ocho Rios"
+    ],
+    "name:por_x_preferred":[
+        "Ocho Rios"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0447\u043e-\u0420\u0438\u043e\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Ocho R\u00edos"
+    ],
+    "name:swe_x_preferred":[
+        "Ocho Rios"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0447\u043e-\u0420\u0456\u043e\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Las Chorreras"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5967\u55ac\u91cc\u5967\u65af"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u55ac\u91cc\u5967\u65af"
+    ],
+    "qs_pg:aaroncc":"JM",
+    "qs_pg:gn_country":"JM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3489239,
+    "qs_pg:gn_pop":9450,
+    "qs_pg:name":"Ocho Rios",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1045245,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489239,
+        "qs_pg:id":1045245,
+        "wd:id":"Q602783"
+    },
+    "wof:country":"JM",
+    "wof:created":1497295498,
+    "wof:geomhash":"336002eb4064ca08913ec00142b84bef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1125894891,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":1125894891,
+    "wof:lastmodified":1514466934,
+    "wof:name":"Ocho Rios",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:population":9450,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.1048,
+    18.4025,
+    -77.1048,
+    18.4025
+],
+  "geometry": {"coordinates":[-77.1048,18.4025],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1276745505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.03333,18.15,-78.03333,18.15",
+    "geom:latitude":18.15,
+    "geom:longitude":-78.03333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Brighton",
+    "gn:country_code":"JM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491224,
+    "gn:latitude":18.15,
+    "gn:longitude":-78.03333,
+    "gn:modification_date":"1997-06-26",
+    "gn:name":"Brighton",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491224
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"46ebd312bb268dc90f5c8492306c35c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276745505,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276745505,
+    "wof:lastmodified":1536723982,
+    "wof:name":"Brighton",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.03333,
+    18.15,
+    -78.03333,
+    18.15
+],
+  "geometry": {"coordinates":[-78.03333000000001,18.15],"type":"Point"}
+}

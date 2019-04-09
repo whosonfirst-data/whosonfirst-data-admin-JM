@@ -1,0 +1,66 @@
+{
+  "id": 1343479115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.11667,17.91667,-77.11667,17.91667",
+    "geom:latitude":17.91667,
+    "geom:longitude":-77.11667,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1429.0",
+    "gn:asciiname":"Anns Castle",
+    "gn:country_code":"JM",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491554,
+    "gn:latitude":17.91667,
+    "gn:longitude":-77.11667,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Anns Castle",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491554
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"1d52627c7edc8239ef543a402850fd43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1343479115,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":1343479115,
+    "wof:lastmodified":1536719596,
+    "wof:name":"Anns Castle",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.11667,
+    17.91667,
+    -77.11667,
+    17.91667
+],
+  "geometry": {"coordinates":[-77.11667,17.91667],"type":"Point"}
+}

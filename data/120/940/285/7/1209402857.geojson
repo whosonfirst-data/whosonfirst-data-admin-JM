@@ -1,0 +1,62 @@
+{
+  "id": 1209402857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.74677,18.12649,-77.74677,18.12649",
+    "geom:latitude":18.12649,
+    "geom:longitude":-77.74677,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1114",
+    "gn:asciiname":"Newton",
+    "gn:country_code":"JM",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489278,
+    "gn:latitude":18.12649,
+    "gn:longitude":-77.74677,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Newton",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489278
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"d083029d410bc10aa8942786492ab4ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632215,
+            "locality_id":1209402857
+        }
+    ],
+    "wof:id":1209402857,
+    "wof:lastmodified":1536288088,
+    "wof:name":"Newton",
+    "wof:parent_id":85632215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.74677,
+    18.12649,
+    -77.74677,
+    18.12649
+],
+  "geometry": {"coordinates":[-77.74677,18.12649],"type":"Point"}
+}

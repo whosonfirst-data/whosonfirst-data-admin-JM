@@ -1,0 +1,66 @@
+{
+  "id": 1310714761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.12873,18.45701,-78.12873,18.45701",
+    "geom:latitude":18.45701,
+    "geom:longitude":-78.12873,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"906",
+    "gn:asciiname":"Paradise",
+    "gn:country_code":"JM",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489130,
+    "gn:latitude":18.45701,
+    "gn:longitude":-78.12873,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Paradise",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489130
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"9a5821f4bbb7075d2eadec5ce37f6554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1310714761,
+            "region_id":85672563
+        }
+    ],
+    "wof:id":1310714761,
+    "wof:lastmodified":1536612497,
+    "wof:name":"Paradise",
+    "wof:parent_id":85672563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.12873,
+    18.45701,
+    -78.12873,
+    18.45701
+],
+  "geometry": {"coordinates":[-78.12873,18.45701],"type":"Point"}
+}

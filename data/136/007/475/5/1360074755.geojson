@@ -1,0 +1,66 @@
+{
+  "id": 1360074755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.4,18.31667,-77.4,18.31667",
+    "geom:latitude":18.31667,
+    "geom:longitude":-77.4,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"640",
+    "gn:asciiname":"Lower Tooting",
+    "gn:country_code":"JM",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489665,
+    "gn:latitude":18.31667,
+    "gn:longitude":-77.4,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Lower Tooting",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489665
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"17a02857904ceaf2856f2ce09ec9ac63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1360074755,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":1360074755,
+    "wof:lastmodified":1536960528,
+    "wof:name":"Lower Tooting",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.4,
+    18.31667,
+    -77.4,
+    18.31667
+],
+  "geometry": {"coordinates":[-77.40000000000001,18.31667],"type":"Point"}
+}

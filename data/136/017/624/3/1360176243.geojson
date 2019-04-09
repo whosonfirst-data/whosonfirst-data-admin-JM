@@ -1,0 +1,66 @@
+{
+  "id": 1360176243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.4207,18.17272,-76.4207,18.17272",
+    "geom:latitude":18.17272,
+    "geom:longitude":-76.4207,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"418",
+    "gn:asciiname":"Williamsfield",
+    "gn:country_code":"JM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488019,
+    "gn:latitude":18.17272,
+    "gn:longitude":-76.4207,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Williamsfield",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488019
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"c9638c6ed2127a15cd90f86bf5f21ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1360176243,
+            "region_id":85672591
+        }
+    ],
+    "wof:id":1360176243,
+    "wof:lastmodified":1536813559,
+    "wof:name":"Williamsfield",
+    "wof:parent_id":85672591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.4207,
+    18.17272,
+    -76.4207,
+    18.17272
+],
+  "geometry": {"coordinates":[-76.4207,18.17272],"type":"Point"}
+}

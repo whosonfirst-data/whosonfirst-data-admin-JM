@@ -1,0 +1,66 @@
+{
+  "id": 1360208861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.38333,17.9,-77.38333,17.9",
+    "geom:latitude":17.9,
+    "geom:longitude":-77.38333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1274",
+    "gn:asciiname":"Little Mountain",
+    "gn:country_code":"JM",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489739,
+    "gn:latitude":17.9,
+    "gn:longitude":-77.38333,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Little Mountain",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489739
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"3fef18931cd9d63e0cb4c598bf13e2c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1360208861,
+            "region_id":85672567
+        }
+    ],
+    "wof:id":1360208861,
+    "wof:lastmodified":1536767571,
+    "wof:name":"Little Mountain",
+    "wof:parent_id":85672567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.38333,
+    17.9,
+    -77.38333,
+    17.9
+],
+  "geometry": {"coordinates":[-77.38333,17.9],"type":"Point"}
+}

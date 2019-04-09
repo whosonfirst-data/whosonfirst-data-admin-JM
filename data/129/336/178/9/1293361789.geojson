@@ -1,0 +1,71 @@
+{
+  "id": 1293361789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.01667,18.36667,-77.01667,18.36667",
+    "geom:latitude":18.36667,
+    "geom:longitude":-77.01667,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"503",
+    "gn:asciiname":"Richards Pen",
+    "gn:cc2":"JM",
+    "gn:country_code":"JM",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488837,
+    "gn:latitude":18.36667,
+    "gn:longitude":-77.01667,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Richards Pen",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Prichards Pen",
+        "Richards Pen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488837
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"806037a43d20a071a205dfced77f3135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1293361789,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":1293361789,
+    "wof:lastmodified":1537649733,
+    "wof:name":"Richards Pen",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.01666999999998,
+    18.36667000000001,
+    -77.01666999999998,
+    18.36667000000001
+],
+  "geometry": {"coordinates":[-77.01666999999998,18.36667000000001],"type":"Point"}
+}

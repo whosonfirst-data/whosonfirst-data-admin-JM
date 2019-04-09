@@ -1,0 +1,66 @@
+{
+  "id": 1260159187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.69531,17.9108,-77.69531,17.9108",
+    "geom:latitude":17.9108,
+    "geom:longitude":-77.69531,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1153.0",
+    "gn:asciiname":"Top Round Hill",
+    "gn:country_code":"JM",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9409863,
+    "gn:latitude":17.9108,
+    "gn:longitude":-77.69531,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Top Round Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9409863
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"58182c3c47405571052473c5c84b8831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1260159187,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":1260159187,
+    "wof:lastmodified":1536880623,
+    "wof:name":"Top Round Hill",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.69530999999998,
+    17.9108,
+    -77.69530999999998,
+    17.9108
+],
+  "geometry": {"coordinates":[-77.69530999999998,17.9108],"type":"Point"}
+}

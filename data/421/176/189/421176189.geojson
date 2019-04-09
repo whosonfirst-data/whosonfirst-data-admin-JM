@@ -1,0 +1,98 @@
+{
+  "id": 421176189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.54239,18.29434,-77.54239,18.29434",
+    "geom:latitude":18.29434,
+    "geom:longitude":-77.54239,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Albert Town"
+    ],
+    "name:eng_x_preferred":[
+        "Albert Town"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631 \u0627\u0644\u0628\u0631\u062a\u060c \u062c\u0627\u0645\u0627\u06cc\u06a9\u0627"
+    ],
+    "name:per_x_preferred":[
+        "\u0634\u0647\u0631 \u0627\u0644\u0628\u0631\u062a\u060c \u062c\u0627\u0645\u0627\u06cc\u06a9\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Albert Town"
+    ],
+    "name:swe_x_preferred":[
+        "Albert Town"
+    ],
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3491602,
+    "qs:gn_pop":3449,
+    "qs:name":"Albert Town",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Trelawny",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1045272,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":108216,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491602,
+        "gp:id":108216,
+        "qs:id":1045272,
+        "wd:id":"Q4711348",
+        "wk:page":"Albert Town, Jamaica"
+    },
+    "wof:country":"JM",
+    "wof:created":1459009101,
+    "wof:geomhash":"8483c6e955c4f95db8a2048e1b986ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421176189,
+            "region_id":85672579
+        }
+    ],
+    "wof:id":421176189,
+    "wof:lastmodified":1527726472,
+    "wof:name":"Albert Town",
+    "wof:parent_id":85672579,
+    "wof:placetype":"locality",
+    "wof:population":3449,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.54239,
+    18.29434,
+    -77.54239,
+    18.29434
+],
+  "geometry": {"coordinates":[-77.54239,18.29434],"type":"Point"}
+}

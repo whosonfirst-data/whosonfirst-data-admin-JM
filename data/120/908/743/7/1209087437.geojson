@@ -1,0 +1,66 @@
+{
+  "id": 1209087437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.62906,17.97284,-77.62906,17.97284",
+    "geom:latitude":17.97284,
+    "geom:longitude":-77.62906,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1143",
+    "gn:asciiname":"Myersville",
+    "gn:country_code":"JM",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489348,
+    "gn:latitude":17.97284,
+    "gn:longitude":-77.62906,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Myersville",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myersville Church",
+        "Myersville"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489348
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"0c5e7435bf9a7212a3d532c80ee1f127",
+    "wof:hierarchy":[
+        {
+            "country_id":85632215,
+            "locality_id":1209087437
+        }
+    ],
+    "wof:id":1209087437,
+    "wof:lastmodified":1537649738,
+    "wof:name":"Myersville",
+    "wof:parent_id":85632215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.62906,
+    17.97283999999999,
+    -77.62906,
+    17.97283999999999
+],
+  "geometry": {"coordinates":[-77.62906,17.97283999999999],"type":"Point"}
+}

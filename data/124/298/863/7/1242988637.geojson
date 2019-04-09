@@ -1,0 +1,70 @@
+{
+  "id": 1242988637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.27209,17.80395,-77.27209,17.80395",
+    "geom:latitude":17.80395,
+    "geom:longitude":-77.27209,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1379",
+    "gn:asciiname":"The Alley",
+    "gn:country_code":"JM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488297,
+    "gn:latitude":17.80395,
+    "gn:longitude":-77.27209,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"The Alley",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alley",
+        "The Alley"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488297
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"c434a6df376b2aeecf29623d7fac7109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1242988637,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":1242988637,
+    "wof:lastmodified":1537649728,
+    "wof:name":"The Alley",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.27209,
+    17.80395,
+    -77.27209,
+    17.80395
+],
+  "geometry": {"coordinates":[-77.27209000000001,17.80395],"type":"Point"}
+}

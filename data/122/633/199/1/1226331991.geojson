@@ -1,0 +1,66 @@
+{
+  "id": 1226331991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.23333,18.38333,-77.23333,18.38333",
+    "geom:latitude":18.38333,
+    "geom:longitude":-77.23333,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"619.0",
+    "gn:asciiname":"Golden Grove",
+    "gn:country_code":"JM",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490313,
+    "gn:latitude":18.38333,
+    "gn:longitude":-77.23333,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Golden Grove",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490313
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"6a70b237b2dc89df4e3ae561cb84a4c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1226331991,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":1226331991,
+    "wof:lastmodified":1536808964,
+    "wof:name":"Golden Grove",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.23333000000002,
+    18.38333,
+    -77.23333000000002,
+    18.38333
+],
+  "geometry": {"coordinates":[-77.23333000000002,18.38333],"type":"Point"}
+}

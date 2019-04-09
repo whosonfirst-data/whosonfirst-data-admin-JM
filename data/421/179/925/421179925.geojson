@@ -1,0 +1,72 @@
+{
+  "id": 421179925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.8117,18.0421,-77.8117,18.0421",
+    "geom:latitude":18.0421,
+    "geom:longitude":-77.8117,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3491042,
+    "qs:gn_pop":0,
+    "qs:name":"Cataboo",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint Elizabeth",
+    "qs:photos":58,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":58,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":266460,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":108548,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491042,
+        "gp:id":108548,
+        "qs:id":266460
+    },
+    "wof:country":"JM",
+    "wof:created":1459009238,
+    "wof:geomhash":"16c980a1f00e2277a1a664c80292818f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421179925,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":421179925,
+    "wof:lastmodified":1466635850,
+    "wof:name":"Cataboo",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.8117,
+    18.0421,
+    -77.8117,
+    18.0421
+],
+  "geometry": {"coordinates":[-77.8117,18.0421],"type":"Point"}
+}

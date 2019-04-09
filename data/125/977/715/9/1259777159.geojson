@@ -1,0 +1,70 @@
+{
+  "id": 1259777159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.87386,17.95215,-76.87386,17.95215",
+    "geom:latitude":17.95215,
+    "geom:longitude":-76.87386,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1443",
+    "gn:asciiname":"Port Henderson",
+    "gn:country_code":"JM",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489001,
+    "gn:latitude":17.95215,
+    "gn:longitude":-76.87386,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Port Henderson",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fort Henderson",
+        "Port Henderson"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489001
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"46546c48c8bb15352297937b9f1cf74b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1259777159,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":1259777159,
+    "wof:lastmodified":1537649735,
+    "wof:name":"Port Henderson",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.87386,
+    17.95215,
+    -76.87386,
+    17.95215
+],
+  "geometry": {"coordinates":[-76.87385999999999,17.95215],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 421193065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.02702,18.16602,-78.02702,18.16602",
+    "geom:latitude":18.16602,
+    "geom:longitude":-78.02702,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Bluefields"
+    ],
+    "name:dut_x_preferred":[
+        "Bluefields"
+    ],
+    "name:eng_x_preferred":[
+        "Bluefields"
+    ],
+    "name:ger_x_preferred":[
+        "Bluefields"
+    ],
+    "name:swe_x_preferred":[
+        "Bluefields"
+    ],
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3491327,
+    "qs:gn_pop":2828,
+    "qs:name":"Bluefields",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Westmoreland",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1116223,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":108395,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491327,
+        "gp:id":108395,
+        "qs:id":1116223,
+        "wd:id":"Q522341",
+        "wk:page":"Bluefields, Jamaica"
+    },
+    "wof:country":"JM",
+    "wof:created":1459009759,
+    "wof:geomhash":"daed1288844cab5109f6ac2daad23d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421193065,
+            "region_id":85672583
+        }
+    ],
+    "wof:id":421193065,
+    "wof:lastmodified":1553816381,
+    "wof:name":"Bluefields",
+    "wof:parent_id":85672583,
+    "wof:placetype":"locality",
+    "wof:population":2828,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.02702,
+    18.16602,
+    -78.02702,
+    18.16602
+],
+  "geometry": {"coordinates":[-78.02701999999999,18.16602],"type":"Point"}
+}

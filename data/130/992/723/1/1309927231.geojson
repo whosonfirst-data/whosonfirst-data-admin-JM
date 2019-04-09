@@ -1,0 +1,66 @@
+{
+  "id": 1309927231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.48231,18.17244,-76.48231,18.17244",
+    "geom:latitude":18.17244,
+    "geom:longitude":-76.48231,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"413",
+    "gn:asciiname":"Shotover",
+    "gn:country_code":"JM",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488551,
+    "gn:latitude":18.17244,
+    "gn:longitude":-76.48231,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Shotover",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488551
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"5ada0ad401e47de0d0977cd00af6bec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1309927231,
+            "region_id":85672591
+        }
+    ],
+    "wof:id":1309927231,
+    "wof:lastmodified":1536756187,
+    "wof:name":"Shotover",
+    "wof:parent_id":85672591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.48231,
+    18.17244,
+    -76.48231,
+    18.17244
+],
+  "geometry": {"coordinates":[-76.48231,18.17244],"type":"Point"}
+}

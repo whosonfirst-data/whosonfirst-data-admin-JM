@@ -1,0 +1,66 @@
+{
+  "id": 1276530995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.66667,18.46667,-77.66667,18.46667",
+    "geom:latitude":18.46667,
+    "geom:longitude":-77.66667,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"701",
+    "gn:asciiname":"Merrywood",
+    "gn:country_code":"JM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489510,
+    "gn:latitude":18.46667,
+    "gn:longitude":-77.66667,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Merrywood",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489510
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"f7639925732ed195ec4f7ca098e07fbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1276530995,
+            "region_id":85672579
+        }
+    ],
+    "wof:id":1276530995,
+    "wof:lastmodified":1537010511,
+    "wof:name":"Merrywood",
+    "wof:parent_id":85672579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.66667,
+    18.46667,
+    -77.66667,
+    18.46667
+],
+  "geometry": {"coordinates":[-77.66667,18.46667],"type":"Point"}
+}

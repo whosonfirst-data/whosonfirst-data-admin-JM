@@ -1,0 +1,71 @@
+{
+  "id": 1209988923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.23333,18.21667,-78.23333,18.21667",
+    "geom:latitude":18.21667,
+    "geom:longitude":-78.23333,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1045.0",
+    "gn:asciiname":"Goldsons Corner",
+    "gn:cc2":"JM",
+    "gn:country_code":"JM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490309,
+    "gn:latitude":18.21667,
+    "gn:longitude":-78.23333,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Goldsons Corner",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coldsome Corner",
+        "Goldsons Corner"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490309
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"d61d7826ab57c630af91109df6e00221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1209988923,
+            "region_id":85672583
+        }
+    ],
+    "wof:id":1209988923,
+    "wof:lastmodified":1537649747,
+    "wof:name":"Goldsons Corner",
+    "wof:parent_id":85672583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.23333000000002,
+    18.21667,
+    -78.23333000000002,
+    18.21667
+],
+  "geometry": {"coordinates":[-78.23333000000002,18.21667],"type":"Point"}
+}

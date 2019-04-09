@@ -1,0 +1,62 @@
+{
+  "id": 1209601555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.90566,18.34127,-76.90566,18.34127",
+    "geom:latitude":18.34127,
+    "geom:longitude":-76.90566,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"511",
+    "gn:asciiname":"Sandside",
+    "gn:country_code":"JM",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488640,
+    "gn:latitude":18.34127,
+    "gn:longitude":-76.90566,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Sandside",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488640
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"859f5a00824f317cee2a7a9d3acff222",
+    "wof:hierarchy":[
+        {
+            "country_id":85632215,
+            "locality_id":1209601555
+        }
+    ],
+    "wof:id":1209601555,
+    "wof:lastmodified":1536282150,
+    "wof:name":"Sandside",
+    "wof:parent_id":85632215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.90566,
+    18.34127,
+    -76.90566,
+    18.34127
+],
+  "geometry": {"coordinates":[-76.90566,18.34127],"type":"Point"}
+}

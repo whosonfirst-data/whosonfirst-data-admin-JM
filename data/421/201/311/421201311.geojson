@@ -1,0 +1,75 @@
+{
+  "id": 421201311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.98333,18.11667,-77.98333,18.11667",
+    "geom:latitude":18.11667,
+    "geom:longitude":-77.98333,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Ackendown"
+    ],
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3491522,
+    "qs:gn_pop":0,
+    "qs:name":"Auchindown",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Westmoreland",
+    "qs:photos":987,
+    "qs:photos_1k":200,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":987,
+    "qs:photos_sr":10,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":211090,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":108269,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491522,
+        "gp:id":108269,
+        "qs:id":211090
+    },
+    "wof:country":"JM",
+    "wof:created":1459010068,
+    "wof:geomhash":"ab6430f5a7dbf306e498b72f064ec544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421201311,
+            "region_id":85672583
+        }
+    ],
+    "wof:id":421201311,
+    "wof:lastmodified":1501267345,
+    "wof:name":"Auchindown",
+    "wof:parent_id":85672583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.98333,
+    18.11667,
+    -77.98333,
+    18.11667
+],
+  "geometry": {"coordinates":[-77.98333,18.11667],"type":"Point"}
+}

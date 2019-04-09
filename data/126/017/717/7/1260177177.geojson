@@ -1,0 +1,66 @@
+{
+  "id": 1260177177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.0064,18.04027,-77.0064,18.04027",
+    "geom:latitude":18.04027,
+    "geom:longitude":-77.0064,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1422.0",
+    "gn:asciiname":"Edbury",
+    "gn:country_code":"JM",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490602,
+    "gn:latitude":18.04027,
+    "gn:longitude":-77.0064,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Edbury",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490602
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"eb6165e88851fd97cf5fc945e2b99021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1260177177,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":1260177177,
+    "wof:lastmodified":1536855517,
+    "wof:name":"Edbury",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.0064,
+    18.04027,
+    -77.0064,
+    18.04027
+],
+  "geometry": {"coordinates":[-77.0064,18.04027],"type":"Point"}
+}

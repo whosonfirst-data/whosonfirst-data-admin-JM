@@ -1,0 +1,67 @@
+{
+  "id": 1293671341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.94847,18.15067,-77.94847,18.15067",
+    "geom:latitude":18.15067,
+    "geom:longitude":-77.94847,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1083.0",
+    "gn:asciiname":"Bog",
+    "gn:country_code":"JM",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491300,
+    "gn:latitude":18.15067,
+    "gn:longitude":-77.94847,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Bog",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491300,
+        "wk:page":"Bog,_Westmoreland,_Jamaica"
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"b496ec270237530f9bcfc4e4c4737c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1293671341,
+            "region_id":85672583
+        }
+    ],
+    "wof:id":1293671341,
+    "wof:lastmodified":1537566852,
+    "wof:name":"Bog",
+    "wof:parent_id":85672583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.94847,
+    18.15067,
+    -77.94847,
+    18.15067
+],
+  "geometry": {"coordinates":[-77.94847,18.15067],"type":"Point"}
+}

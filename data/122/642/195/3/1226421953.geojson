@@ -1,0 +1,65 @@
+{
+  "id": 1226421953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.96865,18.37629,-77.96865,18.37629",
+    "geom:latitude":18.37629,
+    "geom:longitude":-77.96865,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Copse",
+    "gn:country_code":"JM",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490859,
+    "gn:latitude":18.37629,
+    "gn:longitude":-77.96865,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Copse",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490859
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"278f62ad1944cfdd7bd4e4712ab37fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1226421953,
+            "region_id":85672563
+        }
+    ],
+    "wof:id":1226421953,
+    "wof:lastmodified":1536679770,
+    "wof:name":"Copse",
+    "wof:parent_id":85672563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.96865,
+    18.37629,
+    -77.96865,
+    18.37629
+],
+  "geometry": {"coordinates":[-77.96865,18.37629],"type":"Point"}
+}

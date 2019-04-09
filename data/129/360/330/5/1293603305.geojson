@@ -1,0 +1,71 @@
+{
+  "id": 1293603305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.25,17.8,-77.25,17.8",
+    "geom:latitude":17.8,
+    "geom:longitude":-77.25,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1381",
+    "gn:asciiname":"Suttons",
+    "gn:cc2":"JM",
+    "gn:country_code":"JM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488339,
+    "gn:latitude":17.8,
+    "gn:longitude":-77.25,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Suttons",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sattons",
+        "Suttons"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488339
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"766c95fee13891618853d7f072cb65df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1293603305,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":1293603305,
+    "wof:lastmodified":1537649729,
+    "wof:name":"Suttons",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.25,
+    17.8,
+    -77.25,
+    17.8
+],
+  "geometry": {"coordinates":[-77.25,17.8],"type":"Point"}
+}

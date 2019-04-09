@@ -1,0 +1,70 @@
+{
+  "id": 1193002095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.12262,18.00079,-77.12262,18.00079",
+    "geom:latitude":18.00079,
+    "geom:longitude":-77.12262,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1429",
+    "gn:asciiname":"Red Ground",
+    "gn:country_code":"JM",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488890,
+    "gn:latitude":18.00079,
+    "gn:longitude":-77.12262,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Red Ground",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "New Forest",
+        "Red Ground"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488890
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"fb8fb7dde5304eb3b9d5221522d0cea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1193002095,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":1193002095,
+    "wof:lastmodified":1537649734,
+    "wof:name":"Red Ground",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.12262,
+    18.00079,
+    -77.12262,
+    18.00079
+],
+  "geometry": {"coordinates":[-77.12262,18.00079],"type":"Point"}
+}

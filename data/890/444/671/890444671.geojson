@@ -1,0 +1,343 @@
+{
+  "id": 890444671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.91883,18.47116,-77.91883,18.47116",
+    "geom:latitude":18.47116,
+    "geom:longitude":-77.91883,
+    "gn:country":"JM",
+    "gn:fcode":"PPL",
+    "gn:pop":82867,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.0,
+    "name:afr_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0646\u062a\u064a\u063a\u0648 \u0628\u0627\u064a"
+    ],
+    "name:arm_x_preferred":[
+        "\u0544\u0578\u0576\u0569\u0565\u0563\u0578 \u0532\u0565\u0575"
+    ],
+    "name:aze_x_preferred":[
+        "Monteqo-Bey"
+    ],
+    "name:baq_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09a8\u09cd\u099f\u09c7\u0997\u09cb \u09ac\u09c7"
+    ],
+    "name:cat_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:chi_x_preferred":[
+        "\u8499\u7279\u54e5\u8c9d"
+    ],
+    "name:cze_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:dan_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:deu_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:dut_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03c4\u03ad\u03b3\u03ba\u03bf \u039c\u03c0\u03ad\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:epo_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u062a\u06af\u0648\u0628\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:fra_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:fre_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:ger_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:glg_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03bf\u03bd\u03c4\u03ad\u03b3\u03ba\u03bf \u039c\u03c0\u03ad\u03c5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0acb\u0aa8\u0acd\u0a9f\u0ac7\u0a97\u0acb \u0aac\u0ac7"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e0\u05d8\u05d9\u05d2\u05d5 \u05d1\u05d9\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0902\u091f\u0947\u0917\u094b \u092c\u0947"
+    ],
+    "name:hrv_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:hun_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:ind_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:ita_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:jam_x_preferred":[
+        "Mantigo Bie"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30c6\u30b4\u30fb\u30d9\u30a4"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cbe\u0c82\u0c9f\u0cc6\u0c97\u0cca \u0cac\u0cc7"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaac\ud14c\uace0\ubca0\uc774"
+    ],
+    "name:lav_x_preferred":[
+        "Montegobeja"
+    ],
+    "name:lit_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:lit_x_variant":[
+        "Montego B\u0117jus"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u093e\u0901\u091f\u0947\u0917\u094b \u092c\u0947"
+    ],
+    "name:may_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:nld_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:nno_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:nob_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0648\u0646\u062a\u06af\u0648\u0628\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:por_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:rum_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435\u0433\u043e-\u0411\u0435\u0439"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0ddc\u0db1\u0dca\u0da7\u0dd9\u0d9c\u0ddd \u0db6\u0dda"
+    ],
+    "name:spa_x_preferred":[
+        "Bah\u00eda Montego"
+    ],
+    "name:swe_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:szl_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bca\u0ba3\u0bcd\u0b9f\u0bc7\u0b95\u0bc1  \u0baa\u0bc7"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c3e\u0c02\u0c1f\u0c46\u0c17\u0c4b \u0c2c\u0c47"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e48\u0e32\u0e27 \u0e21\u0e2d\u0e19\u0e40\u0e15\u0e42\u0e01\u0e23\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435\u0433\u043e-\u0411\u0435\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Montego"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0646\u0679\u06cc\u06af\u0648 \u0628\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Montego Bay"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u7279\u54e5\u8c9d"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Jamaica",
+    "ne:ADM0_A3":"JAM",
+    "ne:ADM1NAME":"Saint James",
+    "ne:ADMIN1_COD":12,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":1,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3489460,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Montego Bay",
+    "ne:GN_POP":82867,
+    "ne:GTOPO30":53.0,
+    "ne:ISO_A2":"JM",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":18.466688,
+    "ne:LONGITUDE":-77.916676,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Montego Bay",
+    "ne:MAX_AREAKM":54.0,
+    "ne:MAX_AREAMI":21.0,
+    "ne:MAX_BBXMAX":-77.841667,
+    "ne:MAX_BBXMIN":-77.941667,
+    "ne:MAX_BBYMAX":18.525,
+    "ne:MAX_BBYMIN":18.433333,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":69.0,
+    "ne:MAX_PERMI":43.0,
+    "ne:MAX_POP10":126008,
+    "ne:MAX_POP20":126008,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-77.896212,
+    "ne:MEAN_BBYC":18.475253,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":54.0,
+    "ne:MIN_AREAMI":21.0,
+    "ne:MIN_BBXMAX":-77.841667,
+    "ne:MIN_BBXMIN":-77.941667,
+    "ne:MIN_BBYMAX":18.525,
+    "ne:MIN_BBYMIN":18.433333,
+    "ne:MIN_PERKM":69.0,
+    "ne:MIN_PERMI":43.0,
+    "ne:NAME":"Montego Bay",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Montego Bay",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":30,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":126008,
+    "ne:POP_MIN":82867,
+    "ne:POP_OTHER":126008,
+    "ne:RANK_MAX":9,
+    "ne:RANK_MIN":8,
+    "ne:SCALERANK":6,
+    "ne:SOV0NAME":"Jamaica",
+    "ne:SOV_A3":"JAM",
+    "ne:TIMEZONE":"America/Jamaica",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Montego Bay",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wd:latitude":"18.466666666",
+    "wd:longitude":"-77.916666666",
+    "wd:wordcount":2240,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489460,
+        "gp:id":109455,
+        "qs:id":1045248,
+        "qs_pg:id":453086,
+        "wd:id":"Q637555",
+        "wk:page":"Montego Bay"
+    },
+    "wof:country":"JM",
+    "wof:created":1469052477,
+    "wof:geomhash":"1de0e6b1aed226ba20411f3ffbc6f7ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":890444671,
+            "region_id":85672573
+        }
+    ],
+    "wof:id":890444671,
+    "wof:lastmodified":1527782135,
+    "wof:name":"Montego Bay",
+    "wof:parent_id":85672573,
+    "wof:placetype":"locality",
+    "wof:population":82867,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.91883,
+    18.47116,
+    -77.91883,
+    18.47116
+],
+  "geometry": {"coordinates":[-77.91883,18.47116],"type":"Point"}
+}

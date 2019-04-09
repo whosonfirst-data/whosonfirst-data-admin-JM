@@ -1,0 +1,70 @@
+{
+  "id": 1276758919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.65865,18.18019,-76.65865,18.18019",
+    "geom:latitude":18.18019,
+    "geom:longitude":-76.65865,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"439.0",
+    "gn:asciiname":"Bybrook",
+    "gn:country_code":"JM",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491134,
+    "gn:latitude":18.18019,
+    "gn:longitude":-76.65865,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Bybrook",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Winchester",
+        "Bybrook"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491134
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"e11983aca0bd1f7ede2fa5dc33db3d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1276758919,
+            "region_id":85672591
+        }
+    ],
+    "wof:id":1276758919,
+    "wof:lastmodified":1537649755,
+    "wof:name":"Bybrook",
+    "wof:parent_id":85672591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.65865,
+    18.18019,
+    -76.65865,
+    18.18019
+],
+  "geometry": {"coordinates":[-76.65864999999999,18.18019],"type":"Point"}
+}

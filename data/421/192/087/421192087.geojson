@@ -1,0 +1,72 @@
+{
+  "id": 421192087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.46667,18.46667,-77.46667,18.46667",
+    "geom:latitude":18.46667,
+    "geom:longitude":-77.46667,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3488945,
+    "qs:gn_pop":0,
+    "qs:name":"Providence",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Trelawny",
+    "qs:photos":195,
+    "qs:photos_1k":40,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":195,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165135,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":109736,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488945,
+        "gp:id":109736,
+        "qs:id":1165135
+    },
+    "wof:country":"JM",
+    "wof:created":1459009725,
+    "wof:geomhash":"5a333589bee37359209445b290615328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421192087,
+            "region_id":85672579
+        }
+    ],
+    "wof:id":421192087,
+    "wof:lastmodified":1466635874,
+    "wof:name":"Providence",
+    "wof:parent_id":85672579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.46667,
+    18.46667,
+    -77.46667,
+    18.46667
+],
+  "geometry": {"coordinates":[-77.46666999999999,18.46667],"type":"Point"}
+}

@@ -1,0 +1,211 @@
+{
+  "id": 890435479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.88946,18.36849,-76.88946,18.36849",
+    "geom:latitude":18.36849,
+    "geom:longitude":-76.88946,
+    "gn:country":"JM",
+    "gn:fcode":"PPLA",
+    "gn:pop":7906,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0631\u062a \u0645\u0627\u0631\u064a\u0627"
+    ],
+    "name:chi_x_preferred":[
+        "\u746a\u9e97\u4e9e\u6e2f"
+    ],
+    "name:dut_x_preferred":[
+        "Port Maria"
+    ],
+    "name:eng_x_preferred":[
+        "Port Maria"
+    ],
+    "name:fre_x_preferred":[
+        "Port Maria"
+    ],
+    "name:ger_x_preferred":[
+        "Port Maria"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03bf\u03c1\u03c4 \u039c\u03b1\u03c1\u03af\u03b1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e8\u05d8 \u05de\u05e8\u05d9\u05d4"
+    ],
+    "name:jam_x_preferred":[
+        "Puot Maraya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ea\u30a2\u6e2f"
+    ],
+    "name:pol_x_preferred":[
+        "Port Maria"
+    ],
+    "name:por_x_preferred":[
+        "Port Maria"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u041c\u0430\u0440\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Port Maria"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0631\u0679 \u0645\u0627\u0631\u06cc\u0627"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Jamaica",
+    "ne:ADM0_A3":"JAM",
+    "ne:ADM1NAME":"Saint Mary",
+    "ne:ADMIN1_COD":13,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Added missing admin-1 capital. Population from GeoNames.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3488985,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Port Maria",
+    "ne:GN_POP":7906,
+    "ne:GTOPO30":13.0,
+    "ne:ISO_A2":"JM",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":18.377001,
+    "ne:LONGITUDE":-76.899995,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":null,
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Port Maria",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Port Maria",
+    "ne:NAMEDIFF":1,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":1,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":7906,
+    "ne:POP_MIN":7906,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":5,
+    "ne:RANK_MIN":5,
+    "ne:SCALERANK":10,
+    "ne:SOV0NAME":"Jamaica",
+    "ne:SOV_A3":"JAM",
+    "ne:TIMEZONE":"America/Jamaica",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Port Maria",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:latitude":"18.370277777",
+    "wd:longitude":"-76.890277777",
+    "wd:wordcount":125,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488985,
+        "gp:id":108925,
+        "qs:id":1045235,
+        "wd:id":"Q265115",
+        "wk:page":"Port Maria"
+    },
+    "wof:country":"JM",
+    "wof:created":1469052069,
+    "wof:geomhash":"a7074e7132b0fabcbc267661e8f7154b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":890435479,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":890435479,
+    "wof:lastmodified":1534379371,
+    "wof:name":"Port Maria",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:population":7906,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[
+        421186595
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.88946,
+    18.36849,
+    -76.88946,
+    18.36849
+],
+  "geometry": {"coordinates":[-76.88946,18.36849],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1210005671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.18333,18.08333,-77.18333,18.08333",
+    "geom:latitude":18.08333,
+    "geom:longitude":-77.18333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1426",
+    "gn:asciiname":"Phelps Run",
+    "gn:country_code":"JM",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489058,
+    "gn:latitude":18.08333,
+    "gn:longitude":-77.18333,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Phelps Run",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489058
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"81d2416d9e555bebd5cce1a3d96f6436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1210005671,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":1210005671,
+    "wof:lastmodified":1536373968,
+    "wof:name":"Phelps Run",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.18333,
+    18.08333,
+    -77.18333,
+    18.08333
+],
+  "geometry": {"coordinates":[-77.18333,18.08333],"type":"Point"}
+}

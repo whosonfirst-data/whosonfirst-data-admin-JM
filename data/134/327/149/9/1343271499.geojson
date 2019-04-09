@@ -1,0 +1,73 @@
+{
+  "id": 1343271499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.3,17.96667,-77.3,17.96667",
+    "geom:latitude":17.96667,
+    "geom:longitude":-77.3,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1355",
+    "gn:asciiname":"Shickles Pen",
+    "gn:cc2":"JM",
+    "gn:country_code":"JM",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488563,
+    "gn:latitude":17.96667,
+    "gn:longitude":-77.3,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Shickles Pen",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shickle\u2019s",
+        "Shickels",
+        "Sheckles Pen",
+        "Shickles Pen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488563
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"216aeabd88139c8c9ce818adf5cbb01f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1343271499,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":1343271499,
+    "wof:lastmodified":1537649731,
+    "wof:name":"Shickles Pen",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.3,
+    17.96667,
+    -77.3,
+    17.96667
+],
+  "geometry": {"coordinates":[-77.3,17.96667],"type":"Point"}
+}

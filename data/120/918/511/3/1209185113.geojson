@@ -1,0 +1,62 @@
+{
+  "id": 1209185113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.60367,17.88559,-76.60367,17.88559",
+    "geom:latitude":17.88559,
+    "geom:longitude":-76.60367,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"340.0",
+    "gn:asciiname":"Albion",
+    "gn:country_code":"JM",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491600,
+    "gn:latitude":17.88559,
+    "gn:longitude":-76.60367,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Albion",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491600
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"33fc631397493cb0fce164e9abf3f77f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632215,
+            "locality_id":1209185113
+        }
+    ],
+    "wof:id":1209185113,
+    "wof:lastmodified":1536295127,
+    "wof:name":"Albion",
+    "wof:parent_id":85632215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.60367,
+    17.88559,
+    -76.60367,
+    17.88559
+],
+  "geometry": {"coordinates":[-76.60366999999999,17.88559],"type":"Point"}
+}

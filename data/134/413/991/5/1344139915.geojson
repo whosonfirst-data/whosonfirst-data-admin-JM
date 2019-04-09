@@ -1,0 +1,66 @@
+{
+  "id": 1344139915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.48333,18.41667,-77.48333,18.41667",
+    "geom:latitude":18.41667,
+    "geom:longitude":-77.48333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"720",
+    "gn:asciiname":"Plum Corner",
+    "gn:country_code":"JM",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489016,
+    "gn:latitude":18.41667,
+    "gn:longitude":-77.48333,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Plum Corner",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489016
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"5e65d982f09d4aa90c4d1d2f114cf321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1344139915,
+            "region_id":85672579
+        }
+    ],
+    "wof:id":1344139915,
+    "wof:lastmodified":1536761219,
+    "wof:name":"Plum Corner",
+    "wof:parent_id":85672579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.48333000000002,
+    18.41667,
+    -77.48333000000002,
+    18.41667
+],
+  "geometry": {"coordinates":[-77.48333000000002,18.41667],"type":"Point"}
+}

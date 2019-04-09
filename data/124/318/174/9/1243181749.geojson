@@ -1,0 +1,66 @@
+{
+  "id": 1243181749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.35591,18.02661,-77.35591,18.02661",
+    "geom:latitude":18.02661,
+    "geom:longitude":-77.35591,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1337",
+    "gn:asciiname":"Stewarton",
+    "gn:country_code":"JM",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488400,
+    "gn:latitude":18.02661,
+    "gn:longitude":-77.35591,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Stewarton",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488400
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"63d4936dcc204a222b3041ce9037a125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1243181749,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":1243181749,
+    "wof:lastmodified":1536690186,
+    "wof:name":"Stewarton",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.35591,
+    18.02661,
+    -77.35591,
+    18.02661
+],
+  "geometry": {"coordinates":[-77.35590999999999,18.02661],"type":"Point"}
+}

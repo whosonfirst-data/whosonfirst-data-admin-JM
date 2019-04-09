@@ -1,0 +1,67 @@
+{
+  "id": 1276144675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.72044,18.05635,-76.72044,18.05635",
+    "geom:latitude":18.05635,
+    "geom:longitude":-76.72044,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"15121.0",
+    "gn:asciiname":"Hopewell",
+    "gn:country_code":"JM",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490019,
+    "gn:latitude":18.05635,
+    "gn:longitude":-76.72044,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Hopewell",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490019,
+        "wk:page":"Hopewell%2C_Saint_Andrew"
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"3ea163eb3c8cd112b6bfe4b6c0d70f64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1276144675,
+            "region_id":85672609
+        }
+    ],
+    "wof:id":1276144675,
+    "wof:lastmodified":1537566850,
+    "wof:name":"Hopewell",
+    "wof:parent_id":85672609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.72044,
+    18.05635,
+    -76.72044,
+    18.05635
+],
+  "geometry": {"coordinates":[-76.72044,18.05635],"type":"Point"}
+}

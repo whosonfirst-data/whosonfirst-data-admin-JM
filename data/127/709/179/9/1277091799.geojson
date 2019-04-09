@@ -1,0 +1,71 @@
+{
+  "id": 1277091799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.22916,17.76825,-77.22916,17.76825",
+    "geom:latitude":17.76825,
+    "geom:longitude":-77.22916,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1382",
+    "gn:asciiname":"Portland Cottage",
+    "gn:country_code":"JM",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488993,
+    "gn:latitude":17.76825,
+    "gn:longitude":-77.22916,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Portland Cottage",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Portland Village",
+        "Portland",
+        "Portland Cottage"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488993
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"0c910f5b5452d5e4229be9917d1b8165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1277091799,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":1277091799,
+    "wof:lastmodified":1537649735,
+    "wof:name":"Portland Cottage",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.22916,
+    17.76825,
+    -77.22916,
+    17.76825
+],
+  "geometry": {"coordinates":[-77.22915999999999,17.76825],"type":"Point"}
+}

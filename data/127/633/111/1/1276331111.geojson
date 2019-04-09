@@ -1,0 +1,69 @@
+{
+  "id": 1276331111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.70497,18.26051,-76.70497,18.26051",
+    "geom:latitude":18.26051,
+    "geom:longitude":-76.70497,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dover",
+    "gn:country_code":"JM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490670,
+    "gn:latitude":18.26051,
+    "gn:longitude":-76.70497,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dover",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dove",
+        "Dover"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490670
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"f9547a910dc013ee13b536da81db3958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1276331111,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":1276331111,
+    "wof:lastmodified":1537649750,
+    "wof:name":"Dover",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.70496999999997,
+    18.26051,
+    -76.70496999999997,
+    18.26051
+],
+  "geometry": {"coordinates":[-76.70496999999997,18.26051],"type":"Point"}
+}

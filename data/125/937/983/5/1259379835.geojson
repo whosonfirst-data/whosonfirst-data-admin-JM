@@ -1,0 +1,69 @@
+{
+  "id": 1259379835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.29142,18.06586,-76.29142,18.06586",
+    "geom:latitude":18.06586,
+    "geom:longitude":-76.29142,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"425",
+    "gn:asciiname":"Rural Hill",
+    "gn:country_code":"JM",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489025,
+    "gn:latitude":18.06586,
+    "gn:longitude":-76.29142,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Rural Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pleasant Hill"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489025
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"96f764a10991c4b867bc00d5e35f0f7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1259379835,
+            "region_id":85672591
+        }
+    ],
+    "wof:id":1259379835,
+    "wof:lastmodified":1537649735,
+    "wof:name":"Rural Hill",
+    "wof:parent_id":85672591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.29142,
+    18.06586,
+    -76.29142,
+    18.06586
+],
+  "geometry": {"coordinates":[-76.29142,18.06586],"type":"Point"}
+}

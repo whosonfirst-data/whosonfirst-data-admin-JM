@@ -1,0 +1,66 @@
+{
+  "id": 1293104761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.4621,17.93652,-77.4621,17.93652",
+    "geom:latitude":17.93652,
+    "geom:longitude":-77.4621,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1265",
+    "gn:asciiname":"Lancaster",
+    "gn:country_code":"JM",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489820,
+    "gn:latitude":17.93652,
+    "gn:longitude":-77.4621,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Lancaster",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489820
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"2ce38539aa2d38e3f467b1d21380fca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1293104761,
+            "region_id":85672567
+        }
+    ],
+    "wof:id":1293104761,
+    "wof:lastmodified":1536840749,
+    "wof:name":"Lancaster",
+    "wof:parent_id":85672567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.4621,
+    17.93652,
+    -77.4621,
+    17.93652
+],
+  "geometry": {"coordinates":[-77.46210000000001,17.93652],"type":"Point"}
+}

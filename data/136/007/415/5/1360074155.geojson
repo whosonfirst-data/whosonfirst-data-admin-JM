@@ -1,0 +1,66 @@
+{
+  "id": 1360074155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.07025,18.03461,-77.07025,18.03461",
+    "geom:latitude":18.03461,
+    "geom:longitude":-77.07025,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1422.0",
+    "gn:asciiname":"Belmont",
+    "gn:country_code":"JM",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491417,
+    "gn:latitude":18.03461,
+    "gn:longitude":-77.07025,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Belmont",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491417
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"b0ba92d9c72530a339a1b8429b40774f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1360074155,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":1360074155,
+    "wof:lastmodified":1536961368,
+    "wof:name":"Belmont",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.07025,
+    18.03461,
+    -77.07025,
+    18.03461
+],
+  "geometry": {"coordinates":[-77.07025,18.03461],"type":"Point"}
+}

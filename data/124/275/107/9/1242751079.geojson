@@ -1,0 +1,66 @@
+{
+  "id": 1242751079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.73483,18.48431,-77.73483,18.48431",
+    "geom:latitude":18.48431,
+    "geom:longitude":-77.73483,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"701.0",
+    "gn:asciiname":"Kent",
+    "gn:country_code":"JM",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489871,
+    "gn:latitude":18.48431,
+    "gn:longitude":-77.73483,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Kent",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489871
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"871a5f433fbb29fffc3e69ede528cecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1242751079,
+            "region_id":85672579
+        }
+    ],
+    "wof:id":1242751079,
+    "wof:lastmodified":1536813279,
+    "wof:name":"Kent",
+    "wof:parent_id":85672579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.73483,
+    18.48431,
+    -77.73483,
+    18.48431
+],
+  "geometry": {"coordinates":[-77.73483,18.48431],"type":"Point"}
+}

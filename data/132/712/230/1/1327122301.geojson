@@ -1,0 +1,66 @@
+{
+  "id": 1327122301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.81667,17.96667,-77.81667,17.96667",
+    "geom:latitude":17.96667,
+    "geom:longitude":-77.81667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1138",
+    "gn:asciiname":"Pond Side",
+    "gn:country_code":"JM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489008,
+    "gn:latitude":17.96667,
+    "gn:longitude":-77.81667,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Pond Side",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489008
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"96d8f10cd8dc840671b6cb5278e86665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1327122301,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":1327122301,
+    "wof:lastmodified":1536628982,
+    "wof:name":"Pond Side",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.81667,
+    17.96667,
+    -77.81667,
+    17.96667
+],
+  "geometry": {"coordinates":[-77.81667,17.96667],"type":"Point"}
+}

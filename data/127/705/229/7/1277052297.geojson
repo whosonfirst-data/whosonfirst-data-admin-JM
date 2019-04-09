@@ -1,0 +1,66 @@
+{
+  "id": 1277052297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.95,18.4,-76.95,18.4",
+    "geom:latitude":18.4,
+    "geom:longitude":-76.95,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"506",
+    "gn:asciiname":"Spring Grove",
+    "gn:country_code":"JM",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488434,
+    "gn:latitude":18.4,
+    "gn:longitude":-76.95,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Spring Grove",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488434
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"8bcb362517099832df321d4135a3b014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1277052297,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":1277052297,
+    "wof:lastmodified":1536809599,
+    "wof:name":"Spring Grove",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.95,
+    18.4,
+    -76.95,
+    18.4
+],
+  "geometry": {"coordinates":[-76.95,18.4],"type":"Point"}
+}

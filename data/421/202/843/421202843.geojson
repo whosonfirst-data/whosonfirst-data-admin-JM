@@ -1,0 +1,72 @@
+{
+  "id": 421202843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.79107,18.4953,-77.79107,18.4953",
+    "geom:latitude":18.4953,
+    "geom:longitude":-77.79107,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3488454,
+    "qs:gn_pop":0,
+    "qs:name":"Spot Valley",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint James",
+    "qs:photos":224,
+    "qs:photos_1k":45,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":224,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":228582,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":110005,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488454,
+        "gp:id":110005,
+        "qs:id":228582
+    },
+    "wof:country":"JM",
+    "wof:created":1459010131,
+    "wof:geomhash":"25303fdaa68f1fa1ff574c7abe52e2c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421202843,
+            "region_id":85672573
+        }
+    ],
+    "wof:id":421202843,
+    "wof:lastmodified":1466635895,
+    "wof:name":"Spot Valley",
+    "wof:parent_id":85672573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.79107,
+    18.4953,
+    -77.79107,
+    18.4953
+],
+  "geometry": {"coordinates":[-77.79107,18.4953],"type":"Point"}
+}

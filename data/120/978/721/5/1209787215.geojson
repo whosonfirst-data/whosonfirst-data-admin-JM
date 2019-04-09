@@ -1,0 +1,71 @@
+{
+  "id": 1209787215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.9968,18.27223,-76.9968,18.27223",
+    "geom:latitude":18.27223,
+    "geom:longitude":-76.9968,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"521",
+    "gn:asciiname":"Wallingford",
+    "gn:country_code":"JM",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488127,
+    "gn:latitude":18.27223,
+    "gn:longitude":-76.9968,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Wallingford",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Waltingford",
+        "Walingford",
+        "Wallingford"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488127
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"886c3ff224e23e8afe4c4c6e1c704b43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1209787215,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":1209787215,
+    "wof:lastmodified":1537649727,
+    "wof:name":"Wallingford",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.9968,
+    18.27223,
+    -76.9968,
+    18.27223
+],
+  "geometry": {"coordinates":[-76.99679999999999,18.27223],"type":"Point"}
+}

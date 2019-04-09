@@ -1,0 +1,104 @@
+{
+  "id": 421168225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.53633,18.468,-77.53633,18.468",
+    "geom:latitude":18.468,
+    "geom:longitude":-77.53633,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Duncans"
+    ],
+    "name:dut_x_preferred":[
+        "Duncans"
+    ],
+    "name:eng_x_preferred":[
+        "Duncans"
+    ],
+    "name:fre_x_preferred":[
+        "Duncans"
+    ],
+    "name:ger_x_preferred":[
+        "Duncans"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30f3\u30ab\u30f3\u30ba"
+    ],
+    "name:swe_x_preferred":[
+        "Duncans"
+    ],
+    "name:unk_x_variant":[
+        "Duncans"
+    ],
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3490633,
+    "qs:gn_pop":1876,
+    "qs:name":"Duncons",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Trelawny",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1045264,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":56122930,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":26,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490633,
+        "gp:id":56122930,
+        "qs:id":1045264,
+        "wd:id":"Q1265469",
+        "wk:page":"Duncans, Jamaica"
+    },
+    "wof:country":"JM",
+    "wof:created":1459008758,
+    "wof:geomhash":"5ef5f008539b9713bf7572c5c175520e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421168225,
+            "region_id":85672579
+        }
+    ],
+    "wof:id":421168225,
+    "wof:lastmodified":1553816356,
+    "wof:name":"Duncons",
+    "wof:parent_id":85672579,
+    "wof:placetype":"locality",
+    "wof:population":1876,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.53633,
+    18.468,
+    -77.53633,
+    18.468
+],
+  "geometry": {"coordinates":[-77.53633000000001,18.468],"type":"Point"}
+}

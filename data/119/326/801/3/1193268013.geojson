@@ -1,0 +1,66 @@
+{
+  "id": 1193268013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.19975,18.42862,-77.19975,18.42862",
+    "geom:latitude":18.42862,
+    "geom:longitude":-77.19975,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"606",
+    "gn:asciiname":"Windsor Heights",
+    "gn:country_code":"JM",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3487992,
+    "gn:latitude":18.42862,
+    "gn:longitude":-77.19975,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Windsor Heights",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3487992
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"6c317bb253ddc43fbfef6a13ad0685b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1193268013,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":1193268013,
+    "wof:lastmodified":1536373752,
+    "wof:name":"Windsor Heights",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.19975,
+    18.42862,
+    -77.19975,
+    18.42862
+],
+  "geometry": {"coordinates":[-77.19974999999999,18.42862],"type":"Point"}
+}

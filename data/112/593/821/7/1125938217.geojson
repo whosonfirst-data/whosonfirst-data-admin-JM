@@ -1,0 +1,95 @@
+{
+  "id": 1125938217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.24061,17.81007,-77.24061,17.81007",
+    "geom:latitude":17.81007,
+    "geom:longitude":-77.24061,
+    "gn:gn_country":"JM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5362,
+    "gn:population":5362,
+    "iso:country":"JM",
+    "lbl:latitude":17.81007,
+    "lbl:longitude":-77.24061,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u840a\u6602\u5167\u723e\u93ae"
+    ],
+    "name:dut_x_preferred":[
+        "Lionel Town"
+    ],
+    "name:eng_x_preferred":[
+        "Lionel Town"
+    ],
+    "name:fre_x_preferred":[
+        "Lionel Town"
+    ],
+    "name:ger_x_preferred":[
+        "Lionel Town"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05d0\u05d5\u05e0\u05dc \u05d8\u05d0\u05d5\u05df"
+    ],
+    "qs_pg:aaroncc":"JM",
+    "qs_pg:gn_country":"JM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3489758,
+    "qs_pg:gn_pop":5362,
+    "qs_pg:name":"Lionel Town",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1045256,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489758,
+        "qs_pg:id":1045256,
+        "wd:id":"Q1827268"
+    },
+    "wof:country":"JM",
+    "wof:created":1497297034,
+    "wof:geomhash":"85600e30fde6684eb0ce10fc7f3447ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1125938217,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":1125938217,
+    "wof:lastmodified":1514466924,
+    "wof:name":"Lionel Town",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:population":5362,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.24061,
+    17.81007,
+    -77.24061,
+    17.81007
+],
+  "geometry": {"coordinates":[-77.24061,17.81007],"type":"Point"}
+}

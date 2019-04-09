@@ -1,0 +1,65 @@
+{
+  "id": 1242858119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.16667,18.01667,-77.16667,18.01667",
+    "geom:latitude":18.01667,
+    "geom:longitude":-77.16667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Crawle",
+    "gn:country_code":"JM",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490815,
+    "gn:latitude":18.01667,
+    "gn:longitude":-77.16667,
+    "gn:modification_date":"1997-06-26",
+    "gn:name":"Crawle",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490815
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"7c72eeaf6ba3b0a82ccf36d488c5a0a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1242858119,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":1242858119,
+    "wof:lastmodified":1536659691,
+    "wof:name":"Crawle",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.16667,
+    18.01667,
+    -77.16667,
+    18.01667
+],
+  "geometry": {"coordinates":[-77.16667,18.01667],"type":"Point"}
+}

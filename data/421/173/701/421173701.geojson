@@ -1,0 +1,72 @@
+{
+  "id": 421173701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-76.90693,18.36436,-76.90693,18.36436",
+    "geom:latitude":18.36436,
+    "geom:longitude":-76.90693,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3488218,
+    "qs:gn_pop":0,
+    "qs:name":"Trinity",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint Mary",
+    "qs:photos":5,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":297025,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":110162,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488218,
+        "gp:id":110162,
+        "qs:id":297025
+    },
+    "wof:country":"JM",
+    "wof:created":1459009000,
+    "wof:geomhash":"5e4209ad826153ef77745760b450a972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421173701,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":421173701,
+    "wof:lastmodified":1466635838,
+    "wof:name":"Trinity",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.90693,
+    18.36436,
+    -76.90693,
+    18.36436
+],
+  "geometry": {"coordinates":[-76.90693,18.36436],"type":"Point"}
+}

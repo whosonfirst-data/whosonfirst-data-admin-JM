@@ -1,0 +1,125 @@
+{
+  "id": 1125894903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.3518,18.27818,-78.3518,18.27818",
+    "geom:latitude":18.27818,
+    "geom:longitude":-78.3518,
+    "gn:gn_country":"JM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3000,
+    "gn:population":3000,
+    "iso:country":"JM",
+    "lbl:latitude":18.27818,
+    "lbl:longitude":-78.3518,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aze_x_preferred":[
+        "Neqril"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u041d\u0435\u0433\u0440\u044b\u043b"
+    ],
+    "name:chi_x_preferred":[
+        "\u5167\u683c\u91cc\u723e"
+    ],
+    "name:deu_x_preferred":[
+        "Negril"
+    ],
+    "name:dut_x_preferred":[
+        "Negril"
+    ],
+    "name:eng_x_preferred":[
+        "Negril"
+    ],
+    "name:fra_x_preferred":[
+        "Negril"
+    ],
+    "name:fre_x_preferred":[
+        "Negril"
+    ],
+    "name:ger_x_preferred":[
+        "Negril"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d2\u05e8\u05d9\u05dc"
+    ],
+    "name:ita_x_preferred":[
+        "Negril"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cd\u30b0\u30ea\u30eb"
+    ],
+    "name:pol_x_preferred":[
+        "Negril"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0433\u0440\u0438\u043b"
+    ],
+    "name:unk_x_variant":[
+        "Negril Harbour"
+    ],
+    "name:zho_x_preferred":[
+        "\u5167\u683c\u91cc\u723e"
+    ],
+    "qs_pg:aaroncc":"JM",
+    "qs_pg:gn_country":"JM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3489331,
+    "qs_pg:gn_pop":3000,
+    "qs_pg:name":"Negril",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1045246,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489331,
+        "qs_pg:id":1045246,
+        "wd:id":"Q974239"
+    },
+    "wof:country":"JM",
+    "wof:created":1497295503,
+    "wof:geomhash":"bbbf227bf7b01e69ec986be2870278bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1125894903,
+            "region_id":85672583
+        }
+    ],
+    "wof:id":1125894903,
+    "wof:lastmodified":1514466933,
+    "wof:name":"Negril",
+    "wof:parent_id":85672583,
+    "wof:placetype":"locality",
+    "wof:population":3000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.3518,
+    18.27818,
+    -78.3518,
+    18.27818
+],
+  "geometry": {"coordinates":[-78.3518,18.27818],"type":"Point"}
+}

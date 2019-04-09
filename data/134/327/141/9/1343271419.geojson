@@ -1,0 +1,66 @@
+{
+  "id": 1343271419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.35,17.86667,-77.35,17.86667",
+    "geom:latitude":17.86667,
+    "geom:longitude":-77.35,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"1358",
+    "gn:asciiname":"Rest",
+    "gn:country_code":"JM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488870,
+    "gn:latitude":17.86667,
+    "gn:longitude":-77.35,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Rest",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488870
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"f01783b4de94b9865b068af9ffd0523c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1343271419,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":1343271419,
+    "wof:lastmodified":1537018231,
+    "wof:name":"Rest",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.35,
+    17.86667000000001,
+    -77.35,
+    17.86667000000001
+],
+  "geometry": {"coordinates":[-77.34999999999999,17.86667000000001],"type":"Point"}
+}

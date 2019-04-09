@@ -1,0 +1,66 @@
+{
+  "id": 1276550771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.2036,18.442,-78.2036,18.442",
+    "geom:latitude":18.442,
+    "geom:longitude":-78.2036,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"902.0",
+    "gn:asciiname":"Haughton Court",
+    "gn:country_code":"JM",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490112,
+    "gn:latitude":18.442,
+    "gn:longitude":-78.2036,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Haughton Court",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490112
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"dce97383432b9f80d0a8a3415b56e677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1276550771,
+            "region_id":85672563
+        }
+    ],
+    "wof:id":1276550771,
+    "wof:lastmodified":1536983848,
+    "wof:name":"Haughton Court",
+    "wof:parent_id":85672563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.2036,
+    18.442,
+    -78.2036,
+    18.442
+],
+  "geometry": {"coordinates":[-78.20359999999999,18.442],"type":"Point"}
+}

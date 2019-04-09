@@ -1,0 +1,71 @@
+{
+  "id": 1193250921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.93605,18.18932,-77.93605,18.18932",
+    "geom:latitude":18.18932,
+    "geom:longitude":-77.93605,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1074",
+    "gn:asciiname":"New Road",
+    "gn:country_code":"JM",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489284,
+    "gn:latitude":18.18932,
+    "gn:longitude":-77.93605,
+    "gn:modification_date":"2018-04-02",
+    "gn:name":"New Road",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "New Roads",
+        "New Road"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489284,
+        "wk:page":"New_Roads,_Saint_Elizabeth,_Jamaica"
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"bd4e3e4c6bd4cdcf3b8976566c3b5a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1193250921,
+            "region_id":85672583
+        }
+    ],
+    "wof:id":1193250921,
+    "wof:lastmodified":1537649737,
+    "wof:name":"New Road",
+    "wof:parent_id":85672583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.93605,
+    18.18932,
+    -77.93605,
+    18.18932
+],
+  "geometry": {"coordinates":[-77.93604999999999,18.18932],"type":"Point"}
+}

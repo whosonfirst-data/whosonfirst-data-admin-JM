@@ -1,0 +1,72 @@
+{
+  "id": 421187267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.08333,18.4,-77.08333,18.4",
+    "geom:latitude":18.4,
+    "geom:longitude":-77.08333,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3488414,
+    "qs:gn_pop":0,
+    "qs:name":"Stanmore Grove",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint Ann",
+    "qs:photos":1140,
+    "qs:photos_1k":231,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1140,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1082621,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":110055,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488414,
+        "gp:id":110055,
+        "qs:id":1082621
+    },
+    "wof:country":"JM",
+    "wof:created":1459009507,
+    "wof:geomhash":"1c540c930338b2c03254ba9eb30f9ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421187267,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":421187267,
+    "wof:lastmodified":1466635864,
+    "wof:name":"Stanmore Grove",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.08333,
+    18.4,
+    -77.08333,
+    18.4
+],
+  "geometry": {"coordinates":[-77.08333,18.4],"type":"Point"}
+}

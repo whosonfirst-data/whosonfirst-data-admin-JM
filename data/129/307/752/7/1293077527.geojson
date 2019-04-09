@@ -1,0 +1,66 @@
+{
+  "id": 1293077527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.89486,18.36793,-76.89486,18.36793",
+    "geom:latitude":18.36793,
+    "geom:longitude":-76.89486,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"510",
+    "gn:asciiname":"Mannings Town",
+    "gn:country_code":"JM",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489572,
+    "gn:latitude":18.36793,
+    "gn:longitude":-76.89486,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Mannings Town",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489572
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"4eb91bcee8ac32895e2907bfbf51ba9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1293077527,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":1293077527,
+    "wof:lastmodified":1536880453,
+    "wof:name":"Mannings Town",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.89486,
+    18.36793,
+    -76.89486,
+    18.36793
+],
+  "geometry": {"coordinates":[-76.89485999999999,18.36793],"type":"Point"}
+}

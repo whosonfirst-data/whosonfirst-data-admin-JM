@@ -1,0 +1,71 @@
+{
+  "id": 1360170259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.76667,18.031,-76.76667,18.031",
+    "geom:latitude":18.031,
+    "geom:longitude":-76.76667,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"15011.0",
+    "gn:asciiname":"Billy Dun",
+    "gn:cc2":"JM",
+    "gn:country_code":"JM",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491365,
+    "gn:latitude":18.031,
+    "gn:longitude":-76.76667,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Billy Dun",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Billy Dunn",
+        "Billy Dun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491365
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"d1450f4edb5f60d19ef9d5d5f64e1b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1360170259,
+            "region_id":85672609
+        }
+    ],
+    "wof:id":1360170259,
+    "wof:lastmodified":1537649757,
+    "wof:name":"Billy Dun",
+    "wof:parent_id":85672609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.76666999999998,
+    18.031,
+    -76.76666999999998,
+    18.031
+],
+  "geometry": {"coordinates":[-76.76666999999998,18.031],"type":"Point"}
+}

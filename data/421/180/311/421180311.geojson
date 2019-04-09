@@ -1,0 +1,87 @@
+{
+  "id": 421180311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.07117,18.26158,-78.07117,18.26158",
+    "geom:latitude":18.26158,
+    "geom:longitude":-78.07117,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Petersfield"
+    ],
+    "name:eng_x_preferred":[
+        "Petersfield"
+    ],
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3489062,
+    "qs:gn_pop":2255,
+    "qs:name":"Petersfield",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Westmoreland",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1201507,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":109680,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":51.003769,
+    "wd:longitude":-0.934531,
+    "wd:wordcount":2397,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489062,
+        "gp:id":109680,
+        "qs:id":1201507,
+        "wd:id":"Q7178210"
+    },
+    "wof:country":"JM",
+    "wof:created":1459009251,
+    "wof:geomhash":"db1868a8e31c2e282beebb8c03336fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421180311,
+            "region_id":85672583
+        }
+    ],
+    "wof:id":421180311,
+    "wof:lastmodified":1527716242,
+    "wof:name":"Petersfield",
+    "wof:parent_id":85672583,
+    "wof:placetype":"locality",
+    "wof:population":2255,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.07117,
+    18.26158,
+    -78.07117,
+    18.26158
+],
+  "geometry": {"coordinates":[-78.07117,18.26158],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 421201751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.90252,18.31326,-77.90252,18.31326",
+    "geom:latitude":18.31326,
+    "geom:longitude":-77.90252,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Cambridge"
+    ],
+    "name:eng_x_preferred":[
+        "Cambridge"
+    ],
+    "name:unk_x_variant":[
+        "Cambridge Station"
+    ],
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3491102,
+    "qs:gn_pop":3930,
+    "qs:name":"Cambridge",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Saint James",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":214228,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":108516,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491102,
+        "gp:id":108516,
+        "qs:id":214228,
+        "wd:id":"Q5025321"
+    },
+    "wof:country":"JM",
+    "wof:created":1459010083,
+    "wof:geomhash":"82409de4319a3c26399b77ce8d48cec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421201751,
+            "region_id":85672573
+        }
+    ],
+    "wof:id":421201751,
+    "wof:lastmodified":1514466906,
+    "wof:name":"Cambridge",
+    "wof:parent_id":85672573,
+    "wof:placetype":"locality",
+    "wof:population":3930,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.90252,
+    18.31326,
+    -77.90252,
+    18.31326
+],
+  "geometry": {"coordinates":[-77.90252,18.31326],"type":"Point"}
+}

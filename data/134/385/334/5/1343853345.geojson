@@ -1,0 +1,66 @@
+{
+  "id": 1343853345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.89005,18.14601,-76.89005,18.14601",
+    "geom:latitude":18.14601,
+    "geom:longitude":-76.89005,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1410.0",
+    "gn:asciiname":"Glengoffe",
+    "gn:country_code":"JM",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLS",
+    "gn:geonameid":6690260,
+    "gn:latitude":18.14601,
+    "gn:longitude":-76.89005,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Glengoffe",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6690260
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"03cc3188842a58eb407c48edd2a9aef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1343853345,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":1343853345,
+    "wof:lastmodified":1536676909,
+    "wof:name":"Glengoffe",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.89005,
+    18.14601,
+    -76.89005,
+    18.14601
+],
+  "geometry": {"coordinates":[-76.89005,18.14601],"type":"Point"}
+}

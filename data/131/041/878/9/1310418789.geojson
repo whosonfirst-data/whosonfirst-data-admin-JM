@@ -1,0 +1,71 @@
+{
+  "id": 1310418789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.06667,18.41667,-78.06667,18.41667",
+    "geom:latitude":18.41667,
+    "geom:longitude":-78.06667,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"921.0",
+    "gn:asciiname":"Coventry Pen",
+    "gn:cc2":"JM",
+    "gn:country_code":"JM",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490834,
+    "gn:latitude":18.41667,
+    "gn:longitude":-78.06667,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Coventry Pen",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coventry",
+        "Coventry Pen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490834
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"3d4936f6c921961c662e16f0aec95b1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1310418789,
+            "region_id":85672563
+        }
+    ],
+    "wof:id":1310418789,
+    "wof:lastmodified":1537649752,
+    "wof:name":"Coventry Pen",
+    "wof:parent_id":85672563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.06667,
+    18.41667,
+    -78.06667,
+    18.41667
+],
+  "geometry": {"coordinates":[-78.06667,18.41667],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1310389205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.02785,17.96363,-77.02785,17.96363",
+    "geom:latitude":17.96363,
+    "geom:longitude":-77.02785,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1431.0",
+    "gn:asciiname":"Bridge Pen",
+    "gn:country_code":"JM",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3491226,
+    "gn:latitude":17.96363,
+    "gn:longitude":-77.02785,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Bridge Pen",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491226
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"9030ec4c4d5bc711b78c3cefd663a37b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1310389205,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":1310389205,
+    "wof:lastmodified":1537081579,
+    "wof:name":"Bridge Pen",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.02785,
+    17.96363,
+    -77.02785,
+    17.96363
+],
+  "geometry": {"coordinates":[-77.02785,17.96363],"type":"Point"}
+}

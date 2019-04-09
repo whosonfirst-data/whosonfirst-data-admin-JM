@@ -1,0 +1,66 @@
+{
+  "id": 1209987435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.58333,17.9,-76.58333,17.9",
+    "geom:latitude":17.9,
+    "geom:longitude":-76.58333,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"341.0",
+    "gn:asciiname":"Edinburgh Castle",
+    "gn:country_code":"JM",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3490593,
+    "gn:latitude":17.9,
+    "gn:longitude":-76.58333,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Edinburgh Castle",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490593
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"f7ad536a1ad26e76e0a2c8381a932c66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1209987435,
+            "region_id":85672615
+        }
+    ],
+    "wof:id":1209987435,
+    "wof:lastmodified":1536387961,
+    "wof:name":"Edinburgh Castle",
+    "wof:parent_id":85672615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.58333,
+    17.9,
+    -76.58333,
+    17.9
+],
+  "geometry": {"coordinates":[-76.58333,17.9],"type":"Point"}
+}

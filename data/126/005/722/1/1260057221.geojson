@@ -1,0 +1,71 @@
+{
+  "id": 1260057221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.8,18.48333,-77.8,18.48333",
+    "geom:latitude":18.48333,
+    "geom:longitude":-77.8,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"810",
+    "gn:asciiname":"Palmyra",
+    "gn:cc2":"JM",
+    "gn:country_code":"JM",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489137,
+    "gn:latitude":18.48333,
+    "gn:longitude":-77.8,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Palmyra",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palmira",
+        "Palmyra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489137
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"12cf40bfd36f2299eb32b13dfedf5f50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1260057221,
+            "region_id":85672573
+        }
+    ],
+    "wof:id":1260057221,
+    "wof:lastmodified":1537649736,
+    "wof:name":"Palmyra",
+    "wof:parent_id":85672573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.8,
+    18.48333,
+    -77.8,
+    18.48333
+],
+  "geometry": {"coordinates":[-77.8,18.48333],"type":"Point"}
+}

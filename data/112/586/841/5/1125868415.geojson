@@ -1,0 +1,86 @@
+{
+  "id": 1125868415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.46667,18.06667,-77.46667,18.06667",
+    "geom:latitude":18.06667,
+    "geom:longitude":-77.46667,
+    "gn:gn_country":"JM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3255,
+    "gn:population":3255,
+    "iso:country":"JM",
+    "lbl:latitude":18.06667,
+    "lbl:longitude":-77.46667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Williamsfield"
+    ],
+    "name:eng_x_preferred":[
+        "Williamsfield"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a3\u30ea\u30a2\u30e0\u30ba\u30d5\u30a3\u30fc\u30eb\u30c9"
+    ],
+    "qs_pg:aaroncc":"JM",
+    "qs_pg:gn_country":"JM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3488020,
+    "qs_pg:gn_pop":3255,
+    "qs_pg:name":"Williamsfield",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":95682,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488020,
+        "qs_pg:id":95682,
+        "wd:id":"Q8021190"
+    },
+    "wof:country":"JM",
+    "wof:created":1497294162,
+    "wof:geomhash":"712c8138714297015ba6bab49cb28357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1125868415,
+            "region_id":85672567
+        }
+    ],
+    "wof:id":1125868415,
+    "wof:lastmodified":1553816585,
+    "wof:name":"Williamsfield",
+    "wof:parent_id":85672567,
+    "wof:placetype":"locality",
+    "wof:population":3255,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.46667,
+    18.06667,
+    -77.46667,
+    18.06667
+],
+  "geometry": {"coordinates":[-77.46666999999999,18.06667],"type":"Point"}
+}

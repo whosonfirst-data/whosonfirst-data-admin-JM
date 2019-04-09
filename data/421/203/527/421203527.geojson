@@ -1,0 +1,86 @@
+{
+  "id": 421203527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.5,18.46667,-77.5,18.46667",
+    "geom:latitude":18.46667,
+    "geom:longitude":-77.5,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Braco"
+    ],
+    "name:cym_x_preferred":[
+        "Braco"
+    ],
+    "name:swe_x_preferred":[
+        "Braco"
+    ],
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3491254,
+    "qs:gn_pop":0,
+    "qs:name":"Braco",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Trelawny",
+    "qs:photos":155,
+    "qs:photos_1k":31,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":155,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":232924,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":108425,
+    "src:geom":"quattroshapes",
+    "wd:latitude":56.2636,
+    "wd:longitude":-3.8801,
+    "wd:wordcount":466,
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3491254,
+        "gp:id":108425,
+        "qs:id":232924
+    },
+    "wof:country":"JM",
+    "wof:created":1459010155,
+    "wof:geomhash":"6417b08c7bac9b06bd77239df1d73fc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421203527,
+            "region_id":85672579
+        }
+    ],
+    "wof:id":421203527,
+    "wof:lastmodified":1527716195,
+    "wof:name":"Braco",
+    "wof:parent_id":85672579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.5,
+    18.46667,
+    -77.5,
+    18.46667
+],
+  "geometry": {"coordinates":[-77.5,18.46667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1242756073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.66667,17.91667,-78.66667,17.91667",
+    "geom:latitude":17.91667,
+    "geom:longitude":-78.66667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Saint Mary's",
+    "gn:country_code":"JM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3488692,
+    "gn:latitude":17.91667,
+    "gn:longitude":-78.66667,
+    "gn:modification_date":"1997-06-26",
+    "gn:name":"Saint Mary\u2019s",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3488692
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"a41ec59964491b77c039d73229f71209",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242756073,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242756073,
+    "wof:lastmodified":1536806429,
+    "wof:name":"Saint Mary's",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.66667,
+    17.91667,
+    -78.66667,
+    17.91667
+],
+  "geometry": {"coordinates":[-78.66667,17.91667],"type":"Point"}
+}

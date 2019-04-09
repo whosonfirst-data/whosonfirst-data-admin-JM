@@ -1,0 +1,70 @@
+{
+  "id": 1226455559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.21724,18.4427,-78.21724,18.4427",
+    "geom:latitude":18.4427,
+    "geom:longitude":-78.21724,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"902",
+    "gn:asciiname":"Lances Bay",
+    "gn:country_code":"JM",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489816,
+    "gn:latitude":18.4427,
+    "gn:longitude":-78.21724,
+    "gn:modification_date":"2017-03-14",
+    "gn:name":"Lances Bay",
+    "gn:population":0,
+    "gn:timezone":"America/Jamaica",
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lances Bay Pen",
+        "Lances Bay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3489816
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"7e7ee5bad6b96ddd02dc236cf94480c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":1226455559,
+            "region_id":85672563
+        }
+    ],
+    "wof:id":1226455559,
+    "wof:lastmodified":1537649742,
+    "wof:name":"Lances Bay",
+    "wof:parent_id":85672563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.21724,
+    18.4427,
+    -78.21724,
+    18.4427
+],
+  "geometry": {"coordinates":[-78.21724,18.4427],"type":"Point"}
+}

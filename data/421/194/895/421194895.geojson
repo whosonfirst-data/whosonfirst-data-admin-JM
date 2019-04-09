@@ -1,0 +1,72 @@
+{
+  "id": 421194895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-76.38052,18.16578,-76.38052,18.16578",
+    "geom:latitude":18.16578,
+    "geom:longitude":-76.38052,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"JM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3490527,
+    "qs:gn_pop":0,
+    "qs:name":"Fairy Hill",
+    "qs:name_adm0":"Jamaica",
+    "qs:name_adm1":"Portland",
+    "qs:photos":8,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":53565,
+    "qs:woe_adm0":23424858,
+    "qs:woe_id":108848,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3490527,
+        "gp:id":108848,
+        "qs:id":53565
+    },
+    "wof:country":"JM",
+    "wof:created":1459009823,
+    "wof:geomhash":"dd387845db53ee1f37cea8e40acf6d74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":421194895,
+            "region_id":85672591
+        }
+    ],
+    "wof:id":421194895,
+    "wof:lastmodified":1466635880,
+    "wof:name":"Fairy Hill",
+    "wof:parent_id":85672591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.38052,
+    18.16578,
+    -76.38052,
+    18.16578
+],
+  "geometry": {"coordinates":[-76.38052,18.16578],"type":"Point"}
+}
