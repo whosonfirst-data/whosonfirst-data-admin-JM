@@ -30,26 +30,17 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u0631\u0634\u064a\u0629 \u0633\u0627\u0646\u062a \u062a\u0648\u0645\u0627\u0633"
     ],
-    "name:baq_x_preferred":[
-        "Saint Thomas"
-    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f \u09a5\u09ae\u09be\u09b8 \u09aa\u09be\u09b0\u09bf\u09b6"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0435\u0439\u043d\u0442 \u0422\u043e\u043c\u0430\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u6258\u99ac\u65af\u5340"
-    ],
     "name:dan_x_preferred":[
         "Saint Thomas Parish"
     ],
     "name:deu_x_preferred":[
         "Saint Thomas Parish"
-    ],
-    "name:dut_x_preferred":[
-        "Saint Thomas"
     ],
     "name:ell_x_preferred":[
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u0398\u03c9\u03bc\u03ac\u03c2"
@@ -70,15 +61,6 @@
     ],
     "name:fra_x_preferred":[
         "Paroisse de Saint-Thomas"
-    ],
-    "name:fre_x_preferred":[
-        "Paroisse de Saint-Thomas"
-    ],
-    "name:ger_x_preferred":[
-        "Saint Thomas Parish"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0398\u03c9\u03bc\u03ac\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0a82\u0a9f \u0aa5\u0acb\u0aae\u0ab8 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
@@ -113,7 +95,7 @@
     "name:mar_x_preferred":[
         "\u0938\u0947\u0902\u091f \u0925\u0949\u092e\u0938 \u092a\u0930\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Saint Thomas Parish"
     ],
     "name:nld_x_preferred":[
@@ -294,7 +276,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550398,
+    "wof:lastmodified":1561775159,
     "wof:name":"Saint Thomas",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

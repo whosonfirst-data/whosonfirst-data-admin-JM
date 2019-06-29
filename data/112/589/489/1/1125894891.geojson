@@ -22,16 +22,10 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u062a\u0634\u0648 \u0631\u064a\u0648\u0633"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u55ac\u91cc\u5967\u65af"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ocho Rios"
     ],
     "name:deu_x_preferred":[
-        "Ocho Rios"
-    ],
-    "name:dut_x_preferred":[
         "Ocho Rios"
     ],
     "name:ell_x_preferred":[
@@ -42,15 +36,6 @@
     ],
     "name:fra_x_preferred":[
         "Ocho Rios"
-    ],
-    "name:fre_x_preferred":[
-        "Ocho Rios"
-    ],
-    "name:ger_x_preferred":[
-        "Ocho Rios"
-    ],
-    "name:gre_x_preferred":[
-        "\u038c\u03c4\u03c3\u03bf \u03a1\u03af\u03bf\u03c2"
     ],
     "name:ita_x_preferred":[
         "Ocho Rios"
@@ -131,7 +116,7 @@
         }
     ],
     "wof:id":1125894891,
-    "wof:lastmodified":1514466934,
+    "wof:lastmodified":1561775170,
     "wof:name":"Ocho Rios",
     "wof:parent_id":85672599,
     "wof:placetype":"locality",

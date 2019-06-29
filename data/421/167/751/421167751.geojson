@@ -13,10 +13,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Cascade"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Cascade"
     ],
     "name:swe_x_preferred":[
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421167751,
-    "wof:lastmodified":1553816355,
+    "wof:lastmodified":1561775164,
     "wof:name":"Cascade",
     "wof:parent_id":85672563,
     "wof:placetype":"locality",

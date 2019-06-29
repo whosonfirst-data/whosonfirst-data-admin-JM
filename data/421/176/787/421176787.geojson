@@ -13,23 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5e03\u6717\u93ae"
-    ],
     "name:deu_x_preferred":[
         "Brown\u2019s Town"
-    ],
-    "name:dut_x_preferred":[
-        "Brown's Town"
     ],
     "name:eng_x_preferred":[
         "Brown's Town"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Brown's Town"
     ],
-    "name:ger_x_preferred":[
-        "Brown\u2019s Town"
+    "name:nld_x_preferred":[
+        "Brown's Town"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u6717\u93ae"
@@ -80,7 +74,7 @@
         }
     ],
     "wof:id":421176787,
-    "wof:lastmodified":1527726479,
+    "wof:lastmodified":1561775167,
     "wof:name":"Browns Town",
     "wof:parent_id":85672599,
     "wof:placetype":"locality",

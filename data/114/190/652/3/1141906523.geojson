@@ -27,26 +27,20 @@
     "name:cat_x_preferred":[
         "May Pen"
     ],
-    "name:chi_x_preferred":[
-        "\u6885\u5f6d"
-    ],
     "name:dan_x_preferred":[
         "May Pen"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "May Pen"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ad\u03b9 \u03a0\u03b5\u03bd"
     ],
     "name:eng_x_preferred":[
         "May Pen"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "May Pen"
-    ],
-    "name:ger_x_preferred":[
-        "May Pen"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03ad\u03b9 \u03a0\u03b5\u03bd"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d0\u05d9 \u05e4\u05df"
@@ -59,6 +53,9 @@
     ],
     "name:kor_x_preferred":[
         "\uba54\uc774\ud39c"
+    ],
+    "name:nld_x_preferred":[
+        "May Pen"
     ],
     "name:pol_x_preferred":[
         "May Pen"
@@ -74,6 +71,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0626\u06d2 \u067e\u06cc\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u5f6d"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Jamaica",
@@ -206,7 +206,7 @@
         }
     ],
     "wof:id":1141906523,
-    "wof:lastmodified":1534379371,
+    "wof:lastmodified":1561775171,
     "wof:name":"May Pen",
     "wof:parent_id":85672559,
     "wof:placetype":"locality",

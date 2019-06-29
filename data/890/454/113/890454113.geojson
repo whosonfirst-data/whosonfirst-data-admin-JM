@@ -15,19 +15,13 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5c24\u723e\u9813"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ewarton"
     ],
     "name:eng_x_preferred":[
         "Ewarton"
     ],
-    "name:fre_x_preferred":[
-        "Ewarton"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ewarton"
     ],
     "name:ind_x_preferred":[
@@ -36,8 +30,14 @@
     "name:jpn_x_preferred":[
         "\u30a8\u30ef\u30fc\u30c8\u30f3"
     ],
+    "name:nld_x_preferred":[
+        "Ewarton"
+    ],
     "name:pol_x_preferred":[
         "Ewarton"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c24\u723e\u9813"
     ],
     "qs:name":"Ewarton",
     "qs:photos_9r":0,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":890454113,
-    "wof:lastmodified":1527735431,
+    "wof:lastmodified":1561775167,
     "wof:name":"Ewarton",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",
