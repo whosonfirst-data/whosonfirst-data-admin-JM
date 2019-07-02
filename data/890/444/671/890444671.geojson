@@ -22,14 +22,8 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u062a\u064a\u063a\u0648 \u0628\u0627\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0578\u0576\u0569\u0565\u0563\u0578 \u0532\u0565\u0575"
-    ],
     "name:aze_x_preferred":[
         "Monteqo-Bey"
-    ],
-    "name:baq_x_preferred":[
-        "Montego Bay"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09a8\u09cd\u099f\u09c7\u0997\u09cb \u09ac\u09c7"
@@ -37,19 +31,13 @@
     "name:cat_x_preferred":[
         "Montego Bay"
     ],
-    "name:chi_x_preferred":[
-        "\u8499\u7279\u54e5\u8c9d"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Montego Bay"
     ],
     "name:dan_x_preferred":[
         "Montego Bay"
     ],
     "name:deu_x_preferred":[
-        "Montego Bay"
-    ],
-    "name:dut_x_preferred":[
         "Montego Bay"
     ],
     "name:ell_x_preferred":[
@@ -61,6 +49,9 @@
     "name:epo_x_preferred":[
         "Montego Bay"
     ],
+    "name:eus_x_preferred":[
+        "Montego Bay"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0648\u0646\u062a\u06af\u0648\u0628\u06cc"
     ],
@@ -70,17 +61,8 @@
     "name:fra_x_preferred":[
         "Montego Bay"
     ],
-    "name:fre_x_preferred":[
-        "Montego Bay"
-    ],
-    "name:ger_x_preferred":[
-        "Montego Bay"
-    ],
     "name:glg_x_preferred":[
         "Montego Bay"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03bd\u03c4\u03ad\u03b3\u03ba\u03bf \u039c\u03c0\u03ad\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0aa8\u0acd\u0a9f\u0ac7\u0a97\u0acb \u0aac\u0ac7"
@@ -96,6 +78,9 @@
     ],
     "name:hun_x_preferred":[
         "Montego Bay"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0576\u0569\u0565\u0563\u0578 \u0532\u0565\u0575"
     ],
     "name:ind_x_preferred":[
         "Montego Bay"
@@ -127,7 +112,7 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u0901\u091f\u0947\u0917\u094b \u092c\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Montego Bay"
     ],
     "name:nld_x_preferred":[
@@ -139,16 +124,13 @@
     "name:nob_x_preferred":[
         "Montego Bay"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u0646\u062a\u06af\u0648\u0628\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Montego Bay"
     ],
     "name:por_x_preferred":[
         "Montego Bay"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Montego Bay"
     ],
     "name:rus_x_preferred":[
@@ -322,7 +304,7 @@
         }
     ],
     "wof:id":890444671,
-    "wof:lastmodified":1527782135,
+    "wof:lastmodified":1561775167,
     "wof:name":"Montego Bay",
     "wof:parent_id":85672573,
     "wof:placetype":"locality",

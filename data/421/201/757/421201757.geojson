@@ -16,14 +16,14 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u043d\u0435\u0430\u0433\u0443\u0435"
     ],
-    "name:dut_x_preferred":[
-        "Moneague"
-    ],
     "name:eng_x_preferred":[
         "Moneague"
     ],
     "name:jpn_x_preferred":[
         "\u30e2\u30cd\u30ae\u30e5\u30fc"
+    ],
+    "name:nld_x_preferred":[
+        "Moneague"
     ],
     "name:swe_x_preferred":[
         "Moneague"
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":421201757,
-    "wof:lastmodified":1527716437,
+    "wof:lastmodified":1561775166,
     "wof:name":"Moneague",
     "wof:parent_id":85672599,
     "wof:placetype":"locality",

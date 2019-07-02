@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101603,
-    "geom:area_square_m":1194900687.06095,
+    "geom:area_square_m":1194900687.061292,
     "geom:bbox":"-77.484819,17.70548,-77.124524,18.222762",
     "geom:latitude":17.991397,
     "geom:longitude":-77.279237,
@@ -30,23 +30,14 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u0631\u0634\u064a\u0629 \u0643\u0644\u0627\u0631\u0646\u062f\u0648\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Clarendon"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09b2\u09be\u09b0\u09c7\u09a8\u09cd\u09a1\u09a8 \u09aa\u09cd\u09af\u09be\u09b0\u09bf\u09b6"
-    ],
-    "name:chi_x_preferred":[
-        "\u514b\u62c9\u502b\u767b\u5340"
     ],
     "name:dan_x_preferred":[
         "Clarendon Parish"
     ],
     "name:deu_x_preferred":[
         "Clarendon Parish"
-    ],
-    "name:dut_x_preferred":[
-        "Clarendon"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03bb\u03ac\u03c1\u03b5\u03bd\u03c4\u03bf\u03bd"
@@ -65,15 +56,6 @@
     ],
     "name:fra_x_preferred":[
         "Paroisse de Clarendon"
-    ],
-    "name:fre_x_preferred":[
-        "Paroisse de Clarendon"
-    ],
-    "name:ger_x_preferred":[
-        "Clarendon Parish"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bb\u03ac\u03c1\u03b5\u03bd\u03c4\u03bf\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0ab2\u0ac7\u0ab0\u0ac7\u0aa8\u0acd\u0aa1\u0aa8 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
@@ -105,7 +87,7 @@
     "name:mar_x_preferred":[
         "\u0915\u094d\u0932\u0947\u0930\u0947\u0921\u0928 \u092a\u0930\u093f\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Clarendon Parish"
     ],
     "name:nld_x_preferred":[
@@ -119,9 +101,6 @@
     ],
     "name:nor_x_preferred":[
         "Clarendon prestegjeld"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0644\u0627\u0631\u0646\u062f\u0648\u0646 \u067e\u0631\u06cc\u0634\u060c \u062c\u0627\u0645\u0627\u0626\u06cc\u06a9\u0627"
     ],
     "name:pol_x_preferred":[
         "Clarendon"
@@ -295,7 +274,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553814800,
+    "wof:lastmodified":1561775153,
     "wof:name":"Clarendon",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

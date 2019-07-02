@@ -16,9 +16,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u062a \u0631\u0648\u064a\u0627\u0644"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u0578\u0580\u057f \u054c\u0578\u0575\u0561\u056c"
-    ],
     "name:arz_x_preferred":[
         "\u0628\u0648\u0631\u062a \u0631\u0648\u064a\u0627\u0644"
     ],
@@ -28,19 +25,13 @@
     "name:cat_x_preferred":[
         "Port Royal"
     ],
-    "name:chi_x_preferred":[
-        "\u7f57\u4e9a\u5c14\u6e2f"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Port Royal"
     ],
     "name:dan_x_preferred":[
         "Port Royal"
     ],
     "name:deu_x_preferred":[
-        "Port Royal"
-    ],
-    "name:dut_x_preferred":[
         "Port Royal"
     ],
     "name:eng_x_preferred":[
@@ -55,17 +46,14 @@
     "name:fra_x_preferred":[
         "Port Royal"
     ],
-    "name:fre_x_preferred":[
-        "Port Royal"
-    ],
-    "name:ger_x_preferred":[
-        "Port Royal"
-    ],
     "name:hbs_x_preferred":[
         "Port Royal"
     ],
     "name:hrv_x_preferred":[
         "Port Royal"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0580\u057f \u054c\u0578\u0575\u0561\u056c"
     ],
     "name:ind_x_preferred":[
         "Port Royal"
@@ -91,22 +79,19 @@
     "name:nor_x_preferred":[
         "Port Royal"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u0631\u062a \u0631\u0648\u06cc\u0627\u0644"
-    ],
     "name:pol_x_preferred":[
         "Port Royal"
     ],
     "name:por_x_preferred":[
         "Port Royal"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Port Royal"
     ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0440\u0442-\u0420\u043e\u0439\u0430\u043b"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Port Royal"
     ],
     "name:slv_x_preferred":[
@@ -172,7 +157,7 @@
         }
     ],
     "wof:id":421197565,
-    "wof:lastmodified":1514466935,
+    "wof:lastmodified":1561775166,
     "wof:name":"Port Royal",
     "wof:parent_id":85672587,
     "wof:placetype":"locality",

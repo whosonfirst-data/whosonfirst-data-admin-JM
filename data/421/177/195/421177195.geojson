@@ -16,26 +16,17 @@
     "name:deu_x_preferred":[
         "Bog Walk"
     ],
-    "name:dut_x_preferred":[
-        "Bog Walk"
-    ],
     "name:eng_x_preferred":[
         "Bog Walk"
     ],
     "name:fas_x_preferred":[
         "\u0628\u06af \u0648\u0627\u06a9\u060c \u062c\u0627\u0645\u0627\u0626\u06cc\u06a9\u0627"
     ],
-    "name:ger_x_preferred":[
-        "Bog Walk"
-    ],
     "name:jpn_x_preferred":[
         "\u30d0\u30c3\u30b0\u30fb\u30a6\u30a9\u30fc\u30af"
     ],
     "name:nld_x_preferred":[
         "Bog Walk"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u06af \u0648\u0627\u06a9\u060c \u062c\u0627\u0645\u0627\u0626\u06cc\u06a9\u0627"
     ],
     "name:pol_x_preferred":[
         "Bog Walk"
@@ -89,7 +80,7 @@
         }
     ],
     "wof:id":421177195,
-    "wof:lastmodified":1527716476,
+    "wof:lastmodified":1561775166,
     "wof:name":"Bog Walk",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",

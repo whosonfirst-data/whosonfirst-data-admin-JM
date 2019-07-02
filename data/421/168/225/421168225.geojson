@@ -16,20 +16,17 @@
     "name:deu_x_preferred":[
         "Duncans"
     ],
-    "name:dut_x_preferred":[
-        "Duncans"
-    ],
     "name:eng_x_preferred":[
         "Duncans"
     ],
-    "name:fre_x_preferred":[
-        "Duncans"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Duncans"
     ],
     "name:jpn_x_preferred":[
         "\u30c0\u30f3\u30ab\u30f3\u30ba"
+    ],
+    "name:nld_x_preferred":[
+        "Duncans"
     ],
     "name:swe_x_preferred":[
         "Duncans"
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":421168225,
-    "wof:lastmodified":1553816356,
+    "wof:lastmodified":1561775164,
     "wof:name":"Duncons",
     "wof:parent_id":85672579,
     "wof:placetype":"locality",

@@ -17,13 +17,7 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0646\u062f\u0641\u064a\u0644"
     ],
-    "name:chi_x_preferred":[
-        "\u66fc\u5fb7\u7dad\u723e"
-    ],
     "name:deu_x_preferred":[
-        "Mandeville"
-    ],
-    "name:dut_x_preferred":[
         "Mandeville"
     ],
     "name:ell_x_preferred":[
@@ -34,15 +28,6 @@
     ],
     "name:fra_x_preferred":[
         "Mandeville"
-    ],
-    "name:fre_x_preferred":[
-        "Mandeville"
-    ],
-    "name:ger_x_preferred":[
-        "Mandeville"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03bd\u03c4\u03b5\u03b2\u03af\u03bb"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e0\u05d3\u05d5\u05d5\u05d9\u05dc"
@@ -220,7 +205,7 @@
         }
     ],
     "wof:id":421174761,
-    "wof:lastmodified":1527716229,
+    "wof:lastmodified":1561775165,
     "wof:name":"Mandeville",
     "wof:parent_id":85672567,
     "wof:placetype":"locality",

@@ -141,9 +141,6 @@
     "name:cym_x_preferred":[
         "Jamaica"
     ],
-    "name:cze_x_preferred":[
-        "Jamajka"
-    ],
     "name:dan_x_preferred":[
         "Jamaica"
     ],
@@ -755,7 +752,6 @@
         "\u7259\u4e70\u52a0"
     ],
     "name:zho_x_variant":[
-        "\u7259\u4e70\u52a0",
         "\u7259\u8cb7\u52a0"
     ],
     "name:zho_yue_x_preferred":[
@@ -912,7 +908,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1544059114,
+    "wof:lastmodified":1561775157,
     "wof:name":"Jamaica",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

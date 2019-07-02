@@ -19,9 +19,6 @@
     "name:deu_x_preferred":[
         "Hope Bay"
     ],
-    "name:dut_x_preferred":[
-        "Hope Bay"
-    ],
     "name:eng_x_preferred":[
         "Hope Bay"
     ],
@@ -39,6 +36,9 @@
     ],
     "name:lav_x_preferred":[
         "Hopa l\u012bcis"
+    ],
+    "name:nld_x_preferred":[
+        "Hope Bay"
     ],
     "name:nno_x_preferred":[
         "Hope Bay"
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":421179059,
-    "wof:lastmodified":1527717715,
+    "wof:lastmodified":1561775167,
     "wof:name":"Hope Bay",
     "wof:parent_id":85672591,
     "wof:placetype":"locality",

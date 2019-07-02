@@ -15,13 +15,13 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Frome"
-    ],
     "name:eng_x_preferred":[
         "Frome"
     ],
     "name:ltz_x_preferred":[
+        "Frome"
+    ],
+    "name:nld_x_preferred":[
         "Frome"
     ],
     "qs:name":"Frome",
@@ -57,7 +57,7 @@
         }
     ],
     "wof:id":890429179,
-    "wof:lastmodified":1553816394,
+    "wof:lastmodified":1561775168,
     "wof:name":"Frome",
     "wof:parent_id":85672583,
     "wof:placetype":"locality",

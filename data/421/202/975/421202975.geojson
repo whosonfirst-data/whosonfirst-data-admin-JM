@@ -14,10 +14,10 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Port Morant"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Port Morant"
     ],
     "name:spa_x_preferred":[
@@ -163,7 +163,7 @@
         }
     ],
     "wof:id":421202975,
-    "wof:lastmodified":1534379371,
+    "wof:lastmodified":1561775165,
     "wof:name":"Port Morant",
     "wof:parent_id":85672615,
     "wof:placetype":"locality",
