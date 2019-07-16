@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Drapers"
+    ],
     "qs:gn_country":"JM",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3490665,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":421191967,
-    "wof:lastmodified":1527716382,
+    "wof:lastmodified":1563278445,
     "wof:name":"Drapers",
     "wof:parent_id":85672591,
     "wof:placetype":"locality",

@@ -16,6 +16,12 @@
     "name:deu_x_preferred":[
         "Up Park Camp"
     ],
+    "name:eng_x_preferred":[
+        "Up-Park Camp"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30c3\u30d7\u30fb\u30d1\u30fc\u30af\u57fa\u5730"
+    ],
     "qs:gn_country":"JM",
     "qs:gn_fcode":"PPLX",
     "qs:gn_id":3488164,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":421188389,
-    "wof:lastmodified":1531858616,
+    "wof:lastmodified":1563278438,
     "wof:name":"Up Park Camp",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

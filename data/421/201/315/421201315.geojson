@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Stony Hill"
+    ],
     "name:deu_x_preferred":[
         "Stony Hill"
     ],
@@ -23,6 +26,9 @@
         "Stony Hill"
     ],
     "name:nld_x_preferred":[
+        "Stony Hill"
+    ],
+    "name:swe_x_preferred":[
         "Stony Hill"
     ],
     "name:zho_x_preferred":[
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":421201315,
-    "wof:lastmodified":1561775166,
+    "wof:lastmodified":1563278451,
     "wof:name":"Stony Hill",
     "wof:parent_id":85672609,
     "wof:placetype":"locality",

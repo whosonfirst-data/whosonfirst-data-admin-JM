@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Bog Walk"
+    ],
     "name:deu_x_preferred":[
         "Bog Walk"
     ],
@@ -21,6 +24,12 @@
     ],
     "name:fas_x_preferred":[
         "\u0628\u06af \u0648\u0627\u06a9\u060c \u062c\u0627\u0645\u0627\u0626\u06cc\u06a9\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u06af \u0648\u0627\u06a9"
+    ],
+    "name:ita_x_preferred":[
+        "Bog Walk"
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30c3\u30b0\u30fb\u30a6\u30a9\u30fc\u30af"
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":421177195,
-    "wof:lastmodified":1561775166,
+    "wof:lastmodified":1563278456,
     "wof:name":"Bog Walk",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",

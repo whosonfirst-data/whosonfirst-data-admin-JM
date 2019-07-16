@@ -36,6 +36,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f \u0985\u09cd\u09af\u09be\u09a8 \u09aa\u09be\u09b0\u09bf\u09b6"
     ],
+    "name:ceb_x_preferred":[
+        "Parish of Saint Ann"
+    ],
     "name:dan_x_preferred":[
         "Saint Ann Parish"
     ],
@@ -65,8 +68,14 @@
     "name:fra_x_preferred":[
         "Paroisse de Saint Ann"
     ],
+    "name:fra_x_variant":[
+        "Saint Ann"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0a8f\u0aa8 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8 \u05d0\u05df"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0947\u0902\u091f \u0910\u0928 \u092a\u0948\u0930\u093f\u0936"
@@ -104,6 +113,9 @@
     "name:nld_x_preferred":[
         "Saint Ann"
     ],
+    "name:nno_x_preferred":[
+        "Saint Ann Parish"
+    ],
     "name:nob_x_preferred":[
         "Saint Ann prestegjeld"
     ],
@@ -130,6 +142,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd  \u0b86\u0ba9\u0bcd  \u0baa\u0bb0\u0bbf\u0bb7\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u04d8\u043d\u043d \u043c\u04d9\u0445\u04d9\u043b\u043b\u04d9\u0441\u0435"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c06\u0c28\u0c4d \u0c2a\u0c3e\u0c30\u0c3f\u0c37\u0c4d"
@@ -278,7 +293,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561775156,
+    "wof:lastmodified":1563278067,
     "wof:name":"Saint Ann",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

@@ -79,6 +79,9 @@
     "name:pol_x_preferred":[
         "Torfowisko wysokie"
     ],
+    "name:pol_x_variant":[
+        "Bog"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043e\u0432\u043e\u0435 \u0431\u043e\u043b\u043e\u0442\u043e"
     ],
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421191911,
-    "wof:lastmodified":1561775166,
+    "wof:lastmodified":1563278447,
     "wof:name":"Bog",
     "wof:parent_id":85672599,
     "wof:placetype":"locality",

@@ -36,6 +36,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u0439\u043d\u0442 \u0422\u043e\u043c\u0430\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Parish of Saint Thomas"
+    ],
     "name:dan_x_preferred":[
         "Saint Thomas Parish"
     ],
@@ -62,8 +65,14 @@
     "name:fra_x_preferred":[
         "Paroisse de Saint-Thomas"
     ],
+    "name:fra_x_variant":[
+        "Saint-Thomas"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0a82\u0a9f \u0aa5\u0acb\u0aae\u0ab8 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8 \u05ea\u05d5\u05de\u05d0\u05e1"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0947\u0902\u091f \u0925\u0949\u092e\u0938 \u092a\u0948\u0930\u093f\u0936"
@@ -116,6 +125,9 @@
     "name:rus_x_preferred":[
         "\u0421\u044d\u043d\u0442-\u0422\u043e\u043c\u0430\u0441"
     ],
+    "name:rus_x_variant":[
+        "\u0421\u0435\u0439\u043d\u0442 \u0422\u043e\u043c\u0430\u0441"
+    ],
     "name:sin_x_preferred":[
         "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0dad\u0ddd\u0db8\u0dc3\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
@@ -145,6 +157,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679 \u062a\u06be\u0627\u0645\u0633 \u067e\u06cc\u0631\u0634\u060c \u062c\u0645\u06cc\u06a9\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646\u0679 \u062a\u06be\u0627\u0645\u0633 \u067e\u06cc\u0631\u0634"
     ],
     "name:vie_x_preferred":[
         "Gi\u00e1o x\u1ee9 Saint Thomas"
@@ -276,7 +291,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561775159,
+    "wof:lastmodified":1563278076,
     "wof:name":"Saint Thomas",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

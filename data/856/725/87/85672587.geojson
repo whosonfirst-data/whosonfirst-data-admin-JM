@@ -33,6 +33,9 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0646\u063a\u0633\u062a\u0648\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0628\u0631\u0634\u064a\u0629 \u0643\u064a\u0646\u063a\u0633\u062a\u0648\u0646"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u0982\u09b8\u09cd\u099f\u09cb\u09a8 \u09aa\u09be\u09b0\u09bf\u09b6"
     ],
@@ -69,8 +72,14 @@
     "name:fin_x_preferred":[
         "Kingston"
     ],
+    "name:fin_x_variant":[
+        "Kingstonin kunta"
+    ],
     "name:fra_x_preferred":[
         "Paroisse de Kingston"
+    ],
+    "name:fra_x_variant":[
+        "Kingston"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0a82\u0a97\u0acd\u0ab8\u0acd\u0a9f\u0aa8 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
@@ -89,6 +98,9 @@
     ],
     "name:ind_x_preferred":[
         "Kingston"
+    ],
+    "name:ind_x_variant":[
+        "Paroki Kingston"
     ],
     "name:ita_x_preferred":[
         "Parrocchia di Kingston"
@@ -111,6 +123,9 @@
     "name:lit_x_preferred":[
         "Kingstonas"
     ],
+    "name:lit_x_variant":[
+        "Kingstono parapija"
+    ],
     "name:mar_x_preferred":[
         "\u0915\u093f\u0902\u0917\u094d\u0938\u091f\u094b\u0928 \u092a\u0945\u0930\u0940\u0936"
     ],
@@ -122,6 +137,9 @@
     ],
     "name:nld_x_preferred":[
         "Kingston"
+    ],
+    "name:nno_x_preferred":[
+        "Kingston Parish"
     ],
     "name:nob_x_preferred":[
         "Kingston prestegjeld"
@@ -156,6 +174,9 @@
     "name:swe_x_preferred":[
         "Kingston"
     ],
+    "name:swe_x_variant":[
+        "Kingston Parish"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0bbf\u0b99\u0bcd\u0bb8\u0bcd\u0b9f\u0ba9\u0bcd  \u0baa\u0bb0\u0bbf\u0bb7\u0bcd"
     ],
@@ -170,6 +191,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0456\u043d\u0491\u0441\u0442\u043e\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0430\u0440\u0430\u0444\u0456\u044f \u041a\u0456\u043d\u0433\u0441\u0442\u043e\u043d"
     ],
     "name:unk_x_variant":[
         "Kingston Parish"
@@ -309,7 +333,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561775155,
+    "wof:lastmodified":1563278065,
     "wof:name":"Kingston",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

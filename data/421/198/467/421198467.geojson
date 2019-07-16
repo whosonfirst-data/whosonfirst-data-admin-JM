@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Coleyville"
+    ],
+    "name:nld_x_preferred":[
+        "Coleyville"
+    ],
     "qs:gn_country":"JM",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3490899,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":421198467,
-    "wof:lastmodified":1527716356,
+    "wof:lastmodified":1563278442,
     "wof:name":"Coleyville",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

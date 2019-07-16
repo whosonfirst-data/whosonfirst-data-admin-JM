@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Constant Spring"
+    ],
     "name:deu_x_preferred":[
         "Constant Spring"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":421201749,
-    "wof:lastmodified":1561775166,
+    "wof:lastmodified":1563278451,
     "wof:name":"Constant Spring",
     "wof:parent_id":85672609,
     "wof:placetype":"locality",

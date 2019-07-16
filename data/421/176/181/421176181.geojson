@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Mavis Bank"
+    ],
     "name:deu_x_preferred":[
         "Mavis Bank"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421176181,
-    "wof:lastmodified":1561775167,
+    "wof:lastmodified":1563278463,
     "wof:name":"Mavis Bank",
     "wof:parent_id":85672609,
     "wof:placetype":"locality",

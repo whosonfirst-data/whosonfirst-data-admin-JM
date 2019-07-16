@@ -24,7 +24,13 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u064a \u0628\u0646"
     ],
+    "name:bel_x_preferred":[
+        "\u041c\u0435\u0439-\u041f\u0435\u043d"
+    ],
     "name:cat_x_preferred":[
+        "May Pen"
+    ],
+    "name:ceb_x_preferred":[
         "May Pen"
     ],
     "name:dan_x_preferred":[
@@ -45,6 +51,9 @@
     "name:heb_x_preferred":[
         "\u05de\u05d0\u05d9 \u05e4\u05df"
     ],
+    "name:ita_x_preferred":[
+        "May Pen"
+    ],
     "name:jam_x_preferred":[
         "Mie Pen"
     ],
@@ -53,6 +62,9 @@
     ],
     "name:kor_x_preferred":[
         "\uba54\uc774\ud39c"
+    ],
+    "name:nds_x_preferred":[
+        "May Pen"
     ],
     "name:nld_x_preferred":[
         "May Pen"
@@ -206,7 +218,7 @@
         }
     ],
     "wof:id":1141906523,
-    "wof:lastmodified":1561775171,
+    "wof:lastmodified":1563278677,
     "wof:name":"May Pen",
     "wof:parent_id":85672559,
     "wof:placetype":"locality",

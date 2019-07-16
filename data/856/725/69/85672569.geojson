@@ -33,6 +33,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f \u098f\u09b2\u09bf\u099c\u09be\u09ac\u09c7\u09a5 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ceb_x_preferred":[
+        "Parish of Saint Elizabeth"
+    ],
     "name:dan_x_preferred":[
         "Saint Elizabeth Parish"
     ],
@@ -50,17 +53,26 @@
         "St. Elizabeth",
         "Saint Elizabeth Parish"
     ],
+    "name:epo_x_preferred":[
+        "Paro\u0125o Sankta Elizabeto"
+    ],
     "name:eus_x_preferred":[
         "Saint Elizabeth"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0646\u062a \u0627\u0644\u06cc\u0632\u0627\u0628\u062a\u060c \u062c\u0627\u0645\u0627\u0626\u06cc\u06a9\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0633\u0646\u062a \u0627\u0644\u06cc\u0632\u0627\u0628\u062a"
+    ],
     "name:fin_x_preferred":[
         "Saint Elizabethin kunta"
     ],
     "name:fra_x_preferred":[
         "Paroisse de Saint Elizabeth"
+    ],
+    "name:fra_x_variant":[
+        "Saint Elizabeth"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0a8f\u0ab2\u0abf\u0a9d\u0abe\u0aac\u0ac7\u0aa5 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
@@ -121,6 +133,9 @@
     ],
     "name:rus_x_preferred":[
         "\u043f\u0440\u0438\u0445\u043e\u0434 \u0421\u0435\u043d\u0442-\u042d\u043b\u0438\u0437\u0430\u0431\u0435\u0442"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0435\u043d\u0442-\u042d\u043b\u0438\u0437\u0430\u0431\u0435\u0442"
     ],
     "name:sin_x_preferred":[
         "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0d91\u0dbd\u0dd2\u0dc3\u0db6\u0dad\u0dca \u0d9a\u0ddd\u0dbb\u0dbd\u0dba"
@@ -282,7 +297,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561775154,
+    "wof:lastmodified":1563278063,
     "wof:name":"Saint Elizabeth",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

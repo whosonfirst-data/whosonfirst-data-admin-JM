@@ -45,6 +45,9 @@
     "name:eng_x_preferred":[
         "Portland"
     ],
+    "name:eng_x_variant":[
+        "Portland Parish"
+    ],
     "name:eus_x_preferred":[
         "Portland"
     ],
@@ -54,11 +57,17 @@
     "name:fra_x_preferred":[
         "Paroisse de Portland"
     ],
+    "name:fra_x_variant":[
+        "Portland"
+    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0ab0\u0acd\u0a9f\u0ab2\u0ac7\u0aa8\u0acd\u0aa1 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
     ],
     "name:hin_x_preferred":[
         "\u092a\u094b\u0930\u094d\u091f\u0932\u0948\u0902\u0921 \u092a\u0948\u0930\u093f\u0936"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0580\u057f\u056c\u0565\u0576\u0564\u056b \u0570\u0561\u0574\u0561\u0575\u0576\u0584"
     ],
     "name:ind_x_preferred":[
         "Paroki Portland"
@@ -92,6 +101,9 @@
     ],
     "name:nld_x_preferred":[
         "Portland"
+    ],
+    "name:nno_x_preferred":[
+        "Portland Parish"
     ],
     "name:nob_x_preferred":[
         "Portland prestegjeld"
@@ -264,7 +276,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561775156,
+    "wof:lastmodified":1563278066,
     "wof:name":"Portland",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10223547.250605,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.80374,17.973764,-76.80374,17.973764",
     "geom:latitude":17.973764,
     "geom:longitude":-76.80374,
@@ -30,6 +30,9 @@
     ],
     "name:eng_x_preferred":[
         "Trench Town"
+    ],
+    "name:eng_x_variant":[
+        "Trenchtown"
     ],
     "name:fin_x_preferred":[
         "Trenchtown"
@@ -63,6 +66,9 @@
     ],
     "name:unk_x_variant":[
         "Trench Town"
+    ],
+    "name:zho_x_preferred":[
+        "Jones Town"
     ],
     "qs:gn_adm0_cc":"JM",
     "qs:gn_fcode":"PPLX",
@@ -124,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531861444,
+    "wof:lastmodified":1563278061,
     "wof:name":"Trench Town",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
