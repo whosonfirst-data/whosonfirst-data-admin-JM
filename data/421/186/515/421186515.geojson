@@ -41,6 +41,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0456\u043d\u0433\u0441\u0442\u0430\u043d"
     ],
+    "name:bel_x_variant":[
+        "\u041a\u0456\u043d\u0433\u0441\u0442\u0430\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u0982\u09b8\u09cd\u099f\u09a8"
     ],
@@ -60,6 +63,9 @@
         "Kingston"
     ],
     "name:cdo_x_preferred":[
+        "Kingston"
+    ],
+    "name:ceb_x_preferred":[
         "Kingston"
     ],
     "name:ces_x_preferred":[
@@ -122,6 +128,9 @@
     "name:glg_x_preferred":[
         "Kingston"
     ],
+    "name:grn_x_preferred":[
+        "Kingston"
+    ],
     "name:gsw_x_preferred":[
         "Kingston"
     ],
@@ -152,6 +161,9 @@
     "name:hye_x_preferred":[
         "\u0554\u056b\u0576\u0563\u057d\u057f\u0578\u0576"
     ],
+    "name:hyw_x_preferred":[
+        "\u0554\u056b\u0576\u056f\u057d\u0569\u0568\u0576"
+    ],
     "name:ibo_x_preferred":[
         "Kingston"
     ],
@@ -159,6 +171,9 @@
         "Kingston"
     ],
     "name:ile_x_preferred":[
+        "Kingston"
+    ],
+    "name:ina_x_preferred":[
         "Kingston"
     ],
     "name:ind_x_preferred":[
@@ -185,8 +200,14 @@
     "name:kat_x_preferred":[
         "\u10d9\u10d8\u10dc\u10d2\u10e1\u10e2\u10dd\u10dc\u10d8"
     ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0438\u043d\u0433\u0441\u0442\u043e\u043d"
+    ],
     "name:kin_x_preferred":[
         "Kingston"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u0438\u043d\u0433\u0441\u0442\u043e\u043d"
     ],
     "name:kor_x_preferred":[
         "\ud0b9\uc2a4\ud134"
@@ -196,6 +217,9 @@
     ],
     "name:lav_x_preferred":[
         "Kingstona"
+    ],
+    "name:lfn_x_preferred":[
+        "Kingston"
     ],
     "name:lit_x_preferred":[
         "Kingstonas"
@@ -242,6 +266,9 @@
     "name:oci_x_preferred":[
         "Kingston"
     ],
+    "name:olo_x_preferred":[
+        "Kingston"
+    ],
     "name:ori_x_preferred":[
         "\u0b15\u0b3f\u0b19\u0b4d\u0b17\u0b37\u0b4d\u0b1f\u0b28"
     ],
@@ -252,6 +279,9 @@
         "\u0a15\u0a3f\u0a70\u0a17\u0a38\u0a1f\u0a28"
     ],
     "name:pap_x_preferred":[
+        "Kingston"
+    ],
+    "name:pih_x_preferred":[
         "Kingston"
     ],
     "name:pms_x_preferred":[
@@ -513,7 +543,7 @@
         }
     ],
     "wof:id":421186515,
-    "wof:lastmodified":1561775165,
+    "wof:lastmodified":1563278439,
     "wof:name":"Kingston",
     "wof:parent_id":85672609,
     "wof:placetype":"locality",

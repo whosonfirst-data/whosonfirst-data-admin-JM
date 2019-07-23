@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Lacovia"
+    ],
     "name:eng_x_preferred":[
         "Lacovia"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":421201759,
-    "wof:lastmodified":1561775166,
+    "wof:lastmodified":1563278455,
     "wof:name":"Lacovia",
     "wof:parent_id":85672569,
     "wof:placetype":"locality",

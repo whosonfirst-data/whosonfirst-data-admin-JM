@@ -22,6 +22,9 @@
     "name:unk_x_variant":[
         "Cambridge Station"
     ],
+    "name:zho_x_preferred":[
+        "\u528d\u6a4b"
+    ],
     "qs:gn_country":"JM",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3491102,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":421201751,
-    "wof:lastmodified":1561775166,
+    "wof:lastmodified":1563278453,
     "wof:name":"Cambridge",
     "wof:parent_id":85672573,
     "wof:placetype":"locality",

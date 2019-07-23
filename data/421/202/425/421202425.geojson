@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Whitehouse"
     ],
+    "name:fra_x_preferred":[
+        "White House"
+    ],
     "name:nld_x_preferred":[
         "Whitehouse"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":421202425,
-    "wof:lastmodified":1561775165,
+    "wof:lastmodified":1563278432,
     "wof:name":"Whitehouse",
     "wof:parent_id":85672583,
     "wof:placetype":"locality",

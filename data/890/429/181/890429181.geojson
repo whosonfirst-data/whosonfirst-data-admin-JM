@@ -36,6 +36,9 @@
     "name:zho_x_preferred":[
         "\u5b89\u8afe\u6258\u8c9d"
     ],
+    "name:zho_x_variant":[
+        "\u5967\u62c9\u5361\u8c9d\u85a9"
+    ],
     "qs:name":"Annotto Bay",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890429181,
-    "wof:lastmodified":1561775168,
+    "wof:lastmodified":1563278470,
     "wof:name":"Annotto Bay",
     "wof:parent_id":85672605,
     "wof:placetype":"locality",

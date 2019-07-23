@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0433\u043e\u0442\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Maggotty"
+    ],
     "name:eng_x_preferred":[
         "Maggotty"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890433235,
-    "wof:lastmodified":1561775168,
+    "wof:lastmodified":1563278474,
     "wof:name":"Maggotty",
     "wof:parent_id":85672569,
     "wof:placetype":"locality",

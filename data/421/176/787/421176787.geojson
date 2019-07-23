@@ -28,6 +28,9 @@
     "name:zho_x_preferred":[
         "\u5e03\u6717\u93ae"
     ],
+    "name:zho_x_variant":[
+        "\u6797\u65af\u7279\u5fb7"
+    ],
     "qs:gn_country":"JM",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3491199,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":421176787,
-    "wof:lastmodified":1561775167,
+    "wof:lastmodified":1563278464,
     "wof:name":"Browns Town",
     "wof:parent_id":85672599,
     "wof:placetype":"locality",

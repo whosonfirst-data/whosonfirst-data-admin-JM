@@ -25,7 +25,13 @@
     "name:cat_x_preferred":[
         "Port Royal"
     ],
+    "name:ceb_x_preferred":[
+        "Port Royal"
+    ],
     "name:ces_x_preferred":[
+        "Port Royal"
+    ],
+    "name:cym_x_preferred":[
         "Port Royal"
     ],
     "name:dan_x_preferred":[
@@ -60,6 +66,9 @@
     ],
     "name:ita_x_preferred":[
         "Port Royal"
+    ],
+    "name:jam_x_preferred":[
+        "Puot Rayal"
     ],
     "name:jpn_x_preferred":[
         "\u30dd\u30fc\u30c8\u30fb\u30ed\u30a4\u30e4\u30eb"
@@ -157,7 +166,7 @@
         }
     ],
     "wof:id":421197565,
-    "wof:lastmodified":1561775166,
+    "wof:lastmodified":1563278449,
     "wof:name":"Port Royal",
     "wof:parent_id":85672587,
     "wof:placetype":"locality",

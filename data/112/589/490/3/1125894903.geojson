@@ -25,6 +25,12 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041d\u0435\u0433\u0440\u044b\u043b"
     ],
+    "name:bul_x_preferred":[
+        "\u041d\u0435\u0433\u0440\u0438\u043b"
+    ],
+    "name:ceb_x_preferred":[
+        "Negril"
+    ],
     "name:deu_x_preferred":[
         "Negril"
     ],
@@ -40,6 +46,9 @@
     "name:ita_x_preferred":[
         "Negril"
     ],
+    "name:jam_x_preferred":[
+        "Nigril"
+    ],
     "name:jpn_x_preferred":[
         "\u30cd\u30b0\u30ea\u30eb"
     ],
@@ -51,6 +60,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041d\u0435\u0433\u0440\u0438\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Negril"
     ],
     "name:unk_x_variant":[
         "Negril Harbour"
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":1125894903,
-    "wof:lastmodified":1561775169,
+    "wof:lastmodified":1563278484,
     "wof:name":"Negril",
     "wof:parent_id":85672583,
     "wof:placetype":"locality",

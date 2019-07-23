@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u042f\u043b\u0430\u0445\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Yallahs"
+    ],
     "name:deu_x_preferred":[
         "Yallahs"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1125868407,
-    "wof:lastmodified":1561775169,
+    "wof:lastmodified":1563278482,
     "wof:name":"Yallahs",
     "wof:parent_id":85672615,
     "wof:placetype":"locality",

@@ -45,6 +45,9 @@
     "name:eng_x_preferred":[
         "Westmoreland"
     ],
+    "name:eng_x_variant":[
+        "Westmoreland Parish"
+    ],
     "name:eus_x_preferred":[
         "Westmoreland"
     ],
@@ -53,6 +56,9 @@
     ],
     "name:fra_x_preferred":[
         "Paroisse de Westmoreland"
+    ],
+    "name:fra_x_variant":[
+        "Westmoreland"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ac7\u0ab8\u0acd\u0a9f\u0aae\u0acb\u0ab0\u0ab2\u0ac7\u0aa8\u0acd\u0aa1 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
@@ -119,6 +125,9 @@
     ],
     "name:swe_x_preferred":[
         "Parish of Westmoreland"
+    ],
+    "name:swe_x_variant":[
+        "Westmoreland Parish"
     ],
     "name:tam_x_preferred":[
         "\u0bb5\u0bc6\u0bb8\u0bcd\u0b9f\u0bcd\u0bae\u0bcb\u0bb0\u0bcd\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd  \u0baa\u0bb0\u0bbf\u0bb7\u0bcd"
@@ -274,7 +283,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561775157,
+    "wof:lastmodified":1563278069,
     "wof:name":"Westmoreland",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

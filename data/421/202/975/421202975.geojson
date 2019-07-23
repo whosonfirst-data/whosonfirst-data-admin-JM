@@ -23,6 +23,9 @@
     "name:spa_x_preferred":[
         "Port Morant"
     ],
+    "name:zho_x_preferred":[
+        "\u83ab\u862d\u6e2f"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Jamaica",
     "ne:ADM0_A3":"JAM",
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":421202975,
-    "wof:lastmodified":1561775165,
+    "wof:lastmodified":1563278433,
     "wof:name":"Port Morant",
     "wof:parent_id":85672615,
     "wof:placetype":"locality",

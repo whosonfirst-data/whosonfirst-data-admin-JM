@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u043d\u0441\u0442\u0435\u0430\u0434"
     ],
+    "name:ceb_x_preferred":[
+        "Linstead"
+    ],
     "name:deu_x_preferred":[
         "Linstead"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d9\u05e0\u05e1\u05d8\u05d3"
+    ],
+    "name:ita_x_preferred":[
+        "Linstead"
     ],
     "name:jpn_x_preferred":[
         "\u30ea\u30f3\u30b9\u30c6\u30c3\u30c9"
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421176183,
-    "wof:lastmodified":1561775167,
+    "wof:lastmodified":1563278464,
     "wof:name":"Linstead",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",

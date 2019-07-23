@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.74156,17.99522,-76.74156,17.99522",
     "geom:latitude":17.99522,
     "geom:longitude":-76.74156,
@@ -15,8 +16,17 @@
     "name:deu_x_preferred":[
         "August Town FC"
     ],
+    "name:eng_x_preferred":[
+        "August Town F.C."
+    ],
+    "name:fra_x_preferred":[
+        "August Town F.C."
+    ],
     "name:nld_x_preferred":[
         "August Town FC"
+    ],
+    "name:spa_x_preferred":[
+        "August Town F.C."
     ],
     "qs:gn_country":"JM",
     "qs:gn_fcode":"PPL",
@@ -62,7 +72,7 @@
         }
     ],
     "wof:id":421194885,
-    "wof:lastmodified":1527716135,
+    "wof:lastmodified":1563278425,
     "wof:name":"August Town",
     "wof:parent_id":85672609,
     "wof:placetype":"locality",

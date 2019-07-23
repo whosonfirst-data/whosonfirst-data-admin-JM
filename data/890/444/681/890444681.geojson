@@ -15,6 +15,9 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Bamboo"
+    ],
     "name:deu_x_preferred":[
         "Bamboo"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890444681,
-    "wof:lastmodified":1561775167,
+    "wof:lastmodified":1563278468,
     "wof:name":"Bamboo",
     "wof:parent_id":85672599,
     "wof:placetype":"locality",
