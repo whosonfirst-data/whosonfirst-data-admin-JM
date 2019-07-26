@@ -26,6 +26,9 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30bb\u30d6\u30f3\u30ba"
+    ],
     "name:und_x_variant":[
         "Sevens Plantation",
         "Seven Plantations",
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226765245,
-    "wof:lastmodified":1537649731,
+    "wof:lastmodified":1564151727,
     "wof:name":"Sevens",
     "wof:parent_id":85672559,
     "wof:placetype":"locality",

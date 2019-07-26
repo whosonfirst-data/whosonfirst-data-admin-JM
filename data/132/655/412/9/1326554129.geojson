@@ -26,6 +26,21 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mount Nelson"
+    ],
+    "name:deu_x_preferred":[
+        "Mount Nelson"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e8 \u05e0\u05dc\u05e1\u05d5\u05df"
+    ],
+    "name:nds_x_preferred":[
+        "Mount Nelson"
+    ],
+    "name:swe_x_preferred":[
+        "Mount Nelson"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":1326554129,
-    "wof:lastmodified":1536952592,
+    "wof:lastmodified":1564151031,
     "wof:name":"Mount Nelson",
     "wof:parent_id":85672567,
     "wof:placetype":"locality",

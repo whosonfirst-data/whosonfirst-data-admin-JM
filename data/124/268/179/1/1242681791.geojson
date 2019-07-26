@@ -26,6 +26,15 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dry River"
+    ],
+    "name:deu_x_preferred":[
+        "Dry River"
+    ],
+    "name:swe_x_preferred":[
+        "Dry River"
+    ],
     "name:und_x_variant":[
         "Rodans Dry River",
         "Dry River"
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1242681791,
-    "wof:lastmodified":1537649750,
+    "wof:lastmodified":1564151566,
     "wof:name":"Dry River",
     "wof:parent_id":85672559,
     "wof:placetype":"locality",

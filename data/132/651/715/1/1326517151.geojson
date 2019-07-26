@@ -26,6 +26,24 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Garlands"
+    ],
+    "name:glg_x_preferred":[
+        "Garlands"
+    ],
+    "name:ita_x_preferred":[
+        "Garlands"
+    ],
+    "name:rus_x_preferred":[
+        "Garlands"
+    ],
+    "name:swe_x_preferred":[
+        "Garlands"
+    ],
+    "name:ukr_x_preferred":[
+        "Garlands"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +65,7 @@
         }
     ],
     "wof:id":1326517151,
-    "wof:lastmodified":1537005086,
+    "wof:lastmodified":1564150991,
     "wof:name":"Garlands",
     "wof:parent_id":85672573,
     "wof:placetype":"locality",

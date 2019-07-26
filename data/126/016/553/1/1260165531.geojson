@@ -26,6 +26,84 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ang_x_preferred":[
+        "Difelinburg"
+    ],
+    "name:bel_x_preferred":[
+        "\u0414\u0443\u0431\u043b\u0456\u043d\u0441\u043a\u0456 \u0437\u0430\u043c\u0430\u043a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u044a\u0431\u043b\u0438\u043d\u0441\u043a\u0438 \u0437\u0430\u043c\u044a\u043a"
+    ],
+    "name:dan_x_preferred":[
+        "Dublin Castle"
+    ],
+    "name:deu_x_preferred":[
+        "Dublin Castle"
+    ],
+    "name:eus_x_preferred":[
+        "Dublingo gaztelua"
+    ],
+    "name:gle_x_preferred":[
+        "Caisle\u00e1n Bhaile \u00c1tha Cliath"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05e8\u05ea \u05d3\u05d1\u05dc\u05d9\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Dublini v\u00e1r"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0582\u0562\u056c\u056b\u0576\u056b \u0561\u0574\u0580\u0578\u0581"
+    ],
+    "name:ind_x_preferred":[
+        "Kastel Dublin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30d6\u30ea\u30f3\u57ce"
+    ],
+    "name:kor_x_preferred":[
+        "\ub354\ube14\ub9b0 \uc131"
+    ],
+    "name:lav_x_preferred":[
+        "Dublinas pils"
+    ],
+    "name:nld_x_preferred":[
+        "Dublin Castle"
+    ],
+    "name:nor_x_preferred":[
+        "Dublin Castle"
+    ],
+    "name:pol_x_preferred":[
+        "Zamek Dubli\u0144ski"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0437\u0430\u043c\u043e\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "Dublin Castle"
+    ],
+    "name:slv_x_preferred":[
+        "Dublinski grad"
+    ],
+    "name:swe_x_preferred":[
+        "Dublin Castle"
+    ],
+    "name:tur_x_preferred":[
+        "Dublin Kalesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u0431\u043b\u0456\u043d\u0441\u044c\u043a\u0438\u0439 \u0437\u0430\u043c\u043e\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0644\u0639\u06c1 \u0688\u0628\u0644\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00e2u \u0111\u00e0i Dublin"
+    ],
+    "name:zho_x_preferred":[
+        "\u90fd\u67cf\u6797\u57ce\u5821"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +125,7 @@
         }
     ],
     "wof:id":1260165531,
-    "wof:lastmodified":1536871580,
+    "wof:lastmodified":1564151405,
     "wof:name":"Dublin Castle",
     "wof:parent_id":85672599,
     "wof:placetype":"locality",

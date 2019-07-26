@@ -27,6 +27,12 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Maggotty"
+    ],
+    "name:swe_x_preferred":[
+        "Maggotty"
+    ],
     "name:und_x_variant":[
         "Magotty",
         "Maggotty"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1276337747,
-    "wof:lastmodified":1537649740,
+    "wof:lastmodified":1564151238,
     "wof:name":"Maggotty",
     "wof:parent_id":85672563,
     "wof:placetype":"locality",

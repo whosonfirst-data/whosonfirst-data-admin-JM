@@ -26,6 +26,9 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rio Magno Gully"
+    ],
     "name:und_x_variant":[
         "Rio Magna",
         "Rio Magno"
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1209309539,
-    "wof:lastmodified":1537649733,
+    "wof:lastmodified":1564151306,
     "wof:name":"Rio Magno",
     "wof:parent_id":85632215,
     "wof:placetype":"locality",

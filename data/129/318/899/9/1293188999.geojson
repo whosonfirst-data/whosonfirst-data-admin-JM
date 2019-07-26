@@ -26,6 +26,9 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Rose Hall"
+    ],
     "name:und_x_variant":[
         "Rose Hill",
         "Rose Hall"
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1293188999,
-    "wof:lastmodified":1537649733,
+    "wof:lastmodified":1564151187,
     "wof:name":"Rose Hall",
     "wof:parent_id":85672569,
     "wof:placetype":"locality",

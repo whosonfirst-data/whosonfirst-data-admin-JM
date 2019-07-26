@@ -27,6 +27,12 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Simpsons"
+    ],
+    "name:lav_x_preferred":[
+        "Simpsons"
+    ],
     "name:und_x_variant":[
         "Moneymusk Pen",
         "Moneymuck",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1242891815,
-    "wof:lastmodified":1537649730,
+    "wof:lastmodified":1564151557,
     "wof:name":"Simpsons",
     "wof:parent_id":85672559,
     "wof:placetype":"locality",

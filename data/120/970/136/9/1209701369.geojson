@@ -26,6 +26,12 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mount James"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0624\u0646\u0679 \u062c\u06cc\u0645\u0632"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1209701369,
-    "wof:lastmodified":1536394819,
+    "wof:lastmodified":1564151321,
     "wof:name":"Mount James",
     "wof:parent_id":85672609,
     "wof:placetype":"locality",

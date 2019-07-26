@@ -26,6 +26,27 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "James Hill"
+    ],
+    "name:ces_x_preferred":[
+        "James Hill"
+    ],
+    "name:deu_x_preferred":[
+        "James Hill"
+    ],
+    "name:fra_x_preferred":[
+        "James Hill"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30a7\u30fc\u30e0\u30ba\u30fb\u30d2\u30eb"
+    ],
+    "name:nld_x_preferred":[
+        "James Hill"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u043b\u043b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +68,7 @@
         }
     ],
     "wof:id":1259883959,
-    "wof:lastmodified":1536778931,
+    "wof:lastmodified":1564151673,
     "wof:name":"James Hill",
     "wof:parent_id":85672559,
     "wof:placetype":"locality",

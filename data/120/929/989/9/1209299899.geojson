@@ -26,6 +26,9 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud1b0\uc2a4\uac15"
+    ],
     "name:und_x_variant":[
         "Mambys",
         "Toms River"
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1209299899,
-    "wof:lastmodified":1537649728,
+    "wof:lastmodified":1564151349,
     "wof:name":"Toms River",
     "wof:parent_id":85632215,
     "wof:placetype":"locality",

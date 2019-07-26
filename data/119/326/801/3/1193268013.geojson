@@ -26,6 +26,36 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Windsor Heights"
+    ],
+    "name:ceb_x_preferred":[
+        "Windsor Heights"
+    ],
+    "name:deu_x_preferred":[
+        "Windsor Heights"
+    ],
+    "name:fra_x_preferred":[
+        "Windsor Heights"
+    ],
+    "name:ita_x_preferred":[
+        "Windsor Heights"
+    ],
+    "name:nld_x_preferred":[
+        "Windsor Heights"
+    ],
+    "name:pol_x_preferred":[
+        "Windsor Heights"
+    ],
+    "name:por_x_preferred":[
+        "Windsor Heights"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u043d\u0434\u0441\u043e\u0440 \u0425\u0430\u0458\u0442\u0441"
+    ],
+    "name:vol_x_preferred":[
+        "Windsor Heights"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +77,7 @@
         }
     ],
     "wof:id":1193268013,
-    "wof:lastmodified":1536373752,
+    "wof:lastmodified":1564151386,
     "wof:name":"Windsor Heights",
     "wof:parent_id":85672599,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Boston Bay"
+    ],
+    "name:swe_x_preferred":[
+        "Boston Bay"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1243355137,
-    "wof:lastmodified":1536938004,
+    "wof:lastmodified":1564151596,
     "wof:name":"Boston Bay",
     "wof:parent_id":85672591,
     "wof:placetype":"locality",

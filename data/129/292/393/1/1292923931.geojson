@@ -27,9 +27,36 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mont Augusta"
+    ],
+    "name:ceb_x_preferred":[
+        "Mount Augusta"
+    ],
+    "name:ces_x_preferred":[
+        "Mount Augusta"
+    ],
+    "name:deu_x_preferred":[
+        "Mount Augusta"
+    ],
+    "name:ita_x_preferred":[
+        "Monte Augusta"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0679\u0644\u06c1 \u0622\u06af\u0633\u0679\u0627"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0433\u0430\u0441\u0442\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Mlima Augusta"
+    ],
     "name:und_x_variant":[
         "Mount Agusta",
         "Mount Augusta"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u53e4\u65af\u5854\u5c71"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1292923931,
-    "wof:lastmodified":1537649738,
+    "wof:lastmodified":1564151154,
     "wof:name":"Mount Augusta",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",

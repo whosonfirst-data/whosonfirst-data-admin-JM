@@ -26,6 +26,21 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Williamsfield"
+    ],
+    "name:fra_x_preferred":[
+        "Williamsfield"
+    ],
+    "name:pol_x_preferred":[
+        "Williamsfield"
+    ],
+    "name:swe_x_preferred":[
+        "Williamsfield"
+    ],
+    "name:vol_x_preferred":[
+        "Williamsfield"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":1193115481,
-    "wof:lastmodified":1536368492,
+    "wof:lastmodified":1564151383,
     "wof:name":"Williamsfield",
     "wof:parent_id":85672569,
     "wof:placetype":"locality",

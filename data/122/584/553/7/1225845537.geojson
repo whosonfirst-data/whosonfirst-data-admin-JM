@@ -26,6 +26,15 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Malton"
+    ],
+    "name:deu_x_preferred":[
+        "Malton"
+    ],
+    "name:swe_x_preferred":[
+        "Malton"
+    ],
     "name:und_x_variant":[
         "Molton",
         "Milton",
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1225845537,
-    "wof:lastmodified":1537649740,
+    "wof:lastmodified":1564151757,
     "wof:name":"Malton",
     "wof:parent_id":85672567,
     "wof:placetype":"locality",

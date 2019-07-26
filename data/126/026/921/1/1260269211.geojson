@@ -26,6 +26,12 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pemberton Valley"
+    ],
+    "name:swe_x_preferred":[
+        "Pemberton Valley"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1260269211,
-    "wof:lastmodified":1536731330,
+    "wof:lastmodified":1564151416,
     "wof:name":"Pemberton Valley",
     "wof:parent_id":85672605,
     "wof:placetype":"locality",

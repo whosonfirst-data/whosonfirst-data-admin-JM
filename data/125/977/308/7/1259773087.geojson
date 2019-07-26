@@ -26,6 +26,9 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Claremont"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1259773087,
-    "wof:lastmodified":1537566851,
+    "wof:lastmodified":1564151642,
     "wof:name":"Claremont",
     "wof:parent_id":85672599,
     "wof:placetype":"locality",

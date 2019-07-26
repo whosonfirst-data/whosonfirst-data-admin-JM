@@ -19,6 +19,18 @@
     "name:cym_x_preferred":[
         "Braco"
     ],
+    "name:deu_x_preferred":[
+        "Braco"
+    ],
+    "name:nld_x_preferred":[
+        "Braco"
+    ],
+    "name:por_x_preferred":[
+        "Braco"
+    ],
+    "name:spa_x_preferred":[
+        "Braco"
+    ],
     "name:swe_x_preferred":[
         "Braco"
     ],
@@ -67,7 +79,7 @@
         }
     ],
     "wof:id":421203527,
-    "wof:lastmodified":1527716195,
+    "wof:lastmodified":1564151531,
     "wof:name":"Braco",
     "wof:parent_id":85672579,
     "wof:placetype":"locality",

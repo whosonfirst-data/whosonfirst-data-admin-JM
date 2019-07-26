@@ -27,6 +27,12 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tarentum"
+    ],
+    "name:ita_x_preferred":[
+        "Tarentum"
+    ],
     "name:und_x_variant":[
         "Tarentun",
         "Tarentum"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1259667485,
-    "wof:lastmodified":1537649729,
+    "wof:lastmodified":1564151663,
     "wof:name":"Tarentum",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",

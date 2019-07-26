@@ -26,9 +26,18 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Grange Hill"
+    ],
+    "name:fra_x_preferred":[
+        "Grange Hill"
+    ],
     "name:und_x_variant":[
         "Gran Hill",
         "Grange Hill"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u862d\u5947\u5e0c\u723e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1243336021,
-    "wof:lastmodified":1537649747,
+    "wof:lastmodified":1564151599,
     "wof:name":"Grange Hill",
     "wof:parent_id":85672583,
     "wof:placetype":"locality",

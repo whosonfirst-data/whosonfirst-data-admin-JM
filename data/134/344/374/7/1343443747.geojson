@@ -26,6 +26,12 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Maxfield"
+    ],
+    "name:pol_x_preferred":[
+        "Maxfield"
+    ],
     "name:und_x_variant":[
         "Mafield",
         "Maxfield"
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1343443747,
-    "wof:lastmodified":1537649739,
+    "wof:lastmodified":1564151135,
     "wof:name":"Maxfield",
     "wof:parent_id":85672579,
     "wof:placetype":"locality",
