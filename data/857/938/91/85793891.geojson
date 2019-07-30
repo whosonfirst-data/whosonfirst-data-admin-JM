@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9911752.039706,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.795756,18.015977,-76.795756,18.015977",
     "geom:latitude":18.015977,
     "geom:longitude":-76.795756,
@@ -23,7 +23,22 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "Camperdown"
+    ],
+    "name:deu_x_preferred":[
+        "Camperdown"
+    ],
     "name:eng_x_preferred":[
+        "Camperdown"
+    ],
+    "name:pol_x_preferred":[
+        "Camperdown"
+    ],
+    "name:slv_x_preferred":[
+        "Camperdown"
+    ],
+    "name:swe_x_preferred":[
         "Camperdown"
     ],
     "name:unk_x_variant":[
@@ -79,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531861439,
+    "wof:lastmodified":1564151137,
     "wof:name":"Camperdown",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

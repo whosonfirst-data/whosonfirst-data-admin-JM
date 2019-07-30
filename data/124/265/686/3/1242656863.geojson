@@ -26,6 +26,135 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u0631 \u0627\u0644\u062a\u064a\u0647"
+    ],
+    "name:bre_x_preferred":[
+        "Milendall"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u0431\u0438\u0440\u0438\u043d\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Laberint"
+    ],
+    "name:ces_x_preferred":[
+        "Labyrint"
+    ],
+    "name:dan_x_preferred":[
+        "Labyrint"
+    ],
+    "name:deu_x_preferred":[
+        "Labyrinth"
+    ],
+    "name:diq_x_preferred":[
+        "Labirent"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03b2\u03cd\u03c1\u03b9\u03bd\u03b8\u03bf\u03c2"
+    ],
+    "name:epo_x_preferred":[
+        "Labirinto"
+    ],
+    "name:est_x_preferred":[
+        "Lab\u00fcrint"
+    ],
+    "name:eus_x_preferred":[
+        "Labirinto"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0632\u0627\u0631\u062a\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Labyrintti"
+    ],
+    "name:fra_x_preferred":[
+        "Labyrinthe"
+    ],
+    "name:glg_x_preferred":[
+        "Labirinto"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d1\u05d9\u05e8\u05d9\u05e0\u05ea"
+    ],
+    "name:hun_x_preferred":[
+        "Labirintus"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561\u0562\u056b\u0580\u056b\u0576\u0569\u0578\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Labirinto"
+    ],
+    "name:kaa_x_preferred":[
+        "Labirint"
+    ],
+    "name:lat_x_preferred":[
+        "Labyrinthus"
+    ],
+    "name:lit_x_preferred":[
+        "Labirintas"
+    ],
+    "name:ltz_x_preferred":[
+        "Labber\u00e4nt"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0430\u0432\u0438\u0440\u0438\u043d\u0442"
+    ],
+    "name:nld_x_preferred":[
+        "Doolhof"
+    ],
+    "name:nor_x_preferred":[
+        "Labyrint"
+    ],
+    "name:oci_x_preferred":[
+        "Laberint"
+    ],
+    "name:pol_x_preferred":[
+        "Labirynt"
+    ],
+    "name:por_x_preferred":[
+        "Labirinto"
+    ],
+    "name:ron_x_preferred":[
+        "Labirint"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043d\u043e\u0441\u0441\u043a\u0438\u0439 \u043b\u0430\u0431\u0438\u0440\u0438\u043d\u0442"
+    ],
+    "name:scn_x_preferred":[
+        "Labbirintu"
+    ],
+    "name:sco_x_preferred":[
+        "Labyrinth"
+    ],
+    "name:slv_x_preferred":[
+        "Labirint"
+    ],
+    "name:spa_x_preferred":[
+        "Laberinto"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u0432\u0438\u0440\u0438\u043d\u0442"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0bb5\u0bb4\u0bbf"
+    ],
+    "name:tgl_x_preferred":[
+        "Laberinto"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e32\u0e22\u0e27\u0e07\u0e01\u0e15"
+    ],
+    "name:tur_x_preferred":[
+        "Labirent"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043d\u043e\u0441\u044c\u043a\u0438\u0439 \u043b\u0430\u0431\u0456\u0440\u0438\u043d\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Labirint"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +176,7 @@
         }
     ],
     "wof:id":1242656863,
-    "wof:lastmodified":1536949974,
+    "wof:lastmodified":1564151621,
     "wof:name":"Labyrinth",
     "wof:parent_id":85672605,
     "wof:placetype":"locality",

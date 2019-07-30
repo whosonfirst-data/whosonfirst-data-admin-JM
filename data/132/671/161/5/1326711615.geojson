@@ -26,9 +26,255 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Kasjoeneut"
+    ],
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u062c\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Anacardium occidentale"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0631\u0632\u06cc\u0644 \u0641\u06cc\u0633\u062a\u06cc\u063a\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Braziliya f\u0131st\u0131\u011f\u0131"
+    ],
+    "name:bcl_x_preferred":[
+        "Kasoy"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u099c\u09c1 \u09ac\u09be\u09a6\u09be\u09ae"
+    ],
+    "name:bih_x_preferred":[
+        "\u0915\u093e\u091c\u0942"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0448\u0443"
+    ],
+    "name:cat_x_preferred":[
+        "Anacard"
+    ],
+    "name:ceb_x_preferred":[
+        "Kasoy"
+    ],
+    "name:ces_x_preferred":[
+        "Ledvinovn\u00edk z\u00e1padn\u00ed"
+    ],
+    "name:deu_x_preferred":[
+        "Cashew"
+    ],
+    "name:div_x_preferred":[
+        "\u0786\u07a6\u0796\u07ab\u0782\u07a6\u0793\u07b0"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03c3\u03b9\u03bf\u03c5\u03c2"
+    ],
+    "name:epo_x_preferred":[
+        "Aka\u0135uarbo"
+    ],
+    "name:est_x_preferred":[
+        "L\u00e4\u00e4neanakard"
+    ],
+    "name:eus_x_preferred":[
+        "Anakardo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f\u0627\u0645 \u0647\u0646\u062f\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Munuaispuu"
+    ],
+    "name:fra_x_preferred":[
+        "Anacardier"
+    ],
+    "name:gle_x_preferred":[
+        "Caisi\u00fa"
+    ],
+    "name:glg_x_preferred":[
+        "Anacardio"
+    ],
+    "name:grn_x_preferred":[
+        "Akaju"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0abe\u0a9c\u0ac1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e9\u05d9\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u091c\u0942"
+    ],
+    "name:hsb_x_preferred":[
+        "Zapadny anakardijum"
+    ],
+    "name:hun_x_preferred":[
+        "Kesu"
+    ],
+    "name:ind_x_preferred":[
+        "Jambu monyet"
+    ],
+    "name:ita_x_preferred":[
+        "Anacardium occidentale"
+    ],
+    "name:jav_x_preferred":[
+        "Jambu m\u00e9nt\u00e9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30b7\u30e5\u30fc\u30ca\u30c3\u30c4"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c97\u0ccb\u0ca1\u0c82\u0cac\u0cbf"
+    ],
+    "name:kas_x_preferred":[
+        "\u06a9\u0627\u062c\u0648\u0657"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d9\u10d0\u10df\u10e3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0435\u0448\u044c\u044e \u0436\u0430\u04a3\u0493\u0430\u0493\u044b"
+    ],
+    "name:koi_x_preferred":[
+        "\u041a\u0435\u0448\u044c\u044e"
+    ],
+    "name:kom_x_preferred":[
+        "\u041a\u0435\u0448\u044c\u044e"
+    ],
+    "name:kur_x_preferred":[
+        "Fistiqa kaj\u00fb"
+    ],
+    "name:lat_x_preferred":[
+        "Anacardium occidentale"
+    ],
+    "name:lav_x_preferred":[
+        "Indijas rieksti"
+    ],
+    "name:lbe_x_preferred":[
+        "\u041a\u0435\u0448\u044c\u044e"
+    ],
+    "name:lin_x_preferred":[
+        "L\u00edb\u00f3tu"
+    ],
+    "name:lit_x_preferred":[
+        "Vakarinis anakardis"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d36\u0d41\u0d2e\u0d3e\u0d35\u0d4d"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u093e\u091c\u0942"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041a\u0435\u0448\u044c\u044e"
+    ],
+    "name:msa_x_preferred":[
+        "Pokok Gajus"
+    ],
+    "name:nav_x_preferred":[
+        "Neeshch\u02bc\u00ed\u00ed\u0142gai"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u093e\u091c\u0941"
+    ],
+    "name:nld_x_preferred":[
+        "Kasjoeboom"
+    ],
+    "name:nor_x_preferred":[
+        "Kasjutre"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b15\u0b3e\u0b1c\u0b41"
+    ],
+    "name:pam_x_preferred":[
+        "Balubad"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a15\u0a3e\u0a1c\u0a42"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06a9\u0627\u062c\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Nanercz zachodni"
+    ],
+    "name:por_x_preferred":[
+        "Cajueiro"
+    ],
+    "name:que_x_preferred":[
+        "Mara\u00f1un sach'a"
+    ],
+    "name:ron_x_preferred":[
+        "Caju"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0448\u044c\u044e"
+    ],
+    "name:san_x_preferred":[
+        "\u092d\u0932\u094d\u0932\u093e\u0924\u0915\u0903"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c75\u1c64\u1c5e\u1c5f.\u1c5b\u1c64 \u1c65\u1c5a\u1c65\u1c5a"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0da2\u0dd4"
+    ],
+    "name:snd_x_preferred":[
+        "\u06a9\u0627\u0684\u0627"
+    ],
+    "name:spa_x_preferred":[
+        "Anacardium occidentale"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u043d\u0434\u0438\u0458\u0441\u043a\u0438 \u043e\u0440\u0430\u0445"
+    ],
+    "name:sun_x_preferred":[
+        "Jambu mony\u00e9t"
+    ],
+    "name:swa_x_preferred":[
+        "Mkorosho"
+    ],
+    "name:swe_x_preferred":[
+        "Cashew"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf"
+    ],
+    "name:tcy_x_preferred":[
+        "\u0c97\u0ccb\u0c82\u0c95\u0cc1"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c40\u0c21\u0c3f"
+    ],
+    "name:tgl_x_preferred":[
+        "Kasoy"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e30\u0e21\u0e48\u0e27\u0e07\u0e2b\u0e34\u0e21\u0e1e\u0e32\u0e19\u0e15\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Kaju"
+    ],
+    "name:udm_x_preferred":[
+        "\u041a\u0435\u0448\u044c\u044e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u0448'\u044e"
+    ],
     "name:und_x_variant":[
         "Great Cashoo",
         "Cashew"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u062c\u0648"
+    ],
+    "name:war_x_preferred":[
+        "Kasoy"
+    ],
+    "name:wol_x_preferred":[
+        "Darkase"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +297,7 @@
         }
     ],
     "wof:id":1326711615,
-    "wof:lastmodified":1537649754,
+    "wof:lastmodified":1564151024,
     "wof:name":"Cashew",
     "wof:parent_id":85672569,
     "wof:placetype":"locality",

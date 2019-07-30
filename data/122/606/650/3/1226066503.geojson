@@ -26,6 +26,18 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Golden Vale"
+    ],
+    "name:eus_x_preferred":[
+        "Golden Vale"
+    ],
+    "name:gle_x_preferred":[
+        "Machaire M\u00e9ith na Mumhan"
+    ],
+    "name:swe_x_preferred":[
+        "Golden Vale"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1226066503,
-    "wof:lastmodified":1536695530,
+    "wof:lastmodified":1564151747,
     "wof:name":"Golden Vale",
     "wof:parent_id":85672591,
     "wof:placetype":"locality",

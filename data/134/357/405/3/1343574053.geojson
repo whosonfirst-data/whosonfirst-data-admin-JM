@@ -26,6 +26,9 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Cauldwell"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1343574053,
-    "wof:lastmodified":1537076684,
+    "wof:lastmodified":1564151108,
     "wof:name":"Cauldwell",
     "wof:parent_id":85672563,
     "wof:placetype":"locality",

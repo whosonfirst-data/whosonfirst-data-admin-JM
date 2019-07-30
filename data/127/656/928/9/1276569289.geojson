@@ -26,6 +26,9 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jam_x_preferred":[
+        "Slaigovil"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1276569289,
-    "wof:lastmodified":1537566848,
+    "wof:lastmodified":1564151242,
     "wof:name":"Sligoville",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",

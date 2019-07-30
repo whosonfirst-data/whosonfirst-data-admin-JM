@@ -26,6 +26,42 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "York Castle"
+    ],
+    "name:dan_x_preferred":[
+        "York Castle"
+    ],
+    "name:deu_x_preferred":[
+        "York Castle"
+    ],
+    "name:fin_x_preferred":[
+        "Yorkin linna"
+    ],
+    "name:fra_x_preferred":[
+        "Ch\u00e2teau d'York"
+    ],
+    "name:gle_x_preferred":[
+        "Caisle\u00e1n Eabhrac"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05e8\u05ea \u05d9\u05d5\u05e8\u05e7"
+    ],
+    "name:kor_x_preferred":[
+        "\uc694\ud06c \uc131"
+    ],
+    "name:nno_x_preferred":[
+        "Clifford's Tower"
+    ],
+    "name:nor_x_preferred":[
+        "York Castle"
+    ],
+    "name:swe_x_preferred":[
+        "York Castle"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d04\u514b\u57ce\u5821"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +83,7 @@
         }
     ],
     "wof:id":1343450629,
-    "wof:lastmodified":1536760625,
+    "wof:lastmodified":1564151126,
     "wof:name":"York Castle",
     "wof:parent_id":85672599,
     "wof:placetype":"locality",

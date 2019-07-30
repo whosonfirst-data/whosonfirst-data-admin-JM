@@ -26,6 +26,15 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rural Hill"
+    ],
+    "name:deu_x_preferred":[
+        "Rural Hill"
+    ],
+    "name:swe_x_preferred":[
+        "Rural Hill"
+    ],
     "name:und_x_variant":[
         "Pleasant Hill"
     ],
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1259379835,
-    "wof:lastmodified":1537649735,
+    "wof:lastmodified":1564151637,
     "wof:name":"Rural Hill",
     "wof:parent_id":85672591,
     "wof:placetype":"locality",

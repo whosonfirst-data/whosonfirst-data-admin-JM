@@ -26,6 +26,27 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Goat Island"
+    ],
+    "name:deu_x_preferred":[
+        "Goat Island"
+    ],
+    "name:epo_x_preferred":[
+        "Goat island"
+    ],
+    "name:est_x_preferred":[
+        "Goat Island"
+    ],
+    "name:kor_x_preferred":[
+        "\uace0\ud2b8\uc12c"
+    ],
+    "name:nor_x_preferred":[
+        "Goat Island"
+    ],
+    "name:swe_x_preferred":[
+        "Goat Island"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +68,7 @@
         }
     ],
     "wof:id":1276316057,
-    "wof:lastmodified":1536801910,
+    "wof:lastmodified":1564151284,
     "wof:name":"Goat Island",
     "wof:parent_id":85672579,
     "wof:placetype":"locality",

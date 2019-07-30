@@ -27,6 +27,9 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Coley"
+    ],
     "name:und_x_variant":[
         "Coley House",
         "Coley"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343928819,
-    "wof:lastmodified":1537649752,
+    "wof:lastmodified":1564151105,
     "wof:name":"Coley",
     "wof:parent_id":85672615,
     "wof:placetype":"locality",

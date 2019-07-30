@@ -26,6 +26,54 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Vanity Fair"
+    ],
+    "name:est_x_preferred":[
+        "Vanity Fair"
+    ],
+    "name:fin_x_preferred":[
+        "Vanity Fair"
+    ],
+    "name:fra_x_preferred":[
+        "Vanity Fair"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05e8\u05d9\u05d3 \u05d4\u05d4\u05d1\u05dc\u05d9\u05dd"
+    ],
+    "name:ita_x_preferred":[
+        "Vanity Fair"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30cb\u30c6\u30a3\u30fb\u30d5\u30a7\u30a2"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc30\ub108\ud2f0 \ud398\uc5b4"
+    ],
+    "name:nld_x_preferred":[
+        "Vanity Fair"
+    ],
+    "name:pol_x_preferred":[
+        "Vanity Fair"
+    ],
+    "name:por_x_preferred":[
+        "Vanity Fair"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0440\u043c\u0430\u0440\u043a\u0430 \u0442\u0449\u0435\u0441\u043b\u0430\u0432\u0438\u044f"
+    ],
+    "name:slk_x_preferred":[
+        "Vanity Fair"
+    ],
+    "name:spa_x_preferred":[
+        "Vanity Fair"
+    ],
+    "name:tur_x_preferred":[
+        "Vanity Fair"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d6e\u83ef\u4e16\u754c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +95,7 @@
         }
     ],
     "wof:id":1276968397,
-    "wof:lastmodified":1536923374,
+    "wof:lastmodified":1564151281,
     "wof:name":"Vanity Fair",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",

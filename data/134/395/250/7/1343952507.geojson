@@ -27,8 +27,59 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Lennox"
+    ],
+    "name:ceb_x_preferred":[
+        "Lennox"
+    ],
+    "name:chv_x_preferred":[
+        "\u041b\u0435\u043d\u043d\u043e\u043a\u0441"
+    ],
+    "name:deu_x_preferred":[
+        "Lennox"
+    ],
+    "name:fra_x_preferred":[
+        "Lennox"
+    ],
+    "name:ita_x_preferred":[
+        "Lennox"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30ce\u30c3\u30af\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub808\ub179\uc2a4"
+    ],
+    "name:nld_x_preferred":[
+        "Lennox"
+    ],
+    "name:nor_x_preferred":[
+        "Lennox"
+    ],
+    "name:pol_x_preferred":[
+        "Lennox"
+    ],
+    "name:por_x_preferred":[
+        "Lennox"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u043d\u043e\u043a\u0441"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435\u043d\u043e\u043a\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Lennox"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u043d\u043d\u043e\u043a\u0441"
+    ],
     "name:und_x_variant":[
         "Lenox",
+        "Lennox"
+    ],
+    "name:vol_x_preferred":[
         "Lennox"
     ],
     "src:geom":"geonames",
@@ -52,7 +103,7 @@
         }
     ],
     "wof:id":1343952507,
-    "wof:lastmodified":1537649742,
+    "wof:lastmodified":1564151102,
     "wof:name":"Lennox",
     "wof:parent_id":85672591,
     "wof:placetype":"locality",

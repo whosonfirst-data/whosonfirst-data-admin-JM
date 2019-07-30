@@ -26,6 +26,9 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cym_x_preferred":[
+        "Marley Hill"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1276980629,
-    "wof:lastmodified":1536906423,
+    "wof:lastmodified":1564151282,
     "wof:name":"Marley Hill",
     "wof:parent_id":85672567,
     "wof:placetype":"locality",

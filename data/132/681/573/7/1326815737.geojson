@@ -26,6 +26,12 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Craigton"
+    ],
+    "name:sco_x_preferred":[
+        "Craigtoun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1326815737,
-    "wof:lastmodified":1537069560,
+    "wof:lastmodified":1564150984,
     "wof:name":"Craigton",
     "wof:parent_id":85672609,
     "wof:placetype":"locality",

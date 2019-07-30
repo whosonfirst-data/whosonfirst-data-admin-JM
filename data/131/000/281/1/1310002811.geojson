@@ -26,6 +26,24 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fort George"
+    ],
+    "name:deu_x_preferred":[
+        "Fort George"
+    ],
+    "name:ita_x_preferred":[
+        "Fort George"
+    ],
+    "name:nds_x_preferred":[
+        "Fort George"
+    ],
+    "name:pol_x_preferred":[
+        "Fort George"
+    ],
+    "name:swe_x_preferred":[
+        "Fort George"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +65,7 @@
         }
     ],
     "wof:id":1310002811,
-    "wof:lastmodified":1536646800,
+    "wof:lastmodified":1564151432,
     "wof:name":"Fort George",
     "wof:parent_id":85672609,
     "wof:placetype":"locality",

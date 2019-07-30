@@ -26,6 +26,30 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Grange"
+    ],
+    "name:deu_x_preferred":[
+        "Grange"
+    ],
+    "name:fra_x_preferred":[
+        "Grange"
+    ],
+    "name:ita_x_preferred":[
+        "Grange"
+    ],
+    "name:nld_x_preferred":[
+        "Grange"
+    ],
+    "name:pol_x_preferred":[
+        "Grange"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0436"
+    ],
+    "name:swe_x_preferred":[
+        "Grange"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +71,7 @@
         }
     ],
     "wof:id":1193140433,
-    "wof:lastmodified":1536366370,
+    "wof:lastmodified":1564151375,
     "wof:name":"Grange",
     "wof:parent_id":85672563,
     "wof:placetype":"locality",

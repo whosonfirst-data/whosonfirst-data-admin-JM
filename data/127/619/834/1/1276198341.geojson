@@ -26,6 +26,93 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Stoamandl"
+    ],
+    "name:cat_x_preferred":[
+        "Cairn"
+    ],
+    "name:ces_x_preferred":[
+        "Mu\u017eik"
+    ],
+    "name:cos_x_preferred":[
+        "Catastaghju"
+    ],
+    "name:cym_x_preferred":[
+        "Carnedd"
+    ],
+    "name:dan_x_preferred":[
+        "Varde"
+    ],
+    "name:deu_x_preferred":[
+        "Steinm\u00e4nnchen"
+    ],
+    "name:eus_x_preferred":[
+        "Cairn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u06af\u200c\u0686\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Cairn"
+    ],
+    "name:glg_x_preferred":[
+        "Amilladoiro"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0947\u0905\u0930\u094d\u0928"
+    ],
+    "name:isl_x_preferred":[
+        "Var\u00f0a"
+    ],
+    "name:ita_x_preferred":[
+        "Cairn"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30a2\u30f3"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u0435\u0440\u043d"
+    ],
+    "name:lit_x_preferred":[
+        "Kernas"
+    ],
+    "name:nld_x_preferred":[
+        "Steenmannetje"
+    ],
+    "name:nno_x_preferred":[
+        "Varde"
+    ],
+    "name:nor_x_preferred":[
+        "Varde"
+    ],
+    "name:nrm_x_preferred":[
+        "Mouaie"
+    ],
+    "name:pms_x_preferred":[
+        "Om\u00e8t"
+    ],
+    "name:por_x_preferred":[
+        "Moledros"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440"
+    ],
+    "name:slv_x_preferred":[
+        "Mo\u017eic"
+    ],
+    "name:spa_x_preferred":[
+        "Cairn"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00f6se"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bb1\u0bcd\u0b95\u0bc1\u0bb5\u0bc8"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u0440"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +134,7 @@
         }
     ],
     "wof:id":1276198341,
-    "wof:lastmodified":1536959891,
+    "wof:lastmodified":1564151226,
     "wof:name":"Cairn",
     "wof:parent_id":85672583,
     "wof:placetype":"locality",

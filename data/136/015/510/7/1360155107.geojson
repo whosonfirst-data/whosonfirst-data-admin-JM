@@ -26,6 +26,18 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sherwood Content"
+    ],
+    "name:fra_x_preferred":[
+        "Sherwood Content"
+    ],
+    "name:ron_x_preferred":[
+        "Sherwood Content"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0440\u0432\u0443\u0434-\u041a\u043e\u043d\u0442\u0435\u043d\u0442"
+    ],
     "name:und_x_variant":[
         "Content",
         "Sherwood Content"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1360155107,
-    "wof:lastmodified":1537649725,
+    "wof:lastmodified":1564151466,
     "wof:name":"Sherwood Content",
     "wof:parent_id":85672579,
     "wof:placetype":"locality",

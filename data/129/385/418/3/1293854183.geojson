@@ -27,6 +27,18 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Roslin Castle"
+    ],
+    "name:eus_x_preferred":[
+        "Roslin gaztelua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0632\u0644\u06cc\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Roslinin linna"
+    ],
     "name:und_x_variant":[
         "Roslin Caslin",
         "Roslin Castle"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1293854183,
-    "wof:lastmodified":1537649732,
+    "wof:lastmodified":1564151166,
     "wof:name":"Roslin Castle",
     "wof:parent_id":85672579,
     "wof:placetype":"locality",

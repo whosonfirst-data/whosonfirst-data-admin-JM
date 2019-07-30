@@ -26,6 +26,111 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u062b\u064a"
+    ],
+    "name:bre_x_preferred":[
+        "Lete"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u0442\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Riu Leteu"
+    ],
+    "name:ces_x_preferred":[
+        "L\u00e9th\u00e9"
+    ],
+    "name:deu_x_preferred":[
+        "Lethe"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03ae\u03b8\u03b7"
+    ],
+    "name:epo_x_preferred":[
+        "Leto"
+    ],
+    "name:est_x_preferred":[
+        "Lethe"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u062a\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Lethe"
+    ],
+    "name:fra_x_preferred":[
+        "L\u00e9th\u00e9"
+    ],
+    "name:hrv_x_preferred":[
+        "Leta"
+    ],
+    "name:hsb_x_preferred":[
+        "Lethe"
+    ],
+    "name:hun_x_preferred":[
+        "L\u00e9th\u00e9"
+    ],
+    "name:ind_x_preferred":[
+        "Lethe"
+    ],
+    "name:ita_x_preferred":[
+        "Lete"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30fc\u30c6\u30fc"
+    ],
+    "name:lat_x_preferred":[
+        "Lethe"
+    ],
+    "name:lit_x_preferred":[
+        "Let\u0117"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0435\u0442\u0430"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0644\u062a\u0647"
+    ],
+    "name:nld_x_preferred":[
+        "Lethe"
+    ],
+    "name:nor_x_preferred":[
+        "Lethe"
+    ],
+    "name:pol_x_preferred":[
+        "Lete"
+    ],
+    "name:por_x_preferred":[
+        "Lete"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0442\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "L\u00e9th\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Lete"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Lethe"
+    ],
+    "name:tur_x_preferred":[
+        "Lethe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0442\u0430"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10da\u10d4\u10d7\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u907a\u5fd8\u6cb3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +152,7 @@
         }
     ],
     "wof:id":1226654619,
-    "wof:lastmodified":1536845475,
+    "wof:lastmodified":1564151751,
     "wof:name":"Lethe",
     "wof:parent_id":85672563,
     "wof:placetype":"locality",

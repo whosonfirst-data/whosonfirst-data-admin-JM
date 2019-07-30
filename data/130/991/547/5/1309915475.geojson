@@ -26,6 +26,15 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Beyliston"
+    ],
+    "name:eus_x_preferred":[
+        "Baillieston"
+    ],
+    "name:gle_x_preferred":[
+        "Baile Bh\u00e1illidh"
+    ],
     "name:und_x_variant":[
         "Bailleston",
         "Baillieston"
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1309915475,
-    "wof:lastmodified":1537649759,
+    "wof:lastmodified":1564151494,
     "wof:name":"Baillieston",
     "wof:parent_id":85672559,
     "wof:placetype":"locality",

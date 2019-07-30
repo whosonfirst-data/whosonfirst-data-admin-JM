@@ -5,12 +5,92 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.92111,18.46104,-77.92111,18.46104",
     "geom:latitude":18.46104,
     "geom:longitude":-77.92111,
     "iso:country":"JM",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Fairfield"
+    ],
+    "name:ceb_x_preferred":[
+        "Fairfield"
+    ],
+    "name:dan_x_preferred":[
+        "Fairfield"
+    ],
+    "name:deu_x_preferred":[
+        "Fairfield"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u06cc\u0631\u0641\u06cc\u0644\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Fairfield"
+    ],
+    "name:fra_x_preferred":[
+        "Fairfield"
+    ],
+    "name:ido_x_preferred":[
+        "Fairfield"
+    ],
+    "name:ita_x_preferred":[
+        "Fairfield"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a7\u30a2\u30d5\u30a3\u30fc\u30eb\u30c9"
+    ],
+    "name:kor_x_preferred":[
+        "\ud398\uc5b4\ud544\ub4dc"
+    ],
+    "name:mlg_x_preferred":[
+        "Fairfield"
+    ],
+    "name:nld_x_preferred":[
+        "Fairfield"
+    ],
+    "name:pol_x_preferred":[
+        "Fairfield"
+    ],
+    "name:por_x_preferred":[
+        "Fairfield"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u044d\u0440\u0444\u0438\u043b\u0434"
+    ],
+    "name:sco_x_preferred":[
+        "Fairfield"
+    ],
+    "name:spa_x_preferred":[
+        "Fairfield"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0435\u0440\u0444\u0438\u043b\u0434"
+    ],
+    "name:swa_x_preferred":[
+        "Fairfield"
+    ],
+    "name:swe_x_preferred":[
+        "Fairfield"
+    ],
+    "name:tur_x_preferred":[
+        "Farfield"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0435\u0439\u0440\u0444\u0456\u043b\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u06cc\u0626\u0631\u0641\u06cc\u0644\u0688"
+    ],
+    "name:vol_x_preferred":[
+        "Fairfield"
+    ],
+    "name:war_x_preferred":[
+        "Fairfield"
+    ],
     "qs:gn_country":"JM",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3490530,
@@ -43,7 +123,7 @@
     },
     "wof:country":"JM",
     "wof:created":1459009300,
-    "wof:geomhash":"fa6055906e73f4f2aa8f34e62c15f407",
+    "wof:geomhash":"5f4b5402dad705cdabb62032a3bf8b58",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +133,7 @@
         }
     ],
     "wof:id":421181561,
-    "wof:lastmodified":1466635853,
+    "wof:lastmodified":1564151534,
     "wof:name":"Fairfield",
     "wof:parent_id":85672573,
     "wof:placetype":"locality",

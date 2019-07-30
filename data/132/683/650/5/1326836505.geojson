@@ -26,6 +26,12 @@
     "iso:country":"JM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mount Prospect"
+    ],
+    "name:swe_x_preferred":[
+        "Mount Prospect"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1326836505,
-    "wof:lastmodified":1537040839,
+    "wof:lastmodified":1564151030,
     "wof:name":"Mount Prospect",
     "wof:parent_id":85672567,
     "wof:placetype":"locality",
