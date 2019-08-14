@@ -19,6 +19,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SM"
+    ],
     "lbl:latitude":18.279592,
     "lbl:longitude":-76.872853,
     "mps:latitude":18.275328,
@@ -280,16 +283,13 @@
         }
     ],
     "wof:id":85672605,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563278074,
+    "wof:lastmodified":1565724451,
     "wof:name":"Saint Mary",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

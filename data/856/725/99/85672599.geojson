@@ -19,6 +19,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SN"
+    ],
     "lbl:latitude":18.334437,
     "lbl:longitude":-77.283502,
     "mps:latitude":18.326176,
@@ -284,16 +287,13 @@
         }
     ],
     "wof:id":85672599,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563278067,
+    "wof:lastmodified":1565724450,
     "wof:name":"Saint Ann",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

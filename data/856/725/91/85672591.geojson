@@ -19,6 +19,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PO"
+    ],
     "lbl:latitude":18.119676,
     "lbl:longitude":-76.535635,
     "mps:latitude":18.113021,
@@ -267,16 +270,13 @@
         }
     ],
     "wof:id":85672591,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563278066,
+    "wof:lastmodified":1565724450,
     "wof:name":"Portland",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

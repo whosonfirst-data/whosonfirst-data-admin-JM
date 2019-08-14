@@ -16,6 +16,9 @@
         "1-876"
     ],
     "itu:region":"1",
+    "label:eng_x_preferred_shortcode":[
+        "JM"
+    ],
     "lbl:latitude":18.137123,
     "lbl:longitude":-77.318767,
     "mps:latitude":18.137123,
@@ -970,16 +973,13 @@
         }
     ],
     "wof:id":85632215,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563278073,
+    "wof:lastmodified":1565724451,
     "wof:name":"Jamaica",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

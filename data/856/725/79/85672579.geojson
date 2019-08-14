@@ -19,6 +19,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TR"
+    ],
     "lbl:latitude":18.365251,
     "lbl:longitude":-77.605731,
     "mps:latitude":18.3608,
@@ -288,16 +291,13 @@
         }
     ],
     "wof:id":85672579,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563278068,
+    "wof:lastmodified":1565724451,
     "wof:name":"Trelawny",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

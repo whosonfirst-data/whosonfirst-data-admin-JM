@@ -19,6 +19,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SJ"
+    ],
     "lbl:latitude":18.390938,
     "lbl:longitude":-77.846498,
     "mps:latitude":18.389787,
@@ -288,16 +291,13 @@
         }
     ],
     "wof:id":85672573,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563278065,
+    "wof:lastmodified":1565724450,
     "wof:name":"Saint James",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

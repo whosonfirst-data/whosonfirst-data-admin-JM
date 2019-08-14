@@ -19,6 +19,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SC"
+    ],
     "lbl:latitude":18.056745,
     "lbl:longitude":-77.021488,
     "mps:latitude":18.046946,
@@ -285,16 +288,13 @@
         }
     ],
     "wof:id":85672601,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563278075,
+    "wof:lastmodified":1565724452,
     "wof:name":"Saint Catherine",
     "wof:parent_id":85632215,
     "wof:placetype":"region",
