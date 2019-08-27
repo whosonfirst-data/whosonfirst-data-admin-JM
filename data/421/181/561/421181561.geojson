@@ -10,8 +10,12 @@
     "geom:latitude":18.46104,
     "geom:longitude":-77.92111,
     "iso:country":"JM",
+    "lbl:bbox":"-77.94111,18.44104,-77.90111,18.48104",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Fairfield"
@@ -119,7 +123,7 @@
     "wof:concordances":{
         "gn:id":3490530,
         "gp:id":108847,
-        "qs:id":494673
+        "qs_pg:id":494673
     },
     "wof:country":"JM",
     "wof:created":1459009300,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":421181561,
-    "wof:lastmodified":1564151534,
+    "wof:lastmodified":1566724663,
     "wof:name":"Fairfield",
     "wof:parent_id":85672573,
     "wof:placetype":"locality",

@@ -24,15 +24,18 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-77.57932,18.45432,-77.53932,18.49432",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Carey Park"
     ],
     "name:und_x_variant":[
         "Cary Park Village",
-        "Cary Park",
-        "Carey Park"
+        "Cary Park"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1293459953,
-    "wof:lastmodified":1564151195,
+    "wof:lastmodified":1566724626,
     "wof:name":"Carey Park",
     "wof:parent_id":85672579,
     "wof:placetype":"locality",

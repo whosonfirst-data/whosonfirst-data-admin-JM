@@ -10,10 +10,14 @@
     "geom:latitude":18.39711,
     "geom:longitude":-77.05579,
     "iso:country":"JM",
+    "lbl:bbox":"-77.07579,18.37711,-77.03579,18.41711",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bonham Spring"
     ],
     "qs:gn_country":"JM",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3491469,
         "gp:id":108298,
-        "qs:id":53551
+        "qs_pg:id":53551
     },
     "wof:country":"JM",
     "wof:created":1459009823,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":421194887,
-    "wof:lastmodified":1501267345,
+    "wof:lastmodified":1566724661,
     "wof:name":"Bantam Spring",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":18.16586,
     "geom:longitude":-76.96417,
     "iso:country":"JM",
+    "lbl:bbox":"-76.98417,18.14586,-76.94417,18.18586",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Riversdale"
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":3488809,
         "gp:id":109832,
-        "qs:id":1201520,
+        "qs_pg:id":1201520,
         "wd:id":"Q7338352"
     },
     "wof:country":"JM",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":421198495,
-    "wof:lastmodified":1561775166,
+    "wof:lastmodified":1566724663,
     "wof:name":"Riversdale",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",

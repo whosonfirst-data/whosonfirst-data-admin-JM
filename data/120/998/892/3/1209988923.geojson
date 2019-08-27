@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-78.25333,18.19667,-78.21333,18.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Coldsome Corner",
         "Goldsons Corner"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209988923,
-    "wof:lastmodified":1537649747,
+    "wof:lastmodified":1566724638,
     "wof:name":"Goldsons Corner",
     "wof:parent_id":85672583,
     "wof:placetype":"locality",

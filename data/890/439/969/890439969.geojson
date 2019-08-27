@@ -11,8 +11,11 @@
     "geom:longitude":-76.95742,
     "gn:country":"JM",
     "gn:fcode":"PPLA",
-    "gn:pop":145018,
+    "gn:population":145018,
     "iso:country":"JM",
+    "lbl:bbox":"-76.97742,17.97107,-76.93742,18.01107",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -131,7 +134,7 @@
         "Spanish Town"
     ],
     "name:tam_x_preferred":[
-        "\u0bb8\u0bcd\u0baa\u0bbe\u0ba8\u0bbf\u0bb7\u0bcd  \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
+        "\u0bb8\u0bcd\u0baa\u0bbe\u0ba8\u0bbf\u0bb7\u0bcd \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4d\u0c2a\u0c3e\u0c28\u0c3f\u0c37\u0c4d \u0c2a\u0c1f\u0c4d\u0c1f\u0c23\u0c02"
@@ -145,7 +148,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043f\u0430\u043d\u0456\u0448-\u0422\u0430\u0443\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saint Jago de la Vega"
     ],
     "name:urd_x_preferred":[
@@ -269,10 +272,12 @@
     "wof:concordances":{
         "gn:id":3488465,
         "gp:id":109998,
-        "qs:id":95691,
-        "qs_pg:id":1045038,
+        "qs_pg:id":95691,
         "wd:id":"Q846939",
         "wk:page":"Spanish Town"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1045038
     },
     "wof:country":"JM",
     "wof:created":1469052257,
@@ -286,7 +291,7 @@
         }
     ],
     "wof:id":890439969,
-    "wof:lastmodified":1563278466,
+    "wof:lastmodified":1566724665,
     "wof:name":"Spanish Town",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",

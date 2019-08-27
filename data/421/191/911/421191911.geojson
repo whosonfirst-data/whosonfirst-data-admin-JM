@@ -10,8 +10,12 @@
     "geom:latitude":18.4,
     "geom:longitude":-77.13333,
     "iso:country":"JM",
+    "lbl:bbox":"-77.15333,18.38,-77.11333,18.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u063a\u064a\u0636"
@@ -94,7 +98,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043e\u0432\u0435 \u0431\u043e\u043b\u043e\u0442\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bogg"
     ],
     "qs:gn_country":"JM",
@@ -126,7 +130,7 @@
     "wof:concordances":{
         "gn:id":3491299,
         "gp:id":108401,
-        "qs:id":1165118,
+        "qs_pg:id":1165118,
         "wd:id":"Q4937302"
     },
     "wof:country":"JM",
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":421191911,
-    "wof:lastmodified":1563278447,
+    "wof:lastmodified":1566724663,
     "wof:name":"Bog",
     "wof:parent_id":85672599,
     "wof:placetype":"locality",

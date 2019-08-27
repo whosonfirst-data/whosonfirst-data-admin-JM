@@ -10,8 +10,12 @@
     "geom:latitude":18.12784,
     "geom:longitude":-77.14764,
     "iso:country":"JM",
+    "lbl:bbox":"-77.16764,18.10784,-77.12764,18.14784",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Luidas Vale"
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":3489714,
         "gp:id":109324,
-        "qs:id":148516,
+        "qs_pg:id":148516,
         "wd:id":"Q6662884"
     },
     "wof:country":"JM",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":421179055,
-    "wof:lastmodified":1561775166,
+    "wof:lastmodified":1566724664,
     "wof:name":"Lluidas Vale",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",

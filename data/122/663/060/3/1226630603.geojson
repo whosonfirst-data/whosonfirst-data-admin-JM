@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-77.17498,18.25883,-77.13498,18.29883",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Vriendskap"
     ],
@@ -281,7 +285,7 @@
         }
     ],
     "wof:id":1226630603,
-    "wof:lastmodified":1564151746,
+    "wof:lastmodified":1566724687,
     "wof:name":"Friendship",
     "wof:parent_id":85672599,
     "wof:placetype":"locality",

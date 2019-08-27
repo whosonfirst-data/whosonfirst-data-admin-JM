@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-77.52357,18.18228,-77.48357,18.22228",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Dump"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1259388987,
-    "wof:lastmodified":1564151633,
+    "wof:lastmodified":1566724676,
     "wof:name":"Dump",
     "wof:parent_id":85672567,
     "wof:placetype":"locality",

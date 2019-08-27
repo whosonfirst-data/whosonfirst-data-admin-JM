@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-76.41742,17.90567,-76.37742,17.94567",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Wilmington"
     ],
@@ -105,8 +109,7 @@
         "Wilmington"
     ],
     "name:und_x_variant":[
-        "Village of Pilox",
-        "Wilmington"
+        "Village of Pilox"
     ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0644\u0645\u06cc\u0646\u06af\u0679\u0646"
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1293184451,
-    "wof:lastmodified":1564151186,
+    "wof:lastmodified":1566724625,
     "wof:name":"Wilmington",
     "wof:parent_id":85672615,
     "wof:placetype":"locality",

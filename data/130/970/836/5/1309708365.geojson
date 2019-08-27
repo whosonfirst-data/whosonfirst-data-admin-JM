@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-76.73126,17.99414,-76.69126,18.03414",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Constitution Hill"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1309708365,
-    "wof:lastmodified":1564151498,
+    "wof:lastmodified":1566724658,
     "wof:name":"Constitution Hill",
     "wof:parent_id":85672609,
     "wof:placetype":"locality",

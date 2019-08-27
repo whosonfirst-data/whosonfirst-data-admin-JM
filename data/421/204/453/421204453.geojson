@@ -10,8 +10,12 @@
     "geom:latitude":18.40322,
     "geom:longitude":-77.05582,
     "iso:country":"JM",
+    "lbl:bbox":"-77.07582,18.38322,-77.03582,18.42322",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bar_x_preferred":[
         "Prospect"
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":3488957,
         "gp:id":109735,
-        "qs:id":240941
+        "qs_pg:id":240941
     },
     "wof:country":"JM",
     "wof:created":1459010186,
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421204453,
-    "wof:lastmodified":1564151530,
+    "wof:lastmodified":1566724661,
     "wof:name":"Prospect",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

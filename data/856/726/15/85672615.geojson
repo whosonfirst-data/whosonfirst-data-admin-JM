@@ -24,6 +24,7 @@
     ],
     "lbl:latitude":17.955431,
     "lbl:longitude":-76.472843,
+    "lbl:min_zoom":8.0,
     "mps:latitude":17.951128,
     "mps:longitude":-76.470661,
     "mz:hierarchy_label":1,
@@ -141,7 +142,7 @@
         "Parish of Saint Thomas"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd   \u0ba4\u0bbe\u0bae\u0bb8\u0bcd  \u0baa\u0bbe\u0bb0\u0bbf\u0bb8\u0bcd"
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd  \u0ba4\u0bbe\u0bae\u0bb8\u0bcd \u0baa\u0bbe\u0bb0\u0bbf\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c25\u0c3e\u0c2e\u0c38\u0c4d \u0c2a\u0c3e\u0c30\u0c3f\u0c37\u0c4d"
@@ -154,9 +155,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0440\u0430\u0444\u0456\u044f \u0421\u0435\u043d\u0442-\u0422\u043e\u043c\u0430\u0441"
-    ],
-    "name:unk_x_variant":[
-        "Saint Thomas Parish"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679 \u062a\u06be\u0627\u0645\u0633 \u067e\u06cc\u0631\u0634\u060c \u062c\u0645\u06cc\u06a9\u0627"
@@ -242,9 +240,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-04-04",
+    "src:population_date":"2011-04-04",
     "statoids:area_km":"743",
     "statoids:area_mi":"287",
     "statoids:as_of_date":"2011-04-04",
@@ -270,7 +268,7 @@
         "gp:id":2345922,
         "hasc:id":"JM.ST",
         "iso:id":"JM-03",
-        "qs:id":235603,
+        "qs_pg:id":235603,
         "unlc:id":"JM-03",
         "wd:id":"Q1422332",
         "wk:page":"Saint Thomas Parish, Jamaica"
@@ -291,11 +289,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565724452,
+    "wof:lastmodified":1566724617,
     "wof:name":"Saint Thomas",
     "wof:parent_id":85632215,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"parish",
     "wof:population":93902,
     "wof:population_rank":8,

@@ -11,10 +11,14 @@
     "geom:longitude":-78.15469,
     "gn:country":"JM",
     "gn:fcode":"PPL",
-    "gn:pop":993,
+    "gn:population":993,
     "iso:country":"JM",
+    "lbl:bbox":"-78.17469,18.27407,-78.13469,18.31407",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Frome"
     ],
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":3490390,
         "gp:id":108924,
-        "qs:id":95698,
+        "qs_pg:id":95698,
         "wd:id":"Q5505729",
         "wk:page":"Frome"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890429179,
-    "wof:lastmodified":1561775168,
+    "wof:lastmodified":1566724665,
     "wof:name":"Frome",
     "wof:parent_id":85672583,
     "wof:placetype":"locality",

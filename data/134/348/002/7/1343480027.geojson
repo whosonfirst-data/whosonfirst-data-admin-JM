@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-77.23667,18.39667,-77.19667,18.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Sussex"
     ],
@@ -176,7 +180,7 @@
         }
     ],
     "wof:id":1343480027,
-    "wof:lastmodified":1564151085,
+    "wof:lastmodified":1566724607,
     "wof:name":"Sussex",
     "wof:parent_id":85672599,
     "wof:placetype":"locality",

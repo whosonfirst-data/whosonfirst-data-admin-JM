@@ -12,6 +12,8 @@
     "iso:country":"JM",
     "lbl:latitude":17.971462,
     "lbl:longitude":-76.792778,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -527,9 +529,11 @@
     "wof:concordances":{
         "gn:id":3489854,
         "gp:id":109251,
-        "qs:id":1072260,
         "qs_pg:id":1045251,
         "wd:id":"Q34692"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1072260
     },
     "wof:country":"JM",
     "wof:created":1459009483,
@@ -543,7 +547,7 @@
         }
     ],
     "wof:id":421186515,
-    "wof:lastmodified":1563278439,
+    "wof:lastmodified":1566724662,
     "wof:name":"Kingston",
     "wof:parent_id":85672609,
     "wof:placetype":"locality",

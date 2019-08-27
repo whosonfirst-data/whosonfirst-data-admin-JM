@@ -10,8 +10,12 @@
     "geom:latitude":17.97291,
     "geom:longitude":-77.70108,
     "iso:country":"JM",
+    "lbl:bbox":"-77.72108,17.95291,-77.68108,17.99291",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Malvern"
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3489603,
         "gp:id":109377,
-        "qs:id":1201472,
+        "qs_pg:id":1201472,
         "wd:id":"Q6745042"
     },
     "wof:country":"JM",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421198491,
-    "wof:lastmodified":1561775165,
+    "wof:lastmodified":1566724663,
     "wof:name":"Malvern",
     "wof:parent_id":85672569,
     "wof:placetype":"locality",

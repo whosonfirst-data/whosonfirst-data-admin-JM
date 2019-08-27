@@ -5,13 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.91667,17.95,-76.91667,17.95",
     "geom:latitude":17.95,
     "geom:longitude":-76.91667,
     "iso:country":"JM",
+    "lbl:bbox":"-76.93667,17.93,-76.89667,17.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Goshen"
     ],
     "qs:gn_country":"JM",
@@ -42,7 +48,7 @@
     "wof:concordances":{
         "gn:id":3490290,
         "gp:id":108992,
-        "qs:id":1321636
+        "qs_pg:id":1321636
     },
     "wof:country":"JM",
     "wof:created":1459009904,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":421197151,
-    "wof:lastmodified":1501267345,
+    "wof:lastmodified":1566724663,
     "wof:name":"Goshen Pen",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",

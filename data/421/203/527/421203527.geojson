@@ -10,8 +10,12 @@
     "geom:latitude":18.46667,
     "geom:longitude":-77.5,
     "iso:country":"JM",
+    "lbl:bbox":"-77.52,18.44667,-77.48,18.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Braco"
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":3491254,
         "gp:id":108425,
-        "qs:id":232924
+        "qs_pg:id":232924
     },
     "wof:country":"JM",
     "wof:created":1459010155,
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421203527,
-    "wof:lastmodified":1564151531,
+    "wof:lastmodified":1566724661,
     "wof:name":"Braco",
     "wof:parent_id":85672579,
     "wof:placetype":"locality",

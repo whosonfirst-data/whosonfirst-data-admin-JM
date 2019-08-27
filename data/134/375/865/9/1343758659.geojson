@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-77.12,18.34667,-77.08,18.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u043e\u043d\u043f\u0435\u043b\u0438\u0435"
     ],
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":1343758659,
-    "wof:lastmodified":1564151132,
+    "wof:lastmodified":1566724612,
     "wof:name":"Montpelier",
     "wof:parent_id":85672599,
     "wof:placetype":"locality",

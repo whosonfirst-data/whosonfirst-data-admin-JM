@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.2,18.45,-78.2,18.45",
     "geom:latitude":18.45,
     "geom:longitude":-78.2,
     "iso:country":"JM",
+    "lbl:bbox":"-78.22,18.43,-78.18,18.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"JM",
     "qs:gn_fcode":"PPL",
@@ -39,11 +45,11 @@
     "wof:concordances":{
         "gn:id":3489189,
         "gp:id":109610,
-        "qs:id":982625
+        "qs_pg:id":982625
     },
     "wof:country":"JM",
     "wof:created":1459009376,
-    "wof:geomhash":"4f3bba41812c256e21d96a92765f37be",
+    "wof:geomhash":"fdf91307179b7442ef404336e418307a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":421183619,
-    "wof:lastmodified":1466635857,
+    "wof:lastmodified":1566724664,
     "wof:name":"Orange Cove",
     "wof:parent_id":85672563,
     "wof:placetype":"locality",

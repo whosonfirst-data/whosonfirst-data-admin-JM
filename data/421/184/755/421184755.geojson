@@ -10,8 +10,12 @@
     "geom:latitude":18.03333,
     "geom:longitude":-76.75,
     "iso:country":"JM",
+    "lbl:bbox":"-76.77,18.01333,-76.73,18.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Hoop"
@@ -196,7 +200,7 @@
     "name:ukr_x_preferred":[
         "\u043d\u0430\u0434\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hope Gardens"
     ],
     "name:urd_x_preferred":[
@@ -237,7 +241,7 @@
     "wof:concordances":{
         "gn:id":3490036,
         "gp:id":109136,
-        "qs:id":1007606,
+        "qs_pg:id":1007606,
         "wd:id":"Q190507"
     },
     "wof:country":"JM",
@@ -252,7 +256,7 @@
         }
     ],
     "wof:id":421184755,
-    "wof:lastmodified":1563278456,
+    "wof:lastmodified":1566724664,
     "wof:name":"Hope",
     "wof:parent_id":85672609,
     "wof:placetype":"locality",

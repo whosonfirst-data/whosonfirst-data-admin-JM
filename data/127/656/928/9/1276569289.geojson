@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-76.97,18.08,-76.93,18.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jam_x_preferred":[
         "Slaigovil"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276569289,
-    "wof:lastmodified":1564151242,
+    "wof:lastmodified":1566724632,
     "wof:name":"Sligoville",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",

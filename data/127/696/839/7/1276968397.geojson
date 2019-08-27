@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-77.05182,18.1266,-77.01182,18.1666",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Vanity Fair"
     ],
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":1276968397,
-    "wof:lastmodified":1564151281,
+    "wof:lastmodified":1566724636,
     "wof:name":"Vanity Fair",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",

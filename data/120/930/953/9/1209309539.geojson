@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-76.98772,18.18877,-76.94772,18.22877",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rio Magno Gully"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209309539,
-    "wof:lastmodified":1564151306,
+    "wof:lastmodified":1566724638,
     "wof:name":"Rio Magno",
     "wof:parent_id":85632215,
     "wof:placetype":"locality",

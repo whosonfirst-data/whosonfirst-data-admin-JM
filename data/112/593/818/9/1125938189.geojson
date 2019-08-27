@@ -9,15 +9,18 @@
     "geom:bbox":"-76.40927,17.88145,-76.40927,17.88145",
     "geom:latitude":17.88145,
     "geom:longitude":-76.40927,
-    "gn:gn_country":"JM",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":9368,
+    "gn:country":"JM",
+    "gn:fcode":"PPLA",
     "gn:population":9368,
     "iso:country":"JM",
+    "lbl:bbox":"-76.42927,17.86145,-76.38927,17.90145",
     "lbl:latitude":17.88145,
     "lbl:longitude":-76.40927,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Morant Bay"
@@ -61,7 +64,7 @@
     "name:swe_x_preferred":[
         "Morant Bay"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Morant"
     ],
     "name:urd_x_preferred":[
@@ -82,7 +85,7 @@
     "qs_pg:qs_id":1045253,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1125938189,
-    "wof:lastmodified":1563278475,
+    "wof:lastmodified":1566724666,
     "wof:name":"Morant Bay",
     "wof:parent_id":85672615,
     "wof:placetype":"locality",

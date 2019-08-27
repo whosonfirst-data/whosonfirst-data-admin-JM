@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-77.18385,18.04878,-77.14385,18.08878",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Connors"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1226560233,
-    "wof:lastmodified":1564151706,
+    "wof:lastmodified":1566724684,
     "wof:name":"Connors",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",

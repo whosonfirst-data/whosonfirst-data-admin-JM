@@ -11,8 +11,11 @@
     "geom:longitude":-76.46121,
     "gn:country":"JM",
     "gn:fcode":"PPLA",
-    "gn:pop":14400,
+    "gn:population":14400,
     "iso:country":"JM",
+    "lbl:bbox":"-76.48121,18.15998,-76.44121,18.19998",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -70,7 +73,7 @@
     "name:swe_x_preferred":[
         "Port Antonio"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saint Francois"
     ],
     "name:urd_x_preferred":[
@@ -191,10 +194,12 @@
     "wof:concordances":{
         "gn:id":3489005,
         "gp:id":109710,
-        "qs:id":1045236,
         "qs_pg:id":446365,
         "wd:id":"Q162782",
         "wk:page":"Port Antonio"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1045236
     },
     "wof:country":"JM",
     "wof:created":1469052069,
@@ -208,7 +213,7 @@
         }
     ],
     "wof:id":890435481,
-    "wof:lastmodified":1563278474,
+    "wof:lastmodified":1566724666,
     "wof:name":"Port Antonio",
     "wof:parent_id":85672591,
     "wof:placetype":"locality",

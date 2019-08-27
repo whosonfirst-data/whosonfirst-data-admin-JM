@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-76.36452,17.84951,-76.32452,17.88951",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Prospect"
     ],
@@ -78,8 +82,7 @@
         "\u041f\u0440\u043e\u0441\u043f\u0435\u043a\u0442"
     ],
     "name:und_x_variant":[
-        "East Prospect",
-        "Prospect"
+        "East Prospect"
     ],
     "name:vol_x_preferred":[
         "Prospect"
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1293275779,
-    "wof:lastmodified":1564151188,
+    "wof:lastmodified":1566724625,
     "wof:name":"Prospect",
     "wof:parent_id":85672615,
     "wof:placetype":"locality",

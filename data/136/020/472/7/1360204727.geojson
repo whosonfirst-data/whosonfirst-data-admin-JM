@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-76.8174,18.01656,-76.7774,18.05656",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1360204727,
-    "wof:lastmodified":1536773784,
+    "wof:lastmodified":1566724656,
     "wof:name":"Mary Browns Corner",
     "wof:parent_id":85672609,
     "wof:placetype":"locality",

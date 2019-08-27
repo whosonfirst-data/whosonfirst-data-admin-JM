@@ -10,8 +10,12 @@
     "geom:latitude":18.29434,
     "geom:longitude":-77.54239,
     "iso:country":"JM",
+    "lbl:bbox":"-77.56239,18.27434,-77.52239,18.31434",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Albert Town"
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3491602,
         "gp:id":108216,
-        "qs:id":1045272,
+        "qs_pg:id":1045272,
         "wd:id":"Q4711348",
         "wk:page":"Albert Town, Jamaica"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421176189,
-    "wof:lastmodified":1563278463,
+    "wof:lastmodified":1566724665,
     "wof:name":"Albert Town",
     "wof:parent_id":85672579,
     "wof:placetype":"locality",

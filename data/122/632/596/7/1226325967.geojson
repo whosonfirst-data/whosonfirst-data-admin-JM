@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-76.40772,17.93007,-76.36772,17.97007",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sunning",
         "Sunning Hill"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226325967,
-    "wof:lastmodified":1537649729,
+    "wof:lastmodified":1566724684,
     "wof:name":"Sunning Hill",
     "wof:parent_id":85672615,
     "wof:placetype":"locality",

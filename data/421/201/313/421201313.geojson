@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.81667,18.51667,-77.81667,18.51667",
     "geom:latitude":18.51667,
     "geom:longitude":-77.81667,
     "iso:country":"JM",
+    "lbl:bbox":"-77.83667,18.49667,-77.79667,18.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"JM",
     "qs:gn_fcode":"PPL",
@@ -39,11 +45,11 @@
     "wof:concordances":{
         "gn:id":3490960,
         "gp:id":108606,
-        "qs:id":211091
+        "qs_pg:id":211091
     },
     "wof:country":"JM",
     "wof:created":1459010068,
-    "wof:geomhash":"0ed8ee0fc0aebbc24c78d34fb141cbf2",
+    "wof:geomhash":"1c73072809350afa1b1315896f8ad53e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":421201313,
-    "wof:lastmodified":1466635892,
+    "wof:lastmodified":1566724664,
     "wof:name":"Cinnamon Hill",
     "wof:parent_id":85672573,
     "wof:placetype":"locality",

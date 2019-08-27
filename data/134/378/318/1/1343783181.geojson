@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-76.50045,18.16088,-76.46045,18.20088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stony Hill"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343783181,
-    "wof:lastmodified":1564151098,
+    "wof:lastmodified":1566724608,
     "wof:name":"Stony Hill",
     "wof:parent_id":85672591,
     "wof:placetype":"locality",

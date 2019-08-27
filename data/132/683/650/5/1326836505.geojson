@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-77.60333,18.04667,-77.56333,18.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mount Prospect"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326836505,
-    "wof:lastmodified":1564151030,
+    "wof:lastmodified":1566724602,
     "wof:name":"Mount Prospect",
     "wof:parent_id":85672567,
     "wof:placetype":"locality",

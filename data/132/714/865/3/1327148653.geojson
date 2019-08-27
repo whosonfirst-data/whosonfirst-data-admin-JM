@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-77.30333,17.81333,-77.26333,17.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:gle_x_preferred":[
         "Gobharaidh"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327148653,
-    "wof:lastmodified":1564151002,
+    "wof:lastmodified":1566724599,
     "wof:name":"Gowrie",
     "wof:parent_id":85672559,
     "wof:placetype":"locality",

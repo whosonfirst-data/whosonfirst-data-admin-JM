@@ -11,10 +11,14 @@
     "geom:longitude":-76.76523,
     "gn:country":"JM",
     "gn:fcode":"PPL",
-    "gn:pop":5504,
+    "gn:population":5504,
     "iso:country":"JM",
+    "lbl:bbox":"-76.78523,18.2517,-76.74523,18.2917",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Annotto Bay"
     ],
@@ -30,7 +34,7 @@
     "name:pol_x_preferred":[
         "Annotto Bay"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Annotta Bay"
     ],
     "name:zho_x_preferred":[
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":3491556,
         "gp:id":108245,
-        "qs:id":95699,
+        "qs_pg:id":95699,
         "wd:id":"Q567350",
         "wk:page":"Annotto Bay"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890429181,
-    "wof:lastmodified":1563278470,
+    "wof:lastmodified":1566724665,
     "wof:name":"Annotto Bay",
     "wof:parent_id":85672605,
     "wof:placetype":"locality",

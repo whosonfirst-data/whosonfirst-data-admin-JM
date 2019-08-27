@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-77.81318,18.42675,-77.77318,18.46675",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Adelphi"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1310581383,
-    "wof:lastmodified":1564151464,
+    "wof:lastmodified":1566724654,
     "wof:name":"Adelphi",
     "wof:parent_id":85672573,
     "wof:placetype":"locality",

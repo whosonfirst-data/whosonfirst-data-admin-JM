@@ -12,8 +12,10 @@
     "gn:latitude":17.98886,
     "gn:longitude":-76.79873,
     "iso:country":"JM",
+    "lbl:bbox":"-76.80874,17.968764,-76.79874,17.978764",
     "lbl:latitude":17.973764,
     "lbl:longitude":-76.80374,
+    "lbl:max_zoom":18.0,
     "mps:latitude":17.969117,
     "mps:longitude":-76.811627,
     "mz:hierarchy_label":0,
@@ -64,9 +66,6 @@
     "name:swe_x_preferred":[
         "Trenchtown"
     ],
-    "name:unk_x_variant":[
-        "Trench Town"
-    ],
     "name:zho_x_preferred":[
         "Jones Town"
     ],
@@ -97,11 +96,10 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":17.984889,
     "wd:longitude":-76.79675,
     "wd:wordcount":1090,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191575,
         85632215,
@@ -111,7 +109,6 @@
     "wof:concordances":{
         "gn:id":3488221,
         "gp:id":110159,
-        "qs:id":1165141,
         "qs_pg:id":1165141,
         "wd:id":"Q1753236"
     },
@@ -130,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563278061,
+    "wof:lastmodified":1566724614,
     "wof:name":"Trench Town",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

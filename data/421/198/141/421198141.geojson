@@ -10,8 +10,11 @@
     "geom:latitude":18.01667,
     "geom:longitude":-76.83333,
     "iso:country":"JM",
+    "lbl:bbox":"-76.83833,18.01167,-76.82833,18.02167",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"JM",
     "qs:gn_fcode":"PPLX",
@@ -41,7 +44,7 @@
     "wof:concordances":{
         "gn:id":3489207,
         "gp:id":109604,
-        "qs:id":1189332
+        "qs_pg:id":1189332
     },
     "wof:country":"JM",
     "wof:created":1459009938,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":421198141,
-    "wof:lastmodified":1531858757,
+    "wof:lastmodified":1566724663,
     "wof:name":"Olympic Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

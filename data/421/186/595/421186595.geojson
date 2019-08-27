@@ -11,10 +11,14 @@
     "geom:longitude":-76.897001,
     "gn:country":"JM",
     "gn:fcode":"PPLA",
-    "gn:pop":7906,
+    "gn:population":7906,
     "iso:country":"JM",
+    "lbl:bbox":"-76.917001,18.357985,-76.877001,18.397985",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u062a \u0645\u0627\u0631\u064a\u0627"
@@ -108,13 +112,13 @@
     "wof:concordances":{
         "gn:id":3488985,
         "gp:id":109715,
-        "qs:id":1074077,
+        "qs_pg:id":1074077,
         "wd:id":"Q265115",
         "wk:page":"Port Maria"
     },
     "wof:concordances_alt":{
         "gp:id":108925,
-        "qs:id":1045235
+        "qs_pg:id":1045235
     },
     "wof:country":"JM",
     "wof:created":1459009485,
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":421186595,
-    "wof:lastmodified":1563278438,
+    "wof:lastmodified":1566724662,
     "wof:name":"Port Maria",
     "wof:parent_id":85672605,
     "wof:placetype":"locality",

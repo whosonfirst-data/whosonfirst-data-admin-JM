@@ -10,10 +10,14 @@
     "geom:latitude":18.35653,
     "geom:longitude":-78.09524,
     "iso:country":"JM",
+    "lbl:bbox":"-78.11524,18.33653,-78.07524,18.37653",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Penny Cooks"
     ],
     "qs:gn_country":"JM",
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":3489074,
         "gp:id":109669,
-        "qs:id":982631
+        "qs_pg:id":982631
     },
     "wof:country":"JM",
     "wof:created":1459009071,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421175545,
-    "wof:lastmodified":1501267338,
+    "wof:lastmodified":1566724663,
     "wof:name":"Pennycooke",
     "wof:parent_id":85672583,
     "wof:placetype":"locality",

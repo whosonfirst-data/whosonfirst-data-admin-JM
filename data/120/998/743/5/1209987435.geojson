@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-76.60333,17.88,-76.56333,17.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Edinburg-kasteel"
     ],
@@ -173,7 +177,7 @@
         }
     ],
     "wof:id":1209987435,
-    "wof:lastmodified":1564151296,
+    "wof:lastmodified":1566724638,
     "wof:name":"Edinburgh Castle",
     "wof:parent_id":85672615,
     "wof:placetype":"locality",

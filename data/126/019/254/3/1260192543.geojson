@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-77.29405,17.92394,-77.25405,17.96394",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "York"
     ],
@@ -305,7 +309,7 @@
         }
     ],
     "wof:id":1260192543,
-    "wof:lastmodified":1564151418,
+    "wof:lastmodified":1566724649,
     "wof:name":"York",
     "wof:parent_id":85672559,
     "wof:placetype":"locality",
