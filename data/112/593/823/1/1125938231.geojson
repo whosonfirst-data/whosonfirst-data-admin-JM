@@ -9,15 +9,18 @@
     "geom:bbox":"-77.93166,18.4103,-77.93166,18.4103",
     "geom:latitude":18.4103,
     "geom:longitude":-77.93166,
-    "gn:gn_country":"JM",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4161,
+    "gn:country":"JM",
+    "gn:fcode":"PPL",
     "gn:population":4161,
     "iso:country":"JM",
+    "lbl:bbox":"-77.95166,18.3903,-77.91166,18.4303",
     "lbl:latitude":18.4103,
     "lbl:longitude":-77.93166,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0410\u043d\u0447\u043e\u0432\u0439"
@@ -46,7 +49,7 @@
     "name:swe_x_preferred":[
         "Anchovy"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Anchovy Station"
     ],
     "name:zho_x_preferred":[
@@ -64,7 +67,7 @@
     "qs_pg:qs_id":1045269,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125938231,
-    "wof:lastmodified":1563278477,
+    "wof:lastmodified":1566724666,
     "wof:name":"Anchovy",
     "wof:parent_id":85672573,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-78.18258,18.40564,-78.14258,18.44564",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0406\u0442\u0430\u043d"
     ],
@@ -84,8 +88,7 @@
         "\u0406\u0442\u043e\u043d"
     ],
     "name:und_x_variant":[
-        "Eton",
-        "Eaton"
+        "Eton"
     ],
     "name:vol_x_preferred":[
         "Eaton"
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1276666509,
-    "wof:lastmodified":1564151249,
+    "wof:lastmodified":1566724633,
     "wof:name":"Eaton",
     "wof:parent_id":85672563,
     "wof:placetype":"locality",

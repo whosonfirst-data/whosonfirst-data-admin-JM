@@ -10,8 +10,12 @@
     "geom:latitude":18.075,
     "geom:longitude":-77.75478,
     "iso:country":"JM",
+    "lbl:bbox":"-77.77478,18.055,-77.73478,18.095",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Lacovia"
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3489829,
         "gp:id":109268,
-        "qs:id":214254,
+        "qs_pg:id":214254,
         "wd:id":"Q6468826",
         "wk:page":"Lacovia"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421201759,
-    "wof:lastmodified":1563278455,
+    "wof:lastmodified":1566724664,
     "wof:name":"Lacovia",
     "wof:parent_id":85672569,
     "wof:placetype":"locality",

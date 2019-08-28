@@ -10,8 +10,12 @@
     "geom:latitude":17.90918,
     "geom:longitude":-77.09718,
     "iso:country":"JM",
+    "lbl:bbox":"-77.11718,17.88918,-77.07718,17.92918",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Old Harbour Bay"
@@ -31,7 +35,7 @@
     "name:swe_x_preferred":[
         "Old Harbour Bay"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Old Harbor"
     ],
     "qs:gn_country":"JM",
@@ -67,9 +71,11 @@
     "wof:concordances":{
         "gn:id":3489227,
         "gp:id":109594,
-        "qs:id":1045243,
-        "qs_pg:id":1045244,
+        "qs_pg:id":1045243,
         "wd:id":"Q2018373"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1045244
     },
     "wof:country":"JM",
     "wof:created":1459008758,
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":421168223,
-    "wof:lastmodified":1563278418,
+    "wof:lastmodified":1566724660,
     "wof:name":"Old Harbour Bay",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",

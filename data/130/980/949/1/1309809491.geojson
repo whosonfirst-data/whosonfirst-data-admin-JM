@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-77.53076,18.00603,-77.49076,18.04603",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Perth"
     ],
@@ -386,7 +390,7 @@
         }
     ],
     "wof:id":1309809491,
-    "wof:lastmodified":1564151514,
+    "wof:lastmodified":1566724659,
     "wof:name":"Perth",
     "wof:parent_id":85672567,
     "wof:placetype":"locality",

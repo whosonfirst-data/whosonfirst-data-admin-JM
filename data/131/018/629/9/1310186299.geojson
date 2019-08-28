@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-77.93458,18.14139,-77.89458,18.18139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0646\u06cc\u0648\u0645\u0627\u0631\u06a9\u062a"
     ],
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":1310186299,
-    "wof:lastmodified":1564151443,
+    "wof:lastmodified":1566724652,
     "wof:name":"Newmarket",
     "wof:parent_id":85672569,
     "wof:placetype":"locality",

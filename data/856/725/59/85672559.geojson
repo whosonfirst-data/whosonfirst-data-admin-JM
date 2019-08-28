@@ -24,6 +24,7 @@
     ],
     "lbl:latitude":17.994145,
     "lbl:longitude":-77.276512,
+    "lbl:min_zoom":8.0,
     "mps:latitude":18.003975,
     "mps:longitude":-77.280576,
     "mz:hierarchy_label":1,
@@ -153,7 +154,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0440\u0430\u0444\u0456\u044f \u041a\u043b\u0430\u0440\u0435\u043d\u0434\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Parish of Clarendon"
     ],
     "name:urd_x_preferred":[
@@ -237,9 +238,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-04-04",
+    "src:population_date":"2011-04-04",
     "statoids:area_km":"1,196",
     "statoids:area_mi":"462",
     "statoids:as_of_date":"2011-04-04",
@@ -265,7 +266,7 @@
         "gp:id":2345912,
         "hasc:id":"JM.CL",
         "iso:id":"JM-13",
-        "qs:id":221175,
+        "qs_pg:id":221175,
         "unlc:id":"JM-13",
         "wd:id":"Q1095557",
         "wk:page":"Clarendon Parish, Jamaica"
@@ -286,11 +287,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565724449,
+    "wof:lastmodified":1566724614,
     "wof:name":"Clarendon",
     "wof:parent_id":85632215,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"parish",
     "wof:population":245103,
     "wof:population_rank":10,

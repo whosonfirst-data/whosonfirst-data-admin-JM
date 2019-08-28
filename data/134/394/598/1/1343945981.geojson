@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-77.93105,18.02172,-77.89105,18.06172",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0440\u043e\u045e\u0444\u0430\u0440\u0434"
     ],
@@ -99,8 +103,7 @@
         "\u041a\u0440\u043e\u0443\u0444\u043e\u0440\u0434"
     ],
     "name:und_x_variant":[
-        "Crawfords",
-        "Crawford"
+        "Crawfords"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0631\u0627\u0641\u0648\u0631\u0688"
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1343945981,
-    "wof:lastmodified":1564151114,
+    "wof:lastmodified":1566724610,
     "wof:name":"Crawford",
     "wof:parent_id":85672569,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-78.07437,18.42772,-78.03437,18.46772",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "St\u00ear Flint"
     ],
@@ -39,8 +43,7 @@
         "Flint River"
     ],
     "name:und_x_variant":[
-        "Flint River House",
-        "Flint River"
+        "Flint River House"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1225848237,
-    "wof:lastmodified":1564151758,
+    "wof:lastmodified":1566724688,
     "wof:name":"Flint River",
     "wof:parent_id":85672563,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-77.41645,18.18518,-77.37645,18.22518",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Renon Town",
         "Aenon Town"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343651231,
-    "wof:lastmodified":1537649761,
+    "wof:lastmodified":1566724604,
     "wof:name":"Aenon Town",
     "wof:parent_id":85672559,
     "wof:placetype":"locality",

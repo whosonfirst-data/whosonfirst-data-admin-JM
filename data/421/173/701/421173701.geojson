@@ -10,8 +10,12 @@
     "geom:latitude":18.36436,
     "geom:longitude":-76.90693,
     "iso:country":"JM",
+    "lbl:bbox":"-76.92693,18.34436,-76.88693,18.38436",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Drie-eenheid"
@@ -317,7 +321,7 @@
     "wof:concordances":{
         "gn:id":3488218,
         "gp:id":110162,
-        "qs:id":297025
+        "qs_pg:id":297025
     },
     "wof:country":"JM",
     "wof:created":1459009000,
@@ -331,7 +335,7 @@
         }
     ],
     "wof:id":421173701,
-    "wof:lastmodified":1564151533,
+    "wof:lastmodified":1566724662,
     "wof:name":"Trinity",
     "wof:parent_id":85672605,
     "wof:placetype":"locality",

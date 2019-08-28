@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-77.03667,18.38,-76.99667,18.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Huddersfield",
         "Haddersfield"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260377139,
-    "wof:lastmodified":1537649745,
+    "wof:lastmodified":1566724648,
     "wof:name":"Haddersfield",
     "wof:parent_id":85672605,
     "wof:placetype":"locality",

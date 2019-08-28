@@ -10,8 +10,12 @@
     "geom:latitude":18.10205,
     "geom:longitude":-77.00541,
     "iso:country":"JM",
+    "lbl:bbox":"-77.02541,18.08205,-76.98541,18.12205",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Bog Walk"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3491293,
         "gp:id":108403,
-        "qs:id":1116230,
+        "qs_pg:id":1116230,
         "wd:id":"Q890358",
         "wk:page":"Bog Walk"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421177195,
-    "wof:lastmodified":1563278456,
+    "wof:lastmodified":1566724664,
     "wof:name":"Bog Walk",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",

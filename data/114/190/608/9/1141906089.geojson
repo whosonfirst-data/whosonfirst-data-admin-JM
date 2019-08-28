@@ -10,10 +10,14 @@
     "geom:latitude":18.442998,
     "geom:longitude":-78.179004,
     "iso:country":"JM",
+    "lbl:bbox":"-78.1990036163,18.4229980854,-78.1590036163,18.4629980854",
     "lbl:latitude":18.442998,
     "lbl:longitude":-78.179004,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u0633\u064a\u0627\u060c \u062c\u0627\u0645\u0627\u064a\u0643\u0627"
     ],
@@ -194,7 +198,7 @@
         }
     ],
     "wof:id":1141906089,
-    "wof:lastmodified":1563278677,
+    "wof:lastmodified":1566724689,
     "wof:name":"Lucea",
     "wof:parent_id":85672563,
     "wof:placetype":"locality",

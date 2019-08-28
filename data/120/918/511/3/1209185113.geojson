@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-76.62367,17.86559,-76.58367,17.90559",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Albion"
     ],
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":1209185113,
-    "wof:lastmodified":1564151351,
+    "wof:lastmodified":1566724643,
     "wof:name":"Albion",
     "wof:parent_id":85632215,
     "wof:placetype":"locality",

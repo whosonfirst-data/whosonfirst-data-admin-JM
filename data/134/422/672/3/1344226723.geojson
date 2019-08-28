@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-78.136,18.29932,-78.096,18.33932",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mount Grace"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344226723,
-    "wof:lastmodified":1564151071,
+    "wof:lastmodified":1566724606,
     "wof:name":"Mount Grace",
     "wof:parent_id":85672583,
     "wof:placetype":"locality",

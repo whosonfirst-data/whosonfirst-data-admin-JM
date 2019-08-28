@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-76.96938,18.24907,-76.92938,18.28907",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632215
@@ -35,7 +39,7 @@
         "gn:id":3491009
     },
     "wof:country":"JM",
-    "wof:geomhash":"e6f794843d5343e7f17b0e5d676b2e86",
+    "wof:geomhash":"cdde52bc2f72143e7e38447999cb20ea",
     "wof:hierarchy":[
         {
             "country_id":85632215,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209494607,
-    "wof:lastmodified":1536285376,
+    "wof:lastmodified":1566724640,
     "wof:name":"Change Hill",
     "wof:parent_id":85632215,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -76.94938,
-    18.269070000000006,
+    18.26907000000001,
     -76.94938,
-    18.269070000000006
+    18.26907000000001
 ],
   "geometry": {"coordinates":[-76.94938,18.26907000000001],"type":"Point"}
 }

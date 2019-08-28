@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-78.12245,18.3535,-78.08245,18.3935",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0648\u06a9\u0633\u062a\u0648\u0646"
     ],
@@ -87,8 +91,7 @@
         "Buxton"
     ],
     "name:und_x_variant":[
-        "Boxton",
-        "Buxton"
+        "Boxton"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u514b\u65af\u9813"
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1243567399,
-    "wof:lastmodified":1564151597,
+    "wof:lastmodified":1566724672,
     "wof:name":"Buxton",
     "wof:parent_id":85672563,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":18.20783,
     "geom:longitude":-77.50754,
     "iso:country":"JM",
+    "lbl:bbox":"-77.52754,18.18783,-77.48754,18.22783",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Coleyville"
@@ -50,7 +54,7 @@
     "wof:concordances":{
         "gn:id":3490899,
         "gp:id":108643,
-        "qs:id":1201395,
+        "qs_pg:id":1201395,
         "wd:id":"Q5144732"
     },
     "wof:country":"JM",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":421198467,
-    "wof:lastmodified":1563278442,
+    "wof:lastmodified":1566724663,
     "wof:name":"Coleyville",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-77.69836,
     "gn:country":"JM",
     "gn:fcode":"PPL",
-    "gn:pop":8217,
+    "gn:population":8217,
     "iso:country":"JM",
+    "lbl:bbox":"-77.71836,18.03336,-77.67836,18.07336",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Santa Cruz"
     ],
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":3488620,
         "gp:id":109907,
-        "qs:id":95688,
+        "qs_pg:id":95688,
         "wd:id":"Q2222888",
         "wk:page":"Santa Cruz"
     },
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":890420429,
-    "wof:lastmodified":1563278472,
+    "wof:lastmodified":1566724665,
     "wof:name":"Santa Cruz",
     "wof:parent_id":85672569,
     "wof:placetype":"locality",

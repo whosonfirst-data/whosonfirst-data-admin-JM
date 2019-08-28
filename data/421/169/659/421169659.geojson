@@ -5,13 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.74185,17.8777,-77.74185,17.8777",
     "geom:latitude":17.8777,
     "geom:longitude":-77.74185,
     "iso:country":"JM",
+    "lbl:bbox":"-77.76185,17.8577,-77.72185,17.8977",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pedro"
     ],
     "qs:gn_country":"JM",
@@ -42,7 +48,7 @@
     "wof:concordances":{
         "gn:id":3489087,
         "gp:id":109662,
-        "qs:id":228580
+        "qs_pg:id":228580
     },
     "wof:country":"JM",
     "wof:created":1459008819,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":421169659,
-    "wof:lastmodified":1501267338,
+    "wof:lastmodified":1566724661,
     "wof:name":"Pedro Pen",
     "wof:parent_id":85672569,
     "wof:placetype":"locality",

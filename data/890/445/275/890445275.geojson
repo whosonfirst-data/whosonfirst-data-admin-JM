@@ -11,11 +11,14 @@
     "geom:longitude":-76.86918,
     "gn:country":"JM",
     "gn:fcode":"BLDG",
-    "gn:pop":3000000,
+    "gn:population":3000000,
     "iso:country":"JM",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":4.0,
     "qs:name":"Fitzroy's Elecctronics",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +33,7 @@
     "wof:concordances":{
         "gn:id":7932457,
         "gp:id":109650,
-        "qs:id":745778
+        "qs_pg:id":745778
     },
     "wof:country":"JM",
     "wof:created":1469052504,
@@ -44,7 +47,7 @@
         }
     ],
     "wof:id":890445275,
-    "wof:lastmodified":1505343604,
+    "wof:lastmodified":1566724666,
     "wof:name":"Fitzroy's Elecctronics",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",

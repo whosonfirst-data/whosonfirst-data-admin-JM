@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2274266.126577,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.799892,17.987387,-76.799892,17.987387",
     "geom:latitude":17.987387,
     "geom:longitude":-76.799892,
     "gn:latitude":17.98333,
     "gn:longitude":-76.8,
     "iso:country":"JM",
+    "lbl:bbox":"-76.804892,17.982387,-76.794892,17.992387",
     "lbl:latitude":17.987387,
     "lbl:longitude":-76.799892,
+    "lbl:max_zoom":18.0,
     "mps:latitude":17.990488,
     "mps:longitude":-76.8094,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Jones Town"
-    ],
-    "name:unk_x_variant":[
         "Jones Town"
     ],
     "qs:gn_adm0_cc":"JM",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":27,
     "wof:belongsto":[
         102191575,
@@ -69,7 +68,6 @@
     "wof:concordances":{
         "gn:id":3489901,
         "gp:id":109220,
-        "qs:id":1165132,
         "qs_pg:id":1165132
     },
     "wof:country":"JM",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531861442,
+    "wof:lastmodified":1566724614,
     "wof:name":"Jones Town",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

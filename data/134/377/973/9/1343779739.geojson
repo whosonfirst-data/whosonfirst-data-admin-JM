@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-77.374,17.86585,-77.334,17.90585",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rest"
     ],
@@ -43,8 +47,7 @@
     ],
     "name:und_x_variant":[
         "The Rest",
-        "Rest Store",
-        "Rest"
+        "Rest Store"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1343779739,
-    "wof:lastmodified":1564151084,
+    "wof:lastmodified":1566724607,
     "wof:name":"Rest",
     "wof:parent_id":85672559,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-77.6523,18.46188,-77.6123,18.50188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0630\u0627 \u0631\u0648\u0643"
     ],
@@ -88,8 +92,7 @@
     ],
     "name:und_x_variant":[
         "Rock",
-        "Oyster Bay",
-        "The Rock"
+        "Oyster Bay"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1326513013,
-    "wof:lastmodified":1564150989,
+    "wof:lastmodified":1566724597,
     "wof:name":"The Rock",
     "wof:parent_id":85672579,
     "wof:placetype":"locality",

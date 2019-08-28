@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-77.95333,18.08,-77.91333,18.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Tommy Bush"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1277047997,
-    "wof:lastmodified":1564151252,
+    "wof:lastmodified":1566724633,
     "wof:name":"Tommy Bush",
     "wof:parent_id":85672569,
     "wof:placetype":"locality",

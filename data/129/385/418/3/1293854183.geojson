@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-77.63667,18.43,-77.59667,18.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Roslin Castle"
     ],
@@ -40,8 +44,7 @@
         "Roslinin linna"
     ],
     "name:und_x_variant":[
-        "Roslin Caslin",
-        "Roslin Castle"
+        "Roslin Caslin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1293854183,
-    "wof:lastmodified":1564151166,
+    "wof:lastmodified":1566724621,
     "wof:name":"Roslin Castle",
     "wof:parent_id":85672579,
     "wof:placetype":"locality",

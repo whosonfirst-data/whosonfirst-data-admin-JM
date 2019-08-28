@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-76.39797,17.99447,-76.35797,18.03447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bowden Pen",
         "Four Feet"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293174669,
-    "wof:lastmodified":1537649748,
+    "wof:lastmodified":1566724626,
     "wof:name":"Four Feet",
     "wof:parent_id":85672615,
     "wof:placetype":"locality",

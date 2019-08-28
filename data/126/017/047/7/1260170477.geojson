@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-76.98704,18.07483,-76.94704,18.11483",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jackson's Village"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260170477,
-    "wof:lastmodified":1537649743,
+    "wof:lastmodified":1566724649,
     "wof:name":"Jackson Village",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-76.94018,18.21591,-76.90018,18.25591",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Essex"
     ],
@@ -262,7 +266,7 @@
         }
     ],
     "wof:id":1209082625,
-    "wof:lastmodified":1564151308,
+    "wof:lastmodified":1566724639,
     "wof:name":"Essex",
     "wof:parent_id":85632215,
     "wof:placetype":"locality",

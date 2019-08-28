@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-78.08853,18.2796,-78.04853,18.3196",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Fort William"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1259752789,
-    "wof:lastmodified":1564151675,
+    "wof:lastmodified":1566724681,
     "wof:name":"Fort William",
     "wof:parent_id":85672583,
     "wof:placetype":"locality",

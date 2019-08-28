@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-77.35557,17.86156,-77.31557,17.90156",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Priddie\u2019s",
         "Predies",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209619235,
-    "wof:lastmodified":1537649735,
+    "wof:lastmodified":1566724641,
     "wof:name":"Pridees",
     "wof:parent_id":85632215,
     "wof:placetype":"locality",

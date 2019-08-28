@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-77.37,18.26333,-77.33,18.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mlg_x_preferred":[
         "Tratrasoa"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276747851,
-    "wof:lastmodified":1564151233,
+    "wof:lastmodified":1566724631,
     "wof:name":"Welcome",
     "wof:parent_id":85672599,
     "wof:placetype":"locality",

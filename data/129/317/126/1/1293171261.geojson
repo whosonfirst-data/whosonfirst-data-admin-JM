@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-77.74388,18.40516,-77.70388,18.44516",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Phoenix"
     ],
@@ -162,8 +166,7 @@
         "Phoenix"
     ],
     "name:und_x_variant":[
-        "Phoenix Village",
-        "Phoenix"
+        "Phoenix Village"
     ],
     "name:urd_x_preferred":[
         "\u0641\u06cc\u0646\u06a9\u0633"
@@ -198,7 +201,7 @@
         }
     ],
     "wof:id":1293171261,
-    "wof:lastmodified":1564151199,
+    "wof:lastmodified":1566724626,
     "wof:name":"Phoenix",
     "wof:parent_id":85672579,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-76.57,18.11333,-76.53,18.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0412\u0430\u0440\u0448\u0430\u0432\u0430"
     ],
@@ -677,7 +681,7 @@
         }
     ],
     "wof:id":1260101455,
-    "wof:lastmodified":1564151415,
+    "wof:lastmodified":1566724649,
     "wof:name":"Warsaw",
     "wof:parent_id":85672591,
     "wof:placetype":"locality",

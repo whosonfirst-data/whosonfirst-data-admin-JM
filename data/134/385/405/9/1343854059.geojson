@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-77.39423,18.39305,-77.35423,18.43305",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Minard"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343854059,
-    "wof:lastmodified":1564151092,
+    "wof:lastmodified":1566724608,
     "wof:name":"Minard",
     "wof:parent_id":85672599,
     "wof:placetype":"locality",

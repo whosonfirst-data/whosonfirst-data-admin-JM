@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-77.00333,18.04667,-76.96333,18.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u0434\u044d\u043d\u0441"
     ],
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":1209198043,
-    "wof:lastmodified":1564151359,
+    "wof:lastmodified":1566724643,
     "wof:name":"Providence",
     "wof:parent_id":85632215,
     "wof:placetype":"locality",

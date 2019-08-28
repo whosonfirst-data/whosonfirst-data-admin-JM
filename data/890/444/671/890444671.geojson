@@ -11,8 +11,11 @@
     "geom:longitude":-77.91883,
     "gn:country":"JM",
     "gn:fcode":"PPL",
-    "gn:pop":82867,
+    "gn:population":82867,
     "iso:country":"JM",
+    "lbl:bbox":"-77.93883,18.45116,-77.89883,18.49116",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -161,7 +164,7 @@
         "Montego Bay"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bca\u0ba3\u0bcd\u0b9f\u0bc7\u0b95\u0bc1  \u0baa\u0bc7"
+        "\u0bae\u0bca\u0ba3\u0bcd\u0b9f\u0bc7\u0b95\u0bc1 \u0baa\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3e\u0c02\u0c1f\u0c46\u0c17\u0c4b \u0c2c\u0c47"
@@ -175,7 +178,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435\u0433\u043e-\u0411\u0435\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Montego"
     ],
     "name:urd_x_preferred":[
@@ -299,10 +302,12 @@
     "wof:concordances":{
         "gn:id":3489460,
         "gp:id":109455,
-        "qs:id":1045248,
         "qs_pg:id":453086,
         "wd:id":"Q637555",
         "wk:page":"Montego Bay"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1045248
     },
     "wof:country":"JM",
     "wof:created":1469052477,
@@ -316,7 +321,7 @@
         }
     ],
     "wof:id":890444671,
-    "wof:lastmodified":1563278469,
+    "wof:lastmodified":1566724665,
     "wof:name":"Montego Bay",
     "wof:parent_id":85672573,
     "wof:placetype":"locality",

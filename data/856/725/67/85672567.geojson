@@ -24,6 +24,7 @@
     ],
     "lbl:latitude":18.037405,
     "lbl:longitude":-77.502783,
+    "lbl:min_zoom":8.0,
     "mps:latitude":18.027947,
     "mps:longitude":-77.513304,
     "mz:hierarchy_label":1,
@@ -139,7 +140,7 @@
         "Parish of Manchester"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bbe\u0ba9\u0bcd\u0b9a\u0bc6\u0bb8\u0bcd\u0b9f\u0bb0\u0bcd  \u0baa\u0bbe\u0bb0\u0bbf\u0bb8\u0bcd"
+        "\u0bae\u0bbe\u0ba9\u0bcd\u0b9a\u0bc6\u0bb8\u0bcd\u0b9f\u0bb0\u0bcd \u0baa\u0bbe\u0bb0\u0bbf\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3e\u0c02\u0c1a\u0c46\u0c38\u0c4d\u0c1f\u0c30\u0c4d \u0c2a\u0c3e\u0c30\u0c3f\u0c37\u0c4d"
@@ -152,9 +153,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043d\u0447\u0435\u0441\u0442\u0435\u0440"
-    ],
-    "name:unk_x_variant":[
-        "Manchester Parish"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0646\u0686\u0633\u0679\u0631 \u067e\u06cc\u0631\u0634"
@@ -237,9 +235,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-04-04",
+    "src:population_date":"2011-04-04",
     "statoids:area_km":"830",
     "statoids:area_mi":"320",
     "statoids:as_of_date":"2011-04-04",
@@ -264,7 +262,7 @@
         "gp:id":2345914,
         "hasc:id":"JM.MA",
         "iso:id":"JM-12",
-        "qs:id":427267,
+        "qs_pg:id":427267,
         "unlc:id":"JM-12",
         "wd:id":"Q920496",
         "wk:page":"Manchester Parish"
@@ -285,11 +283,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565724449,
+    "wof:lastmodified":1566724614,
     "wof:name":"Manchester",
     "wof:parent_id":85632215,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"parish",
     "wof:population":189797,
     "wof:population_rank":9,

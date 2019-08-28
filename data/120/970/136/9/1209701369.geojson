@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-76.80719,18.09426,-76.76719,18.13426",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mount James"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209701369,
-    "wof:lastmodified":1564151321,
+    "wof:lastmodified":1566724639,
     "wof:name":"Mount James",
     "wof:parent_id":85672609,
     "wof:placetype":"locality",

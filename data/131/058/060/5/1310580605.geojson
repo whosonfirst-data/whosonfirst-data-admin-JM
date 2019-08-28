@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-76.96408,18.36087,-76.92408,18.40087",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jack River"
     ],
@@ -37,8 +41,7 @@
     ],
     "name:und_x_variant":[
         "Jacks River",
-        "Jack Lodge",
-        "Jack River"
+        "Jack Lodge"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1310580605,
-    "wof:lastmodified":1564151465,
+    "wof:lastmodified":1566724654,
     "wof:name":"Jack River",
     "wof:parent_id":85672605,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":18.39747,
     "geom:longitude":-78.10338,
     "iso:country":"JM",
+    "lbl:bbox":"-78.12338,18.37747,-78.08338,18.41747",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cascade"
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":3491055,
         "gp:id":108540,
-        "qs:id":148518,
+        "qs_pg:id":148518,
         "wd:id":"Q5048080"
     },
     "wof:country":"JM",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":421167751,
-    "wof:lastmodified":1563278428,
+    "wof:lastmodified":1566724661,
     "wof:name":"Cascade",
     "wof:parent_id":85672563,
     "wof:placetype":"locality",

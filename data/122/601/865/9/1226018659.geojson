@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
+    "lbl:bbox":"-76.40333,17.89667,-76.36333,17.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Craig Hall",
         "Carry Hall"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226018659,
-    "wof:lastmodified":1537649754,
+    "wof:lastmodified":1566724687,
     "wof:name":"Carry Hall",
     "wof:parent_id":85672615,
     "wof:placetype":"locality",

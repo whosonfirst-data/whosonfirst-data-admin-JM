@@ -10,8 +10,12 @@
     "geom:latitude":18.4,
     "geom:longitude":-77.03333,
     "iso:country":"JM",
+    "lbl:bbox":"-77.05333,18.38,-77.01333,18.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"JM",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3490134,
         "gp:id":109083,
-        "qs:id":1082617
+        "qs_pg:id":1082617
     },
     "wof:country":"JM",
     "wof:created":1459009507,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421187261,
-    "wof:lastmodified":1527716247,
+    "wof:lastmodified":1566724662,
     "wof:name":"Hard Bargain",
     "wof:parent_id":85672605,
     "wof:placetype":"locality",
