@@ -483,6 +483,10 @@
         "wd:id":"Q34692"
     },
     "wof:country":"JM",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"89c9f3ab84f440cb86ba399ce5a75044",
     "wof:hierarchy":[
         {
@@ -497,7 +501,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566724614,
+    "wof:lastmodified":1582319498,
     "wof:name":"New Kingston",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

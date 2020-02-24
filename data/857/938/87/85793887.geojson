@@ -72,6 +72,9 @@
         "qs:id":1165119
     },
     "wof:country":"JM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5a645fb110e4c53fb3e115c0db224287",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379371,
+    "wof:lastmodified":1582319498,
     "wof:name":"Beverly Hills",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

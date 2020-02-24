@@ -74,6 +74,9 @@
         "gp:id":109568
     },
     "wof:country":"JM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9f7bd10f6763e777382229a115144c8e",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566724614,
+    "wof:lastmodified":1582319498,
     "wof:name":"Newport East",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -277,6 +277,9 @@
         "wk:page":"Hanover Parish"
     },
     "wof:country":"JM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e9cc00ab37bf48c87b29202df63c668e",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566724615,
+    "wof:lastmodified":1582319499,
     "wof:name":"Hanover",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

@@ -269,6 +269,9 @@
         "wk:page":"Westmoreland Parish"
     },
     "wof:country":"JM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fbf10b497be8dce3f8b49067b00c8fdc",
     "wof:hierarchy":[
         {
@@ -284,7 +287,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566724616,
+    "wof:lastmodified":1582319500,
     "wof:name":"Westmoreland",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

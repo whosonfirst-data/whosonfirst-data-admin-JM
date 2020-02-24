@@ -287,6 +287,9 @@
         "wk:page":"Saint Andrew Parish, Jamaica"
     },
     "wof:country":"JM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"01935785ba280ebcf3ac3b02bbafbc4e",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566724616,
+    "wof:lastmodified":1582319501,
     "wof:name":"Saint Andrew",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

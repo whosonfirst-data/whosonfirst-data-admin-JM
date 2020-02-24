@@ -72,6 +72,10 @@
         "qs_pg:id":211089
     },
     "wof:country":"JM",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"088d7469ab1e9cfdc4ff5e4501b7e8b1",
     "wof:hierarchy":[
         {
@@ -86,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566724614,
+    "wof:lastmodified":1582319498,
     "wof:name":"Mona Heights",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

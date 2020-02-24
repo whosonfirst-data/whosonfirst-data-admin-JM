@@ -259,6 +259,9 @@
         "wk:page":"Portland Parish"
     },
     "wof:country":"JM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6ac351cf09cd09f9276429158c018bcc",
     "wof:hierarchy":[
         {
@@ -274,7 +277,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566724615,
+    "wof:lastmodified":1582319499,
     "wof:name":"Portland",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

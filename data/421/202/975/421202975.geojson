@@ -159,6 +159,9 @@
     },
     "wof:country":"JM",
     "wof:created":1459010136,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"92628d307faa01bdcfaddd2c785e83c6",
     "wof:hierarchy":[
         {
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":421202975,
-    "wof:lastmodified":1566724662,
+    "wof:lastmodified":1582319503,
     "wof:name":"Port Morant",
     "wof:parent_id":85672615,
     "wof:placetype":"locality",

@@ -963,6 +963,12 @@
     },
     "wof:country":"JM",
     "wof:country_alpha3":"JAM",
+    "wof:geom_alt":[
+        "meso",
+        "quattroshapes",
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"e8f12b6a2fb5e52be9f1d846e3fa955f",
     "wof:hierarchy":[
         {
@@ -977,7 +983,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566724616,
+    "wof:lastmodified":1582319500,
     "wof:name":"Jamaica",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

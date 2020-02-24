@@ -272,6 +272,9 @@
         "wk:page":"Saint Mary Parish, Jamaica"
     },
     "wof:country":"JM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7a3a6d83fe687bc42561a5d6f1945024",
     "wof:hierarchy":[
         {
@@ -287,7 +290,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566724616,
+    "wof:lastmodified":1582319500,
     "wof:name":"Saint Mary",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

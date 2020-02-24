@@ -311,6 +311,9 @@
     },
     "wof:country":"JM",
     "wof:created":1469052477,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1de0e6b1aed226ba20411f3ffbc6f7ed",
     "wof:hierarchy":[
         {
@@ -321,7 +324,7 @@
         }
     ],
     "wof:id":890444671,
-    "wof:lastmodified":1566724665,
+    "wof:lastmodified":1582319503,
     "wof:name":"Montego Bay",
     "wof:parent_id":85672573,
     "wof:placetype":"locality",

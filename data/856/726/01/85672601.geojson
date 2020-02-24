@@ -277,6 +277,9 @@
         "wk:page":"Saint Catherine Parish"
     },
     "wof:country":"JM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"510205f42883420e6233e89e0a6903c5",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566724616,
+    "wof:lastmodified":1582319501,
     "wof:name":"Saint Catherine",
     "wof:parent_id":85632215,
     "wof:placetype":"region",
