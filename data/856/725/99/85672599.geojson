@@ -276,6 +276,9 @@
         "wk:page":"Saint Ann Parish"
     },
     "wof:country":"JM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"82f9030ade1b947712d4c33a623c7c05",
     "wof:hierarchy":[
         {
@@ -291,7 +294,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566724615,
+    "wof:lastmodified":1582319499,
     "wof:name":"Saint Ann",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

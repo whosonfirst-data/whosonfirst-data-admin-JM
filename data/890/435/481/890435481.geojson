@@ -203,6 +203,9 @@
     },
     "wof:country":"JM",
     "wof:created":1469052069,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e75f48c02c026b07bf30f7d02d15bc41",
     "wof:hierarchy":[
         {
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":890435481,
-    "wof:lastmodified":1566724666,
+    "wof:lastmodified":1582319504,
     "wof:name":"Port Antonio",
     "wof:parent_id":85672591,
     "wof:placetype":"locality",

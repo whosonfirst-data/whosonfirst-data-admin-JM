@@ -70,6 +70,10 @@
         "qs_pg:id":118782
     },
     "wof:country":"JM",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cbd1ae5bf47026640bc9a5e1c5caf147",
     "wof:hierarchy":[
         {
@@ -84,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566724613,
+    "wof:lastmodified":1582319498,
     "wof:name":"Grants Pen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

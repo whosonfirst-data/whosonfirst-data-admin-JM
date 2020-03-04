@@ -268,6 +268,9 @@
         "wk:page":"Manchester Parish"
     },
     "wof:country":"JM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"521c1f561ff94765eb0c515fb86da9fd",
     "wof:hierarchy":[
         {
@@ -283,7 +286,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566724614,
+    "wof:lastmodified":1582319499,
     "wof:name":"Manchester",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

@@ -274,6 +274,9 @@
         "wk:page":"Saint Thomas Parish, Jamaica"
     },
     "wof:country":"JM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2546a34f7479ed0886b3f5c10196c14c",
     "wof:hierarchy":[
         {
@@ -289,7 +292,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566724617,
+    "wof:lastmodified":1582319501,
     "wof:name":"Saint Thomas",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

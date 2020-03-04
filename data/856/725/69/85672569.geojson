@@ -280,6 +280,9 @@
         "wk:page":"Saint Elizabeth Parish"
     },
     "wof:country":"JM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9b5df93618b608962337b2162a2675c3",
     "wof:hierarchy":[
         {
@@ -295,7 +298,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566724614,
+    "wof:lastmodified":1582319498,
     "wof:name":"Saint Elizabeth",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

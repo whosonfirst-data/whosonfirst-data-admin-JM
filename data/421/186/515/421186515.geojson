@@ -537,6 +537,10 @@
     },
     "wof:country":"JM",
     "wof:created":1459009483,
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"64611cb20eb56ce0c125e11c7fe1bca0",
     "wof:hierarchy":[
         {
@@ -547,7 +551,7 @@
         }
     ],
     "wof:id":421186515,
-    "wof:lastmodified":1566724662,
+    "wof:lastmodified":1582319503,
     "wof:name":"Kingston",
     "wof:parent_id":85672609,
     "wof:placetype":"locality",

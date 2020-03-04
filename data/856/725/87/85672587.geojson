@@ -316,6 +316,9 @@
         "wk:page":"Kingston Parish"
     },
     "wof:country":"JM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"64611cb20eb56ce0c125e11c7fe1bca0",
     "wof:hierarchy":[
         {
@@ -331,7 +334,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566724615,
+    "wof:lastmodified":1582319499,
     "wof:name":"Kingston",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

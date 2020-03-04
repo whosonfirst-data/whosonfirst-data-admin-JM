@@ -79,6 +79,9 @@
     },
     "wof:country":"JM",
     "wof:created":1459008758,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8981193b4caa266d0cd1ad8e306d8130",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421168223,
-    "wof:lastmodified":1566724660,
+    "wof:lastmodified":1582319503,
     "wof:name":"Old Harbour Bay",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",

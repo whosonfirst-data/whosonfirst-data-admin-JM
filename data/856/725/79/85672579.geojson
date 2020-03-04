@@ -280,6 +280,9 @@
         "wk:page":"Trelawny Parish"
     },
     "wof:country":"JM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ab5330913e5555dc00687f27894d1083",
     "wof:hierarchy":[
         {
@@ -295,7 +298,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566724615,
+    "wof:lastmodified":1582319500,
     "wof:name":"Trelawny",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

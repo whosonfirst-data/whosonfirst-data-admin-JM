@@ -113,6 +113,10 @@
         "wd:id":"Q1753236"
     },
     "wof:country":"JM",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fc34834b4274148306653ef72f2356d6",
     "wof:hierarchy":[
         {
@@ -127,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566724614,
+    "wof:lastmodified":1582319498,
     "wof:name":"Trench Town",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

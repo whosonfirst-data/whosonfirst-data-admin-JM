@@ -79,6 +79,9 @@
         "gp:id":108522
     },
     "wof:country":"JM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"79727ca50572889ccdf97436409dbaca",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566724613,
+    "wof:lastmodified":1582319498,
     "wof:name":"Camperdown",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

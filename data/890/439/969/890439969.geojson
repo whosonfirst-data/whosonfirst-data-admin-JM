@@ -281,6 +281,9 @@
     },
     "wof:country":"JM",
     "wof:created":1469052257,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c51b820ca0f11cc6647df512db752c2d",
     "wof:hierarchy":[
         {
@@ -291,7 +294,7 @@
         }
     ],
     "wof:id":890439969,
-    "wof:lastmodified":1566724665,
+    "wof:lastmodified":1582319503,
     "wof:name":"Spanish Town",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",
