@@ -939,9 +939,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Jamaica",
-        "digitalenvoy:country_code":[
-            388
-        ],
+        "digitalenvoy:country_code":388,
         "fb:id":"en.jamaica",
         "fifa:id":"JAM",
         "fips:code":"JM",
@@ -986,7 +984,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583529161,
+    "wof:lastmodified":1583797368,
     "wof:name":"Jamaica",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
