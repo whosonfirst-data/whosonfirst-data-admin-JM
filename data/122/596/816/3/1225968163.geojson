@@ -154,10 +154,16 @@
         "Richmond"
     ],
     "name:ukr_x_preferred":[
+        "\u0420\u0456\u0447\u043c\u043e\u043d\u0434"
+    ],
+    "name:ukr_x_variant":[
         "\u0420\u0438\u0447\u043c\u043e\u043d\u0434"
     ],
     "name:urd_x_preferred":[
         "\u0631\u0686\u0645\u0646\u0688"
+    ],
+    "name:vie_x_preferred":[
+        "Richmond"
     ],
     "name:vol_x_preferred":[
         "Richmond"
@@ -179,7 +185,7 @@
         "gn:id":3488836
     },
     "wof:country":"JM",
-    "wof:geomhash":"ddd2a19cc77496a071e431c19ac826f1",
+    "wof:geomhash":"38b6e4284d3cdda4905e95aa4e4e1ee5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -189,7 +195,7 @@
         }
     ],
     "wof:id":1225968163,
-    "wof:lastmodified":1566724684,
+    "wof:lastmodified":1636496000,
     "wof:name":"Richmond",
     "wof:parent_id":85672567,
     "wof:placetype":"locality",
@@ -200,9 +206,9 @@
 },
   "bbox": [
     -77.46945,
-    18.02377000000001,
+    18.02377,
     -77.46945,
-    18.02377000000001
+    18.02377
 ],
-  "geometry": {"coordinates":[-77.46944999999999,18.02377000000001],"type":"Point"}
+  "geometry": {"coordinates":[-77.46944999999999,18.02377],"type":"Point"}
 }

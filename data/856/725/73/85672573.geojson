@@ -87,6 +87,9 @@
     "name:hin_x_preferred":[
         "\u0938\u0947\u0902\u091f \u091c\u0947\u092e\u094d\u0938 \u092a\u0947\u0930\u093f\u0936"
     ],
+    "name:hun_x_preferred":[
+        "Saint James"
+    ],
     "name:ind_x_preferred":[
         "Paroki Saint James"
     ],
@@ -298,7 +301,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1582319499,
+    "wof:lastmodified":1636495981,
     "wof:name":"Saint James",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

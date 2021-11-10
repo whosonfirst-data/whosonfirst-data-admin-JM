@@ -36,13 +36,25 @@
     "name:deu_x_preferred":[
         "Minho"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03af\u03bd\u03c7\u03bf"
+    ],
     "name:fra_x_preferred":[
         "Minho"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e3 \u05de\u05d9\u05e0\u05d4 \u05d4\u05d5\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093f\u0928\u094d\u0939\u094b "
     ],
     "name:hrv_x_preferred":[
         "Minho"
     ],
     "name:hun_x_preferred":[
+        "Minho"
+    ],
+    "name:ind_x_preferred":[
         "Minho"
     ],
     "name:ita_x_preferred":[
@@ -54,8 +66,17 @@
     "name:swe_x_preferred":[
         "Minho"
     ],
+    "name:tur_x_preferred":[
+        "Minho"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0456\u043d\u044e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0646\u06c1\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Minho"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -78,7 +99,7 @@
         }
     ],
     "wof:id":1344160963,
-    "wof:lastmodified":1566724610,
+    "wof:lastmodified":1636495979,
     "wof:name":"Minho",
     "wof:parent_id":85672559,
     "wof:placetype":"locality",

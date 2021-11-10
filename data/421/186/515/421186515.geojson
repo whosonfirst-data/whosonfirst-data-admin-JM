@@ -152,6 +152,9 @@
         "Kingston"
     ],
     "name:hin_x_preferred":[
+        "\u0915\u093f\u0902\u0917\u0938\u094d\u091f\u0928"
+    ],
+    "name:hin_x_variant":[
         "\u0915\u093f\u0902\u0917\u094d\u0938\u091f\u0928"
     ],
     "name:hrv_x_preferred":[
@@ -553,7 +556,7 @@
         }
     ],
     "wof:id":421186515,
-    "wof:lastmodified":1607390902,
+    "wof:lastmodified":1636495994,
     "wof:name":"Kingston",
     "wof:parent_id":85672609,
     "wof:placetype":"locality",

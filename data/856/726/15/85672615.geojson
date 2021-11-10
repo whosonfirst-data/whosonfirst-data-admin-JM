@@ -163,7 +163,16 @@
         "\u0633\u06cc\u0646\u0679 \u062a\u06be\u0627\u0645\u0633 \u067e\u06cc\u0631\u0634"
     ],
     "name:vie_x_preferred":[
+        "Saint Thomas"
+    ],
+    "name:vie_x_variant":[
         "Gi\u00e1o x\u1ee9 Saint Thomas"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u6258\u9a6c\u65af\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u6e6f\u99ac\u65af"
     ],
     "name:zho_x_preferred":[
         "\u8056\u6258\u99ac\u65af\u5340"
@@ -292,7 +301,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1582319501,
+    "wof:lastmodified":1636495983,
     "wof:name":"Saint Thomas",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

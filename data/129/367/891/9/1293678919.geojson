@@ -111,6 +111,12 @@
     "name:swe_x_preferred":[
         "Scarborough"
     ],
+    "name:tur_x_preferred":[
+        "Scarborough"
+    ],
+    "name:vie_x_preferred":[
+        "Scarborough"
+    ],
     "name:vol_x_preferred":[
         "Scarborough"
     ],
@@ -138,7 +144,7 @@
         }
     ],
     "wof:id":1293678919,
-    "wof:lastmodified":1566724624,
+    "wof:lastmodified":1636495985,
     "wof:name":"Scarborough",
     "wof:parent_id":85672599,
     "wof:placetype":"locality",

@@ -80,6 +80,9 @@
         "\u05d2\u05e8\u05d9\u05e0\u05d9\u05e5'"
     ],
     "name:hin_x_preferred":[
+        "\u0917\u094d\u0930\u0940\u0928\u0935\u093f\u091a"
+    ],
+    "name:hin_x_variant":[
         "\u0917\u094d\u0930\u0947\u0928\u093f\u0936"
     ],
     "name:hrv_x_preferred":[
@@ -211,7 +214,7 @@
         "gn:id":3490212
     },
     "wof:country":"JM",
-    "wof:geomhash":"f3948d040d15d335cef462e3cd6c5df3",
+    "wof:geomhash":"2866cc1e9983da020aca831fef0b15ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -221,7 +224,7 @@
         }
     ],
     "wof:id":1309726093,
-    "wof:lastmodified":1566724660,
+    "wof:lastmodified":1636495992,
     "wof:name":"Greenwich",
     "wof:parent_id":85672559,
     "wof:placetype":"locality",
@@ -231,10 +234,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.26666999999998,
+    -77.26667,
     17.8,
-    -77.26666999999998,
+    -77.26667,
     17.8
 ],
-  "geometry": {"coordinates":[-77.26666999999998,17.8],"type":"Point"}
+  "geometry": {"coordinates":[-77.26667,17.8],"type":"Point"}
 }

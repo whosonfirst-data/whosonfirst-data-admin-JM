@@ -81,6 +81,9 @@
     "name:hin_x_preferred":[
         "\u0928\u093e\u0930\u0902\u0917\u0940"
     ],
+    "name:hun_x_preferred":[
+        "Orange"
+    ],
     "name:hye_x_preferred":[
         "\u0555\u0580\u0561\u0576\u056a"
     ],
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":1276417673,
-    "wof:lastmodified":1566724635,
+    "wof:lastmodified":1636495986,
     "wof:name":"Orange",
     "wof:parent_id":85672573,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0646\u062f\u0641\u064a\u0644"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09c7\u09ad\u09bf\u09b2\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Mandeville"
     ],
@@ -35,11 +38,23 @@
     "name:eng_x_preferred":[
         "Mandeville"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0646\u062f\u0648\u06cc\u0644"
+    ],
     "name:fra_x_preferred":[
         "Mandeville"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e0\u05d3\u05d5\u05d5\u05d9\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0948\u0902\u0921\u0935\u093f\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "Mandeville"
+    ],
+    "name:ind_x_preferred":[
+        "Mandeville"
     ],
     "name:ita_x_preferred":[
         "Mandeville"
@@ -49,6 +64,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30f3\u30c7\u30f4\u30a3\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9e8\ub354\ube4c"
     ],
     "name:lit_x_preferred":[
         "Mandevilis"
@@ -72,6 +90,15 @@
         "Mandeville"
     ],
     "name:swe_x_preferred":[
+        "Mandeville"
+    ],
+    "name:tur_x_preferred":[
+        "Mandeville"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0646\u0688\u06cc\u0648\u06cc\u0644\u06d2"
+    ],
+    "name:vie_x_preferred":[
         "Mandeville"
     ],
     "name:zho_x_preferred":[
@@ -217,7 +244,7 @@
         }
     ],
     "wof:id":421174761,
-    "wof:lastmodified":1566724662,
+    "wof:lastmodified":1636495993,
     "wof:name":"Mandeville",
     "wof:parent_id":85672567,
     "wof:placetype":"locality",

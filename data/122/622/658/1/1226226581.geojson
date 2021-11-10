@@ -79,6 +79,9 @@
         "Brunswick"
     ],
     "name:rus_x_preferred":[
+        "\u0411\u0440\u0443\u043d\u0441\u0432\u0438\u043a"
+    ],
+    "name:rus_x_variant":[
         "\u0411\u0440\u0430\u043d\u0441\u0443\u0438\u043a"
     ],
     "name:spa_x_preferred":[
@@ -95,6 +98,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0631\u0646\u0632\u0648\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Brunswick"
     ],
     "name:vol_x_preferred":[
         "Brunswick"
@@ -113,7 +119,7 @@
         "gn:id":3491194
     },
     "wof:country":"JM",
-    "wof:geomhash":"2b699e7018fdfcb80d244baa7c02e1d8",
+    "wof:geomhash":"d639efed37fa789059e3c251ec23e863",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":1226226581,
-    "wof:lastmodified":1566724685,
+    "wof:lastmodified":1636496001,
     "wof:name":"Brunswick",
     "wof:parent_id":85672599,
     "wof:placetype":"locality",
@@ -133,10 +139,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.17681999999998,
+    -77.17682,
     18.32124,
-    -77.17681999999998,
+    -77.17682,
     18.32124
 ],
-  "geometry": {"coordinates":[-77.17681999999998,18.32124],"type":"Point"}
+  "geometry": {"coordinates":[-77.17682000000001,18.32124],"type":"Point"}
 }

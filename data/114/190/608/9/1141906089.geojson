@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-78.1790036163,18.4429980854,-78.1790036163,18.4429980854",
+    "geom:bbox":"-78.179004,18.442998,-78.179004,18.442998",
     "geom:latitude":18.442998,
     "geom:longitude":-78.179004,
     "iso:country":"JM",
@@ -27,6 +27,9 @@
     "name:bel_x_preferred":[
         "\u041b\u0443\u0441\u0435\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c1\u09b8\u09bf\u09df\u09be"
+    ],
     "name:cat_x_preferred":[
         "Lucea"
     ],
@@ -42,14 +45,29 @@
     "name:eng_x_preferred":[
         "Lucea"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u06a9\u0626\u0627"
+    ],
     "name:fra_x_preferred":[
         "Lucea"
     ],
     "name:glg_x_preferred":[
         "Lucea"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05e6'\u05d0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0942\u0938\u093f\u092f\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Lucea"
+    ],
     "name:hye_x_preferred":[
         "\u053c\u0578\u0582\u057d\u0565\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Lucea"
     ],
     "name:ita_x_preferred":[
         "Lucea"
@@ -59,6 +77,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30eb\u30bb\u30a2"
+    ],
+    "name:kor_x_preferred":[
+        "\ub8e8\uc2dc\uc544"
     ],
     "name:nld_x_preferred":[
         "Lucea"
@@ -76,6 +97,15 @@
         "Lucea"
     ],
     "name:swe_x_preferred":[
+        "Lucea"
+    ],
+    "name:tur_x_preferred":[
+        "Lucea"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0633\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Lucea"
     ],
     "name:zho_x_preferred":[
@@ -188,7 +218,7 @@
     },
     "wof:country":"JM",
     "wof:created":1499130538,
-    "wof:geomhash":"c15b2f8b77d7eb7034707e55724631ac",
+    "wof:geomhash":"f9de1d8740af90df99d939b49821c9c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -198,7 +228,7 @@
         }
     ],
     "wof:id":1141906089,
-    "wof:lastmodified":1566724689,
+    "wof:lastmodified":1636496002,
     "wof:name":"Lucea",
     "wof:parent_id":85672563,
     "wof:placetype":"locality",
@@ -208,10 +238,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -78.17900361633639,
-    18.44299808537494,
-    -78.17900361633639,
-    18.44299808537494
+    -78.179004,
+    18.442998,
+    -78.179004,
+    18.442998
 ],
-  "geometry": {"coordinates":[-78.17900361633639,18.44299808537494],"type":"Point"}
+  "geometry": {"coordinates":[-78.17900400000001,18.442998],"type":"Point"}
 }

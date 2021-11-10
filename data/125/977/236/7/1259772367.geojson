@@ -203,7 +203,13 @@
         "Worcester Pen"
     ],
     "name:urd_x_preferred":[
+        "\u0648\u0648\u0631\u0633\u06cc\u0633\u0679\u0631"
+    ],
+    "name:urd_x_variant":[
         "\u0648\u0648\u0633\u0679\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Worcester"
     ],
     "name:vol_x_preferred":[
         "Worcester"
@@ -235,7 +241,7 @@
         }
     ],
     "wof:id":1259772367,
-    "wof:lastmodified":1566724677,
+    "wof:lastmodified":1636495999,
     "wof:name":"Worcester",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",

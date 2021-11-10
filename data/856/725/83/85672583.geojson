@@ -67,8 +67,14 @@
     "name:guj_x_preferred":[
         "\u0ab5\u0ac7\u0ab8\u0acd\u0a9f\u0aae\u0acb\u0ab0\u0ab2\u0ac7\u0aa8\u0acd\u0aa1 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05e1\u05d8\u05de\u05d5\u05e8\u05dc\u05e0\u05d3"
+    ],
     "name:hin_x_preferred":[
         "\u0935\u0947\u0938\u094d\u091f\u092e\u094b\u0930\u0932\u0948\u0902\u0921 \u092a\u0948\u0930\u093f\u0936"
+    ],
+    "name:hun_x_preferred":[
+        "Westmoreland"
     ],
     "name:ind_x_preferred":[
         "Paroki Westmoreland"
@@ -287,7 +293,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1582319500,
+    "wof:lastmodified":1636495982,
     "wof:name":"Westmoreland",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

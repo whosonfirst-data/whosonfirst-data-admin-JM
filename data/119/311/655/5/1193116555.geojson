@@ -70,6 +70,9 @@
         "Salisbury"
     ],
     "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bb\u03b9\u03c3\u03bc\u03c0\u03bf\u03c5\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
         "\u03a3\u03cc\u03bb\u03c3\u03bc\u03c0\u03b5\u03c1\u03b9"
     ],
     "name:epo_x_preferred":[
@@ -98,6 +101,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d5\u05dc\u05e1\u05d1\u05e8\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0932\u093f\u0938\u092c\u0930\u0940"
     ],
     "name:hun_x_preferred":[
         "Salisbury"
@@ -230,7 +236,7 @@
         "gn:id":3488681
     },
     "wof:country":"JM",
-    "wof:geomhash":"4eb1fbdf9747e0c0fe51411da9cf7020",
+    "wof:geomhash":"e135106a628242ac31445c7cd905aa4f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -240,7 +246,7 @@
         }
     ],
     "wof:id":1193116555,
-    "wof:lastmodified":1566724646,
+    "wof:lastmodified":1636495989,
     "wof:name":"Salisbury",
     "wof:parent_id":85672605,
     "wof:placetype":"locality",
@@ -250,10 +256,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.01666999999998,
+    -77.01667,
     18.3,
-    -77.01666999999998,
+    -77.01667,
     18.3
 ],
-  "geometry": {"coordinates":[-77.01666999999998,18.3],"type":"Point"}
+  "geometry": {"coordinates":[-77.01667,18.3],"type":"Point"}
 }

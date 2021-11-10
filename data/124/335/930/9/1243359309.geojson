@@ -648,6 +648,9 @@
     "name:vep_x_preferred":[
         "Kipr"
     ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o S\u00edp"
+    ],
     "name:vls_x_preferred":[
         "Cyprus"
     ],
@@ -705,7 +708,7 @@
         }
     ],
     "wof:id":1243359309,
-    "wof:lastmodified":1566724672,
+    "wof:lastmodified":1636495998,
     "wof:name":"Cyprus",
     "wof:parent_id":85672599,
     "wof:placetype":"locality",

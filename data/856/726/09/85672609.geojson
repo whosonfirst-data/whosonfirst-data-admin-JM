@@ -80,6 +80,9 @@
     "name:hin_x_preferred":[
         "\u0938\u0947\u0902\u091f \u090f\u0902\u0921\u094d\u0930\u0942 \u092a\u0948\u0930\u093f\u0936"
     ],
+    "name:hun_x_preferred":[
+        "Saint Andrew"
+    ],
     "name:ind_x_preferred":[
         "Saint Andrew"
     ],
@@ -305,7 +308,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1582319501,
+    "wof:lastmodified":1636495983,
     "wof:name":"Saint Andrew",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

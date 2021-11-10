@@ -76,6 +76,9 @@
     "name:hin_x_preferred":[
         "\u092e\u0947\u0928\u091a\u0947\u0938\u094d\u091f\u0930 \u092a\u0948\u0930\u093f\u0936"
     ],
+    "name:hun_x_preferred":[
+        "Manchester"
+    ],
     "name:ind_x_preferred":[
         "Paroki Manchester"
     ],
@@ -286,7 +289,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1582319499,
+    "wof:lastmodified":1636495981,
     "wof:name":"Manchester",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

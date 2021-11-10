@@ -45,6 +45,9 @@
     "name:deu_x_preferred":[
         "Enfield"
     ],
+    "name:ell_x_preferred":[
+        "\u0388\u03bd\u03c6\u03b9\u03bb\u03bd\u03c4"
+    ],
     "name:fin_x_preferred":[
         "Enfield"
     ],
@@ -59,6 +62,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0537\u0576\u0586\u056b\u056c\u0564"
+    ],
+    "name:ind_x_preferred":[
+        "Enfield"
     ],
     "name:ita_x_preferred":[
         "Enfield"
@@ -116,7 +122,7 @@
         "gn:id":3490561
     },
     "wof:country":"JM",
-    "wof:geomhash":"90df28d1796655c3251e03d6296b696b",
+    "wof:geomhash":"ebb02bf0a86cb8c22c654f2ef86977d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":1192997761,
-    "wof:lastmodified":1566724646,
+    "wof:lastmodified":1636495989,
     "wof:name":"Enfield",
     "wof:parent_id":85672605,
     "wof:placetype":"locality",
@@ -136,10 +142,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.73203000000002,
-    18.20507000000001,
-    -76.73203000000002,
-    18.20507000000001
+    -76.73203,
+    18.20507,
+    -76.73203,
+    18.20507
 ],
-  "geometry": {"coordinates":[-76.73203000000002,18.20507000000001],"type":"Point"}
+  "geometry": {"coordinates":[-76.73202999999999,18.20507],"type":"Point"}
 }

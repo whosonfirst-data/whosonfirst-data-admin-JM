@@ -140,6 +140,9 @@
         "\u0e1e\u0e2d\u0e23\u0e4c\u0e15\u0e41\u0e25\u0e19\u0e14\u0e4c"
     ],
     "name:tur_x_preferred":[
+        "Portland"
+    ],
+    "name:tur_x_variant":[
         "Portland Parish"
     ],
     "name:ukr_x_preferred":[
@@ -277,7 +280,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1582319499,
+    "wof:lastmodified":1636495981,
     "wof:name":"Portland",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

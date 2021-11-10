@@ -241,6 +241,9 @@
         "Jerusalem"
     ],
     "name:hin_x_preferred":[
+        "\u092f\u0930\u0942\u0936\u0932\u0947\u092e"
+    ],
+    "name:hin_x_variant":[
         "\u092f\u0930\u0941\u0936\u0932\u092e"
     ],
     "name:hrv_x_preferred":[
@@ -662,7 +665,7 @@
         "gn:id":3489929
     },
     "wof:country":"JM",
-    "wof:geomhash":"df57791a12bf224b3b8c722f948f1272",
+    "wof:geomhash":"6828b57820ac9c96450c35fb64f4f556",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -672,7 +675,7 @@
         }
     ],
     "wof:id":1243336035,
-    "wof:lastmodified":1566724672,
+    "wof:lastmodified":1636495998,
     "wof:name":"Jerusalem",
     "wof:parent_id":85672583,
     "wof:placetype":"locality",
@@ -682,10 +685,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -78.23333000000002,
+    -78.23333,
     18.31667,
-    -78.23333000000002,
+    -78.23333,
     18.31667
 ],
-  "geometry": {"coordinates":[-78.23333000000002,18.31667],"type":"Point"}
+  "geometry": {"coordinates":[-78.23333,18.31667],"type":"Point"}
 }

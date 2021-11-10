@@ -76,6 +76,9 @@
     "name:hin_x_preferred":[
         "\u0938\u094d\u092a\u0948\u0928\u093f\u0936 \u091f\u093e\u0909\u0928"
     ],
+    "name:hun_x_preferred":[
+        "Spanish Town"
+    ],
     "name:ind_x_preferred":[
         "Spanish Town"
     ],
@@ -294,7 +297,7 @@
         }
     ],
     "wof:id":890439969,
-    "wof:lastmodified":1582319503,
+    "wof:lastmodified":1636495995,
     "wof:name":"Spanish Town",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",

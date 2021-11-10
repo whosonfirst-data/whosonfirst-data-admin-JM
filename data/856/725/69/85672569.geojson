@@ -87,6 +87,9 @@
     "name:hin_x_preferred":[
         "\u0938\u0947\u0902\u091f \u090f\u0932\u093f\u091c\u093c\u093e\u092c\u0947\u0925 \u092a\u0948\u0930\u093f\u0936"
     ],
+    "name:hun_x_preferred":[
+        "Saint Elizabeth"
+    ],
     "name:ind_x_preferred":[
         "Paroki Saint Elizabeth"
     ],
@@ -298,7 +301,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1582319498,
+    "wof:lastmodified":1636495980,
     "wof:name":"Saint Elizabeth",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

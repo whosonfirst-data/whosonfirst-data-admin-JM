@@ -67,6 +67,9 @@
     "name:eus_x_preferred":[
         "Hanover"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0646\u0648\u0648\u0631"
+    ],
     "name:fin_x_preferred":[
         "Hanoverin kunta"
     ],
@@ -84,6 +87,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0939\u0928\u094b\u0935\u0930 \u092a\u0948\u0930\u093f\u0936"
+    ],
+    "name:hun_x_preferred":[
+        "Hanover"
     ],
     "name:ind_x_preferred":[
         "Paroki Hanover"
@@ -295,7 +301,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1582319499,
+    "wof:lastmodified":1636495982,
     "wof:name":"Hanover",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

@@ -43,6 +43,9 @@
         "West End"
     ],
     "name:kor_x_preferred":[
+        "\uc6e8\uc2a4\ud2b8 \uc5d4\ub4dc"
+    ],
+    "name:kor_x_variant":[
         "\uc6e8\uc2a4\ud2b8\uc5d4\ub4dc"
     ],
     "name:nld_x_preferred":[
@@ -52,6 +55,9 @@
         "West End"
     ],
     "name:pol_x_preferred":[
+        "West End"
+    ],
+    "name:por_x_preferred":[
         "West End"
     ],
     "name:rus_x_preferred":[
@@ -66,6 +72,24 @@
     "name:swe_x_preferred":[
         "West End"
     ],
+    "name:tur_x_preferred":[
+        "West End"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0441\u0442-\u0415\u043d\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0633\u0679 \u0627\u06cc\u0646\u0688"
+    ],
+    "name:vie_x_preferred":[
+        "West End"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u897f\u5c3e"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u897f\u5340"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -77,7 +101,7 @@
         "gn:id":7521919
     },
     "wof:country":"JM",
-    "wof:geomhash":"ccbf130bded8ea370bd4245c615cd0d7",
+    "wof:geomhash":"251ce8d4418ae39687c81fac0a5546c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -87,7 +111,7 @@
         }
     ],
     "wof:id":1293866101,
-    "wof:lastmodified":1566724627,
+    "wof:lastmodified":1636495985,
     "wof:name":"West End",
     "wof:parent_id":85672583,
     "wof:placetype":"locality",
@@ -97,10 +121,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -78.36341999999998,
+    -78.36342,
     18.25943,
-    -78.36341999999998,
+    -78.36342,
     18.25943
 ],
-  "geometry": {"coordinates":[-78.36341999999998,18.25943],"type":"Point"}
+  "geometry": {"coordinates":[-78.36342,18.25943],"type":"Point"}
 }

@@ -48,10 +48,25 @@
     "name:deu_x_preferred":[
         "Wick"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03af\u03ba"
+    ],
     "name:epo_x_preferred":[
         "Wick"
     ],
     "name:fra_x_preferred":[
+        "Wick"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05d9\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093f\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Wick"
+    ],
+    "name:ind_x_preferred":[
         "Wick"
     ],
     "name:ita_x_preferred":[
@@ -75,6 +90,15 @@
     "name:swe_x_preferred":[
         "Wick"
     ],
+    "name:tur_x_preferred":[
+        "Wick"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Wick"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -86,7 +110,7 @@
         "gn:id":3488030
     },
     "wof:country":"JM",
-    "wof:geomhash":"fbaa3a2f88ba15e4f593c8e1c848d4e0",
+    "wof:geomhash":"ba13fb5637b7ca32991acae32d742c9a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -96,7 +120,7 @@
         }
     ],
     "wof:id":1293673679,
-    "wof:lastmodified":1566724623,
+    "wof:lastmodified":1636495984,
     "wof:name":"Wick",
     "wof:parent_id":85672599,
     "wof:placetype":"locality",
@@ -106,10 +130,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.34239000000002,
+    -77.34239,
     18.3121,
-    -77.34239000000002,
+    -77.34239,
     18.3121
 ],
-  "geometry": {"coordinates":[-77.34239000000002,18.3121],"type":"Point"}
+  "geometry": {"coordinates":[-77.34238999999999,18.3121],"type":"Point"}
 }

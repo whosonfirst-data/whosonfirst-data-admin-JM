@@ -25,6 +25,15 @@
     "name:eng_x_preferred":[
         "Nain"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u06cc\u06cc\u0646"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d0\u05d9\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Nain"
+    ],
     "name:jpn_x_preferred":[
         "\u30cd\u30fc\u30f3"
     ],
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1125894909,
-    "wof:lastmodified":1566724666,
+    "wof:lastmodified":1636495996,
     "wof:name":"Nain",
     "wof:parent_id":85672569,
     "wof:placetype":"locality",

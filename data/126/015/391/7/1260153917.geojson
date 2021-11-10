@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f \u09ad\u09bf\u09a8\u09b8\u09c7\u09a8\u09cd\u099f"
+    ],
     "name:bre_x_preferred":[
         "Saint-Vincent"
     ],
@@ -56,6 +59,12 @@
     ],
     "name:fra_x_preferred":[
         "Saint-Vincent"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u0935\u093f\u0902\u0938\u0947\u0902\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "Saint Vincent"
     ],
     "name:ita_x_preferred":[
         "Saint-Vincent"
@@ -102,6 +111,12 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043d-\u0412\u0435\u043d\u0441\u0430\u043d"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u0648\u0646\u0633\u0646\u0679"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Saint Vincent"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -123,7 +138,7 @@
         }
     ],
     "wof:id":1260153917,
-    "wof:lastmodified":1566724647,
+    "wof:lastmodified":1636495989,
     "wof:name":"Saint Vincent",
     "wof:parent_id":85672579,
     "wof:placetype":"locality",

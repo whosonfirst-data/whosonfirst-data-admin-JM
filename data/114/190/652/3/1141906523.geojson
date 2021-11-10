@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-77.2332808855,17.966615213,-77.2332808855,17.966615213",
+    "geom:bbox":"-77.233281,17.966615,-77.233281,17.966615",
     "geom:latitude":17.966615,
     "geom:longitude":-77.233281,
     "gn:country":"JM",
@@ -30,6 +30,9 @@
     "name:bel_x_preferred":[
         "\u041c\u0435\u0439-\u041f\u0435\u043d"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09c7 \u09aa\u09c7\u09a8"
+    ],
     "name:cat_x_preferred":[
         "May Pen"
     ],
@@ -48,11 +51,23 @@
     "name:eng_x_preferred":[
         "May Pen"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06cc \u067e\u0646"
+    ],
     "name:fra_x_preferred":[
         "May Pen"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d0\u05d9 \u05e4\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0947 \u092a\u0947\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "May Pen"
+    ],
+    "name:ind_x_preferred":[
+        "May Pen"
     ],
     "name:ita_x_preferred":[
         "May Pen"
@@ -84,8 +99,14 @@
     "name:swe_x_preferred":[
         "May Pen"
     ],
+    "name:tur_x_preferred":[
+        "May Pen"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u0626\u06d2 \u067e\u06cc\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "May Pen"
     ],
     "name:zho_x_preferred":[
         "\u6885\u5f6d"
@@ -211,7 +232,7 @@
     },
     "wof:country":"JM",
     "wof:created":1499130605,
-    "wof:geomhash":"758bcda12466cd4fabd8263d27226f86",
+    "wof:geomhash":"df6856d594fa8ac0c5f9983fb7549b2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -221,7 +242,7 @@
         }
     ],
     "wof:id":1141906523,
-    "wof:lastmodified":1566724689,
+    "wof:lastmodified":1636496001,
     "wof:name":"May Pen",
     "wof:parent_id":85672559,
     "wof:placetype":"locality",
@@ -235,10 +256,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.23328088551261,
-    17.96661521297898,
-    -77.23328088551261,
-    17.96661521297898
+    -77.233281,
+    17.966615,
+    -77.233281,
+    17.966615
 ],
-  "geometry": {"coordinates":[-77.23328088551261,17.96661521297898],"type":"Point"}
+  "geometry": {"coordinates":[-77.23328100000001,17.966615],"type":"Point"}
 }

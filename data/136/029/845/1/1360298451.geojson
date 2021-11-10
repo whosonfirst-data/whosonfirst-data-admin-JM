@@ -75,6 +75,9 @@
     "name:heb_x_preferred":[
         "\u05e1\u05d0\u05dc\u05dd"
     ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0932\u0947\u092e"
+    ],
     "name:hun_x_preferred":[
         "Salem"
     ],
@@ -164,7 +167,7 @@
         "gn:id":3488684
     },
     "wof:country":"JM",
-    "wof:geomhash":"e7f48b7c43d779c59f97695e7f3af964",
+    "wof:geomhash":"1be9107443b4efdf88033f1b46355051",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":1360298451,
-    "wof:lastmodified":1566724656,
+    "wof:lastmodified":1636495991,
     "wof:name":"Salem",
     "wof:parent_id":85672563,
     "wof:placetype":"locality",
@@ -185,9 +188,9 @@
 },
   "bbox": [
     -78.3,
-    18.36667000000001,
+    18.36667,
     -78.3,
-    18.36667000000001
+    18.36667
 ],
-  "geometry": {"coordinates":[-78.3,18.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[-78.3,18.36667],"type":"Point"}
 }
