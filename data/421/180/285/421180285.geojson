@@ -32,6 +32,9 @@
     "name:nld_x_preferred":[
         "Balaclava"
     ],
+    "name:pol_x_preferred":[
+        "Balaclava"
+    ],
     "name:swe_x_preferred":[
         "Balaclava"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421180285,
-    "wof:lastmodified":1566724662,
+    "wof:lastmodified":1690937466,
     "wof:name":"Balaclava",
     "wof:parent_id":85672569,
     "wof:placetype":"locality",

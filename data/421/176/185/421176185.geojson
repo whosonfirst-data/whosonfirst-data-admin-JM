@@ -17,10 +17,16 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Golden Grove"
+    ],
     "name:eng_x_preferred":[
         "Golden Grove"
     ],
     "name:nld_x_preferred":[
+        "Golden Grove"
+    ],
+    "name:swe_x_preferred":[
         "Golden Grove"
     ],
     "qs:gn_country":"JM",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":421176185,
-    "wof:lastmodified":1566724665,
+    "wof:lastmodified":1690937473,
     "wof:name":"Golden Grove",
     "wof:parent_id":85672615,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Cascade"
     ],
+    "name:deu_x_preferred":[
+        "Cascade"
+    ],
     "name:eng_x_preferred":[
         "Cascade"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421167751,
-    "wof:lastmodified":1636495993,
+    "wof:lastmodified":1690937464,
     "wof:name":"Cascade",
     "wof:parent_id":85672563,
     "wof:placetype":"locality",

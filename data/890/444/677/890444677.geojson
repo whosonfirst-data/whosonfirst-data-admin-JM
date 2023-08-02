@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0647\u0627\u064a\u0632"
     ],
+    "name:ast_x_preferred":[
+        "Hayes"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09c7\u099c"
+    ],
+    "name:ceb_x_preferred":[
+        "Hayes"
     ],
     "name:deu_x_preferred":[
         "Hayes"
@@ -49,10 +55,16 @@
     "name:kor_x_preferred":[
         "\ud5e4\uc774\uc988"
     ],
+    "name:lit_x_preferred":[
+        "Heisas"
+    ],
     "name:nld_x_preferred":[
         "Hayes"
     ],
     "name:pol_x_preferred":[
+        "Hayes"
+    ],
+    "name:swe_x_preferred":[
         "Hayes"
     ],
     "name:tur_x_preferred":[
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":890444677,
-    "wof:lastmodified":1636495995,
+    "wof:lastmodified":1690937475,
     "wof:name":"Hayes",
     "wof:parent_id":85672559,
     "wof:placetype":"locality",

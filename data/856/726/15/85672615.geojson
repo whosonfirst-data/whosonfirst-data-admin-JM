@@ -40,6 +40,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u0439\u043d\u0442 \u0422\u043e\u043c\u0430\u0441"
     ],
+    "name:cat_x_preferred":[
+        "Saint Thomas"
+    ],
     "name:ceb_x_preferred":[
         "Parish of Saint Thomas"
     ],
@@ -63,6 +66,9 @@
     "name:eus_x_preferred":[
         "Saint Thomas"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u06cc\u0634 \u0633\u0646\u062a \u062a\u0648\u0645\u0627\u0633"
+    ],
     "name:fin_x_preferred":[
         "Saint Thomasin kunta"
     ],
@@ -71,6 +77,9 @@
     ],
     "name:fra_x_variant":[
         "Saint-Thomas"
+    ],
+    "name:frr_x_preferred":[
+        "Saint Thomas"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0a82\u0a9f \u0aa5\u0acb\u0aae\u0ab8 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
@@ -99,6 +108,9 @@
     "name:kor_x_preferred":[
         "\uc138\uc778\ud2b8\ud1a0\uba38\uc2a4 \uad50\uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc138\uc778\ud2b8\ud1a0\uba38\uc2a4\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Sentomasa pagasts"
     ],
@@ -117,6 +129,9 @@
     "name:nob_x_preferred":[
         "Saint Thomas prestegjeld"
     ],
+    "name:nob_x_variant":[
+        "Saint Thomas Parish"
+    ],
     "name:nor_x_preferred":[
         "Saint Thomas prestegjeld"
     ],
@@ -130,7 +145,8 @@
         "\u0421\u044d\u043d\u0442-\u0422\u043e\u043c\u0430\u0441"
     ],
     "name:rus_x_variant":[
-        "\u0421\u0435\u0439\u043d\u0442 \u0422\u043e\u043c\u0430\u0441"
+        "\u0421\u0435\u0439\u043d\u0442 \u0422\u043e\u043c\u0430\u0441",
+        "\u0421\u0435\u043d\u0442-\u0422\u043e\u043c\u0430\u0441"
     ],
     "name:sin_x_preferred":[
         "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0dad\u0ddd\u0db8\u0dc3\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
@@ -143,6 +159,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd  \u0ba4\u0bbe\u0bae\u0bb8\u0bcd \u0baa\u0bbe\u0bb0\u0bbf\u0bb8\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd \u0ba4\u0bbe\u0bae\u0bb8\u0bcd \u0baa\u0bbe\u0bb0\u0bbf\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c25\u0c3e\u0c2e\u0c38\u0c4d \u0c2a\u0c3e\u0c30\u0c3f\u0c37\u0c4d"
@@ -176,6 +195,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8056\u6258\u99ac\u65af\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u5723\u6258\u9a6c\u65af\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"JAM",
@@ -301,7 +323,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636495983,
+    "wof:lastmodified":1690937461,
     "wof:name":"Saint Thomas",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

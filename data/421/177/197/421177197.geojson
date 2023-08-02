@@ -17,10 +17,22 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Sandy Bay"
+    ],
+    "name:ceb_x_preferred":[
+        "Sandy Bay"
+    ],
+    "name:deu_x_preferred":[
+        "Sandy Bay"
+    ],
     "name:eng_x_preferred":[
         "Sandy Bay"
     ],
     "name:nld_x_preferred":[
+        "Sandy Bay"
+    ],
+    "name:swe_x_preferred":[
         "Sandy Bay"
     ],
     "name:und_x_variant":[
@@ -71,7 +83,7 @@
         }
     ],
     "wof:id":421177197,
-    "wof:lastmodified":1566724664,
+    "wof:lastmodified":1690937471,
     "wof:name":"Sandy Bay",
     "wof:parent_id":85672563,
     "wof:placetype":"locality",

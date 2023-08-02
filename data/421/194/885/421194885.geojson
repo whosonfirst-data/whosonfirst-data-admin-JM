@@ -20,14 +20,23 @@
     "name:deu_x_preferred":[
         "August Town FC"
     ],
+    "name:deu_x_variant":[
+        "August Town"
+    ],
     "name:eng_x_preferred":[
         "August Town F.C."
     ],
     "name:fra_x_preferred":[
         "August Town F.C."
     ],
+    "name:fra_x_variant":[
+        "August Town"
+    ],
     "name:nld_x_preferred":[
         "August Town FC"
+    ],
+    "name:nld_x_variant":[
+        "August Town"
     ],
     "name:spa_x_preferred":[
         "August Town F.C."
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":421194885,
-    "wof:lastmodified":1566724661,
+    "wof:lastmodified":1690937463,
     "wof:name":"August Town",
     "wof:parent_id":85672609,
     "wof:placetype":"locality",

@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Bethel Town"
+    ],
     "name:ceb_x_preferred":[
         "Bethel Town"
     ],
     "name:deu_x_preferred":[
         "Bethel Town"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ad\u03b8\u03b5\u03bb \u03a4\u03ac\u03bf\u03c5\u03bd"
     ],
     "name:eng_x_preferred":[
         "Bethel Town"
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":890452717,
-    "wof:lastmodified":1566724665,
+    "wof:lastmodified":1690937473,
     "wof:name":"Bethel Town",
     "wof:parent_id":85672583,
     "wof:placetype":"locality",

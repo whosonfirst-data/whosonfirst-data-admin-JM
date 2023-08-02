@@ -76,6 +76,12 @@
     "name:fra_x_variant":[
         "Trelawny"
     ],
+    "name:frr_x_preferred":[
+        "Trelawny"
+    ],
+    "name:gle_x_preferred":[
+        "Par\u00f3iste Trelawny"
+    ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acd\u0ab0\u0ac7\u0ab2\u0ac7\u0ab5\u0acd\u0aa8\u0ac0 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
     ],
@@ -109,6 +115,9 @@
     "name:kor_x_preferred":[
         "\ud2b8\ub810\ub85c\ub2c8 \uad50\uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ud2b8\ub810\ub85c\ub2c8\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Triloni pagasts"
     ],
@@ -129,6 +138,9 @@
     ],
     "name:nob_x_preferred":[
         "Trelawny prestegjeld"
+    ],
+    "name:nob_x_variant":[
+        "Trelawny Parish"
     ],
     "name:oci_x_preferred":[
         "Parr\u00f2quia de Trelawny"
@@ -304,7 +316,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636495982,
+    "wof:lastmodified":1690937458,
     "wof:name":"Trelawny",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

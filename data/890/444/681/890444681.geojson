@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "Bamboo"
     ],
+    "name:pol_x_preferred":[
+        "Bamboo"
+    ],
     "name:swe_x_preferred":[
         "Bamboo"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":890444681,
-    "wof:lastmodified":1566724665,
+    "wof:lastmodified":1690937474,
     "wof:name":"Bamboo",
     "wof:parent_id":85672599,
     "wof:placetype":"locality",

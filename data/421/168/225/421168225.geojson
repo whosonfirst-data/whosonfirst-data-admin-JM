@@ -35,6 +35,9 @@
     "name:nld_x_preferred":[
         "Duncans"
     ],
+    "name:pol_x_preferred":[
+        "Duncans"
+    ],
     "name:swe_x_preferred":[
         "Duncans"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421168225,
-    "wof:lastmodified":1566724660,
+    "wof:lastmodified":1690937462,
     "wof:name":"Duncons",
     "wof:parent_id":85672579,
     "wof:placetype":"locality",

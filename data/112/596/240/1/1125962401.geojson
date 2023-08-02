@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Bull Savanna"
+    ],
     "name:deu_x_preferred":[
         "Bull Savanna"
     ],
@@ -29,6 +32,9 @@
         "Bull Savanna"
     ],
     "name:nld_x_preferred":[
+        "Bull Savanna"
+    ],
+    "name:swe_x_preferred":[
         "Bull Savanna"
     ],
     "qs_pg:aaroncc":"JM",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1125962401,
-    "wof:lastmodified":1566724667,
+    "wof:lastmodified":1690937481,
     "wof:name":"Bull Savanna",
     "wof:parent_id":85672569,
     "wof:placetype":"locality",

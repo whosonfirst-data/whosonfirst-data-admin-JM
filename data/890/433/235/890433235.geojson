@@ -34,6 +34,9 @@
     "name:nld_x_preferred":[
         "Maggotty"
     ],
+    "name:pol_x_preferred":[
+        "Maggotty"
+    ],
     "name:swe_x_preferred":[
         "Maggotty"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":890433235,
-    "wof:lastmodified":1566724666,
+    "wof:lastmodified":1690937477,
     "wof:name":"Maggotty",
     "wof:parent_id":85672569,
     "wof:placetype":"locality",

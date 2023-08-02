@@ -40,6 +40,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f \u0995\u09cd\u09af\u09be\u09a5\u09c7\u09b0\u09bf\u09a8 \u09aa\u09cd\u09af\u09be\u09b0\u09bf\u09b6"
     ],
+    "name:cat_x_preferred":[
+        "Saint Catherine"
+    ],
     "name:ceb_x_preferred":[
         "Parish of Saint Catherine"
     ],
@@ -78,6 +81,9 @@
     "name:fra_x_variant":[
         "Sainte-Catherine"
     ],
+    "name:frr_x_preferred":[
+        "Saint Catherine"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0a95\u0ac7\u0aa5\u0ab0\u0abf\u0aa8 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
     ],
@@ -108,6 +114,9 @@
     "name:kor_x_preferred":[
         "\uc138\uc778\ud2b8\uce90\uc11c\ub9b0 \uad50\uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc138\uc778\ud2b8\uce90\uc11c\ub9b0\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Sentketerinas pagasts"
     ],
@@ -128,6 +137,9 @@
     ],
     "name:nob_x_preferred":[
         "Saint Catherine prestegjeld"
+    ],
+    "name:nob_x_variant":[
+        "Saint Catherine Parish"
     ],
     "name:nor_x_preferred":[
         "Saint Catherine prestegjeld"
@@ -153,6 +165,9 @@
     "name:swe_x_preferred":[
         "Parish of Saint Catherine"
     ],
+    "name:swe_x_variant":[
+        "Saint Catherine Parish"
+    ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd \u0b95\u0bc7\u0ba4\u0bcd\u0ba4\u0bb0\u0bbf\u0ba9\u0bcd \u0baa\u0bb0\u0bbf\u0bb7\u0bcd"
     ],
@@ -167,6 +182,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043d\u0442-\u041a\u0435\u0442\u0440\u0456\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0435\u043d\u0442-\u041a\u0435\u0442\u0435\u0440\u0438\u043d"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679 \u06a9\u06cc\u062a\u06be\u0631\u06cc\u0646 \u067e\u06cc\u0631\u0634"
@@ -301,7 +319,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636495983,
+    "wof:lastmodified":1690937460,
     "wof:name":"Saint Catherine",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

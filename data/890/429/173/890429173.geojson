@@ -19,13 +19,28 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Oracabessa"
+    ],
+    "name:ceb_x_preferred":[
+        "Oracabessa"
+    ],
     "name:eng_x_preferred":[
+        "Oracabessa"
+    ],
+    "name:fin_x_preferred":[
         "Oracabessa"
     ],
     "name:fra_x_preferred":[
         "Oracabessa"
     ],
     "name:nld_x_preferred":[
+        "Oracabessa"
+    ],
+    "name:pol_x_preferred":[
+        "Oracabessa"
+    ],
+    "name:swe_x_preferred":[
         "Oracabessa"
     ],
     "name:zho_x_preferred":[
@@ -64,7 +79,7 @@
         }
     ],
     "wof:id":890429173,
-    "wof:lastmodified":1566724665,
+    "wof:lastmodified":1690937475,
     "wof:name":"Oracabessa",
     "wof:parent_id":85672605,
     "wof:placetype":"locality",

@@ -27,6 +27,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:ast_x_preferred":[
+        "Trenchtown"
+    ],
+    "name:ben_x_preferred":[
+        "\u099f\u09cd\u09b0\u09c7\u099e\u09cd\u099a\u099f\u09be\u0989\u09a8"
+    ],
     "name:deu_x_preferred":[
         "Trenchtown"
     ],
@@ -131,7 +137,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582319498,
+    "wof:lastmodified":1690937454,
     "wof:name":"Trench Town",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

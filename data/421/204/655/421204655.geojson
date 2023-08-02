@@ -17,10 +17,16 @@
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Gordon Town"
+    ],
     "name:eng_x_preferred":[
         "Gordon Town"
     ],
     "name:nld_x_preferred":[
+        "Gordon Town"
+    ],
+    "name:swe_x_preferred":[
         "Gordon Town"
     ],
     "qs:gn_country":"JM",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":421204655,
-    "wof:lastmodified":1566724661,
+    "wof:lastmodified":1690937464,
     "wof:name":"Gordon Town",
     "wof:parent_id":85672609,
     "wof:placetype":"locality",
