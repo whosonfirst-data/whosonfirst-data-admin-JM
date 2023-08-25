@@ -17,6 +17,15 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0646\u0633\u062a\u064a\u062f"
+    ],
+    "name:arz_x_preferred":[
+        "\u0644\u064a\u0646\u0633\u062a\u064a\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "Linstead"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0438\u043d\u0441\u0442\u0435\u0430\u0434"
     ],
@@ -54,6 +63,9 @@
         "Linstead"
     ],
     "name:swe_x_preferred":[
+        "Linstead"
+    ],
+    "name:szl_x_preferred":[
         "Linstead"
     ],
     "name:zho_x_preferred":[
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":421176183,
-    "wof:lastmodified":1566724665,
+    "wof:lastmodified":1690937472,
     "wof:name":"Linstead",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",

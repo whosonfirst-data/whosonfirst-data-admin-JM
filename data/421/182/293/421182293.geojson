@@ -20,11 +20,20 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u062a\u0645\u0648\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0631\u062a\u0645\u0648\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Portmore"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09cb\u09b0\u09cd\u099f\u09cd\u09ae\u09cb\u09b0\u09c7"
     ],
     "name:bul_x_preferred":[
         "\u041f\u043e\u0440\u0442\u043c\u043e\u0440\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Portmore"
     ],
     "name:ceb_x_preferred":[
         "Portmore"
@@ -59,6 +68,12 @@
     "name:fra_x_preferred":[
         "Portmore"
     ],
+    "name:frr_x_preferred":[
+        "Portmore"
+    ],
+    "name:gle_x_preferred":[
+        "Portmore"
+    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0ab0\u0acd\u0a9f\u0aae\u0acb\u0ab0"
     ],
@@ -67,6 +82,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092a\u094b\u0930\u094d\u091f\u094b\u0930"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0580\u057f\u0574\u0578\u0580"
     ],
     "name:ind_x_preferred":[
         "Portmore"
@@ -131,6 +149,9 @@
     "name:tha_x_preferred":[
         "\u0e1e\u0e2d\u0e23\u0e4c\u0e17\u0e21\u0e2d\u0e23\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e1e\u0e2d\u0e23\u0e4c\u0e15\u0e21\u0e2d\u0e23\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Portmore"
     ],
@@ -140,7 +161,13 @@
     "name:urd_x_preferred":[
         "\u067e\u0648\u0631\u062a\u0645\u0648\u0631\u06cc"
     ],
+    "name:vec_x_preferred":[
+        "Portmore"
+    ],
     "name:vie_x_preferred":[
+        "Portmore"
+    ],
+    "name:war_x_preferred":[
         "Portmore"
     ],
     "name:zho_x_preferred":[
@@ -194,7 +221,7 @@
         }
     ],
     "wof:id":421182293,
-    "wof:lastmodified":1566724664,
+    "wof:lastmodified":1690937471,
     "wof:name":"Portmore",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",

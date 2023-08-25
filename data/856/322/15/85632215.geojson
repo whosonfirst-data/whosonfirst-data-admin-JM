@@ -29,6 +29,9 @@
     "mz:is_current":1,
     "mz:max_zoom":9.0,
     "mz:min_zoom":4.0,
+    "name:abk_x_preferred":[
+        "\u0418\u0430\u043c\u0430\u0438\u043a\u0430"
+    ],
     "name:ace_x_preferred":[
         "Jamaika"
     ],
@@ -38,14 +41,23 @@
     "name:aka_x_preferred":[
         "Gyameka"
     ],
+    "name:aka_x_variant":[
+        "Jamaica"
+    ],
     "name:als_x_preferred":[
         "Jamaika"
     ],
     "name:amh_x_preferred":[
         "\u1303\u121b\u12ed\u12ab"
     ],
+    "name:ami_x_preferred":[
+        "Jamaica"
+    ],
     "name:ang_x_preferred":[
         "Iamaica"
+    ],
+    "name:anp_x_preferred":[
+        "\u091c\u092e\u0948\u0915\u093e"
     ],
     "name:ara_x_preferred":[
         "\u062c\u0627\u0645\u0627\u064a\u0643\u0627"
@@ -83,11 +95,17 @@
     "name:bam_x_variant":[
         "Zamayiki"
     ],
+    "name:ban_x_preferred":[
+        "Jamaika"
+    ],
     "name:bar_x_preferred":[
         "Jamaika"
     ],
     "name:bcl_x_preferred":[
         "Yamaika"
+    ],
+    "name:bcl_x_variant":[
+        "Hamayka"
     ],
     "name:bel_x_preferred":[
         "\u042f\u043c\u0430\u0439\u043a\u0430"
@@ -101,6 +119,9 @@
     ],
     "name:bho_x_preferred":[
         "\u091c\u092e\u0948\u0915\u093e"
+    ],
+    "name:bis_x_preferred":[
+        "Jamaika"
     ],
     "name:bod_x_preferred":[
         "\u0f47\u0f0b\u0f58\u0f60\u0f72\u0f0b\u0f40"
@@ -132,11 +153,17 @@
     "name:ceb_x_preferred":[
         "Jamaica"
     ],
+    "name:ceb_x_variant":[
+        "Hamayka"
+    ],
     "name:ces_x_preferred":[
         "Jamajka"
     ],
     "name:che_x_preferred":[
         "\u042f\u043c\u0430\u0439\u043a\u0430"
+    ],
+    "name:chr_x_preferred":[
+        "\u13e3\u13ba\u13a2\u13a7"
     ],
     "name:chv_x_preferred":[
         "\u042f\u043c\u0430\u0439\u043a\u0430"
@@ -150,10 +177,16 @@
     "name:cos_x_preferred":[
         "Giamaica"
     ],
+    "name:cps_x_preferred":[
+        "Hamayka"
+    ],
     "name:crh_x_preferred":[
         "Camayka"
     ],
     "name:cym_x_preferred":[
+        "Jamaica"
+    ],
+    "name:dag_x_preferred":[
         "Jamaica"
     ],
     "name:dan_x_preferred":[
@@ -286,6 +319,9 @@
     "name:gom_x_preferred":[
         "\u091c\u092e\u0948\u0915\u093e"
     ],
+    "name:gpe_x_preferred":[
+        "Jamaica"
+    ],
     "name:grn_x_preferred":[
         "Ham\u00e1ika"
     ],
@@ -347,6 +383,9 @@
     "name:hyw_x_preferred":[
         "\u053a\u0561\u0574\u0561\u0575\u0584\u0561"
     ],
+    "name:hyw_x_variant":[
+        "\u0543\u0561\u0574\u0561\u0575\u0584\u0561"
+    ],
     "name:ibo_x_preferred":[
         "Jamaik\u1ea1"
     ],
@@ -386,6 +425,9 @@
     "name:kaa_x_preferred":[
         "Yamaika"
     ],
+    "name:kab_x_preferred":[
+        "\u01e6amayka"
+    ],
     "name:kal_x_preferred":[
         "Jamaica"
     ],
@@ -407,6 +449,9 @@
     "name:kbp_x_preferred":[
         "Camayiki"
     ],
+    "name:kcg_x_preferred":[
+        "Ja\u0331ma\u0331ika"
+    ],
     "name:khm_x_preferred":[
         "\u17a0\u17d2\u179f\u17b6\u1798\u17c9\u17b6\u17a2\u17c9\u17b7\u1782"
     ],
@@ -427,6 +472,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc790\uba54\uc774\uce74"
+    ],
+    "name:krj_x_preferred":[
+        "Hamayka"
     ],
     "name:kur_x_preferred":[
         "Jama\u00eeka"
@@ -468,6 +516,9 @@
     "name:lit_x_preferred":[
         "Jamaika"
     ],
+    "name:lld_x_preferred":[
+        "Giamaica"
+    ],
     "name:lmo_x_preferred":[
         "Giamaica"
     ],
@@ -486,14 +537,23 @@
     "name:lzh_x_preferred":[
         "\u7259\u8cb7\u52a0"
     ],
+    "name:mad_x_preferred":[
+        "Jamaika"
+    ],
     "name:mal_x_preferred":[
         "\u0d1c\u0d2e\u0d48\u0d15\u0d4d\u0d15"
     ],
     "name:mar_x_preferred":[
         "\u091c\u092e\u0948\u0915\u093e"
     ],
+    "name:mdf_x_preferred":[
+        "\u042f\u043c\u0430\u0439\u043a\u0430"
+    ],
     "name:mhr_x_preferred":[
         "\u042f\u043c\u0430\u0439\u043a\u0435"
+    ],
+    "name:min_x_preferred":[
+        "Jamaika"
     ],
     "name:mkd_x_preferred":[
         "\u0408\u0430\u043c\u0430\u0458\u043a\u0430"
@@ -506,6 +566,9 @@
     ],
     "name:mlt_x_preferred":[
         "\u0120amajka"
+    ],
+    "name:mni_x_preferred":[
+        "\uabd6\uabc3\uabe5\uabe2\uabc0\uabe5"
     ],
     "name:mon_x_preferred":[
         "\u042f\u043c\u0430\u0439\u043a"
@@ -597,8 +660,14 @@
     "name:oss_x_preferred":[
         "\u042f\u043c\u0430\u0439\u043a\u00e6"
     ],
+    "name:pag_x_preferred":[
+        "Hamayka"
+    ],
     "name:pam_x_preferred":[
         "Jamaica"
+    ],
+    "name:pam_x_variant":[
+        "Ham\u00e1ika"
     ],
     "name:pan_x_preferred":[
         "\u0a1c\u0a2e\u0a48\u0a15\u0a3e"
@@ -681,6 +750,9 @@
     "name:sgs_x_preferred":[
         "Jamaika"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1075\u103b\u1083\u1087\u1019\u1031\u1087\u1075\u1083\u1087"
+    ],
     "name:sin_x_preferred":[
         "\u0da2\u0dd0\u0db8\u0dd9\u0dba\u0dd2\u0d9a\u0dcf\u0dc0"
     ],
@@ -693,8 +765,14 @@
     "name:sme_x_preferred":[
         "Jamaica"
     ],
+    "name:smn_x_preferred":[
+        "Jamaika"
+    ],
     "name:smo_x_preferred":[
         "Jamaica"
+    ],
+    "name:sms_x_preferred":[
+        "Jamaika"
     ],
     "name:sna_x_preferred":[
         "Jamaica"
@@ -760,6 +838,9 @@
     "name:tat_x_preferred":[
         "\u042f\u043c\u0430\u0439\u043a\u0430"
     ],
+    "name:tay_x_preferred":[
+        "Jamaica"
+    ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c2e\u0c48\u0c15\u0c3e"
     ],
@@ -784,8 +865,14 @@
     "name:tir_x_preferred":[
         "\u1303\u121b\u12ed\u12ab"
     ],
+    "name:tok_x_preferred":[
+        "ma Sameka"
+    ],
     "name:ton_x_preferred":[
         "Samaika"
+    ],
+    "name:trv_x_preferred":[
+        "Jamaica"
     ],
     "name:tuk_x_preferred":[
         "\u00ddama\u00fdka"
@@ -814,6 +901,9 @@
     "name:vec_x_preferred":[
         "Giamaica"
     ],
+    "name:vec_x_variant":[
+        "Zam\u00e0ega"
+    ],
     "name:vep_x_preferred":[
         "Jamaik"
     ],
@@ -831,6 +921,9 @@
     ],
     "name:war_x_preferred":[
         "Jamaica"
+    ],
+    "name:war_x_variant":[
+        "Hamayka"
     ],
     "name:wol_x_preferred":[
         "Jamayka"
@@ -894,6 +987,9 @@
     ],
     "name:zul_x_preferred":[
         "i-Jamaica"
+    ],
+    "name:zul_x_variant":[
+        "I-Jamaica"
     ],
     "ne:abbrev":"Jam.",
     "ne:abbrev_len":4,
@@ -1112,7 +1208,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1617827417,
+    "wof:lastmodified":1690937459,
     "wof:name":"Jamaica",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

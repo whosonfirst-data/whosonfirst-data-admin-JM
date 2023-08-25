@@ -79,6 +79,9 @@
     "name:fra_x_variant":[
         "Hanover"
     ],
+    "name:frr_x_preferred":[
+        "Hanover"
+    ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac7\u0aa8\u0acb\u0ab5\u0ab0 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
     ],
@@ -109,6 +112,9 @@
     "name:kor_x_preferred":[
         "\ud574\ub178\ubc84 \uad50\uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ud574\ub178\ubc84\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Henoveras pagasts"
     ],
@@ -130,6 +136,9 @@
     "name:nob_x_preferred":[
         "Hanover prestegjeld"
     ],
+    "name:nob_x_variant":[
+        "Hanover Parish"
+    ],
     "name:pol_x_preferred":[
         "Hanover"
     ],
@@ -138,6 +147,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u0440\u0438\u0445\u043e\u0434 \u0413\u0430\u043d\u043d\u043e\u0432\u0435\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u0425\u0430\u043d\u043e\u0432\u0435\u0440"
     ],
     "name:sin_x_preferred":[
         "\u0dc4\u0dd0\u0db1\u0ddd\u0dc0\u0dbb\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
@@ -301,7 +313,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636495982,
+    "wof:lastmodified":1690937458,
     "wof:name":"Hanover",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

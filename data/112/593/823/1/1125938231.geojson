@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Anchovy"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u043d\u0447\u043e\u0432\u0439"
     ],
     "name:ceb_x_preferred":[
+        "Anchovy"
+    ],
+    "name:deu_x_preferred":[
         "Anchovy"
     ],
     "name:eng_x_preferred":[
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1125938231,
-    "wof:lastmodified":1566724666,
+    "wof:lastmodified":1690937478,
     "wof:name":"Anchovy",
     "wof:parent_id":85672573,
     "wof:placetype":"locality",

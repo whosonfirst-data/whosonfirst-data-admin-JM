@@ -59,7 +59,13 @@
     "name:hbs_x_preferred":[
         "Port Royal"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e8\u05d8 \u05e8\u05d5\u05d9\u05d0\u05dc"
+    ],
     "name:hrv_x_preferred":[
+        "Port Royal"
+    ],
+    "name:hun_x_preferred":[
         "Port Royal"
     ],
     "name:hye_x_preferred":[
@@ -79,6 +85,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud3ec\ud2b8\ub85c\uc5f4"
+    ],
+    "name:msa_x_preferred":[
+        "Port Royal"
     ],
     "name:nld_x_preferred":[
         "Port Royal"
@@ -118,6 +127,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u0442-\u0420\u043e\u0439\u0430\u043b"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u043e\u0440\u0442-\u0420\u043e\u044f\u043b\u044c"
     ],
     "name:vie_x_preferred":[
         "Port Royal"
@@ -170,7 +182,7 @@
         }
     ],
     "wof:id":421197565,
-    "wof:lastmodified":1566724663,
+    "wof:lastmodified":1690937469,
     "wof:name":"Port Royal",
     "wof:parent_id":85672587,
     "wof:placetype":"locality",

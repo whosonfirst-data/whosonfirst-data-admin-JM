@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Badia Esperan\u00e7a"
     ],
+    "name:ceb_x_preferred":[
+        "Hope Bay"
+    ],
     "name:deu_x_preferred":[
         "Hope Bay"
     ],
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421179059,
-    "wof:lastmodified":1566724664,
+    "wof:lastmodified":1690937471,
     "wof:name":"Hope Bay",
     "wof:parent_id":85672591,
     "wof:placetype":"locality",

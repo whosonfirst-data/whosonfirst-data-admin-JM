@@ -17,10 +17,19 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Maroon Town"
+    ],
     "name:eng_x_preferred":[
         "Maroon Town"
     ],
     "name:nld_x_preferred":[
+        "Maroon Town"
+    ],
+    "name:nno_x_preferred":[
+        "Maroon Town p\u00e5 Jamaica"
+    ],
+    "name:swe_x_preferred":[
         "Maroon Town"
     ],
     "name:und_x_variant":[
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":421198489,
-    "wof:lastmodified":1566724663,
+    "wof:lastmodified":1690937468,
     "wof:name":"Maroon Town",
     "wof:parent_id":85672573,
     "wof:placetype":"locality",

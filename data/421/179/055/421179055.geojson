@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Lluidas Vale"
+    ],
     "name:eng_x_preferred":[
         "Luidas Vale"
     ],
@@ -24,6 +27,9 @@
         "Lluidas Vale"
     ],
     "name:nld_x_preferred":[
+        "Lluidas Vale"
+    ],
+    "name:swe_x_preferred":[
         "Lluidas Vale"
     ],
     "qs:gn_country":"JM",
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":421179055,
-    "wof:lastmodified":1566724664,
+    "wof:lastmodified":1690937471,
     "wof:name":"Lluidas Vale",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",

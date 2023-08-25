@@ -23,23 +23,44 @@
     "name:ara_x_preferred":[
         "\u0635\u0646\u062f\u0648\u0642"
     ],
+    "name:arg_x_preferred":[
+        "Caixa"
+    ],
     "name:bak_x_preferred":[
         "\u04a0\u0443\u043c\u0442\u0430"
     ],
     "name:bel_x_preferred":[
         "\u0441\u043a\u0440\u044b\u043d\u044f"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u0995\u09cd\u09b8"
+    ],
+    "name:bjn_x_preferred":[
+        "Kutak"
+    ],
     "name:bre_x_preferred":[
         "Kased"
     ],
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u0442\u0438\u044f"
+    ],
     "name:cat_x_preferred":[
         "Caixa"
+    ],
+    "name:cat_x_variant":[
+        "caixa"
     ],
     "name:cdo_x_preferred":[
         "\u0102k-\u0103k"
     ],
     "name:ces_x_preferred":[
         "bedna"
+    ],
+    "name:chv_x_preferred":[
+        "\u041a\u0443\u043d\u0442\u0103\u043a"
+    ],
+    "name:dag_x_preferred":[
+        "adaka"
     ],
     "name:dan_x_preferred":[
         "kasse"
@@ -56,8 +77,14 @@
     "name:epo_x_preferred":[
         "kesto"
     ],
+    "name:est_x_preferred":[
+        "Kast"
+    ],
     "name:eus_x_preferred":[
         "kaxa"
+    ],
+    "name:eus_x_variant":[
+        "kutxa"
     ],
     "name:ewe_x_preferred":[
         "Adaka"
@@ -65,17 +92,26 @@
     "name:fas_x_preferred":[
         "\u062c\u0639\u0628\u0647"
     ],
+    "name:fij_x_preferred":[
+        "Kato"
+    ],
     "name:fin_x_preferred":[
         "laatikko"
     ],
     "name:fra_x_preferred":[
         "caisse"
     ],
+    "name:fra_x_variant":[
+        "bo\u00eete"
+    ],
     "name:gla_x_preferred":[
         "Bogsa"
     ],
     "name:gle_x_preferred":[
         "Bosca"
+    ],
+    "name:gur_x_preferred":[
+        "Daka"
     ],
     "name:hat_x_preferred":[
         "Bwat"
@@ -86,11 +122,20 @@
     "name:hin_x_preferred":[
         "m"
     ],
+    "name:hun_x_preferred":[
+        "doboz"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u056f\u0572"
+    ],
     "name:ido_x_preferred":[
         "Buxo"
     ],
     "name:ind_x_preferred":[
         "Kotak"
+    ],
+    "name:ind_x_variant":[
+        "kotak"
     ],
     "name:ita_x_preferred":[
         "scatola"
@@ -113,6 +158,9 @@
     "name:lav_x_preferred":[
         "Kaste"
     ],
+    "name:mkd_x_preferred":[
+        "\u043a\u0443\u0442\u0438\u0458\u0430"
+    ],
     "name:msa_x_preferred":[
         "Kotak"
     ],
@@ -134,11 +182,20 @@
     "name:pol_x_preferred":[
         "Skrzynia"
     ],
+    "name:por_x_preferred":[
+        "caixa"
+    ],
     "name:ron_x_preferred":[
         "Cutie"
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0440\u043e\u0431\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u043a\u043e\u0440\u043e\u0431\u043a\u0430"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c75\u1c5f\u1c60\u1c65\u1c5a"
     ],
     "name:scn_x_preferred":[
         "Cascia"
@@ -146,14 +203,29 @@
     "name:sco_x_preferred":[
         "box"
     ],
+    "name:slv_x_preferred":[
+        "\u0161katla"
+    ],
+    "name:sna_x_preferred":[
+        "Bhokisi"
+    ],
     "name:spa_x_preferred":[
         "caja"
+    ],
+    "name:sqi_x_preferred":[
+        "Kuti"
+    ],
+    "name:srp_x_preferred":[
+        "\u043a\u0443\u0442\u0438\u0458\u0430"
     ],
     "name:swa_x_preferred":[
         "Boksi"
     ],
     "name:swe_x_preferred":[
         "L\u00e5da"
+    ],
+    "name:swe_x_variant":[
+        "l\u00e5da"
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf"
@@ -164,6 +236,9 @@
     "name:tgk_x_preferred":[
         "\u049a\u0443\u0442\u0442\u04e3"
     ],
+    "name:tgl_x_preferred":[
+        "Kahon"
+    ],
     "name:tha_x_preferred":[
         "\u0e01\u0e25\u0e48\u0e2d\u0e07"
     ],
@@ -172,6 +247,15 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u043e\u0431\u043a\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u043a\u043e\u0440\u043e\u0431\u043a\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Quti"
+    ],
+    "name:vls_x_preferred":[
+        "Doze"
     ],
     "name:xho_x_preferred":[
         "Ibhokisi"
@@ -226,7 +310,7 @@
         }
     ],
     "wof:id":421194571,
-    "wof:lastmodified":1566724661,
+    "wof:lastmodified":1690937463,
     "wof:name":"Box",
     "wof:parent_id":85672573,
     "wof:placetype":"locality",

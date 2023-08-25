@@ -78,6 +78,9 @@
     "name:fra_x_variant":[
         "Saint Elizabeth"
     ],
+    "name:frr_x_preferred":[
+        "Saint Elizabeth"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0a8f\u0ab2\u0abf\u0a9d\u0abe\u0aac\u0ac7\u0aa5 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
     ],
@@ -108,6 +111,9 @@
     "name:kor_x_preferred":[
         "\uc138\uc778\ud2b8\uc5d8\ub9ac\uc790\ubca0\uc2a4 \uad50\uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc138\uc778\ud2b8\uc5d8\ub9ac\uc790\ubca0\uc2a4\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Senelizabetes pagasts"
     ],
@@ -128,6 +134,9 @@
     ],
     "name:nob_x_preferred":[
         "Saint Elizabeth prestegjeld"
+    ],
+    "name:nob_x_variant":[
+        "Saint Elizabeth Parish"
     ],
     "name:nor_x_preferred":[
         "Saint Elizabeth prestegjeld"
@@ -301,7 +310,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636495980,
+    "wof:lastmodified":1690937455,
     "wof:name":"Saint Elizabeth",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

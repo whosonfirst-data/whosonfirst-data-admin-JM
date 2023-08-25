@@ -46,6 +46,9 @@
     "name:ell_x_preferred":[
         "\u0393\u03bf\u03c5\u03b5\u03c3\u03c4\u03bc\u03cc\u03c1\u03bb\u03b1\u03bd\u03c4"
     ],
+    "name:ell_x_variant":[
+        "\u039f\u03c5\u03b5\u03c3\u03c4\u03bc\u03cc\u03c1\u03bb\u03b1\u03bd\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Westmoreland"
     ],
@@ -62,6 +65,9 @@
         "Paroisse de Westmoreland"
     ],
     "name:fra_x_variant":[
+        "Westmoreland"
+    ],
+    "name:frr_x_preferred":[
         "Westmoreland"
     ],
     "name:guj_x_preferred":[
@@ -94,6 +100,9 @@
     "name:kor_x_preferred":[
         "\uc6e8\uc2a4\ud2b8\ubaa8\uc5bc\ub79c\ub4dc \uad50\uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc6e8\uc2a4\ud2b8\ubaa8\uc5bc\ub79c\ub4dc\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Vestmorlendas pagasts"
     ],
@@ -114,6 +123,9 @@
     ],
     "name:nob_x_preferred":[
         "Westmoreland prestegjeld"
+    ],
+    "name:nob_x_variant":[
+        "Westmoreland Parish"
     ],
     "name:nor_x_preferred":[
         "Westmoreland prestegjeld"
@@ -293,7 +305,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636495982,
+    "wof:lastmodified":1690937459,
     "wof:name":"Westmoreland",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

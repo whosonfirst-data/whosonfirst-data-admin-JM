@@ -20,6 +20,9 @@
     "name:deu_x_preferred":[
         "Belmont - Whitehouse"
     ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03ac\u03b9\u03c4 \u03a7\u03ac\u03bf\u03c5\u03b6"
+    ],
     "name:eng_x_preferred":[
         "Whitehouse"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:nld_x_preferred":[
         "Whitehouse"
+    ],
+    "name:pol_x_preferred":[
+        "White House"
     ],
     "qs:gn_country":"JM",
     "qs:gn_fcode":"PPL",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":421202425,
-    "wof:lastmodified":1566724662,
+    "wof:lastmodified":1690937465,
     "wof:name":"Whitehouse",
     "wof:parent_id":85672583,
     "wof:placetype":"locality",

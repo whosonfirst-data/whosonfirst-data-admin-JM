@@ -29,14 +29,23 @@
     "name:cat_x_variant":[
         "priorat"
     ],
+    "name:ces_x_preferred":[
+        "p\u0159evorstv\u00ed"
+    ],
     "name:cym_x_preferred":[
         "Priordy"
     ],
     "name:cym_x_variant":[
         "priordy"
     ],
+    "name:dan_x_preferred":[
+        "kloster"
+    ],
     "name:deu_x_preferred":[
         "Priorat"
+    ],
+    "name:ell_x_preferred":[
+        "\u03c0\u03c1\u03bf\u03c3\u03b5\u03c5\u03c7\u03b7\u03c4\u03ae\u03c1\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "priory"
@@ -52,6 +61,9 @@
     ],
     "name:gle_x_preferred":[
         "Pri\u00f3ireacht"
+    ],
+    "name:gle_x_variant":[
+        "pri\u00f3ireacht"
     ],
     "name:hun_x_preferred":[
         "perjels\u00e9g"
@@ -110,6 +122,9 @@
     "name:swe_x_preferred":[
         "priorskloster"
     ],
+    "name:ukr_x_preferred":[
+        "\u043f\u0440\u0456\u043e\u0440\u0430\u0442"
+    ],
     "name:zho_x_preferred":[
         "\u5c0f\u96b1\u4fee\u9662"
     ],
@@ -157,7 +172,7 @@
         }
     ],
     "wof:id":421191973,
-    "wof:lastmodified":1566724663,
+    "wof:lastmodified":1690937468,
     "wof:name":"Priory",
     "wof:parent_id":85672599,
     "wof:placetype":"locality",
