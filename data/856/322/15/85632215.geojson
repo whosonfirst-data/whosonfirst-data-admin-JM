@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.938017,
-    "geom:area_square_m":11021084736.596115,
+    "geom:area_square_m":11021084736.596001,
     "geom:bbox":"-78.368174,17.70548,-76.182652,18.525489",
     "geom:latitude":18.158395,
     "geom:longitude":-77.310567,
@@ -16,6 +16,9 @@
         "1-876"
     ],
     "itu:region":"1",
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "JM"
     ],
@@ -1135,7 +1138,8 @@
     ],
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"1-876",
     "statoids:ds":"JA",
     "statoids:fifa":"JAM",
@@ -1194,7 +1198,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"ff55da903c6a1c3c86180558b17b67b4",
+    "wof:geomhash":"7bef47c75b06d0ea7c8a0307798d2091",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -1208,12 +1212,12 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690937459,
+    "wof:lastmodified":1694639514,
     "wof:name":"Jamaica",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
-    "wof:population":2847232,
-    "wof:population_rank":12,
+    "wof:population":2948279,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-jm",
     "wof:shortcode":"JM",
     "wof:superseded_by":[],
