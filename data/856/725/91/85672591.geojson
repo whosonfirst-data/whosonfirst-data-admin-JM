@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070148,
-    "geom:area_square_m":824374593.558188,
+    "geom:area_square_m":824374593.558125,
     "geom:bbox":"-76.753109,17.988346,-76.256928,18.267077",
     "geom:latitude":18.120509,
     "geom:longitude":-76.514989,
@@ -267,17 +267,19 @@
         "gn:id":3488997,
         "gp:id":2345915,
         "hasc:id":"JM.PO",
+        "iso:code":"JM-04",
         "iso:id":"JM-04",
         "qs_pg:id":219567,
         "unlc:id":"JM-04",
         "wd:id":"Q125148",
         "wk:page":"Portland Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6ac351cf09cd09f9276429158c018bcc",
+    "wof:geomhash":"16bb1aa5562221fb53e5dc8dc84462b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -292,7 +294,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690937457,
+    "wof:lastmodified":1695884835,
     "wof:name":"Portland",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101603,
-    "geom:area_square_m":1194900687.061292,
+    "geom:area_square_m":1194900687.06095,
     "geom:bbox":"-77.484819,17.70548,-77.124524,18.222762",
     "geom:latitude":17.991397,
     "geom:longitude":-77.279237,
@@ -286,17 +286,19 @@
         "gn:id":3490952,
         "gp:id":2345912,
         "hasc:id":"JM.CL",
+        "iso:code":"JM-13",
         "iso:id":"JM-13",
         "qs_pg:id":221175,
         "unlc:id":"JM-13",
         "wd:id":"Q1095557",
         "wk:page":"Clarendon Parish, Jamaica"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a79ac9b958fb663d2158ca2eb837cb4b",
+    "wof:geomhash":"f72b1089069e00099241828e560c684e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -311,7 +313,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690937455,
+    "wof:lastmodified":1695884835,
     "wof:name":"Clarendon",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

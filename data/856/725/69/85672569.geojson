@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102732,
-    "geom:area_square_m":1207714588.090441,
+    "geom:area_square_m":1207714588.090578,
     "geom:bbox":"-77.950819,17.854521,-77.566632,18.249906",
     "geom:latitude":18.060743,
     "geom:longitude":-77.743083,
@@ -285,17 +285,19 @@
         "gn:id":3488708,
         "gp:id":2345919,
         "hasc:id":"JM.SE",
+        "iso:code":"JM-11",
         "iso:id":"JM-11",
         "qs_pg:id":219569,
         "unlc:id":"JM-11",
         "wd:id":"Q1473646",
         "wk:page":"Saint Elizabeth Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9b5df93618b608962337b2162a2675c3",
+    "wof:geomhash":"902d7b1080d49f6547162ca357674a38",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -310,7 +312,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690937455,
+    "wof:lastmodified":1695884835,
     "wof:name":"Saint Elizabeth",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052018,
-    "geom:area_square_m":610738242.840511,
+    "geom:area_square_m":610738242.647544,
     "geom:bbox":"-77.072364,18.136519,-76.700028,18.424139",
     "geom:latitude":18.285405,
     "geom:longitude":-76.888383,
@@ -286,17 +286,19 @@
         "gn:id":3488693,
         "gp:id":2345921,
         "hasc:id":"JM.SM",
+        "iso:code":"JM-05",
         "iso:id":"JM-05",
         "qs_pg:id":235602,
         "unlc:id":"JM-05",
         "wd:id":"Q633565",
         "wk:page":"Saint Mary Parish, Jamaica"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"13e4b25d2a453b7842177bf0bc4c016b",
+    "wof:geomhash":"25791f319d1ec7ae8e56f2ca7291fd4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -311,7 +313,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690937460,
+    "wof:lastmodified":1695884836,
     "wof:name":"Saint Mary",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

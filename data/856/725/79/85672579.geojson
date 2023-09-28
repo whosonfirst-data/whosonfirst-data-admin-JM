@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074635,
-    "geom:area_square_m":875872036.628088,
+    "geom:area_square_m":875872037.438403,
     "geom:bbox":"-77.771946,18.205258,-77.441612,18.5117",
     "geom:latitude":18.36488,
     "geom:longitude":-77.605739,
@@ -291,17 +291,19 @@
         "gn:id":3488222,
         "gp:id":2345923,
         "hasc:id":"JM.TR",
+        "iso:code":"JM-07",
         "iso:id":"JM-07",
         "qs_pg:id":894900,
         "unlc:id":"JM-07",
         "wd:id":"Q1123340",
         "wk:page":"Trelawny Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"df0bbde37cd28d35ccd86a346548d8cc",
+    "wof:geomhash":"da42699f056f4f5ee7f645a6bc0bf4be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -316,7 +318,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690937458,
+    "wof:lastmodified":1695884836,
     "wof:name":"Trelawny",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

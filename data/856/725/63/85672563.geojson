@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03851,
-    "geom:area_square_m":451883616.021474,
+    "geom:area_square_m":451883616.021322,
     "geom:bbox":"-78.344668,18.307772,-77.909728,18.462863",
     "geom:latitude":18.38536,
     "geom:longitude":-78.125659,
@@ -288,17 +288,19 @@
         "gn:id":3490145,
         "gp:id":2345913,
         "hasc:id":"JM.HA",
+        "iso:code":"JM-09",
         "iso:id":"JM-09",
         "qs_pg:id":221176,
         "unlc:id":"JM-09",
         "wd:id":"Q1131779",
         "wk:page":"Hanover Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e9cc00ab37bf48c87b29202df63c668e",
+    "wof:geomhash":"91b76584bfdd3813b61ef19998adbd6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -313,7 +315,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690937458,
+    "wof:lastmodified":1695884836,
     "wof:name":"Hanover",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

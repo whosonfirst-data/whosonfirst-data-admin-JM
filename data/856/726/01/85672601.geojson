@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101406,
-    "geom:area_square_m":1192167692.1445,
+    "geom:area_square_m":1192167692.144787,
     "geom:bbox":"-77.211266,17.839677,-76.838312,18.263517",
     "geom:latitude":18.053641,
     "geom:longitude":-77.017944,
@@ -294,17 +294,19 @@
         "gn:id":3488711,
         "gp:id":2345918,
         "hasc:id":"JM.SC",
+        "iso:code":"JM-14",
         "iso:id":"JM-14",
         "qs_pg:id":423784,
         "unlc:id":"JM-14",
         "wd:id":"Q1473663",
         "wk:page":"Saint Catherine Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"510205f42883420e6233e89e0a6903c5",
+    "wof:geomhash":"a06430d57835c41eb307415779b9ac3c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -319,7 +321,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690937460,
+    "wof:lastmodified":1695884836,
     "wof:name":"Saint Catherine",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

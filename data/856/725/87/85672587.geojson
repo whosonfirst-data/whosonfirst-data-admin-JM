@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001898,
-    "geom:area_square_m":22326932.233152,
+    "geom:area_square_m":22326932.233131,
     "geom:bbox":"-76.846774,17.928238,-76.719651,17.986246",
     "geom:latitude":17.962849,
     "geom:longitude":-76.777263,
@@ -324,17 +324,19 @@
         "gn:id":3489853,
         "gp:id":2345925,
         "hasc:id":"JM.KI",
+        "iso:code":"JM-01",
         "iso:id":"JM-01",
         "qs_pg:id":894902,
         "unlc:id":"JM-01",
         "wd:id":"Q1473680",
         "wk:page":"Kingston Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"64611cb20eb56ce0c125e11c7fe1bca0",
+    "wof:geomhash":"08cc7e3e795dfb1465331c39e41b60e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -349,7 +351,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690937456,
+    "wof:lastmodified":1695884835,
     "wof:name":"Kingston",
     "wof:parent_id":85632215,
     "wof:placetype":"region",
