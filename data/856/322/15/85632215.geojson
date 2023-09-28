@@ -1176,6 +1176,7 @@
         "hasc:id":"JM",
         "icao:code":"6Y",
         "ioc:id":"JAM",
+        "iso:code":"JM",
         "itu:id":"JMC",
         "loc:id":"n81008540",
         "m49:code":"388",
@@ -1190,6 +1191,7 @@
         "wk:page":"Jamaica",
         "wmo:id":"JM"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JM",
     "wof:country_alpha3":"JAM",
     "wof:geom_alt":[
@@ -1212,7 +1214,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694639514,
+    "wof:lastmodified":1695881169,
     "wof:name":"Jamaica",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
