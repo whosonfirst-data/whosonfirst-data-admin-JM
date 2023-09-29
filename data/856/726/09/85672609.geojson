@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037039,
-    "geom:area_square_m":435445581.385109,
+    "geom:area_square_m":435445581.385042,
     "geom:bbox":"-76.887905,17.937815,-76.617122,18.179596",
     "geom:latitude":18.052291,
     "geom:longitude":-76.760774,
@@ -309,17 +309,19 @@
         "gn:id":3488716,
         "gp:id":2345916,
         "hasc:id":"JM.SD",
+        "iso:code":"JM-02",
         "iso:id":"JM-02",
         "qs_pg:id":219568,
         "unlc:id":"JM-02",
         "wd:id":"Q2212935",
         "wk:page":"Saint Andrew Parish, Jamaica"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"01935785ba280ebcf3ac3b02bbafbc4e",
+    "wof:geomhash":"d10bd57666a1040baa414f1a9721bf67",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -334,7 +336,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690937460,
+    "wof:lastmodified":1695884837,
     "wof:name":"Saint Andrew",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

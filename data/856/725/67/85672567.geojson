@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071283,
-    "geom:area_square_m":838105782.981081,
+    "geom:area_square_m":838105782.981562,
     "geom:bbox":"-77.632002,17.841903,-77.354387,18.254153",
     "geom:latitude":18.03718,
     "geom:longitude":-77.505414,
@@ -276,17 +276,19 @@
         "gn:id":3489586,
         "gp:id":2345914,
         "hasc:id":"JM.MA",
+        "iso:code":"JM-12",
         "iso:id":"JM-12",
         "qs_pg:id":427267,
         "unlc:id":"JM-12",
         "wd:id":"Q920496",
         "wk:page":"Manchester Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"521c1f561ff94765eb0c515fb86da9fd",
+    "wof:geomhash":"90b478a7de75c14b5e460a9e76b291ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -301,7 +303,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690937456,
+    "wof:lastmodified":1695884835,
     "wof:name":"Manchester",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

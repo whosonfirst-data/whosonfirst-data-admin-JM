@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05076,
-    "geom:area_square_m":595605826.958028,
+    "geom:area_square_m":595605826.958128,
     "geom:bbox":"-77.996968,18.214514,-77.735295,18.525489",
     "geom:latitude":18.39021,
     "geom:longitude":-77.846529,
@@ -303,17 +303,19 @@
         "gn:id":3488700,
         "gp:id":2345920,
         "hasc:id":"JM.SJ",
+        "iso:code":"JM-08",
         "iso:id":"JM-08",
         "qs_pg:id":219570,
         "unlc:id":"JM-08",
         "wd:id":"Q1421939",
         "wk:page":"Saint James Parish, Jamaica"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c6b895cd13482d2e5a0486f311f9b5aa",
+    "wof:geomhash":"f6d116b7c80792f3b56d0948b8abd8a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -328,7 +330,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690937456,
+    "wof:lastmodified":1695884835,
     "wof:name":"Saint James",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

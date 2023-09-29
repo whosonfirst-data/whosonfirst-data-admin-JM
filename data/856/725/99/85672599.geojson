@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105282,
-    "geom:area_square_m":1235810507.348759,
+    "geom:area_square_m":1235810504.416704,
     "geom:bbox":"-77.486802,18.185078,-76.996063,18.4819",
     "geom:latitude":18.32499,
     "geom:longitude":-77.259002,
@@ -296,17 +296,19 @@
         "gn:id":3488715,
         "gp:id":2345917,
         "hasc:id":"JM.SN",
+        "iso:code":"JM-06",
         "iso:id":"JM-06",
         "qs_pg:id":1168671,
         "unlc:id":"JM-06",
         "wd:id":"Q1326284",
         "wk:page":"Saint Ann Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ae5be037b6081d3ebcdbc790c923306e",
+    "wof:geomhash":"96bec69d3cc7f044b6496ec999a5baf6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -321,7 +323,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690937457,
+    "wof:lastmodified":1695884836,
     "wof:name":"Saint Ann",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

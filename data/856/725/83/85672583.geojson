@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067482,
-    "geom:area_square_m":792449119.36259,
+    "geom:area_square_m":792449119.362179,
     "geom:bbox":"-78.368198,18.06126,-77.872883,18.358076",
     "geom:latitude":18.251691,
     "geom:longitude":-78.092276,
@@ -280,17 +280,19 @@
         "gn:id":3488081,
         "gp:id":2345924,
         "hasc:id":"JM.WE",
+        "iso:code":"JM-10",
         "iso:id":"JM-10",
         "qs_pg:id":894901,
         "unlc:id":"JM-10",
         "wd:id":"Q1440250",
         "wk:page":"Westmoreland Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fbf10b497be8dce3f8b49067b00c8fdc",
+    "wof:geomhash":"d6aaab14591c5b30e209118b69464b36",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -305,7 +307,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690937459,
+    "wof:lastmodified":1695884836,
     "wof:name":"Westmoreland",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

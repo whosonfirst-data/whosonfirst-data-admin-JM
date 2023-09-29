@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063273,
-    "geom:area_square_m":744294385.390898,
+    "geom:area_square_m":744294385.391142,
     "geom:bbox":"-76.666759,17.849738,-76.182652,18.092017",
     "geom:latitude":17.950731,
     "geom:longitude":-76.452706,
@@ -298,17 +298,19 @@
         "gn:id":3488688,
         "gp:id":2345922,
         "hasc:id":"JM.ST",
+        "iso:code":"JM-03",
         "iso:id":"JM-03",
         "qs_pg:id":235603,
         "unlc:id":"JM-03",
         "wd:id":"Q1422332",
         "wk:page":"Saint Thomas Parish, Jamaica"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2546a34f7479ed0886b3f5c10196c14c",
+    "wof:geomhash":"b6bf097dc5c7fa93ccf23847b80fa966",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -323,7 +325,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690937461,
+    "wof:lastmodified":1695884837,
     "wof:name":"Saint Thomas",
     "wof:parent_id":85632215,
     "wof:placetype":"region",
