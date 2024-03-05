@@ -9,6 +9,20 @@
     "geom:bbox":"-77.09718,17.90918,-77.09718,17.90918",
     "geom:latitude":17.90918,
     "geom:longitude":-77.09718,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1430",
+    "gn:asciiname":"Old Harbour Bay",
+    "gn:country_code":"JM",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3489225,
+    "gn:latitude":17.90918,
+    "gn:longitude":-77.09718,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Old Harbour Bay",
+    "gn:population":7912,
+    "gn:timezone":"America/Jamaica",
     "iso:country":"JM",
     "lbl:bbox":"-77.11718,17.88918,-77.07718,17.92918",
     "lbl:max_zoom":15.0,
@@ -78,10 +92,16 @@
         "gn:id":3489227,
         "gp:id":109594,
         "qs_pg:id":1045243,
-        "wd:id":"Q2018373"
+        "wd:id":"Q2018373",
+        "wk:page":"Old_Harbour_Bay,_Jamaica"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1045244
+        "gn:id":[
+            3489225
+        ],
+        "qs_pg:id":[
+            1045244
+        ]
     },
     "wof:country":"JM",
     "wof:created":1459008758,
@@ -98,7 +118,7 @@
         }
     ],
     "wof:id":421168223,
-    "wof:lastmodified":1690937462,
+    "wof:lastmodified":1706239953,
     "wof:name":"Old Harbour Bay",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",
@@ -106,7 +126,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-jm",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343550119
+    ],
     "wof:tags":[]
 },
   "bbox": [

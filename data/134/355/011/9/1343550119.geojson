@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-77.09718,17.90918,-77.09718,17.90918",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Old Harbour Bay"
@@ -52,7 +54,7 @@
         "wk:page":"Old_Harbour_Bay,_Jamaica"
     },
     "wof:country":"JM",
-    "wof:geomhash":"04274951bd39efcdf8e63c46795b9ddc",
+    "wof:geomhash":"8981193b4caa266d0cd1ad8e306d8130",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,22 +64,24 @@
         }
     ],
     "wof:id":1343550119,
-    "wof:lastmodified":1566724605,
+    "wof:lastmodified":1706239953,
     "wof:name":"Old Harbour Bay",
     "wof:parent_id":85672601,
     "wof:placetype":"locality",
     "wof:population":7912,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-jm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        421168223
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -77.09718000000002,
+    -77.09718,
     17.90918,
-    -77.09718000000002,
+    -77.09718,
     17.90918
 ],
-  "geometry": {"coordinates":[-77.09718000000002,17.90918],"type":"Point"}
+  "geometry": {"coordinates":[-77.09717999999999,17.90918],"type":"Point"}
 }
